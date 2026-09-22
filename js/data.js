@@ -1347,6 +1347,7 @@ window.PELELEC_DATA = {
           "sharedPhoto": true,
           "mediaLink": "https://www.cnnbrasil.com.br/politica/saudades-amizade-e-tudo-veja-mensagens-de-gonet-para-vorcaro/",
           "mediaLinkLabel": "Ver fotografia publicada ↗",
+          "publishedImage": {"url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Fake-News-Pablo-Marcal.png?w=849&h=477&crop=0&quality=90", "alt": "Selfie de Ciro Soares e Paulo Gonet publicada pela CNN Brasil", "credit": "Reprodução / CNN Brasil", "verifiedOn": "2026-09-22"},
           "rightsNote": "Crédito no veículo: Reprodução. Licença de republicação não verificada."
         },
         {
@@ -1398,6 +1399,7 @@ window.PELELEC_DATA = {
           "sharedPhoto": true,
           "mediaLink": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/19/quem-e-ciro-soares-advogado-que-aparece-com-vorcaro-e-gonet-em-londres.ghtm",
           "mediaLinkLabel": "Ver fotografia na reportagem ↗",
+          "publishedImage": {"url": "https://conteudo.imguol.com.br/c/noticias/9f/2026/09/19/conversa-extraida-do-celular-de-vorcaro-esq-mostra-foto-de-gonet-dir-advogado-ciro-soares-segundo-da-dir-para-esq-e-ex-banqueiro-em-noite-de-charutos-e-uisque-em-londres-1789787194332_v2_450x600.png", "alt": "Fotografia do encontro em Londres reproduzida pelo UOL no registro da conversa de Ciro", "credit": "Reprodução / UOL", "verifiedOn": "2026-09-22"},
           "rightsNote": "Crédito: Reprodução / UOL. Licença de republicação não verificada."
         },
         {

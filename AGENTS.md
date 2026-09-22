@@ -13,3 +13,6 @@
 - MVP local em HTML/CSS/JavaScript, sem backend ou dependências de execução.
 - Layout responsivo inspirado em mensageiro, fontes por item, busca e filtros.
 - Informar separadamente implementação, verificação, commit, push e publicação.
+
+## Exceção solicitada em 22/09/2026
+- O usuário pediu que as fotos publicadas correspondentes aos registros apareçam nos balões. Podem ser incorporadas das URLs dos veículos após conferência visual e de contexto, com crédito, fonte e estado de direitos explícito. Isso não declara licença aberta nem autoriza substituir anexos ausentes por imagens genéricas.
