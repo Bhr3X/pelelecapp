@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+scratch/
+test_*.html
+CNAME

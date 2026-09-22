@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>PelelecApp - Simulador Forense de Conversas de Daniel Vorcaro</title>
+  
+  <!-- CSS Stylesheets with Cache Busting -->
+  <link rel="stylesheet" href="css/style.css?v=20260922_mob3">
+  <link rel="stylesheet" href="css/forensic.css?v=20260922_mob3">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
+</head>
+<body data-theme="dark">
+
+  <div class="app-container">
+
+    <!-- Promo Banner: Brasília Survivors -->
+    <aside class="game-promo-banner" id="gamePromoBanner">
+      <div class="game-promo-left">
+        <span class="game-badge">🎮 JOGO</span>
+        <span class="game-promo-text">
+          <span class="promo-text-full">Acha que aguenta o submundo do poder? Jogue <strong>Brasília Survivors</strong> e tente escapar das operações da PF!</span>
+          <span class="promo-text-short">Jogue <strong>Brasília Survivors</strong>: escape da PF!</span>
+        </span>
+      </div>
+      <div class="game-promo-right">
+        <span class="game-pulse-dot"></span>
+        <a href="https://www.brasiliasurvivors.com.br" target="_blank" rel="noopener noreferrer" class="game-play-cta-btn" title="Jogar Brasília Survivors no navegador">
+          🕹️ <span class="cta-text-full">JOGAR AGORA ↗</span><span class="cta-text-short">JOGAR ↗</span>
+        </a>
+      </div>
+    </aside>
+
+    <!-- Top Forensic Investigation Bar -->
+    <header class="forensic-banner" id="forensicBanner">
+      <div class="banner-left">
+        <span class="badge-pf">PF</span>
+        <span class="banner-title-text">⚖️ <strong>COMPLIANCE ZERO</strong> • Inq. 4.932 STF</span>
+      </div>
+      <div class="banner-right">
+        <span class="stat-500gb">💾 500 GB (Cellebrite 8.2)</span>
+        <button class="forensic-toggle-btn" id="openLaudoBtn" title="Ver laudo pericial oficial da PF">
+          <span>📋</span> <span class="btn-text">Laudo</span>
+        </button>
+        <button class="forensic-toggle-btn" id="toggleForensicMode" title="Ativar modo perícia para desvendar mensagens apagadas">
+          <span>🕵️</span> <span class="btn-text">Modo Perícia</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main View: Sidebar + Chat -->
+    <div class="main-view">
+
+      <!-- Left Sidebar -->
+      <aside class="sidebar">
+
+        <!-- Sidebar Header -->
+        <div class="sidebar-header">
+          <div class="sidebar-owner" title="Aparelho iPhone 16 Pro Max apreendido no Aeroporto de Guarulhos">
+            <div class="owner-avatar">
+              DV
+              <span class="owner-badge">PF</span>
+            </div>
+            <div class="owner-info">
+              <div class="owner-name">
+                Daniel Vorcaro <span style="font-size: 11px; color: #ffb74d;">(Apreendido)</span>
+              </div>
+              <div class="owner-device">Banco Master • iPhone 16 Pro Max</div>
+            </div>
+          </div>
+          <div class="sidebar-actions">
+            <button class="icon-btn" id="themeToggleBtn" title="Alternar Modo Escuro / Claro">🌙</button>
+            <button class="icon-btn" onclick="document.getElementById('infoModal').classList.add('open')" title="Sobre o PelelecApp">ℹ️</button>
+          </div>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="sidebar-search">
+          <div class="search-input-wrapper">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" placeholder="Pesquisar conversa, 'peleleca', 'dívida'..." autocomplete="off">
+            <button class="clear-search-btn" id="clearSearchBtn">✕</button>
+          </div>
+        </div>
+
+        <!-- Category Filters -->
+        <nav class="category-filter-bar" id="categoryFilterBar">
+          <!-- Renderizado via JS -->
+        </nav>
+
+        <!-- Contacts / Chat Threads List -->
+        <ul class="contact-list" id="contactList">
+          <!-- Renderizado via JS -->
+        </ul>
+
+      </aside>
+
+      <!-- Right Chat Panel -->
+      <main class="chat-panel">
+
+        <!-- Chat Header -->
+        <div class="chat-header">
+          <button class="back-btn-mobile" id="backBtnMobile" aria-label="Voltar para a lista de conversas" title="Voltar">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="19" y1="12" x2="5" y2="12"></line>
+              <polyline points="12 19 5 12 12 5"></polyline>
+            </svg>
+          </button>
+          <div class="chat-header-left" id="chatHeaderLeft" title="Clique para ver ficha pericial e contexto jornalístico">
+            <div class="chat-header-avatar" id="chatHeaderAvatar">--</div>
+            <div class="chat-header-info">
+              <div class="chat-header-name" id="chatHeaderName">Carregando...</div>
+              <div class="chat-header-status" id="chatHeaderStatus">...</div>
+            </div>
+          </div>
+          <div class="chat-header-actions">
+            <button class="forensic-quick-mobile-btn" id="quickForensicMobileBtn" title="Ativar/Desativar Modo Perícia PF">
+              🕵️
+            </button>
+            <button class="source-btn-header" id="sourceBtnHeader" title="Ver matéria jornalística original">
+              <span>📰</span> <span class="source-btn-text">Fonte na Mídia</span>
+            </button>
+            <button class="icon-btn" onclick="PelelecApp.toggleDetailDrawer(true)" title="Ficha do Interlocutor">⋮</button>
+          </div>
+        </div>
+
+        <!-- Chat Messages Stream -->
+        <div class="chat-messages" id="chatMessages">
+          <!-- Mensagens renderizadas dinamicamente via JS -->
+        </div>
+
+        <!-- Chat Input Bar -->
+        <div class="chat-input-bar">
+          <div class="input-actions">
+            <button class="icon-btn" title="Emoji">😊</button>
+            <button class="icon-btn" title="Anexo">📎</button>
+          </div>
+          <div class="chat-input-wrapper">
+            <input type="text" id="chatInput" placeholder="Digite uma mensagem como Daniel Vorcaro..." autocomplete="off">
+          </div>
+          <button class="send-btn" id="sendBtn" title="Enviar mensagem">
+            ➤
+          </button>
+        </div>
+
+      </main>
+
+      <!-- Right Contact Info Drawer (Slide-out) -->
+      <aside class="detail-drawer" id="detailDrawer">
+        <div class="drawer-header">
+          <button class="icon-btn" id="closeDrawerBtn">✕</button>
+          <span>Dados do Interlocutor</span>
+        </div>
+        <div class="drawer-body">
+          <div class="drawer-profile-card">
+            <div class="drawer-avatar" id="drawerAvatar">--</div>
+            <div class="drawer-title" id="drawerName">Nome</div>
+            <div class="drawer-subtitle" id="drawerRole">Cargo / Função</div>
+          </div>
+
+          <div class="drawer-section">
+            <div class="drawer-section-title">📞 Linha Telefônica Mapeada</div>
+            <div class="drawer-section-content" id="drawerPhone">+55...</div>
+          </div>
+
+          <div class="drawer-section">
+            <div class="drawer-section-title">🔍 Resumo da Apuração PF & STF</div>
+            <div class="drawer-section-content" id="drawerContext">...</div>
+          </div>
+
+          <div class="drawer-section">
+            <div class="drawer-section-title">📰 Reportagem de Referência</div>
+            <div class="drawer-section-content" id="drawerSourceHeadline" style="font-weight: 600; margin-bottom: 4px;">...</div>
+            <div style="font-size: 11px; color: var(--text-secondary);" id="drawerSourceOutlet">...</div>
+          </div>
+        </div>
+      </aside>
+
+    </div>
+
+  </div>
+
+  <!-- MODAL: Apple Notes (Bloco de Notas do iPhone) -->
+  <div class="modal-overlay" id="noteModal">
+    <div class="modal-content-card apple-notes-card">
+      <div class="notes-header-bar">
+        <span>‹ Pastas</span>
+        <span>Notas</span>
+        <button class="modal-close-btn" style="color: #e5a93c; font-size: 14px; font-weight: 600;">Concluído</button>
+      </div>
+      <div class="notes-paper">
+        <div class="notes-date" id="noteModalDate">14 de novembro de 2025 às 10:14</div>
+        <div class="notes-title" id="noteModalTitle">Rascunho</div>
+        <div class="notes-body-text" id="noteModalBody">
+          Texto do print recuperado...
+        </div>
+        <div class="notes-forensic-footer" id="noteModalForensic">
+          <strong>Perícia PF / Cellebrite:</strong> Imagem de visualização única recuperada da memória de cache do iPhone 16 Pro Max.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: Fonte Jornalística / Checagem -->
+  <div class="modal-overlay" id="sourceModal">
+    <div class="modal-content-card">
+      <div class="modal-header">
+        <h3><span>📰</span> Checagem Jornalística & Fonte</h3>
+        <button class="modal-close-btn">✕</button>
+      </div>
+      <div class="modal-body">
+        <div style="margin-bottom: 12px;">
+          <span style="font-size: 11px; text-transform: uppercase; color: var(--accent-gold); font-weight: 700;">Interlocutor:</span>
+          <h4 id="sourceModalContact" style="font-size: 16px; margin-top: 2px;">Contato</h4>
+        </div>
+
+        <div style="background: var(--bg-chat-header); padding: 12px; border-radius: 8px; margin-bottom: 14px; border-left: 3px solid var(--accent-green);">
+          <div style="font-size: 11px; color: var(--text-secondary);" id="sourceModalOutlet">Veículo</div>
+          <div style="font-size: 14px; font-weight: 700; margin: 4px 0;" id="sourceModalHeadline">Manchete</div>
+          <div style="font-size: 11px; color: var(--text-muted);" id="sourceModalDate">Data</div>
+        </div>
+
+        <div style="margin-bottom: 14px; line-height: 1.5; font-size: 13px; color: var(--text-primary);" id="sourceModalSummary">
+          Resumo do caso reportado...
+        </div>
+
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px;">
+          <a id="sourceModalLink" href="#" target="_blank" rel="noopener noreferrer" style="background: var(--accent-green); color: #fff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 13px; font-weight: 600;">
+            Ler Matéria Original ↗
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: Laudo Pericial Oficial da Polícia Federal -->
+  <div class="modal-overlay" id="laudoModal">
+    <div class="modal-content-card" style="max-width: 650px;">
+      <div class="modal-header">
+        <h3><span>🛡️</span> Laudo Pericial Eletrônico • Polícia Federal</h3>
+        <button class="modal-close-btn">✕</button>
+      </div>
+      <div class="modal-body">
+        <h4 id="laudoTitle" style="color: #ffb74d; font-size: 15px; margin-bottom: 4px;">LAUDO DE PERÍCIA CRIMINAL FEDERAL</h4>
+        <div id="laudoOperation" style="font-size: 12px; color: var(--text-secondary); margin-bottom: 4px;">Operação Compliance Zero</div>
+        <div id="laudoHardware" style="font-size: 11px; color: var(--text-muted); font-family: monospace;">Hardware</div>
+
+        <div class="stat-grid" id="laudoStatsGrid">
+          <!-- Preenchido via JS -->
+        </div>
+
+        <h5 style="font-size: 13px; color: var(--accent-gold); margin-top: 14px; margin-bottom: 6px;">Metodologia Forense Aplicada:</h5>
+        <ol class="forensic-step-list" id="laudoMethodsList">
+          <!-- Preenchido via JS -->
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: Sobre o PelelecApp -->
+  <div class="modal-overlay" id="infoModal">
+    <div class="modal-content-card">
+      <div class="modal-header">
+        <h3><span>📱</span> Sobre o PelelecApp</h3>
+        <button class="modal-close-btn">✕</button>
+      </div>
+      <div class="modal-body">
+        <p style="margin-bottom: 12px;">
+          O <strong>PelelecApp</strong> é um simulador interativo no formato WhatsApp Web criado para fins jornalísticos, analíticos e de reconstituição pública.
+        </p>
+        <p style="margin-bottom: 12px;">
+          Todos os diálogos, frases icônicas (como o meme <em>"Peleleca"</em>, a declaração de <em>"dívida de vida"</em> no Bloco de Notas, as ameaças contra jornalistas por parte de <em>"A Turma"</em> e os aportes na <em>SAF do Galo</em> e <em>Banco Master</em>) foram integralmente extraídos de <strong>documentos públicos periciados pela Polícia Federal</strong>, decisões judiciais do <strong>Supremo Tribunal Federal</strong> e matérias investigativas da <strong>imprensa brasileira</strong> (Folha, O Globo, Metrópoles, UOL, CNN Brasil, JOTA, A Pública e CartaCapital).
+        </p>
+        <div style="background: rgba(255, 183, 77, 0.1); border-left: 3px solid #ffb74d; padding: 10px; border-radius: 4px; font-size: 12px; color: #ffd279;">
+          <strong>Funcionalidades Interativas:</strong>
+          <ul style="margin-top: 6px; padding-left: 18px;">
+            <li>Clique no botão <strong>"Ativar Modo Perícia PF"</strong> no topo para desvendar todas as mensagens apagadas e fotos destruídas.</li>
+            <li>Abra as mensagens de <strong>"Visualização Única"</strong> para conferir o print original reconstruído do Bloco de Notas do iPhone.</li>
+            <li>Dê play nas <strong>mensagens de voz</strong> para simular os áudios e conferir as transcrições da PF.</li>
+            <li>Digite uma mensagem no rodapé para receber uma resposta simulada contextualizada com o interlocutor ativo.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts with Cache Busting -->
+  <script src="js/data.js?v=20260922_mob3"></script>
+  <script src="js/forensic.js?v=20260922_mob3"></script>
+  <script src="js/app.js?v=20260922_mob3"></script>
+</body>
+</html>
