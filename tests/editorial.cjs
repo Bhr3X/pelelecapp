@@ -7,3 +7,18 @@ test('Moraes tem contraponto e nenhuma resposta literal atribuída a ele',()=>{c
 test('tema claro é padrão e botão corresponde ao estado inicial',()=>{const html=fs.readFileSync('index.html','utf8');assert.match(html,/<body data-theme="light">/);assert.match(html,/id="themeToggleBtn"[^>]*>☀️/);});
 test('referências do dossiê resolvem no inventário e exclusões não têm texto recuperado',()=>{const inventory=JSON.parse(fs.readFileSync('docs/dossier-index.json'));const refs=new Set(inventory.records.flatMap(r=>r.refs));for(const c of d.contacts)for(const m of c.messages){for(const ref of m.researchRefs||[])assert(refs.has(ref),ref);if(m.deletionEvidence){assert(m.sources.includes('dos_anexo4'));assert(!m.recoveredText);assert(m.text.includes('não aparece'));}if(m.mediaLink){assert.match(m.mediaLink,/^https:\/\//);assert(m.rightsNote);}}});
 test('encaminhamento não cria conversa direta com Gonet',()=>{assert(!d.contacts.some(c=>c.id==='gonet'));const c=d.contacts.find(c=>c.id==='ciro_soares');assert(c.messages.some(m=>m.id==='ds-cs8'&&m.editorialType==='summary'));assert(c.responseSources.includes('dos_gonet_resp'));});
+
+test('divulgação só entra depois dos contatos, fora de buscas e filtros',()=>{
+  const app=ctx.window.PelelecApp;
+  const list={innerHTML:'',insertAdjacentHTML(position,html){assert.equal(position,'beforeend');this.innerHTML+=html;}};
+  ctx.document.getElementById=()=>list;
+  app.activeCategory='all';app.searchQuery='';app.renderContacts();
+  assert(list.innerHTML.lastIndexOf('brasilia_survivors')>list.innerHTML.lastIndexOf('camilla_ramos'));
+  assert(!d.contacts.some(c=>c.id===app.promotion.id));
+  app.searchQuery='Martha'.toLowerCase();app.renderContacts();assert(!list.innerHTML.includes('promo-contact'));
+  app.searchQuery='';app.activeCategory='intimate';app.renderContacts();assert(!list.innerHTML.includes('promo-contact'));
+  app.activeCategory='all';
+  assert(!fs.readFileSync('index.html','utf8').includes('gamePromoBanner'));
+  for(const file of ['characters.png','gameplay.png'])assert(fs.statSync(`assets/promo/${file}`).size>10000);
+  assert(app.renderPromotion().includes('JOGAR AGORA'));
+});

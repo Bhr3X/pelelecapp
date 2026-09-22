@@ -17,3 +17,10 @@
 - Ciro: dez cartões e dois links para fotografias nas fontes renderizados.
 - Ajustes de cor corrigem contraste dos metadados/selos no tema claro e links nos cartões de mídia.
 - Esta rodada não revalida individualmente todos os registros do dossiê.
+
+## Divulgação ao fim da lista — 22/09/2026
+- Banner superior removido. Divulgação adicionada depois dos 20 contatos, somente na lista completa e sem busca.
+- Conversa promocional independente do acervo, com capturas reais da seleção e da partida da V2 beta; procedência em `assets/promo/README.md`.
+- Navegador: anúncio abaixo da área visível inicial; duas imagens carregadas; CTA amarelo; botão de fonte jornalística oculto na divulgação.
+- Emulação de 390 px: sem transbordamento horizontal, imagens com cerca de 304 px, CTA com 44 px de altura; perícia ativa. Não equivale a teste em aparelho físico.
+- Nove testes editoriais/funcionais, verificação de sintaxe e diff sem erros.

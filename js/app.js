@@ -6,6 +6,15 @@ const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"
  */
 
 const PelelecApp = {
+  promotion: {
+    id: 'brasilia_survivors', name: 'Brasília Survivors',
+    avatarInitials: '🎮', avatarColor: '#725000',
+    role: 'Divulgação · jogo no navegador', lastSeen: 'Divulgação · prints reais do jogo',
+    phone: 'Conteúdo promocional',
+    contextSummary: 'Divulgação do Brasília Survivors, separada do acervo documental. Capturas da versão V2 beta disponível no site oficial em 22/09/2026, reproduzidas a pedido do responsável pelo projeto.',
+    source: {outlet: 'Brasília Survivors', date: '22/09/2026', headline: 'Site oficial do jogo · V2 beta', link: 'https://www.brasiliasurvivors.com.br/'},
+    isPromotion: true
+  },
   activeContactId: "martha",
   activeCategory: "all",
   searchQuery: "",
@@ -42,6 +51,7 @@ const PelelecApp = {
   },
 
   getActiveContact() {
+    if (this.activeContactId === this.promotion.id) return this.promotion;
     return window.PELELEC_DATA.contacts.find(c => c.id === this.activeContactId);
   },
 
@@ -253,6 +263,16 @@ const PelelecApp = {
         `;
       })
       .join("");
+
+    // A divulgação só fica no fim da lista completa, nunca em resultados filtrados.
+    if (this.activeCategory === 'all' && !this.searchQuery) {
+      list.insertAdjacentHTML('beforeend', `<li class="contact-item promo-contact ${this.activeContactId === this.promotion.id ? 'active' : ''}" data-id="${this.promotion.id}">
+        <button class="promo-contact-button" onclick="PelelecApp.selectContact('${this.promotion.id}'); event.stopPropagation()" aria-label="Abrir divulgação do Brasília Survivors">
+          <span class="contact-avatar" style="background:#725000">🎮</span>
+          <span class="contact-content"><span class="contact-top-row"><span class="contact-name">Brasília Survivors</span><span class="promo-label">DIVULGAÇÃO</span></span>
+          <span class="contact-bottom-row"><span class="contact-preview">📷 Conheça os personagens e o jogo</span><span class="promo-open">VER ↗</span></span></span>
+        </button></li>`);
+    }
   },
 
   setupContactView(contactId) {
@@ -274,6 +294,8 @@ const PelelecApp = {
     if (headerStatus) {
       headerStatus.textContent = contact.statusText === "online" ? "Online" : contact.lastSeen;
     }
+
+    document.getElementById('sourceBtnHeader').hidden = !!contact.isPromotion;
 
     // Renderiza mensagens
     this.renderMessages(contact);
@@ -302,6 +324,12 @@ const PelelecApp = {
   renderMessages(contact) {
     const container = document.getElementById("chatMessages");
     if (!container) return;
+
+    if (contact.isPromotion) {
+      container.innerHTML = this.renderPromotion();
+      container.scrollTop = 0;
+      return;
+    }
 
     let html = `
       <div class="encryption-pill system-pill">
@@ -338,6 +366,16 @@ const PelelecApp = {
     setTimeout(() => {
       container.scrollTop = container.scrollHeight;
     }, 50);
+  },
+
+  renderPromotion() {
+    return `<div class="system-pill">Divulgação · Brasília Survivors</div>
+      <div class="message-row them"><div class="message-bubble promo-bubble"><div class="message-text">Terminou de explorar o acervo? Conheça Brasília Survivors: escolha seu personagem e entre na arena.</div></div></div>
+      ${[
+        ['characters.png', 'Escolha seu personagem', 'Seleção de personagens da V2 beta, com Biroliro selecionado.'],
+        ['gameplay.png', 'A partida em ação', 'Biroliro na arena Resort Tayaya, com inimigos e um apoio ativo.']
+      ].map(([file, title, alt]) => `<div class="message-row them"><div class="message-bubble promo-bubble"><figure class="promo-shot"><a href="assets/promo/${file}" target="_blank" rel="noopener noreferrer" aria-label="Ampliar: ${title}"><img src="assets/promo/${file}" width="1280" height="720" alt="${alt}" loading="lazy"></a><figcaption>${title}</figcaption></figure></div></div>`).join('')}
+      <div class="message-row them"><div class="message-bubble promo-bubble"><div class="message-text">Pronto para jogar?</div><a class="game-play-cta-btn promo-chat-cta" href="https://www.brasiliasurvivors.com.br/" target="_blank" rel="noopener noreferrer">🕹️ JOGAR AGORA ↗</a><p class="promo-credit">Prints reais do site oficial · V2 beta · 22/09/2026.<br>Imagens: Brasília Survivors. Conteúdo promocional, fora do acervo documental.</p></div></div>`;
   },
 
   renderMessageBody(msg) {
