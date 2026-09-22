@@ -22,8 +22,11 @@ test('divulgação só entra depois dos contatos, fora de buscas e filtros',()=>
   for(const file of ['characters.png','gameplay.png'])assert(fs.statSync(`assets/promo/${file}`).size>10000);
   assert(app.renderPromotion().includes('JOGAR AGORA'));
 });
-test('fotos inline têm procedência e ficam nos registros correspondentes',()=>{
-  const photos=d.contacts.flatMap(c=>c.messages).filter(m=>m.publishedImage);
-  assert.deepEqual(Array.from(photos,m=>m.id).sort(),['ds-cs6','ds-cs9']);
-  for(const m of photos){assert(m.sharedPhoto);assert(m.mediaLink);assert(m.publishedImage.credit);assert(m.publishedImage.verifiedOn);assert(m.publishedImage.alt);const host=new URL(m.publishedImage.url).hostname;assert(['admin.cnnbrasil.com.br','conteudo.imguol.com.br'].includes(host));const html=ctx.window.PelelecApp.renderMessageBody(m);assert(html.includes('published-photo'));assert(html.includes('photo-unavailable'));}
+test('fotos e galerias têm procedência e acesso à imagem completa',()=>{
+ const records=d.contacts.flatMap(c=>c.messages).filter(m=>m.publishedImage||m.publishedImages);
+ assert.deepEqual(Array.from(records,m=>m.id).sort(),['ds-cr3','ds-cs6','ds-cs9','ds-nr1','ds-nr2','mf4']);
+ let count=0;
+ for(const m of records){assert(m.mediaLink);const html=ctx.window.PelelecApp.renderMessageBody(m);for(const p of m.publishedImages||[m.publishedImage]){count++;assert(p.credit&&p.verifiedOn&&p.alt);assert(['admin.cnnbrasil.com.br','images.metroimg.com','uploads.intercept.com.br'].includes(new URL(p.url).hostname));assert(html.includes('href="'+p.url.replaceAll('&','&amp;')+'"'));}assert(html.includes('photo-unavailable'));}
+ assert.equal(count,11);
+ const london=records.find(m=>m.id==='ds-cs9');assert.equal(london.publishedImage.url,'https://images.metroimg.com/2026/09/vorcaro-e-gonet.jpg');
 });
