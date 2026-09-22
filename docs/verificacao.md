@@ -24,3 +24,10 @@
 - Navegador: anúncio abaixo da área visível inicial; duas imagens carregadas; CTA amarelo; botão de fonte jornalística oculto na divulgação.
 - Emulação de 390 px: sem transbordamento horizontal, imagens com cerca de 304 px, CTA com 44 px de altura; perícia ativa. Não equivale a teste em aparelho físico.
 - Nove testes editoriais/funcionais, verificação de sintaxe e diff sem erros.
+
+## PT/EN — 22/09/2026
+- Seletor PT/EN no cabeçalho da lista e no chat móvel; português padrão, preferência salva localmente. Sem serviço externo de tradução.
+- Interface, 68 cartões, contexto, notas e divulgação traduzidos. Citações em inglês identificadas como traduções; voltar a PT restaura o texto original. Títulos bibliográficos, documentos externos e textos dentro dos prints permanecem no idioma da fonte.
+- Dados documentais e URLs preservados; busca aceita o texto traduzido no idioma ativo.
+- Navegador: persistência após recarregar, busca por “foreign investors”, modal de fonte, retorno PT/EN e alternância da perícia conferidos. Emulação de 390 px sem transbordamento; botão de fonte compacto para acomodar o seletor.
+- 13 testes passaram, incluindo cobertura de todas as mensagens, restauração exata de textos e armazenamento indisponível.

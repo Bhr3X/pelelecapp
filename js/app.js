@@ -200,10 +200,11 @@ const PelelecApp = {
     // Filtro por Busca
     if (this.searchQuery) {
       filtered = filtered.filter(c => {
-        const nameMatch = c.name.toLowerCase().includes(this.searchQuery);
-        const roleMatch = c.role.toLowerCase().includes(this.searchQuery);
+        const translated = value => window.PelelecI18n ? window.PelelecI18n.text(value || '').toLowerCase() : '';
+        const nameMatch = c.name.toLowerCase().includes(this.searchQuery) || translated(c.name).includes(this.searchQuery);
+        const roleMatch = c.role.toLowerCase().includes(this.searchQuery) || translated(c.role).includes(this.searchQuery);
         const textMatch = c.messages.some(m =>
-          (m.text && m.text.toLowerCase().includes(this.searchQuery)) ||
+          (m.text && (m.text.toLowerCase().includes(this.searchQuery) || translated(m.text).includes(this.searchQuery))) ||
           (m.recoveredText && m.recoveredText.toLowerCase().includes(this.searchQuery)) ||
           (m.noteContent && m.noteContent.toLowerCase().includes(this.searchQuery))
         );

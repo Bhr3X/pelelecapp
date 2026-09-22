@@ -1,7 +1,7 @@
 # PelelecApp
 
 ## Invariants
-- Interface documental em português; nunca se apresentar como acesso ao celular real.
+- Interface documental com português padrão e inglês opcional (pedido do usuário em 22/09/2026); nunca se apresentar como acesso ao celular real.
 - Não inventar falas, respostas, datas, chamadas, exclusões ou recibos de leitura atribuídos a pessoas reais.
 - Cada item editorial tem fonte pública, classificação e data com precisão explícita.
 - Alegações e atribuições contestadas devem trazer contexto e contraponto acessível.

@@ -6,8 +6,8 @@
   <title>PelelecApp - Acervo de Conversas Publicadas</title>
   
   <!-- CSS Stylesheets with Cache Busting -->
-  <link rel="stylesheet" href="css/style.css?v=20260922_promo7">
-  <link rel="stylesheet" href="css/forensic.css?v=20260922_promo7">
+  <link rel="stylesheet" href="css/style.css?v=20260922_lang8">
+  <link rel="stylesheet" href="css/forensic.css?v=20260922_lang8">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
 </head>
 <body data-theme="light">
@@ -52,6 +52,7 @@
             </div>
           </div>
           <div class="sidebar-actions">
+            <div class="language-switch" role="group" aria-label="Idioma / Language" data-no-translate><button type="button" data-language="pt" aria-pressed="true" title="Português">PT</button><button type="button" data-language="en" aria-pressed="false" title="English">EN</button></div>
             <button class="icon-btn" id="themeToggleBtn" title="Alternar Modo Escuro / Claro">☀️</button>
             <button class="icon-btn" onclick="document.getElementById('infoModal').classList.add('open')" title="Sobre o PelelecApp">ℹ️</button>
           </div>
@@ -97,10 +98,11 @@
             </div>
           </div>
           <div class="chat-header-actions">
+            <div class="language-mobile"><div class="language-switch" role="group" aria-label="Idioma / Language" data-no-translate><button type="button" data-language="pt" aria-pressed="true" title="Português">PT</button><button type="button" data-language="en" aria-pressed="false" title="English">EN</button></div></div>
             <button class="forensic-quick-mobile-btn" id="quickForensicMobileBtn" title="Exibir notas e fontes documentais">
               🕵️
             </button>
-            <button class="source-btn-header" id="sourceBtnHeader" title="Ver matéria jornalística original">
+            <button class="source-btn-header" id="sourceBtnHeader" aria-label="Ver matéria jornalística original" title="Ver matéria jornalística original">
               <span>📰</span> <span class="source-btn-text">Fonte na Mídia</span>
             </button>
             <button class="icon-btn" onclick="PelelecApp.toggleDetailDrawer(true)" title="Ficha do Interlocutor">⋮</button>
@@ -237,8 +239,9 @@
   </div>
 
   <!-- Scripts with Cache Busting -->
-  <script src="js/data.js?v=20260922_promo7"></script>
-  <script src="js/forensic.js?v=20260922_promo7"></script>
-  <script src="js/app.js?v=20260922_promo7"></script>
+  <script src="js/data.js?v=20260922_lang8"></script>
+  <script src="js/forensic.js?v=20260922_lang8"></script>
+  <script src="js/app.js?v=20260922_lang8"></script>
+  <script src="js/i18n.js?v=20260922_lang8"></script>
 </body>
 </html>
