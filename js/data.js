@@ -127,12 +127,26 @@ const PELELEC_DATA = {
           status: "read"
         },
         {
+          id: "m_fasano",
+          sender: "me",
+          time: "19:50",
+          date: "14 de Outubro de 2025",
+          text: "Suíte reservada no Fasano pra nossa comemoração amanhã, meu amol 🥂✨",
+          type: "media",
+          mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+          mediaCaption: "Suíte Presidencial Fasano Itaim - São Paulo",
+          mediaPreset: "fasano",
+          status: "read"
+        },
+        {
           id: "m5",
           sender: "them",
           time: "22:40",
           date: "18 de Outubro de 2025",
           text: "Olha como o pôr do sol aqui em Dubai tá surreal hoje! Queria você aqui comigo agora...",
           mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80",
           mediaCaption: "Dubai Marina Luxury Suite - Vista panorâmica",
           mediaPreset: "dubai",
           status: "read"
@@ -312,6 +326,8 @@ const PELELEC_DATA = {
       avatarColor: "#1a237e",
       avatarInitials: "AM",
       avatarImage: "tribunal",
+      photoUrl: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alexandre_de_Moraes_%2832629948352%29.jpg",
+      photoCredit: "Jane de Araújo / Agência Senado (CC BY 2.0)",
       phone: "+55 61 9991*-****",
       statusText: "offline",
       lastSeen: "Visto por último em 14/11/2025",
@@ -350,6 +366,19 @@ const PELELEC_DATA = {
           time: "20:05",
           date: "12 de Novembro de 2025",
           text: "Os honorários contratuais do trimestre já foram liquidados conforme o acordado com a equipe do escritório.",
+          status: "read"
+        },
+        {
+          id: "s_laudo_img",
+          sender: "them",
+          time: "10:10",
+          date: "14 de Novembro de 2025",
+          type: "media",
+          mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=800&q=80",
+          mediaCaption: "📑 Anexo Pericial • Registros INC/DITEC/PF nº 284/2026",
+          text: "Juntada pericial aos autos do Inquérito 4.932 - Supremo Tribunal Federal.",
+          forensicTag: "Autos STF Inq. 4.932",
           status: "read"
         },
         {
@@ -537,6 +566,18 @@ const PELELEC_DATA = {
           status: "read"
         },
         {
+          id: "p_predio",
+          sender: "them",
+          time: "15:22",
+          date: "27 de Outubro de 2025",
+          type: "media",
+          mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+          mediaCaption: "🏢 Edifício Corporate Brasília - Estruturação de Debêntures",
+          text: "Minutas das debêntures e cessão de carteira assinadas na sede institucional.",
+          status: "read"
+        },
+        {
           id: "p5",
           sender: "me",
           time: "15:24",
@@ -623,6 +664,8 @@ const PELELEC_DATA = {
       avatarColor: "#212121",
       avatarInitials: "RM",
       avatarImage: "galo",
+      photoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/09_03_2020_Cerim%C3%B4nia_de_Lan%C3%A7amento_da_CNN_Brasil_%2849642484921%29.jpg/500px-09_03_2020_Cerim%C3%B4nia_de_Lan%C3%A7amento_da_CNN_Brasil_%2849642484921%29.jpg",
+      photoCredit: "Alan Santos / PR (CC BY 2.0)",
       phone: "+55 31 9887*-****",
       statusText: "offline",
       lastSeen: "Visto por último em 15/11/2025",
@@ -659,6 +702,7 @@ const PELELEC_DATA = {
           date: "15 de Outubro de 2025",
           type: "media",
           mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=800&q=80",
           mediaCaption: "Camarote Master / Arena MRV - Belo Horizonte",
           mediaPreset: "arenamrv",
           text: "Camarote presidencial pronto com chopeira personalizada e camisas autografadas pelo elenco.",
@@ -700,6 +744,8 @@ const PELELEC_DATA = {
       avatarColor: "#0277bd",
       avatarInitials: "AL",
       avatarImage: "politica",
+      photoUrl: "https://upload.wikimedia.org/wikipedia/commons/9/99/Arthur_Lira_como_presidente_da_C%C3%A2mara.jpg",
+      photoCredit: "Câmara dos Deputados (CC BY 2.0)",
       phone: "+55 61 9982*-****",
       statusText: "offline",
       lastSeen: "Visto por último em 14/11/2025",
@@ -1066,6 +1112,18 @@ const PELELEC_DATA = {
           status: "read"
         },
         {
+          id: "j_foto",
+          sender: "them",
+          time: "21:35",
+          date: "17 de Novembro de 2025",
+          type: "media",
+          mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80",
+          mediaCaption: "✈️ Jato Bombardier Global 6000 • Hangar VIP Cumbica",
+          text: "Aeronave posicionada na pista privada com motores em pré-aquecimento.",
+          status: "read"
+        },
+        {
           id: "j2",
           sender: "me",
           time: "21:45",
@@ -1122,6 +1180,8 @@ const PELELEC_DATA = {
       avatarColor: "#01579b",
       avatarInitials: "CC",
       avatarImage: "castro",
+      photoUrl: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Claudio_Castro_como_Vice_Governador_do_Rio_de_Janeiro.jpg",
+      photoCredit: "Governo do Estado do Rio de Janeiro",
       phone: "+55 21 9998*-****",
       statusText: "offline",
       lastSeen: "Visto por último em 15/11/2025",
@@ -1141,6 +1201,19 @@ const PELELEC_DATA = {
           time: "20:30",
           date: "14 de Outubro de 2025",
           text: "Daniel, aquele jantar ontem em Manhattan foi espetacular! Vinhos incríveis e restaurante impecável. Muito obrigado pela recepção em Nova York.",
+          status: "read"
+        },
+        {
+          id: "c_jantar_img",
+          sender: "them",
+          time: "20:32",
+          date: "14 de Outubro de 2025",
+          type: "media",
+          mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+          mediaCaption: "🍷 Jantar Manhattan / Cipriani - Recibo Periciado R$ 66 mil",
+          text: "Registro fotográfico do encontro reservado em Nova York.",
+          forensicTag: "PF Laudo Guanabara Fls. 2.190",
           status: "read"
         },
         {
@@ -1191,6 +1264,8 @@ const PELELEC_DATA = {
       avatarColor: "#2e7d32",
       avatarInitials: "FB",
       avatarImage: "senado",
+      photoUrl: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg",
+      photoCredit: "Geraldo Magela / Agência Senado (CC BY 2.0)",
       phone: "+55 61 9811*-****",
       statusText: "offline",
       lastSeen: "Visto por último em 16/11/2025",
@@ -1216,6 +1291,19 @@ const PELELEC_DATA = {
           noteContent: "Material em vídeo contendo pitch de apresentação da produção cinematográfica Dark Horse, cronograma de filmagens e plano de distribuição internacional.",
           forensicTag: "The Intercept Brasil / Série Vaza Flávio (13/05/2026)",
           factCheckNote: "O Intercept relata o envio de um vídeo de visualização única pelo senador com detalhes da produção cinematográfica.",
+          status: "read"
+        },
+        {
+          id: "fb_pitch",
+          sender: "them",
+          time: "17:18",
+          date: "07 de Novembro de 2025",
+          type: "media",
+          mediaType: "image",
+          imageUrl: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=800&q=80",
+          mediaCaption: "🎬 Apresentação Executiva: Dark Horse - Pitch Audiovisual",
+          text: "Pitch de coprodução cinematográfica internacional com captação estimada em R$ 10 milhões.",
+          forensicTag: "The Intercept Brasil (13/05/2026)",
           status: "read"
         },
         {
@@ -1259,6 +1347,8 @@ const PELELEC_DATA = {
       avatarColor: "#d84315",
       avatarInitials: "MF",
       avatarImage: "camara",
+      photoUrl: "https://upload.wikimedia.org/wikipedia/commons/6/62/M%C3%A1rio_Frias_em_2020.jpg",
+      photoCredit: "Agência Brasil / Presidência da República",
       phone: "+55 61 9923*-****",
       statusText: "offline",
       lastSeen: "Visto por último em 15/12/2024",
@@ -1320,6 +1410,8 @@ const PELELEC_DATA = {
       avatarColor: "#455a64",
       avatarInitials: "JD",
       avatarImage: "doria",
+      photoUrl: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Foto_oficial_de_Jo%C3%A3o_D%C3%B3ria_como_Governador_de_S%C3%A3o_Paulo.jpg",
+      photoCredit: "Governo do Estado de São Paulo (CC BY 2.0)",
       phone: "+55 11 9988*-****",
       statusText: "offline",
       lastSeen: "Visto por último em Maio de 2025",

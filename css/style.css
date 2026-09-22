@@ -504,6 +504,25 @@ body {
   position: relative;
   background-size: cover;
   background-position: center;
+  overflow: hidden;
+}
+
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+
+.avatar-fallback {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
 }
 
 .contact-avatar .avatar-online-dot {
@@ -629,6 +648,8 @@ body {
   color: #fff;
   font-weight: bold;
   font-size: 15px;
+  overflow: hidden;
+  position: relative;
 }
 
 .chat-header-info {
@@ -923,6 +944,8 @@ body {
   color: #fff;
   font-weight: bold;
   border: 3px solid var(--border-color);
+  overflow: hidden;
+  position: relative;
 }
 
 .drawer-title {

@@ -14,16 +14,23 @@ const PelelecApp = {
   init() {
     this.renderCategories();
     this.renderContacts();
-    this.setupContactView(this.activeContactId);
 
-    // No desktop (> 900px), mantém o chat ativo lado a lado
-    // No mobile (<= 900px), abre primeiro na lista de conversas estilo WhatsApp
-    if (window.innerWidth > 900) {
+    // Suporte a deep-link por hash (#contact=stf_alexandre) ou query (?contact=...)
+    const urlParams = new URLSearchParams(window.location.search);
+    const hash = window.location.hash;
+    const matchHash = hash.match(/contact=([a-zA-Z0-9_]+)/);
+    const contactParam = urlParams.get("contact") || (matchHash ? matchHash[1] : null);
+
+    if (contactParam && window.PELELEC_DATA.contacts.some(c => c.id === contactParam)) {
+      this.activeContactId = contactParam;
+      document.querySelector(".app-container").classList.add("chat-active");
+    } else if (window.innerWidth > 900) {
       document.querySelector(".app-container").classList.add("chat-active");
     } else {
       document.querySelector(".app-container").classList.remove("chat-active");
     }
 
+    this.setupContactView(this.activeContactId);
     this.bindEvents();
     window.ForensicManager.init();
   },
@@ -133,6 +140,16 @@ const PelelecApp = {
     }
   },
 
+  renderAvatar(contact) {
+    if (contact && contact.photoUrl) {
+      return `
+        <img src="${contact.photoUrl}" alt="${contact.name}" class="avatar-img" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
+        <span class="avatar-fallback" style="display: none; width:100%; height:100%; align-items:center; justify-content:center;">${contact.avatarInitials}</span>
+      `;
+    }
+    return contact ? contact.avatarInitials : "";
+  },
+
   renderCategories() {
     const bar = document.getElementById("categoryFilterBar");
     if (!bar) return;
@@ -198,6 +215,8 @@ const PelelecApp = {
             preview = "📷 Foto (Visualização única)";
           } else if (lastMsg.type === "audio") {
             preview = `🎤 Mensagem de voz (${lastMsg.audioDuration || "0:30"})`;
+          } else if (lastMsg.mediaType === "image") {
+            preview = `📷 ${lastMsg.mediaCaption || "Foto"}`;
           } else {
             preview = lastMsg.text || lastMsg.mediaCaption || "";
           }
@@ -208,7 +227,7 @@ const PelelecApp = {
         return `
           <li class="contact-item ${isActive ? "active" : ""}" data-id="${contact.id}" onclick="PelelecApp.selectContact('${contact.id}')">
             <div class="contact-avatar" style="background-color: ${contact.avatarColor};">
-              ${contact.avatarInitials}
+              ${this.renderAvatar(contact)}
               ${contact.statusText === "online" ? '<span class="avatar-online-dot"></span>' : ""}
             </div>
             <div class="contact-content">
@@ -239,7 +258,7 @@ const PelelecApp = {
     const headerAvatar = document.getElementById("chatHeaderAvatar");
     if (headerAvatar) {
       headerAvatar.style.backgroundColor = contact.avatarColor;
-      headerAvatar.textContent = contact.avatarInitials;
+      headerAvatar.innerHTML = this.renderAvatar(contact);
     }
 
     const headerName = document.getElementById("chatHeaderName");
@@ -262,6 +281,13 @@ const PelelecApp = {
 
     // Atualiza classes ativas na lista
     this.renderContacts();
+
+    // Atualiza hash na URL
+    try {
+      if (window.history && window.history.replaceState) {
+        window.history.replaceState(null, "", `#contact=${contactId}`);
+      }
+    } catch (e) {}
 
     // Ativa painel de chat no mobile (transição da lista para a conversa)
     document.querySelector(".app-container").classList.add("chat-active");
@@ -412,14 +438,26 @@ const PelelecApp = {
         `;
       }
 
-      mediaHtml = `
-        <div class="media-bubble-card">
-          <div class="media-thumbnail-graphic ${msg.mediaPreset}">
-            ${graphicContent}
+      if (msg.imageUrl) {
+        mediaHtml = `
+          <div class="media-bubble-card">
+            <img src="${msg.imageUrl}" class="media-bubble-img" alt="${msg.mediaCaption || 'Mídia'}" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
+            <div class="media-thumbnail-graphic ${msg.mediaPreset || ''}" style="display: none;">
+              ${graphicContent}
+            </div>
+            ${msg.mediaCaption ? `<div class="media-caption-text">${msg.mediaCaption}</div>` : ""}
           </div>
-          <div class="media-caption-text">${msg.mediaCaption}</div>
-        </div>
-      `;
+        `;
+      } else {
+        mediaHtml = `
+          <div class="media-bubble-card">
+            <div class="media-thumbnail-graphic ${msg.mediaPreset || ''}">
+              ${graphicContent}
+            </div>
+            ${msg.mediaCaption ? `<div class="media-caption-text">${msg.mediaCaption}</div>` : ""}
+          </div>
+        `;
+      }
     }
 
     // 5. Mensagem de Texto Comum
@@ -562,10 +600,22 @@ const PelelecApp = {
   },
 
   updateDrawerContent(contact) {
-    document.getElementById("drawerAvatar").style.backgroundColor = contact.avatarColor;
-    document.getElementById("drawerAvatar").textContent = contact.avatarInitials;
+    const drawerAvatar = document.getElementById("drawerAvatar");
+    if (drawerAvatar) {
+      drawerAvatar.style.backgroundColor = contact.avatarColor;
+      drawerAvatar.innerHTML = this.renderAvatar(contact);
+    }
     document.getElementById("drawerName").textContent = contact.name;
     document.getElementById("drawerRole").textContent = contact.role;
+    const creditEl = document.getElementById("drawerPhotoCredit");
+    if (creditEl) {
+      if (contact.photoCredit) {
+        creditEl.textContent = `📷 Retrato: ${contact.photoCredit}`;
+        creditEl.style.display = "block";
+      } else {
+        creditEl.style.display = "none";
+      }
+    }
     document.getElementById("drawerPhone").textContent = contact.phone;
     document.getElementById("drawerContext").textContent = contact.contextSummary;
     document.getElementById("drawerSourceHeadline").textContent = `"${contact.source.headline}"`;
