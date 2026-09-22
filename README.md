@@ -8,7 +8,7 @@ Acervo jornalístico em formato de mensageiro. Sem acesso ao celular real ou aut
 - Conversas pendentes não exibem falas não validadas.
 - Nenhuma resposta automática atribuída a pessoas reais.
 
-A estrutura visual e os dois arquivos CSS da versão e56af75 foram preservados. Textos e comportamento documental foram revisados.
+A estrutura visual da versão e56af75 foi preservada. Tema claro padrão, com ajustes pontuais de contraste. Textos e comportamento documental foram revisados.
 
 ## Executar
 
@@ -20,4 +20,4 @@ Abrir http://127.0.0.1:4174
 
 `node --test tests/editorial.cjs`
 
-[Auditoria e fontes](docs/auditoria.md). A pesquisa complementar e novas fotos compartilhadas ainda estão pendentes. A licença MIT do código não substitui as licenças próprias das fotografias.
+[Auditoria e fontes](docs/auditoria.md). O dossiê recebido foi indexado; 26 cartões foram incorporados após consulta às fontes. [Cobertura e limites](docs/incorporacao-dossie.md). A verificação integral dos demais registros e licenças das fotos compartilhadas permanece pendente. A licença MIT do código não substitui as licenças próprias das fotografias.

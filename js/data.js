@@ -1,4 +1,4 @@
-/* Revisão documental: docs/auditoria.md */
+/* Curadoria documental: docs/auditoria.md e docs/incorporacao-dossie.md */
 window.PELELEC_DATA = {
   "owner": {
     "name": "Daniel Vorcaro",
@@ -285,14 +285,37 @@ window.PELELEC_DATA = {
           "type": "media",
           "dateLabel": "17 de setembro de 2025",
           "title": "Mensagens temporárias · 24 horas",
-          "text": "Segundo o UOL, o relatório descreve a ativação da exclusão automática nesse contato. Este cartão representa a configuração relatada, não uma mensagem específica apagada.",
+          "text": "A página 1 do anexo registra a configuração de mensagens temporárias por 24 horas nesse contato. Este cartão representa o aviso do sistema, não uma mensagem específica apagada.",
           "sources": [
-            "temporarias"
+            "dos_anexo4",
+            "negativa"
           ],
           "date": "17 de setembro de 2025",
           "sender": "them",
           "time": "",
           "editorialType": "media"
+        },
+        {
+          "id": "ds-am-deleted",
+          "editorialType": "media",
+          "type": "media",
+          "date": "1º de outubro de 2025",
+          "dateLabel": "1º de outubro de 2025",
+          "time": "",
+          "sender": "them",
+          "text": "A página 1 do anexo mostra quatro marcadores de exclusão entre 22:17:06 e 22:18:21 (UTC−03:00), associados ao contato salvo como Alexandre de Moraes BRASILIA. O conteúdo original não aparece. A atribuição do contato é contestada.",
+          "sources": [
+            "dos_anexo4",
+            "negativa"
+          ],
+          "researchRefs": [
+            "E-m2",
+            "E-m3",
+            "E-m4",
+            "E-m5"
+          ],
+          "title": "🚫 Quatro mensagens apagadas · conteúdo indisponível",
+          "deletionEvidence": true
         },
         {
           "id": "am-gratidao",
@@ -632,34 +655,91 @@ window.PELELEC_DATA = {
     },
     {
       "id": "bacen_operacoes",
-      "name": "Contato Bacen (Supervisão) 🏦✈️",
+      "name": "Grupo Master",
       "category": "bacen",
-      "role": "Fiscalização & Atos de Concentração",
+      "role": "Grupo relatado: Vorcaro, Belline e Paulo Sérgio",
       "avatarColor": "#004d40",
       "avatarInitials": "BC",
       "statusText": "documental",
       "lastSeen": "Acervo documental",
       "pinned": false,
       "unreadCount": 0,
-      "contextSummary": "A versão anterior continha falas e metadados cuja comprovação não foi localizada nesta revisão. A conversa aguarda pesquisa complementar; isso não demonstra que seus participantes não tenham mantido contato.",
+      "contextSummary": "A CNN relata grupo criado por Belline Santana com Vorcaro e Paulo Sérgio Neves de Souza. A fonte descreve suspeitas da PF; não traz manifestação das defesas. O recorte não é uma conclusão criminal.",
       "source": {
-        "outlet": "Revisão editorial",
-        "headline": "Transcrição pendente de verificação",
-        "date": "22/09/2026",
-        "link": "docs/auditoria.md"
+        "title": "Grupo de WhatsApp com servidores do Banco Central",
+        "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/",
+        "outlet": "CNN Brasil",
+        "date": "11/09/2026",
+        "note": "A matéria relata conclusões da PF. Não contém manifestação das defesas; isso não significa ausência de resposta posterior.",
+        "headline": "Grupo de WhatsApp com servidores do Banco Central",
+        "link": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
       },
       "messages": [
         {
-          "id": "bacen_operacoes-pending",
-          "sender": "them",
-          "date": "Revisão de 22 de setembro de 2026",
+          "id": "ds-bc1",
+          "editorialType": "context",
+          "type": "context",
+          "date": "2 de outubro de 2025",
+          "dateLabel": "2 de outubro de 2025",
           "time": "",
-          "editorialType": "pending",
-          "text": "A versão anterior continha falas e metadados cuja comprovação não foi localizada nesta revisão. A conversa aguarda pesquisa complementar; isso não demonstra que seus participantes não tenham mantido contato.",
-          "sources": []
+          "sender": "them",
+          "text": "Segundo a CNN, Belline Santana criou o grupo do WhatsApp que incluía Vorcaro e Paulo Sérgio Neves de Souza.",
+          "sources": [
+            "dos_bc"
+          ],
+          "researchRefs": [
+            "G-m1"
+          ],
+          "title": "Criação do grupo relatada"
+        },
+        {
+          "id": "ds-bc2",
+          "editorialType": "summary",
+          "type": "summary",
+          "date": "13 de outubro de 2025",
+          "dateLabel": "13 de outubro de 2025",
+          "time": "",
+          "sender": "them",
+          "text": "A reportagem descreve conversa sobre restrições à compra de carteiras pelo BRB. Vorcaro pede avaliação; Paulo Sérgio considera a decisão difícil por envolver a Procuradoria do BC.",
+          "sources": [
+            "dos_bc"
+          ],
+          "researchRefs": []
+        },
+        {
+          "id": "ds-bc3",
+          "editorialType": "summary",
+          "type": "summary",
+          "date": "13 de outubro de 2025",
+          "dateLabel": "13 de outubro de 2025",
+          "time": "",
+          "sender": "them",
+          "text": "Na sequência relatada, Paulo Sérgio sugere um ofício sobre os recebimentos das carteiras. A CNN publica imagens do diálogo.",
+          "sources": [
+            "dos_bc"
+          ],
+          "researchRefs": []
+        },
+        {
+          "id": "ds-bc4",
+          "editorialType": "context",
+          "type": "context",
+          "date": "11 de setembro de 2026 · publicação",
+          "dateLabel": "11 de setembro de 2026 · publicação",
+          "time": "",
+          "sender": "them",
+          "text": "A PF interpretou as trocas como consultoria em favor de Vorcaro. A matéria consultada não apresenta manifestação das defesas; isso não comprova ausência de resposta posterior.",
+          "sources": [
+            "dos_bc"
+          ],
+          "researchRefs": [],
+          "title": "Limite e atribuição"
         }
       ],
-      "phone": "Não exibida: sem necessidade editorial"
+      "phone": "Não exibida: sem necessidade editorial",
+      "responseSources": [
+        "dos_bc"
+      ]
     },
     {
       "id": "projeto_dv",
@@ -694,34 +774,76 @@ window.PELELEC_DATA = {
     },
     {
       "id": "desembargador_fasano",
-      "name": "Desembargador · identificação pendente",
+      "name": "Newton Ramos",
       "category": "fasano",
-      "role": "TRF-1 & Advocacia Precatórios",
+      "role": "Desembargador do TRF-1",
       "avatarColor": "#4e342e",
       "avatarInitials": "NR",
       "statusText": "documental",
       "lastSeen": "Acervo documental",
       "pinned": false,
       "unreadCount": 0,
-      "contextSummary": "A versão anterior continha falas e metadados cuja comprovação não foi localizada nesta revisão. A conversa aguarda pesquisa complementar; isso não demonstra que seus participantes não tenham mantido contato.",
+      "contextSummary": "Identificação nas reportagens; contrapontos de Newton e Nunes Marques nos cartões abaixo.",
       "source": {
-        "outlet": "Revisão editorial",
-        "headline": "Transcrição pendente de verificação",
-        "date": "22/09/2026",
-        "link": "docs/auditoria.md"
+        "title": "Contrato do escritório de Camilla Ramos e mensagens",
+        "url": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/",
+        "outlet": "CNN Brasil",
+        "date": "21/09/2026 · atualizada em 22/09",
+        "note": "Honorários condicionados ao êxito, não prova de pagamento efetivado. Inclui as manifestações de Newton Ramos e Nunes Marques.",
+        "headline": "Contrato do escritório de Camilla Ramos e mensagens",
+        "link": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/"
       },
       "messages": [
         {
-          "id": "desembargador_fasano-pending",
-          "sender": "them",
-          "date": "Revisão de 22 de setembro de 2026",
+          "id": "ds-nr1",
+          "editorialType": "context",
+          "type": "context",
+          "date": "21 de setembro de 2026 · publicação",
+          "dateLabel": "21 de setembro de 2026 · publicação",
           "time": "",
-          "editorialType": "pending",
-          "text": "A versão anterior continha falas e metadados cuja comprovação não foi localizada nesta revisão. A conversa aguarda pesquisa complementar; isso não demonstra que seus participantes não tenham mantido contato.",
-          "sources": []
+          "sender": "them",
+          "text": "CNN e Metrópoles identificam Newton e Camilla Ramos como as pessoas referidas em mensagens de assessores pela expressão “turma do KN”. Isso não transforma as mensagens desses assessores em falas diretas de Newton.",
+          "sources": [
+            "dos_kn"
+          ],
+          "researchRefs": [],
+          "title": "Identificação na cobertura"
+        },
+        {
+          "id": "ds-nr2",
+          "editorialType": "summary",
+          "type": "summary",
+          "date": "2025 · datas variam por registro",
+          "dateLabel": "2025 · datas variam por registro",
+          "time": "",
+          "sender": "them",
+          "text": "A CNN relata pedidos relativos a hospedagem e camarote em conversas de Vorcaro com assessores. A reportagem publica as mensagens e a manifestação de Newton.",
+          "sources": [
+            "dos_kn"
+          ],
+          "researchRefs": [],
+          "title": "Menções em conversas com terceiros"
+        },
+        {
+          "id": "ds-nr3",
+          "editorialType": "context",
+          "type": "context",
+          "date": "21 de setembro de 2026 · manifestação",
+          "dateLabel": "21 de setembro de 2026 · manifestação",
+          "time": "",
+          "sender": "them",
+          "text": "Newton disse que as consultas sobre imóveis e transportes eram privadas e sem vínculo com suas funções públicas. Nunes Marques negou autorizar pessoas a falar em seu nome ou trocar mensagens com Vorcaro.",
+          "sources": [
+            "dos_kn"
+          ],
+          "researchRefs": [],
+          "title": "Contrapontos"
         }
       ],
-      "phone": "Não exibida: sem necessidade editorial"
+      "phone": "Não exibida: sem necessidade editorial",
+      "responseSources": [
+        "dos_kn"
+      ]
     },
     {
       "id": "piloto_jatinho",
@@ -1095,6 +1217,388 @@ window.PELELEC_DATA = {
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
         "date": "01/01/2019"
       }
+    },
+    {
+      "id": "ciro_soares",
+      "avatarColor": "#455a64",
+      "avatarInitials": "CS",
+      "pinned": false,
+      "unreadCount": 0,
+      "name": "Ciro Soares",
+      "role": "Advogado · mensagens encaminhadas",
+      "category": "juridico",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "contextSummary": "Recorte da conversa com Ciro, incluindo mensagens de terceiros. Gonet nega proximidade com Vorcaro e descreveu a ligação como breve. Ciro negou irregularidade na foto de Londres.",
+      "responseSources": [
+        "dos_gonet_resp",
+        "ciroLondres"
+      ],
+      "source": {
+        "title": "Gonet nega proximidade com Vorcaro",
+        "url": "https://www.cnnbrasil.com.br/politica/nao-mantive-proximidade-com-vorcaro-diz-gonet/",
+        "outlet": "CNN Brasil",
+        "date": "15/09/2026",
+        "note": "",
+        "headline": "Gonet nega proximidade com Vorcaro",
+        "link": "https://www.cnnbrasil.com.br/politica/nao-mantive-proximidade-com-vorcaro-diz-gonet/"
+      },
+      "messages": [
+        {
+          "id": "ds-cs1",
+          "editorialType": "quote",
+          "type": "quote",
+          "date": "14 de abril de 2024",
+          "dateLabel": "14 de abril de 2024",
+          "time": "",
+          "sender": "them",
+          "text": "Gonet é firme",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [
+            "A2-m2"
+          ],
+          "speaker": "Ciro Soares"
+        },
+        {
+          "id": "ds-cs2",
+          "editorialType": "quote",
+          "type": "quote",
+          "date": "14 de abril de 2024",
+          "dateLabel": "14 de abril de 2024",
+          "time": "",
+          "sender": "me",
+          "text": "O cara largou?",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [
+            "A2-m7"
+          ],
+          "speaker": "Daniel Vorcaro"
+        },
+        {
+          "id": "ds-cs3",
+          "editorialType": "quote",
+          "type": "quote",
+          "date": "14 de abril de 2024",
+          "dateLabel": "14 de abril de 2024",
+          "time": "",
+          "sender": "them",
+          "text": "Sim",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [
+            "A2-m8"
+          ],
+          "speaker": "Ciro Soares"
+        },
+        {
+          "id": "ds-cs4",
+          "editorialType": "quote",
+          "type": "quote",
+          "date": "14 de abril de 2024",
+          "dateLabel": "14 de abril de 2024",
+          "time": "",
+          "sender": "me",
+          "text": "Top demais",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [
+            "A2-m9"
+          ],
+          "speaker": "Daniel Vorcaro"
+        },
+        {
+          "id": "ds-cs5",
+          "editorialType": "summary",
+          "type": "summary",
+          "date": "14 de abril de 2024",
+          "dateLabel": "14 de abril de 2024",
+          "time": "",
+          "sender": "them",
+          "text": "A CNN transcreve um áudio em que Ciro relata ter pedido a Gonet que conversasse com um candidato para ele desistir. É o relato do advogado; o áudio não é reproduzido pelo aplicativo.",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [
+            "A2-m10"
+          ],
+          "title": "Relato em áudio"
+        },
+        {
+          "id": "ds-cs6",
+          "editorialType": "media",
+          "type": "media",
+          "date": "15 de março de 2025",
+          "dateLabel": "15 de março de 2025",
+          "time": "",
+          "sender": "them",
+          "text": "Segundo a reportagem, Ciro enviou uma selfie com Gonet e pediu uma ligação. A foto publicada pelo veículo pode ser vista no link da fonte.",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [],
+          "title": "📷 Selfie compartilhada · ver na fonte",
+          "sharedPhoto": true,
+          "mediaLink": "https://www.cnnbrasil.com.br/politica/saudades-amizade-e-tudo-veja-mensagens-de-gonet-para-vorcaro/",
+          "mediaLinkLabel": "Ver fotografia publicada ↗",
+          "rightsNote": "Crédito no veículo: Reprodução. Licença de republicação não verificada."
+        },
+        {
+          "id": "ds-cs7",
+          "editorialType": "quote",
+          "type": "quote",
+          "date": "15 de março de 2025",
+          "dateLabel": "15 de março de 2025",
+          "time": "",
+          "sender": "them",
+          "text": "Liga aqui",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [],
+          "speaker": "Ciro Soares"
+        },
+        {
+          "id": "ds-cs8",
+          "editorialType": "summary",
+          "type": "summary",
+          "date": "28 de março de 2025",
+          "dateLabel": "28 de março de 2025",
+          "time": "",
+          "sender": "them",
+          "text": "Ciro encaminhou mensagens atribuídas a Gonet, com felicitações e referência a uma viagem. O remetente no chat é Ciro; Gonet é o autor atribuído ao texto encaminhado.",
+          "sources": [
+            "dos_ciro"
+          ],
+          "researchRefs": [],
+          "title": "Mensagem encaminhada · atribuição da reportagem"
+        },
+        {
+          "id": "ds-cs9",
+          "editorialType": "media",
+          "type": "media",
+          "date": "Junho de 2025 · envio / abril de 2024 · fotografia",
+          "dateLabel": "Junho de 2025 · envio / abril de 2024 · fotografia",
+          "time": "",
+          "sender": "them",
+          "text": "O UOL reproduz registro em que Ciro envia a fotografia de um encontro em Londres com Vorcaro e Gonet. As datas da fotografia e de seu compartilhamento são distintas.",
+          "sources": [
+            "ciroLondres"
+          ],
+          "researchRefs": [
+            "A2-m70"
+          ],
+          "title": "📷 Londres · foto compartilhada",
+          "sharedPhoto": true,
+          "mediaLink": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/19/quem-e-ciro-soares-advogado-que-aparece-com-vorcaro-e-gonet-em-londres.ghtm",
+          "mediaLinkLabel": "Ver fotografia na reportagem ↗",
+          "rightsNote": "Crédito: Reprodução / UOL. Licença de republicação não verificada."
+        },
+        {
+          "id": "ds-cs10",
+          "editorialType": "context",
+          "type": "context",
+          "date": "15 de setembro de 2026 · resposta pública",
+          "dateLabel": "15 de setembro de 2026 · resposta pública",
+          "time": "",
+          "sender": "them",
+          "text": "Gonet negou relacionamento de proximidade com Vorcaro. Disse que o encontro de abril de 2024 ocorreu com outras autoridades e descreveu a ligação intermediada por advogado como breve e banal.",
+          "sources": [
+            "dos_gonet_resp"
+          ],
+          "researchRefs": [],
+          "title": "Contraponto"
+        }
+      ]
+    },
+    {
+      "id": "fabio_faria",
+      "avatarColor": "#455a64",
+      "avatarInitials": "FF",
+      "pinned": false,
+      "unreadCount": 0,
+      "name": "Fábio Faria",
+      "role": "Ex-ministro das Comunicações",
+      "category": "politica",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "contextSummary": "Mensagens de intermediação relatadas pela PF. Faria afirma que apenas sugeriu o escritório, não se reuniu com a banca e desconhecia os valores. Moraes contesta a atribuição das conversas.",
+      "responseSources": [
+        "dos_faria_resp",
+        "negativa"
+      ],
+      "source": {
+        "title": "Relatório e manifestação de Fábio Faria",
+        "url": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/fabio-faria-intermediou-contatos-entre-moraes-e-vorcaro-diz-pf/",
+        "outlet": "CNN Brasil · Jussara Soares",
+        "date": "01/09/2026",
+        "note": "Faria afirma ter sugerido o escritório, sem participar de reunião com a banca ou conhecer valores. Esta reportagem situa pedidos para apagar mensagens em novembro; CartaCapital e dossiê apontam abril. Esse trecho não recebeu data exata no acervo.",
+        "headline": "Relatório e manifestação de Fábio Faria",
+        "link": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/fabio-faria-intermediou-contatos-entre-moraes-e-vorcaro-diz-pf/"
+      },
+      "messages": [
+        {
+          "id": "ds-ff1",
+          "editorialType": "media",
+          "type": "media",
+          "date": "26 de dezembro de 2023",
+          "dateLabel": "26 de dezembro de 2023",
+          "time": "",
+          "sender": "them",
+          "text": "Segundo a reportagem, Faria compartilhou cartões de contato associados ao nome de Moraes. Os números não são reproduzidos.",
+          "sources": [
+            "dos_faria"
+          ],
+          "researchRefs": [
+            "B2-m130"
+          ],
+          "title": "Cartões de contato · números omitidos"
+        },
+        {
+          "id": "ds-ff2",
+          "editorialType": "quote",
+          "type": "quote",
+          "date": "15 de janeiro de 2024",
+          "dateLabel": "15 de janeiro de 2024",
+          "time": "",
+          "sender": "them",
+          "text": "Respondeu a Vivi?",
+          "sources": [
+            "dos_faria"
+          ],
+          "researchRefs": [],
+          "speaker": "Fábio Faria"
+        },
+        {
+          "id": "ds-ff3",
+          "editorialType": "summary",
+          "type": "summary",
+          "date": "15 de janeiro de 2024",
+          "dateLabel": "15 de janeiro de 2024",
+          "time": "",
+          "sender": "them",
+          "text": "A reportagem descreve uma troca sobre a duração de um contrato com o escritório Barci de Moraes. Vorcaro pergunta sobre três anos; Faria menciona quatro e aceita a alternativa de três.",
+          "sources": [
+            "dos_faria"
+          ],
+          "researchRefs": []
+        },
+        {
+          "id": "ds-ff4",
+          "editorialType": "quote",
+          "type": "quote",
+          "date": "15 de março de 2024",
+          "dateLabel": "15 de março de 2024",
+          "time": "",
+          "sender": "them",
+          "text": "O careca não pode atrasar",
+          "sources": [
+            "dos_faria_resp"
+          ],
+          "researchRefs": [],
+          "speaker": "Fábio Faria",
+          "excerpt": true
+        },
+        {
+          "id": "ds-ff5",
+          "editorialType": "context",
+          "type": "context",
+          "date": "1º de setembro de 2026 · resposta publicada",
+          "dateLabel": "1º de setembro de 2026 · resposta publicada",
+          "time": "",
+          "sender": "them",
+          "text": "Faria disse que sugeriu o escritório para um caso na Justiça de São Paulo, sem reunião com a banca nem conhecimento dos valores contratados.",
+          "sources": [
+            "dos_faria_resp"
+          ],
+          "researchRefs": [],
+          "title": "Manifestação de Faria"
+        }
+      ]
+    },
+    {
+      "id": "camilla_ramos",
+      "avatarColor": "#455a64",
+      "avatarInitials": "CR",
+      "pinned": false,
+      "unreadCount": 0,
+      "name": "Camilla Ramos",
+      "role": "Advogada · contrato de honorários",
+      "category": "juridico",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "contextSummary": "Honorários condicionados ao êxito. Manifestação própria de Camilla não localizada.",
+      "responseSources": [
+        "dos_kn"
+      ],
+      "source": {
+        "title": "Contrato do escritório de Camilla Ramos e mensagens",
+        "url": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/",
+        "outlet": "CNN Brasil",
+        "date": "21/09/2026 · atualizada em 22/09",
+        "note": "Honorários condicionados ao êxito, não prova de pagamento efetivado. Inclui as manifestações de Newton Ramos e Nunes Marques.",
+        "headline": "Contrato do escritório de Camilla Ramos e mensagens",
+        "link": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/"
+      },
+      "messages": [
+        {
+          "id": "ds-cr1",
+          "editorialType": "context",
+          "type": "context",
+          "date": "21 de setembro de 2026 · publicação",
+          "dateLabel": "21 de setembro de 2026 · publicação",
+          "time": "",
+          "sender": "them",
+          "text": "O contrato descrito pela CNN previa honorários de êxito em 12 ações. A cifra de R$ 427 milhões corresponde ao cenário de vitória, não a um pagamento comprovado neste recorte.",
+          "sources": [
+            "dos_kn"
+          ],
+          "researchRefs": [],
+          "title": "Honorários condicionados ao êxito"
+        },
+        {
+          "id": "ds-cr2",
+          "editorialType": "summary",
+          "type": "summary",
+          "date": "Junho de 2025 · dia não conferido na reportagem textual",
+          "dateLabel": "Junho de 2025 · dia não conferido na reportagem textual",
+          "time": "",
+          "sender": "them",
+          "text": "A CNN relata mensagem em que Camilla comemora um resultado judicial e menciona voto de Nunes Marques. O dossiê indica 3 de junho; este cartão preserva a precisão conferida no texto consultado.",
+          "sources": [
+            "dos_kn"
+          ],
+          "researchRefs": [
+            "A2-m162"
+          ]
+        },
+        {
+          "id": "ds-cr3",
+          "editorialType": "media",
+          "type": "media",
+          "date": "21 de setembro de 2026 · publicação",
+          "dateLabel": "21 de setembro de 2026 · publicação",
+          "time": "",
+          "sender": "them",
+          "text": "O Metrópoles publica capturas de mensagens e detalhes do contrato. Consulte as imagens na reportagem original; elas não foram incorporadas como arquivos do aplicativo.",
+          "sources": [
+            "dos_kn_print"
+          ],
+          "researchRefs": [],
+          "title": "Capturas publicadas · consultar na fonte",
+          "mediaLink": "https://www.metropoles.com/colunas/andreza-matais/r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro",
+          "mediaLinkLabel": "Ver capturas na reportagem ↗",
+          "rightsNote": "Licença de reprodução das capturas não verificada."
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -1104,10 +1608,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 44,
+      "totalMessagesRecovered": 68,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 17
+      "sensitiveContactsIdentified": 20
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -1279,6 +1783,69 @@ window.PELELEC_DATA = {
       "title": "Mensagens entre Vorcaro e o ex-presidente do BRB",
       "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mensagens-de-vorcaro-e-ex-brb-revelam-negociacao-de-fraude-bilionaria/",
       "note": "A reportagem apresenta suspeitas da investigação; não é sentença. A defesa de Vorcaro não comentou; o texto informa que procurou os advogados de Costa."
+    },
+    "dos_ciro": {
+      "title": "Mensagens encaminhadas por Ciro e atribuídas a Gonet",
+      "url": "https://www.cnnbrasil.com.br/politica/saudades-amizade-e-tudo-veja-mensagens-de-gonet-para-vorcaro/",
+      "outlet": "CNN Brasil",
+      "date": "02/09/2026",
+      "note": "São mensagens na conversa Ciro–Vorcaro; mensagens encaminhadas não constituem um chat direto com Gonet. Há divergências de grafia entre transcrições; não normalizamos silenciosamente."
+    },
+    "dos_gonet_resp": {
+      "title": "Gonet nega proximidade com Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/politica/nao-mantive-proximidade-com-vorcaro-diz-gonet/",
+      "outlet": "CNN Brasil",
+      "date": "15/09/2026",
+      "note": ""
+    },
+    "dos_faria": {
+      "title": "Fábio Faria e a intermediação de contatos",
+      "url": "https://www.cartacapital.com.br/politica/fabio-faria-aparece-como-ponte-entre-vorcaro-e-moraes-em-mensagens-divulgadas-pela-pf/",
+      "outlet": "CartaCapital",
+      "date": "01/09/2026",
+      "note": ""
+    },
+    "dos_faria_resp": {
+      "title": "Relatório e manifestação de Fábio Faria",
+      "url": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/fabio-faria-intermediou-contatos-entre-moraes-e-vorcaro-diz-pf/",
+      "outlet": "CNN Brasil · Jussara Soares",
+      "date": "01/09/2026",
+      "note": "Faria afirma ter sugerido o escritório, sem participar de reunião com a banca ou conhecer valores. Esta reportagem situa pedidos para apagar mensagens em novembro; CartaCapital e dossiê apontam abril. Esse trecho não recebeu data exata no acervo."
+    },
+    "dos_kn": {
+      "title": "Contrato do escritório de Camilla Ramos e mensagens",
+      "url": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/",
+      "outlet": "CNN Brasil",
+      "date": "21/09/2026 · atualizada em 22/09",
+      "note": "Honorários condicionados ao êxito, não prova de pagamento efetivado. Inclui as manifestações de Newton Ramos e Nunes Marques."
+    },
+    "dos_kn_print": {
+      "title": "Reportagem com prints de Newton e Camilla Ramos",
+      "url": "https://www.metropoles.com/colunas/andreza-matais/r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro",
+      "outlet": "Metrópoles · Andreza Matais",
+      "date": "21/09/2026",
+      "note": "Prints disponíveis no veículo; licença de reprodução das imagens não verificada."
+    },
+    "dos_bc": {
+      "title": "Grupo de WhatsApp com servidores do Banco Central",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/",
+      "outlet": "CNN Brasil",
+      "date": "11/09/2026",
+      "note": "A matéria relata conclusões da PF. Não contém manifestação das defesas; isso não significa ausência de resposta posterior."
+    },
+    "dos_castro": {
+      "title": "Mensagens entre Castro e Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/politica/em-mensagens-castro-e-vorcaro-se-chamavam-de-amigo-e-irmao/",
+      "outlet": "CNN Brasil",
+      "date": "28/05/2026",
+      "note": ""
+    },
+    "dos_anexo4": {
+      "title": "Anexo 4: registros da conversa atribuída ao contato Alexandre",
+      "url": "https://static.poder360.com.br/uploads/2026/09/pet16662-whatsapp-vorcaro-alexandre-moraes-sigiloderrubado-1set2026.pdf",
+      "outlet": "PF / PDF publicado pelo Poder360",
+      "date": "01/09/2026",
+      "note": "Página 1 conferida visualmente: quatro marcadores de exclusão em 01/10/2025 e configuração de 24 horas. O conteúdo apagado não aparece. O PDF contém telefone; não reproduzimos a página nem o número. A atribuição a Moraes é contestada."
     }
   }
 };

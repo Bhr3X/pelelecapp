@@ -1307,3 +1307,7 @@ body {
     right: -100vw;
   }
 }
+
+/* Contraste dos metadados no tema claro; sem mudança de geometria. */
+body[data-theme="light"] .message-row.me .message-meta { color: #526456; }
+.media-caption-text a { color: #8adfff; }

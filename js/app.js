@@ -347,6 +347,7 @@ const PelelecApp = {
       ${msg.title?`<strong>${escapeHTML(msg.title)}</strong><br>`:''}
       ${msg.speaker?`<small>${escapeHTML(msg.speaker)}</small><br>`:''}
       <div class="message-text">${msg.editorialType==='quote'?'“':''}${escapeHTML(msg.text)}${msg.editorialType==='quote'?'”':''}</div>
+      ${msg.mediaLink ? `<div class="media-bubble-card"><div class="media-caption-text"><a href="${escapeHTML(msg.mediaLink)}" target="_blank" rel="noopener noreferrer">${escapeHTML(msg.mediaLinkLabel || 'Ver na fonte ↗')}</a><br><small>${escapeHTML(msg.rightsNote || '')}</small></div></div>` : ''}
       <div class="message-meta"><span class="message-time">${escapeHTML(msg.time || 'Horário não informado')}</span></div>
       ${window.ForensicManager.isForensicModeActive?sourceButtons:''}`;
   },
