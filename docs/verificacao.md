@@ -31,3 +31,11 @@
 - Dados documentais e URLs preservados; busca aceita o texto traduzido no idioma ativo.
 - Navegador: persistência após recarregar, busca por “foreign investors”, modal de fonte, retorno PT/EN e alternância da perícia conferidos. Emulação de 390 px sem transbordamento; botão de fonte compacto para acomodar o seletor.
 - 13 testes passaram, incluindo cobertura de todas as mensagens, restauração exata de textos e armazenamento indisponível.
+
+## Fotos compartilhadas inline — 22/09/2026
+- ds-cs6: selfie identificada e conferida visualmente no corpo da reportagem da CNN (legenda Ciro Soares / Paulo Gonet). O nome inesperado do arquivo de CDN não foi usado como evidência de conteúdo.
+- ds-cs9: fotografia de Londres conferida no corpo da reportagem do UOL indicada no cartão.
+- Ambas incorporadas pelas URLs observadas, sem edição, com crédito, alt PT/EN, link à reportagem e aviso de indisponibilidade em caso de falha. Direitos de republicação continuam não verificados; não se declara licença aberta. Inclusão inline solicitada explicitamente pelo usuário.
+- Navegador: ambas carregaram no balão; em 390 px, largura aproximada de 304 px, sem transbordamento horizontal. Os arquivos dependem dos servidores dos veículos.
+- Outros arquivos não localizados não foram substituídos por imagens genéricas.
+- 14 testes passaram; sintaxe e diff sem erros.

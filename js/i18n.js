@@ -100,6 +100,11 @@
     'Anexo':'Attachment', 'Enviar mensagem':'Send message', 'Voltar':'Back', 'Nome':'Name', 'Cargo / Função':'Position / Role', 'Transcrição pendente de verificação':'Transcript awaiting verification', 'Revisão editorial':'Editorial review'
   };
   Object.assign(dictionary, {
+    'Selfie de Ciro Soares e Paulo Gonet publicada pela CNN Brasil':'Selfie of Ciro Soares and Paulo Gonet published by CNN Brasil',
+    'Fotografia do encontro em Londres reproduzida pelo UOL no registro da conversa de Ciro':'Photograph of the London meeting reproduced by UOL in the record of Ciro’s conversation',
+    'Imagem da publicação original':'Image from the original publication',
+    'Imagem indisponível no momento. Consulte a reportagem abaixo.':'Image currently unavailable. See the article below.',
+
     'Pudim em combate · Brasília Survivors':'Pudim in combat · Brasília Survivors',
     'Mapa inicial de relatos; mencionar uma pessoa não comprova diálogo direto com ela.':'Initial overview of accounts; mentioning a person does not establish a direct conversation with them.',
     'Publica sequência datada de 30/03/2025. Os horários abaixo são os transcritos pelo veículo; fuso não informado.':'Publishes a sequence dated 30 March 2025. The times below are those transcribed by the outlet; no time zone is specified.',
