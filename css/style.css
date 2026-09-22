@@ -1307,3 +1307,39 @@ body {
     right: -100vw;
   }
 }
+
+/* Contraste dos metadados no tema claro; sem mudança de geometria. */
+body[data-theme="light"] .message-row.me .message-meta { color: #526456; }
+.media-caption-text a { color: #8adfff; }
+
+/* Divulgação como última conversa: sem banner fixo ou sobreposição. */
+.promo-contact { padding: 0; }
+.promo-contact-button { display: flex; align-items: center; gap: 14px; width: 100%; padding: 16px; border: 0; background: transparent; color: inherit; text-align: left; font: inherit; cursor: pointer; }
+.promo-contact-button:focus-visible { outline: 2px solid #b59c00; outline-offset: -3px; }
+.promo-label { font-size: 9px; color: var(--text-secondary); }
+.promo-open { background: #ffe600; color: #0d0d11; border-radius: 14px; padding: 4px 9px; font-size: 10px; font-weight: 800; white-space: nowrap; }
+.promo-bubble { width: min(100%, 560px); }
+.promo-shot { margin: 0; }
+.promo-shot img { display: block; width: 100%; height: auto; border-radius: 7px; }
+.promo-shot figcaption { padding-top: 8px; font-size: 13px; }
+.promo-chat-cta { margin-top: 12px; min-height: 44px; padding: 10px 20px; }
+.promo-credit { font-size: 11px; line-height: 1.5; color: var(--text-secondary); margin: 12px 0 0; }
+
+#sourceBtnHeader[hidden] { display: none; }
+
+.language-switch { display: inline-flex; border: 1px solid var(--border-color, #8696a0); border-radius: 6px; overflow: hidden; flex-shrink: 0; }
+.language-switch button { border: 0; padding: 7px 6px; min-height: 32px; background: transparent; color: var(--text-primary); font-family: inherit; font-size: 11px; font-weight: 700; cursor: pointer; }
+.language-switch button[aria-pressed="true"] { background: var(--accent-green); color: #fff; }
+.language-switch button:focus-visible { outline: 2px solid #b87900; outline-offset: -2px; }
+.language-mobile { display: none; }
+@media (max-width: 900px) {
+  .language-mobile { display: block; }
+  .sidebar-actions { gap: 4px; }
+  .chat-header-info { min-width: 0; }
+  .chat-header-name, .chat-header-status { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+}
+
+@media (max-width: 600px) {
+  .source-btn-header .source-btn-text { display: none; }
+  .source-btn-header { min-width: 32px; min-height: 32px; justify-content: center; }
+}

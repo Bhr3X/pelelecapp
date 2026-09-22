@@ -497,3 +497,6 @@
   from { opacity: 0; transform: translateY(-4px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+/* O dourado claro original é reservado ao fundo escuro. */
+body[data-theme="light"] .forensic-badge-tag { color: #725000; border-color: #b59c62; }

@@ -1,0 +1,6948 @@
+{
+  "file": "dossie-vorcaro.md",
+  "sha256": "66486729b2c6feb3197738b83e8f4a76b462ff89e9322eaa53269998d5fdff9c",
+  "declaredMessages": 865,
+  "indexedRecords": 868,
+  "sections": 68,
+  "notice": "Índice estrutural, não validação factual. Transcrições não são importadas automaticamente.",
+  "records": [
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 332,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m1"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 337,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m2"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 342,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m3"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 347,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m4"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 352,
+      "classification": "RELATO",
+      "refs": [
+        "A2-m5"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 357,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m6"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 362,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m7"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 367,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m8"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 372,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m9"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 377,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m10"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 382,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m11"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 387,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m12"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 392,
+      "classification": "RELATO · CHAMADA · CONF. MÉDIA",
+      "refs": [
+        "A2-m13"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 397,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m14"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 402,
+      "classification": "APAGADA · CONF. MÉDIA",
+      "refs": [
+        "A2-m15"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 407,
+      "classification": "APAGADA · CONF. MÉDIA",
+      "refs": [
+        "A2-m16"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 412,
+      "classification": "APAGADA · CONF. MÉDIA",
+      "refs": [
+        "A2-m17"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 417,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m18"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 422,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m40"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 427,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m19"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 432,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m20"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 437,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m21"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 442,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m22"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 447,
+      "classification": "RELATO · IMAGEM · CONF. MÉDIA",
+      "refs": [
+        "A2-m23"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 452,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m30"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 457,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m31"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 462,
+      "classification": "RELATO · ÁUDIO · CONF. MÉDIA",
+      "refs": [
+        "A2-m32"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 467,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m24"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 475,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m25"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 480,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO · CONF. MÉDIA",
+      "refs": [
+        "A2-m26"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 485,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m27"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 490,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m28"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 495,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO · CONF. MÉDIA",
+      "refs": [
+        "A2-m29"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 500,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m33"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 505,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m35"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 510,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m34"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 515,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m36"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 520,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m38"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 525,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "A2-m41"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 530,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "A2-m42"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 535,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "A2-m43"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 540,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "A2-m45"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 545,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "A2-m37"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 550,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m39"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 555,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "A2-m40"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 560,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m44"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 565,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m50"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 570,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m54"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 575,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m46"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 580,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m47"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 585,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m48"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 590,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m49"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 595,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m51"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 600,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m52"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 605,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m53"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 610,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m55"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 615,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m56"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 620,
+      "classification": "RELATO",
+      "refs": [
+        "A2-m57"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 625,
+      "classification": "APAGADA",
+      "refs": [
+        "A2-m58"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 630,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m59"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 635,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m60"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 640,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m61"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 645,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m62"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 650,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m63"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 655,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m64"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 660,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m65"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 665,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m66"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 670,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m67"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 675,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m68"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 680,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m69"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 685,
+      "classification": "RELATO · IMAGEM · CONF. MÉDIA",
+      "refs": [
+        "A2-m70"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 690,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m71"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 695,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m72"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 700,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m73"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 705,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m74"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 710,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m75"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 715,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m76"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 720,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m77"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 725,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m78"
+      ]
+    },
+    {
+      "section": "Ciro Soares · Ciro Rocha Soares",
+      "line": 730,
+      "classification": "RELATO · ÁUDIO · CONF. MÉDIA",
+      "refs": [
+        "A2-m79"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 748,
+      "classification": "OMITIDO PELO DOSSIÊ",
+      "refs": [
+        "H-m1"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 753,
+      "classification": "REGISTRO DO APARELHO · AVISO DO WHATSAPP",
+      "refs": [
+        "E-m1"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 758,
+      "classification": "APAGADA",
+      "refs": [
+        "E-m2"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 763,
+      "classification": "APAGADA",
+      "refs": [
+        "E-m3"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 768,
+      "classification": "APAGADA",
+      "refs": [
+        "E-m4"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 773,
+      "classification": "APAGADA",
+      "refs": [
+        "E-m5"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 778,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE",
+      "refs": [
+        "E-m6"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 783,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m7"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 790,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m206"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 795,
+      "classification": "RELATO · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF",
+      "refs": [
+        "A2-m207"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 800,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m10"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 806,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m208"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 811,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m12"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 818,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m13"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 825,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE",
+      "refs": [
+        "E-m14"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 831,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m15"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 836,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m16"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 844,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m17"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 849,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m18"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 855,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m19"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 860,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m20"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 869,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m21"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 878,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m22"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 883,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m23"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 892,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m24"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 898,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m25"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 904,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m26"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 909,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m27"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 915,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m28"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 920,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m29"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 928,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m30"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 935,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m31"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 940,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m32"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 945,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m33"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 950,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m34"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 956,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m35"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 962,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m36"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 968,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "E-m37"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 975,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE",
+      "refs": [
+        "E-m38"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 984,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m209"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 989,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m40"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 994,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m41"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 999,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m42"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1004,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m43"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1009,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m44"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1015,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO · CONF. MÉDIA",
+      "refs": [
+        "E-m45"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1025,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "E-m46"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1032,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m47"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1039,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m48"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1044,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "E-m49"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1051,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m210"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1056,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m50"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1062,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. BAIXA",
+      "refs": [
+        "E-m51"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1067,
+      "classification": "LITERAL · PRINT DE NOTA (VISUALIZAÇÃO ÚNICA) · RECUPERADA PELA PF · CONFERIDA NA FONTE",
+      "refs": [
+        "E-m52"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1072,
+      "classification": "LITERAL · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF · TRANSCRITA DE IMAGEM DO RELATÓRIO",
+      "refs": [
+        "E-m53"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1083,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF",
+      "refs": [
+        "E-m54"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1088,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF",
+      "refs": [
+        "H-m8"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1093,
+      "classification": "LITERAL · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "E-m55"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1099,
+      "classification": "LITERAL · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF · CONFERIDA NA FONTE",
+      "refs": [
+        "E-m56"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1104,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF",
+      "refs": [
+        "E-m57"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1109,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF",
+      "refs": [
+        "H-m11"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1114,
+      "classification": "LITERAL · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF · CONFERIDA NA FONTE",
+      "refs": [
+        "E-m58"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1119,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF",
+      "refs": [
+        "E-m59"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1124,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF",
+      "refs": [
+        "E-m60"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1129,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF",
+      "refs": [
+        "H-m14"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1134,
+      "classification": "LITERAL · VISUALIZAÇÃO ÚNICA · RECUPERADA PELA PF · CONFERIDA NA FONTE",
+      "refs": [
+        "E-m61"
+      ]
+    },
+    {
+      "section": "Alexandre de Moraes BRASILIA · Alexandre de Moraes",
+      "line": 1142,
+      "classification": "FATO",
+      "refs": []
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1160,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m127"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1165,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m46"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1170,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m36"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1175,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m37"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1180,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "A2-m130"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1185,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m128"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1190,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m129"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1195,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m131"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1200,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m132"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1205,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "A2-m133"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1210,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m47"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1215,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "A2-m134"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1220,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m135"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1225,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m136"
+      ]
+    },
+    {
+      "section": "Diretor Paulo Sergio Bacen · Paulo Sérgio Neves de Souza",
+      "line": 1230,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m137"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1244,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO",
+      "refs": [
+        "A2-m152"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1249,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO",
+      "refs": [
+        "A2-m153"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1254,
+      "classification": "APAGADA",
+      "refs": [
+        "A2-m154"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1259,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m155"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1264,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m156"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1269,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m157"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1274,
+      "classification": "RELATO",
+      "refs": [
+        "A2-m158"
+      ]
+    },
+    {
+      "section": "Newton Ramos",
+      "line": 1279,
+      "classification": "RELATO",
+      "refs": [
+        "A2-m159"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1293,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m160"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1298,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m161"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1303,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO",
+      "refs": [
+        "A2-m162"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1311,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO",
+      "refs": [
+        "A2-m163"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1316,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO",
+      "refs": [
+        "A2-m164"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1321,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m165"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1326,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m166"
+      ]
+    },
+    {
+      "section": "Camilla Ewerton Ramos · Camilla Ramos",
+      "line": 1331,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO",
+      "refs": [
+        "A2-m167"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1342,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m1"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1347,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "G-m2"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1352,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m3"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1357,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "G-m4"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1362,
+      "classification": "RELATO · DOCUMENTO",
+      "refs": [
+        "G-m5"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1367,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m6"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1372,
+      "classification": "RELATO · CHAMADA · CONF. MÉDIA",
+      "refs": [
+        "G-m7"
+      ]
+    },
+    {
+      "section": "Grupo “Master”",
+      "line": 1377,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m8"
+      ]
+    },
+    {
+      "section": "Benedito Gonçalves",
+      "line": 1391,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m183"
+      ]
+    },
+    {
+      "section": "Benedito Gonçalves",
+      "line": 1396,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m184"
+      ]
+    },
+    {
+      "section": "Benedito Gonçalves",
+      "line": 1401,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m185"
+      ]
+    },
+    {
+      "section": "Benedito Gonçalves",
+      "line": 1406,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m186"
+      ]
+    },
+    {
+      "section": "Benedito Gonçalves",
+      "line": 1411,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m187"
+      ]
+    },
+    {
+      "section": "Benedito Gonçalves",
+      "line": 1416,
+      "classification": "RELATO · IMAGEM · CONF. MÉDIA",
+      "refs": [
+        "A2-m188"
+      ]
+    },
+    {
+      "section": "Márcio Contador Camargo",
+      "line": 1429,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m113"
+      ]
+    },
+    {
+      "section": "Márcio Contador Camargo",
+      "line": 1434,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m114"
+      ]
+    },
+    {
+      "section": "Márcio Contador Camargo",
+      "line": 1439,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m115"
+      ]
+    },
+    {
+      "section": "Márcio Contador Camargo",
+      "line": 1444,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B2-m116"
+      ]
+    },
+    {
+      "section": "Vivi Moraes · Viviane Barci de Moraes",
+      "line": 1459,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m30"
+      ]
+    },
+    {
+      "section": "Vivi Moraes · Viviane Barci de Moraes",
+      "line": 1467,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m31"
+      ]
+    },
+    {
+      "section": "Rodrigo Fux",
+      "line": 1480,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m120"
+      ]
+    },
+    {
+      "section": "Rodrigo Fux",
+      "line": 1485,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m119"
+      ]
+    },
+    {
+      "section": "Belline Santana",
+      "line": 1501,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m138"
+      ]
+    },
+    {
+      "section": "Advogado de Vorcaro (não identificado)",
+      "line": 1513,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m199"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1537,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "B1-m3"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1542,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m1"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1547,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m2"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1552,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m4"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1557,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m5"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1562,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m6"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1567,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m7"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1578,
+      "classification": "RELATO",
+      "refs": [
+        "B1-m8"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1583,
+      "classification": "RELATO · ÁUDIO · CONF. MÉDIA",
+      "refs": [
+        "H-m103"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1588,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "B1-m9"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1593,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m10"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1598,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m11"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1603,
+      "classification": "LITERAL · CHAMADA · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m12"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1608,
+      "classification": "LITERAL · CHAMADA · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m13"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1613,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m14"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1618,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m15"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1623,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m16"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1628,
+      "classification": "LITERAL · CHAMADA · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m17"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1633,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m18"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1638,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m19"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1643,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m20"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1648,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m21"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1653,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m22"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1658,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m23"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1663,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m24"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1668,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "B1-m25"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1673,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m26"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1678,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m27"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1683,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m28"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1688,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m29"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1693,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m30"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1698,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m31"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1703,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m32"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1708,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m33"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1713,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m34"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1718,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m35"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1723,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m36"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1728,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m37"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1733,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m38"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1738,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m39"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1743,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m40"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1748,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m41"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1753,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m42"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1758,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m43"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1763,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m44"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1768,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m45"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1773,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m46"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1778,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m47"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1783,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m48"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1788,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m49"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1793,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m50"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1798,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m51"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1803,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m52"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1808,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m53"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1813,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m54"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1818,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m55"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1823,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m56"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1828,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m57"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1833,
+      "classification": "LITERAL · VISUALIZAÇÃO ÚNICA · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m58"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1838,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m59"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1843,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m60"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1848,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m61"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1853,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m62"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1858,
+      "classification": "RELATO · CHAMADA",
+      "refs": [
+        "B1-m63"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1863,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m64"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1868,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA",
+      "refs": [
+        "B1-m65"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1873,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA",
+      "refs": [
+        "B1-m66"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1878,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m67"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1883,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA",
+      "refs": [
+        "B1-m68"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1888,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m69"
+      ]
+    },
+    {
+      "section": "Flavio Bolsonaro · Flávio Bolsonaro",
+      "line": 1893,
+      "classification": "FATO",
+      "refs": []
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1910,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m125"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1915,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m126"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1920,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m127"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1925,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m128"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1930,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m129"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1935,
+      "classification": "OMITIDO PELO DOSSIÊ",
+      "refs": [
+        "B2-m130"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1940,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m131"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1945,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m132"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1950,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m133"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1955,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m134"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1960,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m135"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1965,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m136"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1970,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m137"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1975,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "H-m24"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1981,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m138"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1986,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m139"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1991,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m140"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 1996,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m141"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2001,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m102"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2006,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m103"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2011,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m104"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2016,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m105"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2021,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m106"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2026,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m107"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2031,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m108"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2036,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m109"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2041,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m110"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2046,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m111"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2051,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m112"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2056,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m113"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2061,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m114"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2066,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m115"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2071,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m151"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2076,
+      "classification": "LITERAL · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m63"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2081,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m152"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2086,
+      "classification": "LITERAL",
+      "refs": [
+        "H-m29"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2091,
+      "classification": "RELATO · CONF. BAIXA",
+      "refs": [
+        "A2-m116"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2096,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "B2-m153"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2101,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m154"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2106,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m155"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2111,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m156"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2116,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m157"
+      ]
+    },
+    {
+      "section": "Fábio Faria",
+      "line": 2121,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m158"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2137,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m149"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2142,
+      "classification": "LITERAL",
+      "refs": [
+        "B1-m150"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2147,
+      "classification": "RELATO · ÁUDIO · CONF. MÉDIA",
+      "refs": [
+        "H-m108"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2152,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m148"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2157,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "B1-m151"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2162,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m152"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2167,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m153"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2172,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m154"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2177,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m155"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2182,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m157"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2187,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m159"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2192,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m160"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2197,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m161"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2202,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m162"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2207,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m156"
+      ]
+    },
+    {
+      "section": "Mario Frias",
+      "line": 2212,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m158"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2228,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m93"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2233,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m94"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2238,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m95"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2243,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m96"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2248,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B2-m98"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2253,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m97"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2258,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m103"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2263,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "H-m113"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2268,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m99"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2273,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m100"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2278,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m101"
+      ]
+    },
+    {
+      "section": "Cláudio Castro",
+      "line": 2283,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m102"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2297,
+      "classification": "RELATO · CHAMADA · CONF. MÉDIA",
+      "refs": [
+        "A2-m174"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2302,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m168"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2308,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m169"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2313,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m170"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2318,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m171"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2323,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m172"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2328,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m173"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2333,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m175"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2338,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m176"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2343,
+      "classification": "RELATO · CHAMADA · CONF. MÉDIA",
+      "refs": [
+        "A2-m177"
+      ]
+    },
+    {
+      "section": "Cezinha de Madureira",
+      "line": 2348,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m178"
+      ]
+    },
+    {
+      "section": "Nikolas Ferreira",
+      "line": 2365,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m179"
+      ]
+    },
+    {
+      "section": "Nikolas Ferreira",
+      "line": 2370,
+      "classification": "RELATO · VISUALIZAÇÃO ÚNICA · CONF. MÉDIA",
+      "refs": [
+        "B1-m180"
+      ]
+    },
+    {
+      "section": "Nikolas Ferreira",
+      "line": 2375,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "B1-m181"
+      ]
+    },
+    {
+      "section": "Nikolas Ferreira",
+      "line": 2380,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m182"
+      ]
+    },
+    {
+      "section": "Nikolas Ferreira",
+      "line": 2385,
+      "classification": "RELATO · ÁUDIO · CONF. MÉDIA",
+      "refs": [
+        "H-m109"
+      ]
+    },
+    {
+      "section": "Nikolas Ferreira",
+      "line": 2390,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m183"
+      ]
+    },
+    {
+      "section": "Nikolas Ferreira",
+      "line": 2395,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m111"
+      ]
+    },
+    {
+      "section": "Ibaneis Rocha",
+      "line": 2409,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m72"
+      ]
+    },
+    {
+      "section": "Ibaneis Rocha",
+      "line": 2414,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m73"
+      ]
+    },
+    {
+      "section": "Ibaneis Rocha",
+      "line": 2419,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m74"
+      ]
+    },
+    {
+      "section": "Ibaneis Rocha",
+      "line": 2424,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "B2-m75"
+      ]
+    },
+    {
+      "section": "Ibaneis Rocha",
+      "line": 2429,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "B2-m76"
+      ]
+    },
+    {
+      "section": "Fausto Pinato",
+      "line": 2443,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m34"
+      ]
+    },
+    {
+      "section": "Fausto Pinato",
+      "line": 2448,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m35"
+      ]
+    },
+    {
+      "section": "Fausto Pinato",
+      "line": 2453,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "H-m117"
+      ]
+    },
+    {
+      "section": "João Doria",
+      "line": 2466,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m116"
+      ]
+    },
+    {
+      "section": "Augusto Lima ↔ Jaques Wagner",
+      "line": 2477,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m123"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2495,
+      "classification": "RELATO",
+      "refs": [
+        "B1-m70"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2500,
+      "classification": "RELATO",
+      "refs": [
+        "B1-m71"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2505,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m72"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2510,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m73"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2515,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m74"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2520,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m75"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2525,
+      "classification": "LITERAL · IMAGEM · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "B1-m76"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2530,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m77"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2535,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m78"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2540,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "B1-m79"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2545,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m80"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2550,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m81"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2555,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m82"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2560,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m83"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2565,
+      "classification": "RELATO",
+      "refs": [
+        "B1-m84"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2570,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m85"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2575,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m86"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2580,
+      "classification": "RELATO",
+      "refs": [
+        "B1-m88"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2585,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "H-m107"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2590,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m87"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2595,
+      "classification": "LITERAL · IMAGEM · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m89"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2600,
+      "classification": "LITERAL · IMAGEM · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m90"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2605,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "B1-m91"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2610,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m92"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2615,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m93"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2620,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m94"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2625,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m75"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2630,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m76"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2635,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m77"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2640,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m78"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2645,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m79"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2650,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m80"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2655,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m77"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2660,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m78"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2665,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m79"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2670,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m81"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2675,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m82"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2680,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m83"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2685,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m95"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2690,
+      "classification": "RELATO",
+      "refs": [
+        "B1-m96"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2695,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m97"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2700,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m98"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2705,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m99"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2710,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m100"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2715,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m101"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2720,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m102"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2725,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m103"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2730,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m104"
+      ]
+    },
+    {
+      "section": "Thiago Miranda Silva",
+      "line": 2735,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m105"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2751,
+      "classification": "LITERAL · RECUPERADA PELA PF",
+      "refs": [
+        "B2-m65"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2756,
+      "classification": "RELATO · IMAGEM · CONF. MÉDIA",
+      "refs": [
+        "B2-m38"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2761,
+      "classification": "LITERAL · IMAGEM · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m39"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2766,
+      "classification": "RELATO · IMAGEM · CONF. MÉDIA",
+      "refs": [
+        "B2-m40"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2771,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "B2-m41"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2776,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m42"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2781,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m43"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2786,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m44"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2791,
+      "classification": "LITERAL",
+      "refs": [
+        "B2-m45"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2796,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m46"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2801,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m47"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2806,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m48"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2811,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m49"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2816,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m50"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2821,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m51"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2826,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m52"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2831,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m53"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2836,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m54"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2841,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m55"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2846,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m56"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2851,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m57"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2856,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m58"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2861,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m59"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2866,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m60"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2871,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m61"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2876,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m62"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2881,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m63"
+      ]
+    },
+    {
+      "section": "PAULO HENRIQUE PH BRB · Paulo Henrique Costa",
+      "line": 2886,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m64"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2900,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m121"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2905,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m80"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2910,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m81"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2915,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m82"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2921,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m83"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2926,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m84"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2931,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m88"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2936,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m91"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2941,
+      "classification": "RELATO",
+      "refs": [
+        "A2-m85"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2946,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m86"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2951,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m87"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2956,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m89"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2961,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m90"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2966,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m92"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2971,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m93"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2976,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m94"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2981,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m95"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2986,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO · CONF. MÉDIA",
+      "refs": [
+        "A2-m96"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2991,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO · CONF. MÉDIA",
+      "refs": [
+        "A2-m97"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 2996,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO · CONF. MÉDIA",
+      "refs": [
+        "A2-m98"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 3001,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO · CONF. MÉDIA",
+      "refs": [
+        "A2-m99"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 3006,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m100"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 3011,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m101"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 3016,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m122"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 3021,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m123"
+      ]
+    },
+    {
+      "section": "Ana Matos Mkt · Ana Matos",
+      "line": 3026,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m124"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3039,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m139"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3044,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m140"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3049,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "A2-m141"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3054,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m142"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3059,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m143"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3064,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m144"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3069,
+      "classification": "RELATO · CONF. BAIXA",
+      "refs": [
+        "A2-m145"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3074,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m146"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3079,
+      "classification": "LITERAL · TRANSCRITA DE PRINT PUBLICADO",
+      "refs": [
+        "A2-m147"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3084,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m148"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3089,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m149"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3094,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m150"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3099,
+      "classification": "RELATO · CONF. BAIXA",
+      "refs": [
+        "A2-m151"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3104,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m16"
+      ]
+    },
+    {
+      "section": "Leo Serrano Giunchetti",
+      "line": 3109,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m17"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3122,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m163"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3127,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m164"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3132,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m165"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3137,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m166"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3142,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m167"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3147,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m168"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3152,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m169"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3157,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m170"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3162,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m171"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3167,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m172"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3172,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m173"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3177,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m174"
+      ]
+    },
+    {
+      "section": "Flávio Carneiro",
+      "line": 3182,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m175"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3196,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m79"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3201,
+      "classification": "LITERAL",
+      "refs": [
+        "H-m80"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3206,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m119"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3211,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m117"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3216,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m118"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3221,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m120"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3226,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m121"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3231,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m122"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3236,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m123"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3241,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m124"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3246,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m125"
+      ]
+    },
+    {
+      "section": "Marcio Conjur · “Marcio Conjur” (não identificado pela PF)",
+      "line": 3251,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m126"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3262,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "G-m9"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3267,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m10"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3272,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m11"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3277,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m12"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3282,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m13"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3287,
+      "classification": "RELATO · DOCUMENTO",
+      "refs": [
+        "G-m15"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3292,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m16"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3297,
+      "classification": "RELATO",
+      "refs": [
+        "G-m17"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3302,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m18"
+      ]
+    },
+    {
+      "section": "Grupo “INFO – BRB”",
+      "line": 3307,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m14"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3320,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "H-m86"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3325,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m87"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3330,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "H-m89"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3335,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "H-m88"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3340,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m190"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3345,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m189"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3350,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m191"
+      ]
+    },
+    {
+      "section": "Luiz Rennó",
+      "line": 3355,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m192"
+      ]
+    },
+    {
+      "section": "Quadrado · Interlocutor identificado apenas como \"Quadrado\" pela reportagem",
+      "line": 3368,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m107"
+      ]
+    },
+    {
+      "section": "Quadrado · Interlocutor identificado apenas como \"Quadrado\" pela reportagem",
+      "line": 3373,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m108"
+      ]
+    },
+    {
+      "section": "Quadrado · Interlocutor identificado apenas como \"Quadrado\" pela reportagem",
+      "line": 3378,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m109"
+      ]
+    },
+    {
+      "section": "Quadrado · Interlocutor identificado apenas como \"Quadrado\" pela reportagem",
+      "line": 3383,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m110"
+      ]
+    },
+    {
+      "section": "Quadrado · Interlocutor identificado apenas como \"Quadrado\" pela reportagem",
+      "line": 3388,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m111"
+      ]
+    },
+    {
+      "section": "Quadrado · Interlocutor identificado apenas como \"Quadrado\" pela reportagem",
+      "line": 3393,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m112"
+      ]
+    },
+    {
+      "section": "Daniel Lopes Monteiro",
+      "line": 3406,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m67"
+      ]
+    },
+    {
+      "section": "Daniel Lopes Monteiro",
+      "line": 3411,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m68"
+      ]
+    },
+    {
+      "section": "Daniel Lopes Monteiro",
+      "line": 3416,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m69"
+      ]
+    },
+    {
+      "section": "Daniel Lopes Monteiro",
+      "line": 3421,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m70"
+      ]
+    },
+    {
+      "section": "Daniel Lopes Monteiro",
+      "line": 3426,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "B2-m71"
+      ]
+    },
+    {
+      "section": "Fernando Master · Fernando de Goes Mascarenhas Filho",
+      "line": 3440,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m80"
+      ]
+    },
+    {
+      "section": "Fernando Master · Fernando de Goes Mascarenhas Filho",
+      "line": 3445,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m81"
+      ]
+    },
+    {
+      "section": "Fernando Master · Fernando de Goes Mascarenhas Filho",
+      "line": 3450,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m82"
+      ]
+    },
+    {
+      "section": "Fernando Master · Fernando de Goes Mascarenhas Filho",
+      "line": 3455,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "H-m121"
+      ]
+    },
+    {
+      "section": "Fernando Master · Fernando de Goes Mascarenhas Filho",
+      "line": 3460,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "H-m122"
+      ]
+    },
+    {
+      "section": "Berg · José Alfredo Berg Filho",
+      "line": 3473,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m84"
+      ]
+    },
+    {
+      "section": "Berg · José Alfredo Berg Filho",
+      "line": 3478,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m85"
+      ]
+    },
+    {
+      "section": "Berg · José Alfredo Berg Filho",
+      "line": 3483,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m86"
+      ]
+    },
+    {
+      "section": "Berg · José Alfredo Berg Filho",
+      "line": 3488,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m87"
+      ]
+    },
+    {
+      "section": "Berg · José Alfredo Berg Filho",
+      "line": 3493,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m83"
+      ]
+    },
+    {
+      "section": "Guilherme Henrique Sodré Martins",
+      "line": 3505,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m88"
+      ]
+    },
+    {
+      "section": "Guilherme Henrique Sodré Martins",
+      "line": 3510,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m89"
+      ]
+    },
+    {
+      "section": "Guilherme Henrique Sodré Martins",
+      "line": 3515,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m90"
+      ]
+    },
+    {
+      "section": "Guilherme Henrique Sodré Martins",
+      "line": 3520,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m91"
+      ]
+    },
+    {
+      "section": "Guilherme Henrique Sodré Martins",
+      "line": 3525,
+      "classification": "OMITIDO PELO DOSSIÊ · CONF. MÉDIA",
+      "refs": [
+        "B2-m92"
+      ]
+    },
+    {
+      "section": "Alberto Felix de Oliveira Neto · Alberto Félix",
+      "line": 3540,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m117"
+      ]
+    },
+    {
+      "section": "Alberto Felix de Oliveira Neto · Alberto Félix",
+      "line": 3545,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m118"
+      ]
+    },
+    {
+      "section": "Alberto Felix de Oliveira Neto · Alberto Félix",
+      "line": 3550,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "H-m64"
+      ]
+    },
+    {
+      "section": "Alberto Felix de Oliveira Neto · Alberto Félix",
+      "line": 3556,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m65"
+      ]
+    },
+    {
+      "section": "Alberto Felix de Oliveira Neto · Alberto Félix",
+      "line": 3561,
+      "classification": "LITERAL",
+      "refs": [
+        "H-m66"
+      ]
+    },
+    {
+      "section": "André Kruschewsky",
+      "line": 3573,
+      "classification": "RELATO · CONF. BAIXA",
+      "refs": [
+        "A2-m193"
+      ]
+    },
+    {
+      "section": "André Kruschewsky",
+      "line": 3578,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "A2-m194"
+      ]
+    },
+    {
+      "section": "André Kruschewsky",
+      "line": 3583,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m195"
+      ]
+    },
+    {
+      "section": "André Kruschewsky",
+      "line": 3588,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m196"
+      ]
+    },
+    {
+      "section": "Augusto Ferreira Lima",
+      "line": 3601,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B2-m119"
+      ]
+    },
+    {
+      "section": "Augusto Ferreira Lima",
+      "line": 3606,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m120"
+      ]
+    },
+    {
+      "section": "Augusto Ferreira Lima",
+      "line": 3611,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m100"
+      ]
+    },
+    {
+      "section": "Augusto Ferreira Lima",
+      "line": 3616,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m99"
+      ]
+    },
+    {
+      "section": "Ricardo Siqueira Rodrigues",
+      "line": 3628,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m104"
+      ]
+    },
+    {
+      "section": "Ricardo Siqueira Rodrigues",
+      "line": 3633,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m105"
+      ]
+    },
+    {
+      "section": "Ricardo Siqueira Rodrigues",
+      "line": 3638,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m106"
+      ]
+    },
+    {
+      "section": "Leo Palhares Palhares · Leonardo Augusto Furtado Palhares",
+      "line": 3652,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m67"
+      ]
+    },
+    {
+      "section": "Leo Palhares Palhares · Leonardo Augusto Furtado Palhares",
+      "line": 3657,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m68"
+      ]
+    },
+    {
+      "section": "Leo Palhares Palhares · Leonardo Augusto Furtado Palhares",
+      "line": 3662,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m69"
+      ]
+    },
+    {
+      "section": "Operador do Master (não identificado)",
+      "line": 3674,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m197"
+      ]
+    },
+    {
+      "section": "Operador do Master (não identificado)",
+      "line": 3679,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "A2-m198"
+      ]
+    },
+    {
+      "section": "Corretora de imóveis (nome preservado pela imprensa)",
+      "line": 3692,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m66"
+      ]
+    },
+    {
+      "section": "Corretora de imóveis (nome preservado pela imprensa)",
+      "line": 3697,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m115"
+      ]
+    },
+    {
+      "section": "Angelo Silva · Ângelo Silva (provavelmente Ângelo Antônio Ribeiro da Silva, preso em nov/2025 — correspondência não confirmada pela reportagem)",
+      "line": 3712,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "H-m60"
+      ]
+    },
+    {
+      "section": "Angelo Silva · Ângelo Silva (provavelmente Ângelo Antônio Ribeiro da Silva, preso em nov/2025 — correspondência não confirmada pela reportagem)",
+      "line": 3717,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "H-m61"
+      ]
+    },
+    {
+      "section": "Romy Banco Master · Romy (funcionária do Banco Master; sobrenome omitido)",
+      "line": 3731,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m62"
+      ]
+    },
+    {
+      "section": "Romy Banco Master · Romy (funcionária do Banco Master; sobrenome omitido)",
+      "line": 3736,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m63"
+      ]
+    },
+    {
+      "section": "Marcos Prime · Marcus Vinicius da Mata",
+      "line": 3750,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m70"
+      ]
+    },
+    {
+      "section": "Marcos Prime · Marcus Vinicius da Mata",
+      "line": 3755,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "H-m71"
+      ]
+    },
+    {
+      "section": "Thatiane Prime · Thatiane (funcionária da Prime You/Prime Aviation; sobrenome omitido)",
+      "line": 3769,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m72"
+      ]
+    },
+    {
+      "section": "Thatiane Prime · Thatiane (funcionária da Prime You/Prime Aviation; sobrenome omitido)",
+      "line": 3774,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m73"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3793,
+      "classification": "RELATO · ÁUDIO",
+      "refs": [
+        "G-m19"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3798,
+      "classification": "RELATO · DOCUMENTO",
+      "refs": [
+        "G-m20"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3803,
+      "classification": "RELATO · ÁUDIO",
+      "refs": [
+        "G-m21"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3808,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "G-m27"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3813,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "G-m28"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3818,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "G-m29"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3823,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m31"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3828,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m30"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3833,
+      "classification": "RELATO",
+      "refs": [
+        "G-m35"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3838,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m36"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3843,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m39"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3848,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "G-m40"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3853,
+      "classification": "RELATO · CHAMADA · CONF. MÉDIA",
+      "refs": [
+        "G-m41"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3858,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "G-m42"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3863,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "G-m43"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3868,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m75"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3873,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m76"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3878,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m77"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3883,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m50"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3888,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m51"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3893,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "G-m44"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3898,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m45"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3903,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m46"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3908,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "G-m47"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3913,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m48"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3918,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m49"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3923,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m52"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3928,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m88"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3933,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m89"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3938,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m53"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3943,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m78"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3948,
+      "classification": "LITERAL",
+      "refs": [
+        "C-m79"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3953,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m80"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3958,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m81"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3963,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m58"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3968,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m66"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3973,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m67"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3978,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m68"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3983,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m82"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3988,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m83"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3993,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m85"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 3998,
+      "classification": "LITERAL",
+      "refs": [
+        "C-m86"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4003,
+      "classification": "OMITIDO PELO DOSSIÊ",
+      "refs": [
+        "G-m62"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4008,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m84"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4013,
+      "classification": "RELATO",
+      "refs": [
+        "C-m87"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4018,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m90"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4023,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m91"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4028,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m92"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4033,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m93"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4038,
+      "classification": "LITERAL · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m64"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4043,
+      "classification": "LITERAL · RECUPERADA PELA PF · CONF. MÉDIA",
+      "refs": [
+        "E-m65"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4048,
+      "classification": "LITERAL · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m66"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4053,
+      "classification": "LITERAL · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m67"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4058,
+      "classification": "LITERAL · RECUPERADA PELA PF · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "E-m68"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4063,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m23"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4068,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "G-m24"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4073,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m32"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4078,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m33"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4083,
+      "classification": "LITERAL · IMAGEM · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m34"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4088,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m37"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4093,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "G-m38"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4098,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m69"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4103,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m70"
+      ]
+    },
+    {
+      "section": "Felipe Mourão · Luiz Phillipi Machado de Moraes Mourão",
+      "line": 4108,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m72"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4118,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "G-m92"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4123,
+      "classification": "RELATO",
+      "refs": [
+        "G-m93"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4128,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m94"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4133,
+      "classification": "RELATO · IMAGEM",
+      "refs": [
+        "G-m95"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4138,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m96"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4143,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m97"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4148,
+      "classification": "RELATO · ÁUDIO",
+      "refs": [
+        "G-m98"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4153,
+      "classification": "RELATO",
+      "refs": [
+        "G-m99"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4158,
+      "classification": "RELATO",
+      "refs": [
+        "G-m100"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4163,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m101"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4168,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "G-m102"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Anderson Wander (policial federal)",
+      "line": 4173,
+      "classification": "RELATO",
+      "refs": [
+        "G-m103"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4183,
+      "classification": "APAGADA",
+      "refs": [
+        "G-m84"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4188,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m85"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4193,
+      "classification": "RELATO",
+      "refs": [
+        "G-m86"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4198,
+      "classification": "RELATO",
+      "refs": [
+        "G-m87"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4203,
+      "classification": "RELATO · APAGADA · RECUPERADA PELA PF · CONF. BAIXA",
+      "refs": [
+        "C-m101"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4208,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m88"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4213,
+      "classification": "RELATO · APAGADA · RECUPERADA PELA PF · CONF. MÉDIA",
+      "refs": [
+        "C-m102"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4218,
+      "classification": "RELATO · APAGADA · RECUPERADA PELA PF · CONF. MÉDIA",
+      "refs": [
+        "C-m103"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4223,
+      "classification": "RELATO",
+      "refs": [
+        "G-m89"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4228,
+      "classification": "RELATO",
+      "refs": [
+        "G-m90"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Henrique Vorcaro (pai)",
+      "line": 4233,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m91"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4243,
+      "classification": "LITERAL · ÁUDIO · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m108"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4248,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "A2-m211"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4253,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m109"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4258,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m110"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4263,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m111"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4268,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m112"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4273,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m113"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4278,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m114"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4283,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m115"
+      ]
+    },
+    {
+      "section": "Bruno Corrêa Lopes ↔ Manolo",
+      "line": 4288,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "G-m116"
+      ]
+    },
+    {
+      "section": "Ana Claudia Financeiro1 · Ana Claudia Queiroz de Paiva",
+      "line": 4303,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "H-m59"
+      ]
+    },
+    {
+      "section": "Ana Claudia Financeiro1 · Ana Claudia Queiroz de Paiva",
+      "line": 4308,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m73"
+      ]
+    },
+    {
+      "section": "Ana Claudia Financeiro1 · Ana Claudia Queiroz de Paiva",
+      "line": 4313,
+      "classification": "LITERAL",
+      "refs": [
+        "G-m74"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Sebastião Monteiro (policial federal aposentado)",
+      "line": 4323,
+      "classification": "APAGADA",
+      "refs": [
+        "G-m104"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Sebastião Monteiro (policial federal aposentado)",
+      "line": 4328,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "G-m105"
+      ]
+    },
+    {
+      "section": "Marilson ↔ Sebastião Monteiro (policial federal aposentado)",
+      "line": 4333,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "G-m106"
+      ]
+    },
+    {
+      "section": "Funcionária de Vorcaro (nome omitido)",
+      "line": 4345,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m94"
+      ]
+    },
+    {
+      "section": "Funcionária de Vorcaro (nome omitido)",
+      "line": 4350,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "C-m95"
+      ]
+    },
+    {
+      "section": "Mourão ↔ Manolo",
+      "line": 4360,
+      "classification": "OMITIDO PELO DOSSIÊ",
+      "refs": [
+        "G-m107"
+      ]
+    },
+    {
+      "section": "Manolo ↔ empresário não identificado",
+      "line": 4370,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m117"
+      ]
+    },
+    {
+      "section": "Integrante da “turma do Rio” (não identificado)",
+      "line": 4382,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "G-m118"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4403,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m1"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4408,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m2"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4413,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m3"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4418,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m4"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4423,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m5"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4428,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m6"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4433,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m7"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4438,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m8"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4443,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m9"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4448,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m20"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4453,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m21"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4458,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m10"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4463,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m11"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4468,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m12"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4473,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m13"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4478,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m14"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4483,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m23"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4488,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m22"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4493,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m17"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4498,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m31"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4503,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "C-m18"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4508,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m24"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4513,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "C-m20"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4518,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "C-m21"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4523,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m22"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4528,
+      "classification": "LITERAL",
+      "refs": [
+        "C-m23"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4533,
+      "classification": "LITERAL",
+      "refs": [
+        "B2-m25"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4538,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m25"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4543,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m26"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4548,
+      "classification": "LITERAL",
+      "refs": [
+        "B2-m26"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4553,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m27"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4558,
+      "classification": "LITERAL",
+      "refs": [
+        "B2-m28"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4563,
+      "classification": "LITERAL",
+      "refs": [
+        "C-m30"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4568,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m32"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4573,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m33"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4578,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m34"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4583,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m35"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4588,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m36"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4593,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m39"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4598,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m40"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4603,
+      "classification": "RELATO · CHAMADA · CONF. MÉDIA",
+      "refs": [
+        "C-m41"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4608,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m29"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4613,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m43"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4618,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m44"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4623,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m45"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4628,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m41"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4633,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m46"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4638,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m47"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4643,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m48"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4648,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m204"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4653,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m50"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4658,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m51"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4663,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m52"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4668,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m53"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4673,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "C-m55"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4678,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m56"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4683,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m54"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4688,
+      "classification": "RELATO · CHAMADA · CONF. MÉDIA",
+      "refs": [
+        "C-m58"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4693,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m59"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4698,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m60"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4703,
+      "classification": "LITERAL",
+      "refs": [
+        "C-m61"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4708,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m62"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4713,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "C-m63"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4718,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA) · CONF. MÉDIA",
+      "refs": [
+        "C-m64"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4723,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m57"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4728,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m65"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4733,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B2-m31"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4738,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m67"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4743,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m66"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4748,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m68"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4753,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m205"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4758,
+      "classification": "RELATO",
+      "refs": [
+        "B2-m32"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4763,
+      "classification": "OMITIDO PELO DOSSIÊ · CONF. MÉDIA",
+      "refs": [
+        "B2-m33"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4768,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m69"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4773,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m70"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4778,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m71"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4783,
+      "classification": "FATO",
+      "refs": []
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4788,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m16"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4793,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m37"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4798,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "C-m38"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4803,
+      "classification": "RELATO · CONF. BAIXA",
+      "refs": [
+        "C-m72"
+      ]
+    },
+    {
+      "section": "Martha Graeff",
+      "line": 4808,
+      "classification": "OMITIDO PELO DOSSIÊ",
+      "refs": [
+        "C-m73"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4825,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m51"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4830,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "B2-m18"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4835,
+      "classification": "RELATO · CONF. BAIXA",
+      "refs": [
+        "B2-m19"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4840,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "H-m54"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4845,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "B1-m106"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4850,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m107"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4855,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m108"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4860,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m109"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4865,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m110"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4870,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m111"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4875,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m112"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4880,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m113"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4885,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m114"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4890,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m115"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4895,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m116"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4900,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m117"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4905,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B1-m118"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4910,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m119"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4915,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m120"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4920,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m121"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4925,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m122"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4930,
+      "classification": "RELATO · CONF. MÉDIA",
+      "refs": [
+        "C-m96"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4935,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m123"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4940,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m124"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4945,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m125"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4950,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m126"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4955,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m128"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4960,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m129"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4965,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m127"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4970,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m138"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4975,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "B1-m139"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4980,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m140"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4985,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m130"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4990,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m131"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 4995,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m132"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5000,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m133"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5005,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m134"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5010,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m135"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5015,
+      "classification": "LITERAL · CONF. BAIXA",
+      "refs": [
+        "B1-m136"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5020,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m137"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5025,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m141"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5030,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m142"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5035,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m143"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5040,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m144"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5045,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m145"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5050,
+      "classification": "RELATO · DOCUMENTO · CONF. MÉDIA",
+      "refs": [
+        "C-m97"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5055,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m146"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5060,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m147"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5065,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m98"
+      ]
+    },
+    {
+      "section": "Fabiano Zettel",
+      "line": 5070,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m53"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5084,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m1"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5089,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m2"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5094,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m3"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5099,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m4"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5104,
+      "classification": "LITERAL",
+      "refs": [
+        "B2-m5"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5109,
+      "classification": "LITERAL",
+      "refs": [
+        "B2-m6"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5114,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m7"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5119,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m8"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5124,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m9"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5129,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m10"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5134,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m11"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5139,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m12"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5144,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m13"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5149,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m14"
+      ]
+    },
+    {
+      "section": "Felipe Cançado Vorcaro",
+      "line": 5154,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "B2-m15"
+      ]
+    },
+    {
+      "section": "Michael",
+      "line": 5167,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m74"
+      ]
+    },
+    {
+      "section": "Michael",
+      "line": 5172,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "A2-m200"
+      ]
+    },
+    {
+      "section": "Michael",
+      "line": 5177,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "A2-m201"
+      ]
+    },
+    {
+      "section": "Michael",
+      "line": 5182,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m202"
+      ]
+    },
+    {
+      "section": "Michael",
+      "line": 5187,
+      "classification": "LITERAL",
+      "refs": [
+        "A2-m203"
+      ]
+    },
+    {
+      "section": "Michael",
+      "line": 5192,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "H-m75"
+      ]
+    },
+    {
+      "section": "Michael",
+      "line": 5198,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m76"
+      ]
+    },
+    {
+      "section": "Motorista de Vorcaro em São Paulo (não identificado)",
+      "line": 5210,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m181"
+      ]
+    },
+    {
+      "section": "Motorista de Vorcaro em São Paulo (não identificado)",
+      "line": 5215,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m179"
+      ]
+    },
+    {
+      "section": "Motorista de Vorcaro em São Paulo (não identificado)",
+      "line": 5220,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "A2-m180"
+      ]
+    },
+    {
+      "section": "Motorista de Vorcaro em São Paulo (não identificado)",
+      "line": 5225,
+      "classification": "LITERAL · CONF. MÉDIA",
+      "refs": [
+        "A2-m182"
+      ]
+    },
+    {
+      "section": "Funcionário de Vorcaro em Brasília (nome não divulgado)",
+      "line": 5237,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "C-m74"
+      ]
+    },
+    {
+      "section": "Gustavo Motorista · Gustavo (motorista; sobrenome não divulgado)",
+      "line": 5251,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m77"
+      ]
+    },
+    {
+      "section": "Motorista Brasilia Sidney · Sidney (motorista em Brasília; sobrenome não divulgado)",
+      "line": 5265,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m78"
+      ]
+    },
+    {
+      "section": "\\[omitido\\] · Familiar de Vorcaro (nome omitido)",
+      "line": 5280,
+      "classification": "omitido\\",
+      "refs": [
+        "H-m96"
+      ]
+    },
+    {
+      "section": "Geraldo Brazil Journal · Geraldo Samor (identificação da imprensa)",
+      "line": 5296,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m92"
+      ]
+    },
+    {
+      "section": "Geraldo Brazil Journal · Geraldo Samor (identificação da imprensa)",
+      "line": 5301,
+      "classification": "LITERAL · CONFERIDA NA FONTE (OCR/GRAFIA)",
+      "refs": [
+        "H-m93"
+      ]
+    },
+    {
+      "section": "Geraldo Brazil Journal · Geraldo Samor (identificação da imprensa)",
+      "line": 5307,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m94"
+      ]
+    },
+    {
+      "section": "Geraldo Brazil Journal · Geraldo Samor (identificação da imprensa)",
+      "line": 5312,
+      "classification": "LITERAL · CONFERIDA NA FONTE",
+      "refs": [
+        "H-m95"
+      ]
+    },
+    {
+      "section": "André Valadão",
+      "line": 5325,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m178"
+      ]
+    },
+    {
+      "section": "André Valadão",
+      "line": 5330,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "B1-m176"
+      ]
+    },
+    {
+      "section": "André Valadão",
+      "line": 5335,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. BAIXA",
+      "refs": [
+        "B1-m177"
+      ]
+    },
+    {
+      "section": "Contato não identificado",
+      "line": 5346,
+      "classification": "LITERAL · CONFERIDA NA FONTE · CONF. MÉDIA",
+      "refs": [
+        "H-m101"
+      ]
+    }
+  ]
+}
