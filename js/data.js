@@ -804,10 +804,28 @@ window.PELELEC_DATA = {
           "sender": "them",
           "text": "CNN e Metrópoles identificam Newton e Camilla Ramos como as pessoas referidas em mensagens de assessores pela expressão “turma do KN”. Isso não transforma as mensagens desses assessores em falas diretas de Newton.",
           "sources": [
-            "dos_kn"
+            "dos_kn",
+            "dos_kn_print"
           ],
           "researchRefs": [],
-          "title": "Identificação na cobertura"
+          "title": "Identificação na cobertura",
+          "publishedImages": [
+            {
+              "url": "https://images.metroimg.com/2026/09/newton-01.jpg",
+              "alt": "Captura publicada da conversa com Newton Ramos · novembro de 2024",
+              "credit": "Reprodução / Metrópoles",
+              "verifiedOn": "2026-09-22"
+            },
+            {
+              "url": "https://images.metroimg.com/2026/09/print-7-1.jpg",
+              "alt": "Captura publicada: notícia encaminhada por Newton · dezembro de 2024",
+              "credit": "Reprodução / Metrópoles",
+              "verifiedOn": "2026-09-22"
+            }
+          ],
+          "mediaLink": "https://www.metropoles.com/colunas/andreza-matais/r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro",
+          "mediaLinkLabel": "Ver capturas na reportagem ↗",
+          "rightsNote": "Crédito: Reprodução / Metrópoles. Licença de republicação não verificada."
         },
         {
           "id": "ds-nr2",
@@ -819,10 +837,28 @@ window.PELELEC_DATA = {
           "sender": "them",
           "text": "A CNN relata pedidos relativos a hospedagem e camarote em conversas de Vorcaro com assessores. A reportagem publica as mensagens e a manifestação de Newton.",
           "sources": [
-            "dos_kn"
+            "dos_kn",
+            "dos_kn_print"
           ],
           "researchRefs": [],
-          "title": "Menções em conversas com terceiros"
+          "title": "Menções em conversas com terceiros",
+          "publishedImages": [
+            {
+              "url": "https://images.metroimg.com/2026/09/leo01.jpg",
+              "alt": "Conversa com Leo Serrano citando Newton; não é fala direta de Newton",
+              "credit": "Reprodução / Metrópoles",
+              "verifiedOn": "2026-09-22"
+            },
+            {
+              "url": "https://images.metroimg.com/2026/09/print-9.jpg",
+              "alt": "Conversa com terceiro sobre hospedagem; não é diálogo direto com Nunes Marques",
+              "credit": "Reprodução / Metrópoles",
+              "verifiedOn": "2026-09-22"
+            }
+          ],
+          "mediaLink": "https://www.metropoles.com/colunas/andreza-matais/r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro",
+          "mediaLinkLabel": "Ver capturas na reportagem ↗",
+          "rightsNote": "Crédito: Reprodução / Metrópoles. Licença de republicação não verificada."
         },
         {
           "id": "ds-nr3",
@@ -1070,14 +1106,31 @@ window.PELELEC_DATA = {
           "type": "summary",
           "dateLabel": "15 de dezembro de 2024",
           "title": "Outra troca sobre o projeto",
-          "text": "Segundo o veículo, Frias compartilhou uma captura de conversa com o diretor do filme. Essa imagem não foi incorporada ao MVP.",
+          "text": "O Intercept apresenta o envio de uma captura de conversa entre Frias e o diretor Cyrus Nowrasteh. As imagens abaixo são a apresentação editorial do veículo, com tradução; não são arquivos originais extraídos do aparelho.",
           "sources": [
-            "frias"
+            "frias",
+            "friasPrint"
           ],
           "date": "15 de dezembro de 2024",
           "sender": "them",
           "time": "",
-          "editorialType": "summary"
+          "editorialType": "summary",
+          "mediaLink": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/",
+          "rightsNote": "Crédito: Intercept Brasil. Licença de republicação não verificada.",
+          "publishedImages": [
+            {
+              "url": "https://uploads.intercept.com.br/2026/05/Print-9B-819x1024.jpg",
+              "alt": "Apresentação editorial do envio de imagem por Frias · 15/12/2024",
+              "credit": "Intercept Brasil · apresentação editorial",
+              "verifiedOn": "2026-09-22"
+            },
+            {
+              "url": "https://uploads.intercept.com.br/2026/05/Print-9C-Frias-819x1024.jpg",
+              "alt": "Diálogo entre Frias e Cyrus, diagramado e traduzido pelo Intercept",
+              "credit": "Intercept Brasil · apresentação editorial",
+              "verifiedOn": "2026-09-22"
+            }
+          ]
         }
       ],
       "phone": "Não exibida: sem necessidade editorial",
@@ -1347,7 +1400,12 @@ window.PELELEC_DATA = {
           "sharedPhoto": true,
           "mediaLink": "https://www.cnnbrasil.com.br/politica/saudades-amizade-e-tudo-veja-mensagens-de-gonet-para-vorcaro/",
           "mediaLinkLabel": "Ver fotografia publicada ↗",
-          "publishedImage": {"url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Fake-News-Pablo-Marcal.png?w=849&h=477&crop=0&quality=90", "alt": "Selfie de Ciro Soares e Paulo Gonet publicada pela CNN Brasil", "credit": "Reprodução / CNN Brasil", "verifiedOn": "2026-09-22"},
+          "publishedImage": {
+            "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Fake-News-Pablo-Marcal.png?w=849&h=477&crop=0&quality=90",
+            "alt": "Selfie de Ciro Soares e Paulo Gonet publicada pela CNN Brasil",
+            "credit": "Reprodução / CNN Brasil",
+            "verifiedOn": "2026-09-22"
+          },
           "rightsNote": "Crédito no veículo: Reprodução. Licença de republicação não verificada."
         },
         {
@@ -1390,17 +1448,23 @@ window.PELELEC_DATA = {
           "sender": "them",
           "text": "O UOL reproduz registro em que Ciro envia a fotografia de um encontro em Londres com Vorcaro e Gonet. As datas da fotografia e de seu compartilhamento são distintas.",
           "sources": [
-            "ciroLondres"
+            "ciroLondres",
+            "ciroLondresCompleta"
           ],
           "researchRefs": [
             "A2-m70"
           ],
           "title": "📷 Londres · foto compartilhada",
           "sharedPhoto": true,
-          "mediaLink": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/19/quem-e-ciro-soares-advogado-que-aparece-com-vorcaro-e-gonet-em-londres.ghtm",
+          "mediaLink": "https://www.metropoles.com/brasil/foto-tirada-em-londres-mostra-gonet-com-vorcaro-fumando-charuto",
           "mediaLinkLabel": "Ver fotografia na reportagem ↗",
-          "publishedImage": {"url": "https://conteudo.imguol.com.br/c/noticias/9f/2026/09/19/conversa-extraida-do-celular-de-vorcaro-esq-mostra-foto-de-gonet-dir-advogado-ciro-soares-segundo-da-dir-para-esq-e-ex-banqueiro-em-noite-de-charutos-e-uisque-em-londres-1789787194332_v2_450x600.png", "alt": "Fotografia do encontro em Londres reproduzida pelo UOL no registro da conversa de Ciro", "credit": "Reprodução / UOL", "verifiedOn": "2026-09-22"},
-          "rightsNote": "Crédito: Reprodução / UOL. Licença de republicação não verificada."
+          "publishedImage": {
+            "url": "https://images.metroimg.com/2026/09/vorcaro-e-gonet.jpg",
+            "alt": "Fotografia completa do encontro em Londres, com Vorcaro à esquerda",
+            "credit": "Reprodução / Metrópoles",
+            "verifiedOn": "2026-09-22"
+          },
+          "rightsNote": "Crédito: Reprodução / Metrópoles. Licença de republicação não verificada."
         },
         {
           "id": "ds-cs10",
@@ -1590,15 +1654,35 @@ window.PELELEC_DATA = {
           "dateLabel": "21 de setembro de 2026 · publicação",
           "time": "",
           "sender": "them",
-          "text": "O Metrópoles publica capturas de mensagens e detalhes do contrato. Consulte as imagens na reportagem original; elas não foram incorporadas como arquivos do aplicativo.",
+          "text": "O Metrópoles publica estas capturas de mensagens e cláusulas do contrato. Os documentos são apresentados como contexto da reportagem, não como anexos comprovadamente enviados nesta conversa.",
           "sources": [
             "dos_kn_print"
           ],
           "researchRefs": [],
-          "title": "Capturas publicadas · consultar na fonte",
+          "title": "Capturas e documentos publicados",
           "mediaLink": "https://www.metropoles.com/colunas/andreza-matais/r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro",
           "mediaLinkLabel": "Ver capturas na reportagem ↗",
-          "rightsNote": "Licença de reprodução das capturas não verificada."
+          "rightsNote": "Crédito: Reprodução / Metrópoles. Licença de republicação não verificada.",
+          "publishedImages": [
+            {
+              "url": "https://images.metroimg.com/2026/09/camilla01.jpg",
+              "alt": "Captura publicada da conversa com Camilla Ramos",
+              "credit": "Reprodução / Metrópoles",
+              "verifiedOn": "2026-09-22"
+            },
+            {
+              "url": "https://images.metroimg.com/2026/09/contrato-1aclausula.jpg",
+              "alt": "Documento publicado: cláusula do objeto do contrato",
+              "credit": "Reprodução / Metrópoles",
+              "verifiedOn": "2026-09-22"
+            },
+            {
+              "url": "https://images.metroimg.com/2026/09/contrato-2aclausula.jpg",
+              "alt": "Documento publicado: cláusula dos honorários",
+              "credit": "Reprodução / Metrópoles",
+              "verifiedOn": "2026-09-22"
+            }
+          ]
         }
       ]
     }
@@ -1848,6 +1932,20 @@ window.PELELEC_DATA = {
       "outlet": "PF / PDF publicado pelo Poder360",
       "date": "01/09/2026",
       "note": "Página 1 conferida visualmente: quatro marcadores de exclusão em 01/10/2025 e configuração de 24 horas. O conteúdo apagado não aparece. O PDF contém telefone; não reproduzimos a página nem o número. A atribuição a Moraes é contestada."
+    },
+    "ciroLondresCompleta": {
+      "outlet": "Metrópoles",
+      "date": "18/09/2026 · atualizada em 19/09",
+      "title": "Fotografia completa do encontro em Londres",
+      "url": "https://www.metropoles.com/brasil/foto-tirada-em-londres-mostra-gonet-com-vorcaro-fumando-charuto",
+      "note": "Fotografia horizontal publicada com crédito Reprodução. Inclui manifestação de Gonet. Licença de republicação não verificada."
+    },
+    "friasPrint": {
+      "outlet": "Intercept Brasil",
+      "date": "19/05/2026",
+      "title": "Mensagens de Mario Frias e o filme Dark Horse",
+      "url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/",
+      "note": "Imagens diagramadas pelo veículo, incluindo tradução do diálogo com Cyrus. A defesa de Frias descreve a relação como legítima e nega articulação política ou financeira em nome do banqueiro."
     }
   }
 };

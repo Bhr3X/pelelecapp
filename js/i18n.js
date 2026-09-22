@@ -33,7 +33,7 @@
     fb4: 'AP recorded the senator’s denial of wrongdoing after publication. Read the response alongside the original article.',
     mf1: 'The article describes an audio message from Frias thanking Vorcaro for supporting the film. Consult the original player at the source; this card is not a recovered file.',
     mf2: 'I’m on a call, I’ll call you right after', mf3: 'OK',
-    mf4: 'According to the publisher, Frias shared a screenshot of a conversation with the film’s director. That image has not been included in the MVP.',
+    mf4: 'The Intercept presents Frias sharing a screenshot of his conversation with director Cyrus Nowrasteh. The images below are the publisher’s editorial presentation, including translation, not original files extracted from the device.',
     jd1: 'Doria expresses concern about what he had been hearing and suggests meeting for coffee. The published screenshot excerpt has no day or time.',
     jd2: 'About what?', jd3: 'You, Maurício, the bank. In private', jd4: 'I didn’t quite understand, do you want to call me?', jd5: 'I’ll call now',
     jd6: 'CNN describes an unanswered call and a return call by Vorcaro. The article does not report the conversation’s content. This archive has no recording.',
@@ -51,7 +51,7 @@
     'ds-ff5': 'Faria said he suggested the firm for a case in the São Paulo courts, without meeting with the firm or knowing the agreed amounts.',
     'ds-cr1': 'The contract described by CNN provided for success fees in 12 lawsuits. The R$427 million figure corresponds to the scenario of winning, not a payment established by this excerpt.',
     'ds-cr2': 'CNN reports a message in which Camilla celebrates a court outcome and mentions a vote by Nunes Marques. The dossier gives June 3; this card retains the date precision verified in the text consulted.',
-    'ds-cr3': 'Metrópoles publishes screenshots of messages and details of the contract. Consult the images in the original article; they have not been included as files in the app.'
+    'ds-cr3': 'Metrópoles publishes these message screenshots and contract clauses. The documents provide reporting context; they are not established attachments sent in this conversation.'
   };
   const contexts = {
     martha: 'A selection of messages about business and public reaction. Intimate passages unrelated to that context were excluded. Martha denied knowing about the scheme under investigation or receiving the assets mentioned in the coverage. Statements about banks’ reactions reflect the account attributed to Vorcaro.',
@@ -68,6 +68,20 @@
     camilla_ramos: 'Fees contingent on success. No statement from Camilla herself was located.'
   };
   const dictionary = {
+    "Abrir imagem completa ↗":"Open full image ↗",
+    "Capturas e documentos publicados":"Published screenshots and documents",
+    "Fotografia completa do encontro em Londres, com Vorcaro à esquerda":"Full photograph of the London meeting, with Vorcaro on the left",
+    "Captura publicada da conversa com Camilla Ramos":"Published screenshot of the conversation with Camilla Ramos",
+    "Documento publicado: cláusula do objeto do contrato":"Published document: scope of the contract",
+    "Documento publicado: cláusula dos honorários":"Published document: fee clause",
+    "Captura publicada da conversa com Newton Ramos · novembro de 2024":"Published screenshot of the conversation with Newton Ramos · November 2024",
+    "Captura publicada: notícia encaminhada por Newton · dezembro de 2024":"Published screenshot: news forwarded by Newton · December 2024",
+    "Conversa com Leo Serrano citando Newton; não é fala direta de Newton":"Conversation with Leo Serrano mentioning Newton; not a direct statement by Newton",
+    "Conversa com terceiro sobre hospedagem; não é diálogo direto com Nunes Marques":"Conversation with a third party about accommodation; not a direct exchange with Nunes Marques",
+    "Apresentação editorial do envio de imagem por Frias · 15/12/2024":"Editorial presentation of an image shared by Frias · December 15, 2024",
+    "Diálogo entre Frias e Cyrus, diagramado e traduzido pelo Intercept":"Exchange between Frias and Cyrus, laid out and translated by the Intercept",
+    "apresentação editorial":"editorial presentation",
+
     'Seleção editorial de reportagens':'Editorial selection of news reports', 'Resumo do caso reportado...':'Summary of the reported case...', 'Todas':'All', '💖 Peleleca & Íntimo':'💖 Peleleca & Personal', '💀 A Turma / Sicário':'💀 The Group / Sicário', '⚖️ STF & Poder':'⚖️ Supreme Court & Power', '🏛️ Congresso & Centrão':'🏛️ Congress & Centrão', '📑 Advocacia & Honorários':'📑 Lawyers & Fees', '📱 Projeto DV & Mídia':'📱 Project DV & Media', "🏨 Fasano & 'Na Minha Conta'":"🏨 Fasano & 'On My Tab'", '✈️ Jatinho & Cumbica':'✈️ Private Jet & Cumbica',
     'Acervo documental':'Documentary archive', '(Acervo)':'(Archive)', 'Banco Master • Fontes públicas':'Banco Master • Public sources', 'Fontes públicas':'Public sources',
     'PelelecApp - Acervo de Conversas Publicadas':'PelelecApp - Published Conversations Archive',
