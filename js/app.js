@@ -157,6 +157,7 @@ const PelelecApp = {
   },
 
   renderAvatar(contact) {
+    if (contact?.isPromotion) return '<span class="pudim-combat-avatar" role="img" aria-label="Pudim em combate · Brasília Survivors"></span>';
     if (contact && contact.photoUrl) {
       return `
         <img src="${contact.photoUrl}" alt="${contact.name}" class="avatar-img" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
@@ -269,7 +270,7 @@ const PelelecApp = {
     if (this.activeCategory === 'all' && !this.searchQuery) {
       list.insertAdjacentHTML('beforeend', `<li class="contact-item promo-contact ${this.activeContactId === this.promotion.id ? 'active' : ''}" data-id="${this.promotion.id}">
         <button class="promo-contact-button" onclick="PelelecApp.selectContact('${this.promotion.id}'); event.stopPropagation()" aria-label="Abrir divulgação do Brasília Survivors">
-          <span class="contact-avatar" style="background:#725000">🎮</span>
+          <span class="contact-avatar" style="background:#725000">${this.renderAvatar(this.promotion)}</span>
           <span class="contact-content"><span class="contact-top-row"><span class="contact-name">Brasília Survivors</span><span class="promo-label">DIVULGAÇÃO</span></span>
           <span class="contact-bottom-row"><span class="contact-preview">📷 Conheça os personagens e o jogo</span><span class="promo-open">VER ↗</span></span></span>
         </button></li>`);

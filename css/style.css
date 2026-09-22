@@ -1343,3 +1343,6 @@ body[data-theme="light"] .message-row.me .message-meta { color: #526456; }
   .source-btn-header .source-btn-text { display: none; }
   .source-btn-header { min-width: 32px; min-height: 32px; justify-content: center; }
 }
+
+/* Second 256px frame of the original 4 × 2 combat sheet: Pudim punching. */
+.pudim-combat-avatar { display: block; width: 100%; height: 100%; background-image: url('../assets/promo/pudim-combat.webp'); background-size: 400% 200%; background-position: 33.333333% 0; background-repeat: no-repeat; }

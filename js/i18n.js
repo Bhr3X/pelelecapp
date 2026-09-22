@@ -100,6 +100,7 @@
     'Anexo':'Attachment', 'Enviar mensagem':'Send message', 'Voltar':'Back', 'Nome':'Name', 'Cargo / Função':'Position / Role', 'Transcrição pendente de verificação':'Transcript awaiting verification', 'Revisão editorial':'Editorial review'
   };
   Object.assign(dictionary, {
+    'Pudim em combate · Brasília Survivors':'Pudim in combat · Brasília Survivors',
     'Mapa inicial de relatos; mencionar uma pessoa não comprova diálogo direto com ela.':'Initial overview of accounts; mentioning a person does not establish a direct conversation with them.',
     'Publica sequência datada de 30/03/2025. Os horários abaixo são os transcritos pelo veículo; fuso não informado.':'Publishes a sequence dated 30 March 2025. The times below are those transcribed by the outlet; no time zone is specified.',
     'A assessoria de Doria confirma o diálogo e situa o contato em maio de 2025. O print consultado pelo veículo não informa data.':'Doria’s press office confirms the exchange and dates it to May 2025. The screenshot consulted by the outlet has no date.',
