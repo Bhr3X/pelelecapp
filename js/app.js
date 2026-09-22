@@ -1,3 +1,4 @@
+const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 /**
  * PelelecApp - Controlador Principal da Aplicação
  * Gerencia a renderização da interface, navegação entre conversas,
@@ -33,6 +34,11 @@ const PelelecApp = {
     this.setupContactView(this.activeContactId);
     this.bindEvents();
     window.ForensicManager.init();
+    const input = document.getElementById('chatInput');
+    input.disabled = true;
+    input.placeholder = 'Acervo documental · somente leitura';
+    document.getElementById('sendBtn').disabled = true;
+    document.querySelectorAll('.input-actions button').forEach(btn => btn.disabled = true);
   },
 
   getActiveContact() {
@@ -198,7 +204,7 @@ const PelelecApp = {
     if (filtered.length === 0) {
       list.innerHTML = `
         <div style="padding: 24px; text-align: center; color: var(--text-secondary); font-size: 13px;">
-          Nenhum contato ou mensagem encontrada para "<strong>${this.searchQuery}</strong>".
+          Nenhum contato ou mensagem encontrada para "<strong>${escapeHTML(this.searchQuery)}</strong>".
         </div>
       `;
       return;
@@ -300,7 +306,7 @@ const PelelecApp = {
     let html = `
       <div class="encryption-pill system-pill">
         <span>🔒</span>
-        As mensagens deste aparelho estavam protegidas por criptografia de ponta a ponta até a apreensão pela Polícia Federal (Cellebrite UFED v8.2).
+        Acervo jornalístico — sem acesso ao aparelho. Retratos editoriais; não são avatares originais. Fontes e limites disponíveis em cada recorte.
       </div>
     `;
 
@@ -334,262 +340,19 @@ const PelelecApp = {
     }, 50);
   },
 
-  renderMessageBody(msg, isRecovered) {
-    // 1. Mensagem Apagada
-    if (msg.isDeleted) {
-      if (isRecovered) {
-        return `
-          <div class="forensic-stamp"><span>⚡</span> Recuperado via Cellebrite / PF</div>
-          <div class="message-text">${msg.recoveredText}</div>
-          <div class="forensic-badge-tag">Fonte: ${msg.forensicSource || "SQLite Unallocated Blocks"}</div>
-          <div class="message-meta">
-            <span class="message-time">${msg.time}</span>
-            <span class="ticks-blue">✓✓</span>
-          </div>
-        `;
-      } else {
-        return `
-          <div class="deleted-message-box">
-            <span class="deleted-icon">🚫</span>
-            <span>Esta mensagem foi apagada</span>
-          </div>
-          <button class="recover-btn" onclick="ForensicManager.recoverSingleMessage(this, '${msg.id}')">
-            <span>🔍</span> Recuperar via Perícia PF
-          </button>
-          <div class="message-meta">
-            <span class="message-time">${msg.time}</span>
-            <span class="ticks-blue">✓✓</span>
-          </div>
-        `;
-      }
-    }
-
-    // 2. Visualização Única (1x) - Bloco de Notas
-    if (msg.isViewOnce) {
-      const escapedTitle = (msg.noteTitle || "").replace(/'/g, "\\'");
-      const escapedContent = (msg.noteContent || "").replace(/'/g, "\\'").replace(/\n/g, " ");
-      const escapedTag = (msg.forensicTag || "").replace(/'/g, "\\'");
-      const escapedFact = (msg.factCheckNote || "").replace(/'/g, "\\'");
-
-      return `
-        <div class="view-once-box" onclick="ForensicManager.openNoteModal('${escapedTitle}', '${msg.date}', '${escapedContent}', '${escapedTag}', '${escapedFact}')">
-          <div class="view-once-badge">1</div>
-          <div class="view-once-info">
-            <span class="view-once-title">Foto (Visualização única)</span>
-            <span class="view-once-hint">📄 Print do Bloco de Notas (Clique para abrir)</span>
-          </div>
-        </div>
-        ${msg.forensicTag ? `<div class="forensic-badge-tag">${msg.forensicTag}</div>` : ""}
-        <div class="message-meta">
-          <span class="message-time">${msg.time}</span>
-          <span class="ticks-blue">✓✓</span>
-        </div>
-      `;
-    }
-
-    // 3. Áudio de Voz
-    if (msg.type === "audio") {
-      const bars = [14, 22, 10, 18, 24, 16, 8, 20, 26, 12, 18, 24, 14, 8, 16, 22, 18, 10];
-      const barsHtml = bars.map(h => `<div class="wave-bar" style="height: ${h}px;"></div>`).join("");
-
-      return `
-        <div class="audio-player-wrapper" id="audio-${msg.id}">
-          <button class="audio-play-btn" onclick="PelelecApp.toggleAudio('${msg.id}')">▶</button>
-          <div class="audio-waveform-container">
-            <div class="audio-waveform">${barsHtml}</div>
-            <div class="audio-meta-row">
-              <span class="audio-timer">${msg.audioDuration || "0:30"}</span>
-              <button class="transcript-toggle-btn" onclick="PelelecApp.toggleTranscript('${msg.id}')">Transcrever áudio</button>
-            </div>
-          </div>
-        </div>
-        <div class="audio-transcript-box" id="transcript-${msg.id}">
-          <strong>🎙️ Transcrição Pericial:</strong><br>
-          "${msg.audioTranscript}"
-        </div>
-        <div class="message-meta">
-          <span class="message-time">${msg.time}</span>
-          <span class="ticks-blue">✓✓</span>
-        </div>
-      `;
-    }
-
-    // 4. Mídia (Imagem/Gráfico)
-    let mediaHtml = "";
-    if (msg.mediaType === "image") {
-      let graphicContent = "";
-      if (msg.mediaPreset === "dubai") {
-        graphicContent = `
-          <div style="font-size: 30px; margin-bottom: 6px;">🏨 ✈️</div>
-          <div style="font-weight: 700; font-size: 14px;">Dubai Luxury Suite</div>
-          <div style="font-size: 11px; opacity: 0.85;">Foto anexada em viagem internacional</div>
-        `;
-      } else if (msg.mediaPreset === "epol") {
-        graphicContent = `
-          <div style="font-size: 24px; margin-bottom: 6px;">🛡️ SISTEMA ePol / MPF</div>
-          <div style="font-weight: 700; font-size: 13px; color: #4fc3f7;">AUTENTICAÇÃO SIGILOSA CONFIRMADA</div>
-          <div style="font-size: 10px; color: #90a4ae;">Terminal Acesso Restrito: PF-SR-SP</div>
-        `;
-      } else if (msg.mediaPreset === "arenamrv") {
-        graphicContent = `
-          <div style="font-size: 30px; margin-bottom: 6px;">⚽ 🐔</div>
-          <div style="font-weight: 700; font-size: 14px;">CAMAROTE MASTER - ARENA MRV</div>
-          <div style="font-size: 11px; opacity: 0.85;">Belo Horizonte • Galo SAF</div>
-        `;
-      }
-
-      if (msg.imageUrl) {
-        mediaHtml = `
-          <div class="media-bubble-card">
-            <img src="${msg.imageUrl}" class="media-bubble-img" alt="${msg.mediaCaption || 'Mídia'}" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
-            <div class="media-thumbnail-graphic ${msg.mediaPreset || ''}" style="display: none;">
-              ${graphicContent}
-            </div>
-            ${msg.mediaCaption ? `<div class="media-caption-text">${msg.mediaCaption}</div>` : ""}
-          </div>
-        `;
-      } else {
-        mediaHtml = `
-          <div class="media-bubble-card">
-            <div class="media-thumbnail-graphic ${msg.mediaPreset || ''}">
-              ${graphicContent}
-            </div>
-            ${msg.mediaCaption ? `<div class="media-caption-text">${msg.mediaCaption}</div>` : ""}
-          </div>
-        `;
-      }
-    }
-
-    // 5. Mensagem de Texto Comum
-    return `
-      ${mediaHtml}
-      ${msg.text ? `<div class="message-text">${msg.text}</div>` : ""}
-      ${msg.forensicTag ? `<div class="forensic-badge-tag">${msg.forensicTag}</div>` : ""}
-      ${msg.factCheckNote ? `
-        <div class="fact-check-pill" onclick="ForensicManager.openSourceModal(PelelecApp.getActiveContact())">
-          <span>📰 Apuração Jornalística: ${msg.factCheckNote}</span>
-        </div>
-      ` : ""}
-      <div class="message-meta">
-        <span class="message-time">${msg.time}</span>
-        <span class="ticks-blue">✓✓</span>
-      </div>
-    `;
-  },
-
-  toggleAudio(msgId) {
-    const wrapper = document.getElementById(`audio-${msgId}`);
-    if (!wrapper) return;
-
-    const btn = wrapper.querySelector(".audio-play-btn");
-
-    if (this.activeAudioRow === msgId) {
-      // Pausar
-      clearInterval(this.audioInterval);
-      this.activeAudioRow = null;
-      wrapper.classList.remove("playing");
-      btn.textContent = "▶";
-    } else {
-      // Tocar
-      if (this.activeAudioRow) {
-        const prev = document.getElementById(`audio-${this.activeAudioRow}`);
-        if (prev) {
-          prev.classList.remove("playing");
-          prev.querySelector(".audio-play-btn").textContent = "▶";
-        }
-        clearInterval(this.audioInterval);
-      }
-
-      this.activeAudioRow = msgId;
-      wrapper.classList.add("playing");
-      btn.textContent = "⏸";
-
-      // Simulação de reprodução por 5 segundos
-      this.audioInterval = setTimeout(() => {
-        wrapper.classList.remove("playing");
-        btn.textContent = "▶";
-        this.activeAudioRow = null;
-      }, 5000);
-    }
-  },
-
-  toggleTranscript(msgId) {
-    const box = document.getElementById(`transcript-${msgId}`);
-    if (box) {
-      box.classList.toggle("open");
-    }
+  renderMessageBody(msg) {
+    const labels = {quote:'Citação publicada',summary:'Resumo editorial',context:'Contexto',media:'Mídia documentada',pending:'Verificação pendente'};
+    const sourceButtons = (msg.sources || []).map(id => `<button class="fact-check-pill" onclick="ForensicManager.openItemSource('${id}')">📰 ${escapeHTML(window.PELELEC_DATA.sources[id].outlet)} ↗</button>`).join('');
+    return `<div class="forensic-badge-tag">${escapeHTML(labels[msg.editorialType])}${msg.excerpt?' · trecho':''}</div>
+      ${msg.title?`<strong>${escapeHTML(msg.title)}</strong><br>`:''}
+      ${msg.speaker?`<small>${escapeHTML(msg.speaker)}</small><br>`:''}
+      <div class="message-text">${msg.editorialType==='quote'?'“':''}${escapeHTML(msg.text)}${msg.editorialType==='quote'?'”':''}</div>
+      <div class="message-meta"><span class="message-time">${escapeHTML(msg.time || 'Horário não informado')}</span></div>
+      ${window.ForensicManager.isForensicModeActive?sourceButtons:''}`;
   },
 
   sendMessage() {
-    const input = document.getElementById("chatInput");
-    if (!input || !input.value.trim()) return;
-
-    const text = input.value.trim();
-    input.value = "";
-
-    const contact = this.getActiveContact();
-    if (!contact) return;
-
-    const now = new Date();
-    const timeStr = `${String(now.getHours()).padStart(2, "0")}:${String(now.getMinutes()).padStart(2, "0")}`;
-
-    const newMsg = {
-      id: `custom_${Date.now()}`,
-      sender: "me",
-      time: timeStr,
-      text: text,
-      status: "read"
-    };
-
-    contact.messages.push(newMsg);
-    this.renderMessages(contact);
-
-    // Resposta automática simulada do interlocutor após 1.2s
-    setTimeout(() => {
-      let replyText = "";
-      if (contact.id === "martha") {
-        replyText = "Amol da minha vida! Você tá sempre ocupado salvando o banco, mas a peleleca tá te esperando! ❤️🏖️";
-      } else if (contact.id === "turma") {
-        replyText = "Positivo, chefe. O alvo já está com monitoramento visual ativado. Qualquer ordem sua executamos imediatamente.";
-      } else if (contact.id === "stf_alexandre") {
-        replyText = "Recebido. Tratar pessoalmente conforme alinhado no encontro reservado.";
-      } else if (contact.id === "henrique_pai") {
-        replyText = "Cuidado com o que escreve aqui no WhatsApp, Daniel. Passa em casa pra gente alinhar a questão do Panamá.";
-      } else if (contact.id === "paulo_brb") {
-        replyText = "Perfeito, Daniel. A diretoria vai pautar a operação na reunião extraordinária desta semana em Brasília.";
-      } else if (contact.id === "augusto_master") {
-        replyText = "Show de bola! As plataformas já tão vendendo os novos lotes com spread de 140% do CDI.";
-      } else if (contact.id === "rubens_menin") {
-        replyText = "Combinado! O Galo Forte e Vingador segue firme. Nos vemos na Arena MRV domingo!";
-      } else if (contact.id === "arthur_lira") {
-        replyText = "Perfeito, Daniel. A liderança da bancada está orientada e mantemos o alinhamento político em Brasília.";
-      } else if (contact.id === "escritorio_adv") {
-        replyText = "Recebido, Dr. Daniel. A equipe tributária e regulatória já protocolou as manifestações técnicas cabíveis.";
-      } else if (contact.id === "bacen_operacoes") {
-        replyText = "Perfeito, Daniel. O processo técnico já está tramitando na diretoria colegiada com prioridade.";
-      } else if (contact.id === "projeto_dv") {
-        replyText = "Entendido, chefe. Os vídeos do lote 2 já estão em fase final de edição e sobem hoje às 19h nas redes.";
-      } else if (contact.id === "desembargador_fasano") {
-        replyText = "Perfeito, Daniel. Agradecemos a atenção de sempre no Fasano. Nos vemos em Brasília na próxima semana.";
-      } else if (contact.id === "piloto_jatinho") {
-        replyText = "Entendido, comandante. Todos os sistemas de solo da aeronave estão em prontidão operacional.";
-      } else if (contact.id === "claudio_castro") {
-        replyText = "Perfeito, Daniel! As agendas no Guanabara e os cronogramas do Rioprevidência estão alinhados.";
-      } else {
-        replyText = "Mensagem recebida e registrada pelo terminal pericial.";
-      }
-
-      const replyMsg = {
-        id: `reply_${Date.now()}`,
-        sender: "them",
-        time: timeStr,
-        text: replyText,
-        status: "read"
-      };
-
-      contact.messages.push(replyMsg);
-      this.renderMessages(contact);
-    }, 1200);
+    // Acervo de leitura: nunca gerar respostas atribuídas a pessoas reais.
   },
 
   toggleDetailDrawer(open) {
@@ -610,7 +373,7 @@ const PelelecApp = {
     const creditEl = document.getElementById("drawerPhotoCredit");
     if (creditEl) {
       if (contact.photoCredit) {
-        creditEl.textContent = `📷 Retrato: ${contact.photoCredit}`;
+        creditEl.innerHTML = `📷 Retrato editorial: ${escapeHTML(contact.photoCredit)}<br><a href="${escapeHTML(contact.photo.source)}" target="_blank" rel="noopener noreferrer">Origem</a> · <a href="${escapeHTML(contact.photo.licenseUrl)}" target="_blank" rel="noopener noreferrer">Licença</a> · enquadramento circular`;
         creditEl.style.display = "block";
       } else {
         creditEl.style.display = "none";
