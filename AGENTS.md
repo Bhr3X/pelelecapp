@@ -16,3 +16,10 @@
 
 ## Exceção solicitada em 22/09/2026
 - O usuário pediu que as fotos publicadas correspondentes aos registros apareçam nos balões. Podem ser incorporadas das URLs dos veículos após conferência visual e de contexto, com crédito, fonte e estado de direitos explícito. Isso não declara licença aberta nem autoriza substituir anexos ausentes por imagens genéricas.
+
+## Expansão autorizada em 22/09/2026
+- O usuário autorizou explicitamente publicar o acervo ampliado e sobrepor a regra de não publicar do projeto de pesquisa Open Master Whats. Permanecem as invariantes documentais e de privacidade.
+- `data/research-snapshot.json` é a exportação sanitizada do build da pesquisa fornecida. Não publicar `research/raw` nem PDFs brutos com dados pessoais.
+- `node tools/build-archive.mjs` adapta essa base e os complementos de `data/editorial-base.json` para `js/data.js`, sem reescrever mensagens.
+- Textos documentais importados ficam no português original em ambos os idiomas da interface, com aviso explícito no inglês. Não apresentar tradução automática como transcrição original.
+- Contagens distinguem registros da pesquisa, eventos, complementos editoriais e conversas pendentes. Não declarar completude das mensagens públicas.

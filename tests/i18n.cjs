@@ -17,12 +17,13 @@ test('Portuguese default, saved English and blocked storage work',()=>{
     app.locale.setLanguage('en');assert.equal(app.ctx.document.documentElement.lang,'en');
   }
 });
-test('every current message has an English translation without mutating evidence',()=>{
+test('editorial supplements translate while research evidence remains original',()=>{
   const app=setup();const data=app.ctx.window.PELELEC_DATA;const before=JSON.stringify(data);
   app.locale.setLanguage('en');
   for(const contact of data.contacts){
-    assert.notEqual(app.locale.text(contact.contextSummary),contact.contextSummary,contact.id);
+    if(!contact.originalContext)assert.notEqual(app.locale.text(contact.contextSummary),contact.contextSummary,contact.id);
     for(const msg of contact.messages){
+      if(msg.originalLanguage)continue;
       if(msg.editorialType!=='pending')assert(app.locale.messages[msg.id],msg.id);
       assert.notEqual(app.locale.text(msg.text),msg.text,msg.id);
       if(msg.title)assert.notEqual(app.locale.text(msg.title),msg.title,msg.id);
@@ -32,12 +33,12 @@ test('every current message has an English translation without mutating evidence
   assert.equal(JSON.stringify(data),before);
 });
 test('PT/EN toggles restore exact original text, including dynamically replaced nodes',()=>{
-  const app=setup();const node={nodeValue:'“Alguma novidade?”',parentElement:{closest(){return false;}}};app.nodes.push(node);
-  app.locale.setLanguage('en');assert.equal(node.nodeValue,'“Any news?”');
-  app.locale.apply();assert.equal(node.nodeValue,'“Any news?”');
-  app.locale.setLanguage('pt');assert.equal(node.nodeValue,'“Alguma novidade?”');
-  app.locale.setLanguage('en');node.nodeValue='Gonet é firme';app.locale.apply();assert.equal(node.nodeValue,'Gonet is solid');
-  app.locale.setLanguage('pt');assert.equal(node.nodeValue,'Gonet é firme');
+  const app=setup();const node={nodeValue:'Abrir imagem completa ↗',parentElement:{closest(){return false;}}};app.nodes.push(node);
+  app.locale.setLanguage('en');assert.equal(node.nodeValue,'Open full image ↗');
+  app.locale.apply();assert.equal(node.nodeValue,'Open full image ↗');
+  app.locale.setLanguage('pt');assert.equal(node.nodeValue,'Abrir imagem completa ↗');
+  app.locale.setLanguage('en');node.nodeValue='Contexto e outro lado';app.locale.apply();assert.equal(node.nodeValue,'Context and responses');
+  app.locale.setLanguage('pt');assert.equal(node.nodeValue,'Contexto e outro lado');
 });
 test('translated date precision and caveats are retained',()=>{
   const app=setup();app.locale.setLanguage('en');

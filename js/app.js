@@ -160,8 +160,8 @@ const PelelecApp = {
     if (contact?.isPromotion) return '<span class="pudim-combat-avatar" role="img" aria-label="Pudim em combate · Brasília Survivors"></span>';
     if (contact && contact.photoUrl) {
       return `
-        <img src="${contact.photoUrl}" alt="${contact.name}" class="avatar-img" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
-        <span class="avatar-fallback" style="display: none; width:100%; height:100%; align-items:center; justify-content:center;">${contact.avatarInitials}</span>
+        <img src="${escapeHTML(contact.photoUrl)}" alt="${escapeHTML(contact.name)}" class="avatar-img" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
+        <span class="avatar-fallback" style="display: none; width:100%; height:100%; align-items:center; justify-content:center;">${escapeHTML(contact.avatarInitials)}</span>
       `;
     }
     return contact ? contact.avatarInitials : "";
@@ -250,11 +250,11 @@ const PelelecApp = {
             </div>
             <div class="contact-content">
               <div class="contact-top-row">
-                <span class="contact-name">${contact.name}</span>
+                <span class="contact-name">${escapeHTML(contact.name)}</span>
                 <span class="contact-time">${lastMsg ? lastMsg.time : ""}</span>
               </div>
               <div class="contact-bottom-row">
-                <span class="contact-preview">${preview}</span>
+                <span class="contact-preview">${escapeHTML(preview)}</span>
                 <div class="contact-badges">
                   ${contact.pinned ? '<span class="pin-icon">📌</span>' : ""}
                   ${contact.unreadCount ? `<span class="unread-badge">${contact.unreadCount}</span>` : ""}
@@ -340,15 +340,22 @@ const PelelecApp = {
       </div>
     `;
 
+    if (contact.thirdParty) html += '<div class="system-pill attribution-notice">Conversa entre terceiros, sem Vorcaro como participante.</div>';
+    if (contact.isGroup) html += `<div class="system-pill" data-no-translate>${escapeHTML(contact.members.join(' · '))}</div>`;
+    if (contact.outroLado) html += `<details class="archive-context" open><summary>Contexto e outro lado</summary><p data-no-translate>${escapeHTML(contact.contextSummary)}</p>${this.renderResponses(contact.outroLado)}<details><summary>Posição de Daniel Vorcaro</summary>${this.renderResponses(window.PELELEC_DATA.ownerResponses || [])}</details></details>`;
     let lastDate = "";
 
     contact.messages.forEach(msg => {
       if (msg.date && msg.date !== lastDate) {
         lastDate = msg.date;
-        html += `<div class="system-pill">${msg.date}</div>`;
+        html += `<div class="system-pill">${escapeHTML(msg.date)}</div>`;
       }
 
-      const isMe = msg.sender === "me";
+      if (['system','event'].includes(msg.kind)) {
+        html += `<div class="system-pill documentary-event" data-message-id="${escapeHTML(msg.id)}">${this.renderMessageBody(msg)}</div>`;
+        return;
+      }
+      const isMe = !contact.thirdParty && msg.sender === "me";
       const rowClass = isMe ? "me" : "them";
       const isRecovered = window.ForensicManager.isForensicModeActive && msg.isDeleted;
 
@@ -380,17 +387,28 @@ const PelelecApp = {
       <div class="message-row them"><div class="message-bubble promo-bubble"><div class="message-text">Pronto para jogar?</div><a class="game-play-cta-btn promo-chat-cta" href="https://www.brasiliasurvivors.com.br/" target="_blank" rel="noopener noreferrer">🕹️ JOGAR AGORA ↗</a><p class="promo-credit">Prints reais do site oficial · V2 beta · 22/09/2026.<br>Imagens: Brasília Survivors. Conteúdo promocional, fora do acervo documental.</p></div></div>`;
   },
 
+  renderResponses(responses) {
+    return responses.length ? responses.map(o=>`<p data-no-translate>${o.name?`<strong>${escapeHTML(o.name)}:</strong> `:''}${escapeHTML(o.text)} ${(o.sources||[]).map(id=>{const s=window.PELELEC_DATA.sources[id];return s?`<a href="${escapeHTML(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(s.outlet)} ↗</a>`:'';}).join(' · ')}</p>`).join('') : '<p>Manifestação não localizada nas fontes desta pesquisa; isso não significa ausência de resposta posterior.</p>';
+  },
+
+  renderEvidenceDetails(msg) {
+    if (!msg.researchId) return '';
+    const labels={conferida:'Conferida na fonte',conferida_aprox:'Conferida com tolerância de OCR/grafia',imagem_documento:'Transcrita de imagem do relatório',imagem_publicada:'Transcrita de print publicado',parcial:'Conferência parcial',nao_registrada:'Sem conferência literal registrada'};
+    return `${msg.recoveredByPF?'<div class="evidence-status">Recuperada pela PF · segundo a fonte</div>':''}<div class="evidence-status">${escapeHTML(labels[msg.verification.status]||labels.nao_registrada)}${msg.confidence==='medium'?' · Confiança média':''}</div><span class="original-language-note">Texto documental preservado em português</span><details class="record-details" ${window.ForensicManager.isForensicModeActive?'':'hidden'}><summary>Detalhes do registro</summary><p>ID: ${escapeHTML(msg.researchId)}</p>${msg.documentRef?`<p data-no-translate>${escapeHTML(msg.documentRef)}</p>`:''}${msg.context?`<p data-no-translate>${escapeHTML(msg.context)}</p>`:''}${msg.variants?.length?`<strong>Outra grafia publicada</strong>${msg.variants.map(v=>`<p data-no-translate>${escapeHTML(v.text)} ${(v.sources||[]).map(id=>{const s=window.PELELEC_DATA.sources[id];return `<a href="${escapeHTML(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(s.outlet)} ↗</a>`;}).join(' · ')}</p>`).join('')}` : ''}</details>`;
+  },
+
   renderMessageBody(msg) {
     const labels = {quote:'Citação publicada',summary:'Resumo editorial',context:'Contexto',media:'Mídia documentada',pending:'Verificação pendente'};
     const sourceButtons = (msg.sources || []).map(id => `<button class="fact-check-pill" onclick="ForensicManager.openItemSource('${id}')">📰 ${escapeHTML(window.PELELEC_DATA.sources[id].outlet)} ↗</button>`).join('');
-    return `<div class="forensic-badge-tag">${escapeHTML(labels[msg.editorialType])}${msg.excerpt?' · trecho':''}</div>
-      ${msg.title?`<strong>${escapeHTML(msg.title)}</strong><br>`:''}
+    return `<div class="forensic-badge-tag">${escapeHTML(msg.originalLanguage&&msg.editorialType==='quote'?'Transcrição publicada · original':labels[msg.editorialType])}${msg.excerpt?' · trecho':''}${msg.supplemental?' · Complemento editorial':''}</div>
+      ${msg.title?`<strong ${msg.originalLanguage?'data-no-translate':''}>${escapeHTML(msg.title)}</strong><br>`:''}
       ${msg.speaker?`<small>${escapeHTML(msg.speaker)}</small><br>`:''}
-      <div class="message-text">${msg.editorialType==='quote'?'“':''}${escapeHTML(msg.text)}${msg.editorialType==='quote'?'”':''}</div>
+      <div class="message-text" ${msg.originalLanguage?'data-no-translate':''}>${msg.editorialType==='quote'?'“':''}${escapeHTML(msg.text)}${msg.editorialType==='quote'?'”':''}</div>
       ${(msg.publishedImages || (msg.publishedImage ? [msg.publishedImage] : [])).map(photo => `<figure class="published-photo"><a href="${escapeHTML(photo.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(photo.alt)}"><img src="${escapeHTML(photo.url)}" alt="${escapeHTML(photo.alt)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.hidden=true; this.closest('figure').querySelector('.photo-unavailable').hidden=false;"></a><p class="photo-unavailable" hidden>Imagem indisponível no momento. Consulte a reportagem abaixo.</p><figcaption>${escapeHTML(photo.alt)}<br>${escapeHTML(photo.credit)} · <a href="${escapeHTML(photo.url)}" target="_blank" rel="noopener noreferrer">Abrir imagem completa ↗</a></figcaption></figure>`).join('')}
+      ${this.renderEvidenceDetails(msg)}
       ${msg.mediaLink ? `<div class="media-bubble-card"><div class="media-caption-text"><a href="${escapeHTML(msg.mediaLink)}" target="_blank" rel="noopener noreferrer">${escapeHTML(msg.mediaLinkLabel || 'Ver na fonte ↗')}</a><br><small>${escapeHTML(msg.rightsNote || '')}</small></div></div>` : ''}
       <div class="message-meta"><span class="message-time">${escapeHTML(msg.time || 'Horário não informado')}</span></div>
-      ${window.ForensicManager.isForensicModeActive?sourceButtons:''}`;
+      ${sourceButtons}`;
   },
 
   sendMessage() {
@@ -422,7 +440,9 @@ const PelelecApp = {
       }
     }
     document.getElementById("drawerPhone").textContent = contact.phone;
-    document.getElementById("drawerContext").textContent = contact.contextSummary;
+    const contextEl=document.getElementById("drawerContext");
+    contextEl.toggleAttribute('data-no-translate',!!contact.originalContext);
+    contextEl.textContent = contact.contextSummary;
     document.getElementById("drawerSourceHeadline").textContent = `"${contact.source.headline}"`;
     document.getElementById("drawerSourceOutlet").textContent = `${contact.source.outlet} • ${contact.source.date}`;
   },

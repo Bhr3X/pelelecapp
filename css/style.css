@@ -1351,3 +1351,17 @@ body[data-theme="light"] .message-row.me .message-meta { color: #526456; }
 .published-photo img { display: block; max-width: 100%; width: 100%; height: auto; object-fit: contain; border-radius: 8px; }
 .published-photo img[hidden], .photo-unavailable[hidden] { display: none; }
 .published-photo figcaption, .photo-unavailable { margin-top: 6px; font-size: 11px; line-height: 1.5; color: var(--text-secondary); }
+
+/* Documentary metadata uses the existing chat surfaces. Evidence keeps its original wording. */
+.message-text, .record-details p, .archive-context p { white-space: pre-wrap; overflow-wrap: anywhere; }
+.evidence-status { margin-top: 6px; font-size: 11px; color: var(--text-secondary); }
+.record-details { margin: 8px 0; font-size: 12px; line-height: 1.5; }
+.record-details summary, .archive-context summary { cursor: pointer; }
+.archive-context { margin: 10px 12px 18px; padding: 12px; background: var(--bg-secondary, #fff); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 8px; font-size: 12px; }
+.archive-context p { margin: 8px 0; }
+.attribution-notice { font-weight: 700; }
+.documentary-event { max-width: 90%; text-align: left; }
+.original-language-note { display: none; font-size: 11px; color: var(--text-secondary); }
+html[lang="en"] .original-language-note { display: block; }
+.evidence-status { color: var(--text-primary); }
+.attribution-notice { color: #f8fafc; }
