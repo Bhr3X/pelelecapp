@@ -68,6 +68,25 @@
     camilla_ramos: 'Fees contingent on success. No statement from Camilla herself was located.'
   };
   const dictionary = {
+    'Conversa entre terceiros, sem Vorcaro como participante.':'Conversation between third parties; Vorcaro is not a participant.',
+    'Contexto e outro lado':'Context and responses',
+    'Posição de Daniel Vorcaro':'Daniel Vorcaro’s response',
+    'Recuperada pela PF · segundo a fonte':'Recovered by Federal Police · according to the source',
+    'Conferida na fonte':'Checked against the source',
+    'Conferida com tolerância de OCR/grafia':'Checked with OCR/spelling tolerance',
+    'Transcrita de imagem do relatório':'Transcribed from a report image',
+    'Transcrita de print publicado':'Transcribed from a published screenshot',
+    'Conferência parcial':'Partially checked',
+    'Sem conferência literal registrada':'No verbatim verification recorded',
+    'Confiança média':'Medium confidence',
+    'Texto documental preservado em português':'Documentary text preserved in the original Portuguese',
+    'Detalhes do registro':'Record details',
+    'Outra grafia publicada':'Alternative published wording',
+    'Outros':'Others',
+    'Transcrição publicada · original':'Published transcript · original Portuguese',
+    'Complemento editorial':'Editorial supplement',
+    'Manifestação não localizada nas fontes desta pesquisa; isso não significa ausência de resposta posterior.':'No response located in this research; a later response may exist.',
+
     "Abrir imagem completa ↗":"Open full image ↗",
     "Capturas e documentos publicados":"Published screenshots and documents",
     "Fotografia completa do encontro em Londres, com Vorcaro à esquerda":"Full photograph of the London meeting, with Vorcaro on the left",
@@ -148,9 +167,9 @@
   });
 
   for (const contact of window.PELELEC_DATA.contacts) {
-    if (contexts[contact.id]) dictionary[contact.contextSummary] = contexts[contact.id];
+    if (!contact.originalContext && contexts[contact.id]) dictionary[contact.contextSummary] = contexts[contact.id];
     else if (contact.messages.every(m=>m.editorialType==='pending')) dictionary[contact.contextSummary] = pending;
-    for (const message of contact.messages) dictionary[message.text] = messages[message.id] || (message.editorialType === 'pending' ? pending : message.text);
+    for (const message of contact.messages.filter(m=>!m.originalLanguage)) dictionary[message.text] = messages[message.id] || (message.editorialType === 'pending' ? pending : message.text);
   }
   const escapeRE = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   // Longest first, one pass: translated text is never translated again.
