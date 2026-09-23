@@ -1,5 +1,7 @@
 # Expansão do acervo — 22/09/2026
 
+Esta página registra a primeira expansão (1.197 cartões). A rodada seguinte acrescentou 45 transcrições: totais atuais e limites em [Comparação MasterWhats](comparacao-masterwhats.md).
+
 ## Publicação autorizada
 
 O usuário autorizou expressamente publicar a base ampliada e sobrepor a proibição de deploy da pasta de pesquisa. As demais regras documentais e de privacidade foram preservadas.
