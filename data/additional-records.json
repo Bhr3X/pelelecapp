@@ -1,0 +1,1153 @@
+{
+  "meta": {
+    "checked": "2026-09-22",
+    "discoveryUrl": "https://arkanto.company/vorcaro/vorcazap/",
+    "exportUrl": "https://arkanto.company/vorcaro/vorcazap/export/masterwhats-export.zip",
+    "exportSha256": "9db5f4167f9c6c684fafe0dd8dfafc5963343a03d92fa3de02e2dde308da5e45",
+    "pdfSha256": "23cfdfa410c47ab09cbb2b443965e3a3095d9bc3dc5fb266efff76d6f5192b60",
+    "exportRecords": 66387,
+    "reportRecords": 615,
+    "marthaRecords": 65772,
+    "preliminaryCandidates": 99,
+    "admitted": 45,
+    "credit": "Transcrição de descoberta: MasterZap, Rafael Bressan; espelho MasterWhats/Arkanto. Conferência visual contra o PDF publicado.",
+    "scope": "Seleção de interesse público, não importação integral nem autenticação independente do aparelho."
+  },
+  "sources": {
+    "MW-pdf": {
+      "id": "MW-pdf",
+      "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
+      "title": "IPJ-A nº 3298613/2026 — relatório e figuras (218 páginas)",
+      "url": "https://raw.githubusercontent.com/rafaelbressan/masterzap/main/data/source/IPJ-A-3298613-2026.pdf",
+      "date": "2026-09",
+      "kind": "document"
+    }
+  },
+  "records": [
+    {
+      "chatId": "alberto_felix",
+      "externalId": 1,
+      "message": {
+        "id": "MW-alberto-felix-1",
+        "from": "alberto_felix",
+        "kind": "text",
+        "text": "Temos 40mm de contas a pagar pendentes, que seguramos semana passada",
+        "verbatim": true,
+        "d": "2025-07-14",
+        "t": "2025-07-14T16:49:05-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 156, figura 155.",
+        "ctx": "Trecho da conversa sobre contas pendentes e priorização de pagamentos. A planilha com dados bancários não foi incorporada.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 155 da página 156 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "alberto_felix",
+      "externalId": 2,
+      "message": {
+        "id": "MW-alberto-felix-2",
+        "from": "alberto_felix",
+        "kind": "text",
+        "text": "Podemos pagar uns 15mm hoje para nao acumular?",
+        "verbatim": true,
+        "d": "2025-07-14",
+        "t": "2025-07-14T16:49:16-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 156, figura 155.",
+        "ctx": "Trecho da conversa sobre contas pendentes e priorização de pagamentos. A planilha com dados bancários não foi incorporada.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 155 da página 156 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "alberto_felix",
+      "externalId": 5,
+      "message": {
+        "id": "MW-alberto-felix-5",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Paga 15 e inclui o barci moraes",
+        "verbatim": true,
+        "d": "2025-07-14",
+        "t": "2025-07-14T16:54:41-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 156, figura 155.",
+        "ctx": "Trecho da conversa sobre contas pendentes e priorização de pagamentos. A planilha com dados bancários não foi incorporada.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 155 da página 156 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "alberto_felix",
+      "externalId": 6,
+      "message": {
+        "id": "MW-alberto-felix-6",
+        "from": "alberto_felix",
+        "kind": "text",
+        "text": "Pagamos barci hj",
+        "verbatim": true,
+        "d": "2025-07-14",
+        "t": "2025-07-14T16:54:50-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 156, figura 155.",
+        "ctx": "Trecho da conversa sobre contas pendentes e priorização de pagamentos. A planilha com dados bancários não foi incorporada.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 155 da página 156 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 34,
+      "message": {
+        "id": "MW-ana-matos-mkt-34",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Tbm estranhei. Foi o que veio do Alexandre",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:08:23-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 35,
+      "message": {
+        "id": "MW-ana-matos-mkt-35",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Nao vamos dar essa abertura ana",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:08:32-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 36,
+      "message": {
+        "id": "MW-ana-matos-mkt-36",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Veja se vou chamar esses caras pra entregar pea outros",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:08:40-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 37,
+      "message": {
+        "id": "MW-ana-matos-mkt-37",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Temos que dizer que nao fazem com outros",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:08:47-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 38,
+      "message": {
+        "id": "MW-ana-matos-mkt-38",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "E eu vou de apresentador e entrevistador",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:08:55-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 39,
+      "message": {
+        "id": "MW-ana-matos-mkt-39",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Ficou muito ruim as mudancas",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:09:21-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 40,
+      "message": {
+        "id": "MW-ana-matos-mkt-40",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Pois eh.\nSegui todas as recomendações que vieram do Ministro\nInclusive não veio seu nome no programa. Eu coloquei",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:10:00-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 41,
+      "message": {
+        "id": "MW-ana-matos-mkt-41",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Eu altero isso. Só saber onde eu coloco Hugo e Alcolumbre",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:11:01-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 42,
+      "message": {
+        "id": "MW-ana-matos-mkt-42",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Vieram vários nomes novos que não estavam na relação de convidados e entraram na programação",
+        "verbatim": true,
+        "d": "2025-03-14",
+        "t": "2025-03-14T20:11:55-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 199.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 199 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 45,
+      "message": {
+        "id": "MW-ana-matos-mkt-45",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Assessor min Alexandre ligou",
+        "verbatim": true,
+        "d": "2025-04-08",
+        "t": "2025-04-08T18:22:19-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 200.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 200 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 46,
+      "message": {
+        "id": "MW-ana-matos-mkt-46",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Sobre emissão do aéreo dele",
+        "verbatim": true,
+        "d": "2025-04-08",
+        "t": "2025-04-08T18:22:46-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 191, figura 200.",
+        "ctx": "Trecho da organização do evento de Londres, programação e emissão de passagem; nomes e expressões mantidos conforme o documento.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 200 da página 191 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 61,
+      "message": {
+        "id": "MW-ana-matos-mkt-61",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Tenho vídeo com assessora executiva do Min hoje sobre Londres. Te dou retorno na sequência",
+        "verbatim": true,
+        "d": "2025-07-17",
+        "t": "2025-07-17T13:22:47-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 192, figura 201.",
+        "ctx": "Trecho da organização do evento de Londres. Referências a “vídeo” não demonstram que um arquivo foi compartilhado; nenhum vídeo está disponível neste registro.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 201 da página 192 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "ana_matos",
+      "externalId": 89,
+      "message": {
+        "id": "MW-ana-matos-mkt-89",
+        "from": "ana_matos",
+        "kind": "text",
+        "text": "Podemos mudar tudo o que ele quiser. Tarcísio não confirmou",
+        "verbatim": true,
+        "d": "2025-07-21",
+        "t": "2025-07-21T12:27:33-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 194, figura 203.",
+        "ctx": "Trecho da conversa sobre programação e organização do evento de Londres.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 203 da página 194 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 6,
+      "message": {
+        "id": "MW-angelo-silva-6",
+        "from": "angelo_silva",
+        "kind": "text",
+        "text": "Agenda do RiskBank ficou para o dia 25…18h.",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T07:06:24-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 10,
+      "message": {
+        "id": "MW-angelo-silva-10",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Nao to entendendo isso",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:05:48-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 11,
+      "message": {
+        "id": "MW-angelo-silva-11",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Contrato mais importantw que temos",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:05:56-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 12,
+      "message": {
+        "id": "MW-angelo-silva-12",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Te pedi pra nao falhar",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:00-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 14,
+      "message": {
+        "id": "MW-angelo-silva-14",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Vamos ter problemas",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:07-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 15,
+      "message": {
+        "id": "MW-angelo-silva-15",
+        "from": "angelo_silva",
+        "kind": "text",
+        "text": "Pagamento",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:19-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 17,
+      "message": {
+        "id": "MW-angelo-silva-17",
+        "from": "angelo_silva",
+        "kind": "text",
+        "text": "Vou checar...",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:35-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "angelo_silva",
+      "externalId": 18,
+      "message": {
+        "id": "MW-angelo-silva-18",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Manda pagar agora",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:52-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 152, figura 151.",
+        "ctx": "Trecho da conversa de 15/03/2024 sobre cobrança de pagamento do contrato Barci de Moraes; não representa a íntegra do diálogo.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 151 da página 152 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 85,
+      "message": {
+        "id": "MW-fabio-faria-85",
+        "from": "fabio_faria",
+        "kind": "text",
+        "text": "Depois vê aí que preciso retornar o careca",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T14:58:41-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 86,
+      "message": {
+        "id": "MW-fabio-faria-86",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "O contato não é o fabiano",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:35-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 87,
+      "message": {
+        "id": "MW-fabio-faria-87",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "É o angelo do banco",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:39-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 89,
+      "message": {
+        "id": "MW-fabio-faria-89",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Nao consigo atender agora",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:06:59-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 90,
+      "message": {
+        "id": "MW-fabio-faria-90",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Te chamo daqui a pouco",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:07:02-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 94,
+      "message": {
+        "id": "MW-fabio-faria-94",
+        "from": "fabio_faria",
+        "kind": "text",
+        "text": "Passa o contato do Ângelo que passo pra ele",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:07:34-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 96,
+      "message": {
+        "id": "MW-fabio-faria-96",
+        "from": "fabio_faria",
+        "kind": "text",
+        "text": "Passei pra ele",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:09:08-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 97,
+      "message": {
+        "id": "MW-fabio-faria-97",
+        "from": "fabio_faria",
+        "kind": "text",
+        "text": "Avisa que vão ligar do escritório",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:09:14-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 151, figura 150.",
+        "ctx": "Trecho sobre contato com o banco e escritório. A expressão “careca” é mantida como aparece no documento, sem identificar por inferência seu destinatário.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 150 da página 151 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 143,
+      "message": {
+        "id": "MW-fabio-faria-143",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Importante ele alterar o que quer rapido",
+        "verbatim": true,
+        "d": "2024-04-25",
+        "t": "2024-04-25T16:52:33-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 198, figura 207.",
+        "ctx": "Trecho da conversa sobre o link do Brazil Journal e pedido de alteração. O registro reproduz o diálogo, sem concluir que uma alteração foi realizada.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 207 da página 198 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "fabio_faria",
+      "externalId": 145,
+      "message": {
+        "id": "MW-fabio-faria-145",
+        "from": "fabio_faria",
+        "kind": "text",
+        "text": "Está bom. Pode liberar",
+        "verbatim": true,
+        "d": "2024-04-25",
+        "t": "2024-04-25T17:13:08-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 198, figura 207.",
+        "ctx": "Trecho da conversa sobre o link do Brazil Journal e pedido de alteração. O registro reproduz o diálogo, sem concluir que uma alteração foi realizada. Mensagem marcada como encaminhada na figura; autoria original não identificada.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 207 da página 198 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "romy",
+      "externalId": 3,
+      "message": {
+        "id": "MW-romy-banco-master-3",
+        "from": "romy",
+        "kind": "text",
+        "text": "pode deixar, estou fazendo direto por aqui",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:18:09-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 153, figura 152.",
+        "ctx": "Trecho da conversa sobre acompanhamento mensal dos pagamentos do escritório Barci de Moraes.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 152 da página 153 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "romy",
+      "externalId": 4,
+      "message": {
+        "id": "MW-romy-banco-master-4",
+        "from": "romy",
+        "kind": "text",
+        "text": "neste instante",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:18:12-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 153, figura 152.",
+        "ctx": "Trecho da conversa sobre acompanhamento mensal dos pagamentos do escritório Barci de Moraes.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 152 da página 153 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "romy",
+      "externalId": 5,
+      "message": {
+        "id": "MW-romy-banco-master-5",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Mas todo mês acompanha isso pra mim",
+        "verbatim": true,
+        "d": "2024-03-15",
+        "t": "2024-03-15T15:18:52-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 153, figura 152.",
+        "ctx": "Trecho da conversa sobre acompanhamento mensal dos pagamentos do escritório Barci de Moraes.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 152 da página 153 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "zettel",
+      "externalId": 4,
+      "message": {
+        "id": "MW-fabiano-zettel-4",
+        "from": "zettel",
+        "kind": "text",
+        "text": "Até o 5 dia útil.",
+        "verbatim": true,
+        "d": "2024-02-08",
+        "t": "2024-02-08T12:26:40-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
+        "ctx": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 148 da página 149 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "zettel",
+      "externalId": 5,
+      "message": {
+        "id": "MW-fabiano-zettel-5",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Entao ja passou",
+        "verbatim": true,
+        "d": "2024-02-08",
+        "t": "2024-02-08T12:26:57-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
+        "ctx": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 148 da página 149 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "zettel",
+      "externalId": 6,
+      "message": {
+        "id": "MW-fabiano-zettel-6",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Nao foi feito?",
+        "verbatim": true,
+        "d": "2024-02-08",
+        "t": "2024-02-08T12:27:00-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
+        "ctx": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 148 da página 149 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "zettel",
+      "externalId": 7,
+      "message": {
+        "id": "MW-fabiano-zettel-7",
+        "from": "zettel",
+        "kind": "text",
+        "text": "Ontem, no caso.",
+        "verbatim": true,
+        "d": "2024-02-08",
+        "t": "2024-02-08T12:27:04-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
+        "ctx": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 148 da página 149 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "zettel",
+      "externalId": 10,
+      "message": {
+        "id": "MW-fabiano-zettel-10",
+        "from": "zettel",
+        "kind": "text",
+        "text": "É o Banco que paga.",
+        "verbatim": true,
+        "d": "2024-02-08",
+        "t": "2024-02-08T12:27:22-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
+        "ctx": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 148 da página 149 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "zettel",
+      "externalId": 12,
+      "message": {
+        "id": "MW-fabiano-zettel-12",
+        "from": "vorcaro",
+        "kind": "text",
+        "text": "Confirma c angelo se nao foi pago",
+        "verbatim": true,
+        "d": "2024-02-08",
+        "t": "2024-02-08T12:28:31-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
+        "ctx": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 148 da página 149 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    },
+    {
+      "chatId": "zettel",
+      "externalId": 14,
+      "message": {
+        "id": "MW-fabiano-zettel-14",
+        "from": "zettel",
+        "kind": "text",
+        "text": "Ta no fluxo de pagamento para hj.",
+        "verbatim": true,
+        "d": "2024-02-08",
+        "t": "2024-02-08T12:44:23-03:00",
+        "p": "minute",
+        "src": [
+          "MW-pdf",
+          "A1-s1"
+        ],
+        "doc": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
+        "ctx": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção. Mensagem marcada como encaminhada na figura; autoria original não identificada.",
+        "ver": {
+          "status": "imagem_documento",
+          "found_in": "Conferência visual na figura 148 da página 149 do PDF público, comparada à transcrição MasterWhats.",
+          "checked": "2026-09-22"
+        }
+      }
+    }
+  ]
+}
