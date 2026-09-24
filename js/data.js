@@ -49031,6 +49031,825 @@ window.PELELEC_DATA = {
       "author": "Maria Clara Pinheiro",
       "kind": "reportagem (veículo original não identificado)"
     },
+    "research_I3-s1": {
+      "id": "research_I3-s1",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro antecipou viagem a Dubai depois de conversar com Moraes",
+      "url": "https://revistaoeste.com/politica/vorcaro-antecipou-viagem-a-dubai-depois-de-conversar-com-moraes/",
+      "date": "2026-09-08",
+      "author": "Redação Oeste",
+      "kind": "reportagem"
+    },
+    "research_I3-s2": {
+      "id": "research_I3-s2",
+      "outlet": "Jovem Pan",
+      "title": "Vorcaro antecipou viagem a Dubai antes de ser preso; mudança aconteceu após conversa com Moraes",
+      "url": "https://jovempan.com.br/politica/vorcaro-antecipou-viagem-a-dubai-antes-de-ser-preso-mudanca-aconteceu-apos-conversa-com-moraes/",
+      "date": "2026-09-08",
+      "author": "Matheus Alleoni",
+      "kind": "reportagem"
+    },
+    "research_I3-s3": {
+      "id": "research_I3-s3",
+      "outlet": "Brasil de Fato",
+      "title": "PF detalha articulações de Vorcaro antes de ser preso e aponta que ex-banqueiro já sabia de operação",
+      "url": "https://www.brasildefato.com.br/2026/09/11/pf-detalha-articulacoes-de-vorcaro-antes-de-ser-preso-e-aponta-que-ex-banqueiro-ja-sabia-de-operacao/",
+      "date": "2026-09-11",
+      "author": "Geisa Marques",
+      "kind": "reportagem"
+    },
+    "research_I3-s4": {
+      "id": "research_I3-s4",
+      "outlet": "Agência Brasil",
+      "title": "Daniel Vorcaro, dono do Banco Master, é preso pela PF em Guarulhos",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/daniel-vorcaro-dono-do-banco-master-e-preso-pela-pf-em-guarulhos",
+      "date": "2025-11-18",
+      "author": "Agência Brasil",
+      "kind": "reportagem"
+    },
+    "research_I3-s7": {
+      "id": "research_I3-s7",
+      "outlet": "Agência Brasil",
+      "title": "Toffoli deixa relatoria de investigação sobre o Banco Master",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/toffoli-deixa-relatoria-de-investigacao-sobre-o-banco-master",
+      "date": "2026-02-12",
+      "author": "André Richter",
+      "kind": "reportagem"
+    },
+    "research_I3-s8": {
+      "id": "research_I3-s8",
+      "outlet": "Conjur",
+      "title": "Dias Toffoli decide deixar relatoria do caso do Banco Master",
+      "url": "https://conjur.com.br/2026-fev-12/dias-toffoli-decide-deixar-relatoria-do-caso-do-banco-master/",
+      "date": "2026-02-12",
+      "author": null,
+      "kind": "reportagem"
+    },
+    "research_I3-s9": {
+      "id": "research_I3-s9",
+      "outlet": "Revista Oeste",
+      "title": "Toffoli deixa relatoria do caso Master, depois de reunião de ministros",
+      "url": "https://revistaoeste.com/politica/toffoli-deixa-relatoria-do-caso-master-depois-de-reuniao-de-ministros/",
+      "date": "2026-02-12",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I3-s10": {
+      "id": "research_I3-s10",
+      "outlet": "Brasil de Fato",
+      "title": "Dono do Banco Master, Daniel Vorcaro é preso pela Polícia Federal",
+      "url": "https://www.brasildefato.com.br/2026/03/04/dono-do-banco-master-daniel-vorcaro-e-preso-pela-policia-federal/",
+      "date": "2026-03-04",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s11": {
+      "id": "research_I3-s11",
+      "outlet": "Conjur",
+      "title": "Daniel Vorcaro, dono do Banco Master, é preso novamente pela PF",
+      "url": "https://conjur.com.br/2026-mar-04/daniel-vorcaro-dono-do-banco-master-e-preso-novamente-pela-pf/",
+      "date": "2026-03-04",
+      "author": null,
+      "kind": "reportagem"
+    },
+    "research_I3-s12": {
+      "id": "research_I3-s12",
+      "outlet": "Agência Pública",
+      "title": "A Turma de Vorcaro: banqueiro tem prisão preventiva decretada por ministro Mendonça",
+      "url": "https://apublica.org/2026/03/a-turma-de-vorcaro-banqueiro-tem-prisao-preventiva-decretada-por-ministro-mendonca/",
+      "date": "2026-03-04",
+      "author": "Thiago Domenici",
+      "kind": "reportagem"
+    },
+    "research_I3-s13": {
+      "id": "research_I3-s13",
+      "outlet": "Agência Brasil",
+      "title": "Moraes nega conversas com Vorcaro no dia em que banqueiro foi preso",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-nega-conversas-com-vorcaro-no-dia-em-que-banqueiro-foi-preso",
+      "date": "2026-03-06",
+      "author": "André Richter",
+      "kind": "reportagem"
+    },
+    "research_I3-s14": {
+      "id": "research_I3-s14",
+      "outlet": "Agência Brasil",
+      "title": "Defesa confirma morte de Sicário, aliado de Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/defesa-confirma-morte-de-sicario-aliado-de-vorcaro",
+      "date": "2026-03-07",
+      "author": "Paula Laboissière",
+      "kind": "reportagem"
+    },
+    "research_I3-s16": {
+      "id": "research_I3-s16",
+      "outlet": "Revista Oeste",
+      "title": "Ex-presidente do BRB, Paulo Henrique Costa é preso em Brasília",
+      "url": "https://revistaoeste.com/politica/ex-presidente-do-brb-paulo-henrique-costa-e-preso/",
+      "date": "2026-04-16",
+      "author": "Isabela Jordão",
+      "kind": "reportagem"
+    },
+    "research_I3-s17": {
+      "id": "research_I3-s17",
+      "outlet": "Gazeta do Povo",
+      "title": "Ex-presidente do BRB é preso suspeito de receber R$ 146 milhões em propina do Master",
+      "url": "https://www.gazetadopovo.com.br/republica/ex-presidente-do-brb-e-preso-em-nova-fase-da-compliance-zero/",
+      "date": "2026-04-16",
+      "author": "Vinicius Macia e Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I3-s18": {
+      "id": "research_I3-s18",
+      "outlet": "Gazeta do Povo",
+      "title": "Ciro Nogueira é alvo de buscas em operação do caso Master; senador receberia mesada de R$ 500 mil de Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/ciro-nogueira-e-alvo-de-busca-e-apreensao-no-caso-master/",
+      "date": "2026-05-07",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I3-s21": {
+      "id": "research_I3-s21",
+      "outlet": "Brasil de Fato",
+      "title": "PF prende pai de Daniel Vorcaro em nova fase da operação Compliance Zero, que investiga fraudes do Banco Master",
+      "url": "https://www.brasildefato.com.br/2026/05/14/pf-prende-pai-de-daniel-vorcaro-em-nova-fase-da-operacao-compliance-zero-que-investiga-fraudes-do-banco-master/",
+      "date": "2026-05-14",
+      "author": "Geisa Marques",
+      "kind": "reportagem"
+    },
+    "research_I3-s22": {
+      "id": "research_I3-s22",
+      "outlet": "Agência Brasil",
+      "title": "Pai de Daniel Vorcaro é preso na 6ª fase da operação Compliance Zero",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pai-de-daniel-vorcaro-e-preso-na-6a-fase-da-operacao-compliance-zero",
+      "date": "2026-05-14",
+      "author": "Paula Laboissière",
+      "kind": "reportagem"
+    },
+    "research_I3-s24": {
+      "id": "research_I3-s24",
+      "outlet": "Agência Brasil",
+      "title": "Polícia Federal recusa proposta de delação premiada de Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/policia-federal-recusa-proposta-de-delacao-premiada-de-vorcaro",
+      "date": "2026-05-21",
+      "author": "Alex Rodrigues",
+      "kind": "reportagem"
+    },
+    "research_I3-s25": {
+      "id": "research_I3-s25",
+      "outlet": "Brasil de Fato",
+      "title": "PF rejeita delação de Daniel Vorcaro, considerada sem informações novas e relevantes",
+      "url": "https://www.brasildefato.com.br/2026/05/21/pf-rejeita-delacao-de-daniel-vorcaro-considerada-sem-informacoes-novas-e-relevantes/",
+      "date": "2026-05-21",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s27": {
+      "id": "research_I3-s27",
+      "outlet": "Agência Brasil",
+      "title": "Operação contra Castro mira aportes de R$ 3,6 bi em fundos do Master",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/operacao-contra-castro-mira-aportes-de-r-36-bi-em-fundos-do-master",
+      "date": "2026-05-26",
+      "author": "Felipe Pontes",
+      "kind": "reportagem"
+    },
+    "research_I3-s28": {
+      "id": "research_I3-s28",
+      "outlet": "Revista Oeste",
+      "title": "Cláudio Castro vira alvo da PF em apuração sobre aportes no Banco Master",
+      "url": "https://revistaoeste.com/politica/claudio-castro-vira-alvo-da-pf-em-apuracao-sobre-aportes-no-banco-master/",
+      "date": "2026-05-26",
+      "author": "Yasmin Alencar",
+      "kind": "reportagem"
+    },
+    "research_I3-s29": {
+      "id": "research_I3-s29",
+      "outlet": "Gazeta do Povo",
+      "title": "Castro é alvo novamente da PF por aplicar R$ 3 bi da Riopreviência no Master",
+      "url": "https://www.gazetadopovo.com.br/republica/castro-alvo-pf-aplicar-3-bi-riopreviencia-master/",
+      "date": "2026-05-26",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I3-s30": {
+      "id": "research_I3-s30",
+      "outlet": "Congresso em Foco",
+      "title": "Cláudio Castro é alvo da PF por aplicações do Rioprevidência no Master",
+      "url": "https://www.congressoemfoco.com.br/noticia/119165/claudio-castro-e-alvo-da-pf-por-aplicacoes-do-rioprevidencia-no-master",
+      "date": "2026-05-26",
+      "author": "Congresso em Foco",
+      "kind": "reportagem"
+    },
+    "research_I3-s31": {
+      "id": "research_I3-s31",
+      "outlet": "Agência Brasil",
+      "title": "Apuração da PF acusa Jaques Wagner de receber vantagens; senador nega",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega",
+      "date": "2026-06-18",
+      "author": "Alex Rodrigues",
+      "kind": "reportagem"
+    },
+    "research_I3-s32": {
+      "id": "research_I3-s32",
+      "outlet": "CartaCapital",
+      "title": "Líder do governo no Senado, Jaques Wagner é alvo da PF em fase da operação sobre o Caso Master",
+      "url": "https://www.cartacapital.com.br/politica/caso-master-pf-realiza-nova-etapa-da-operacao-compliance-zero/",
+      "date": "2026-06-18",
+      "author": "Vinícius Nunes",
+      "kind": "reportagem"
+    },
+    "research_I3-s33": {
+      "id": "research_I3-s33",
+      "outlet": "Revista Oeste",
+      "title": "PF deflagra operação contra publicitário ligado a Vorcaro por intimidação de jornalistas",
+      "url": "https://revistaoeste.com/politica/pf-faz-operacao-contra-publicitario-ligado-a-vorcaro-por-intimidacao-de-jornalistas/",
+      "date": "2026-07-09",
+      "author": "Luana Viana e Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I3-s34": {
+      "id": "research_I3-s34",
+      "outlet": "Brasil de Fato",
+      "title": "Vorcaro ofereceu dinheiro para influenciadores criticarem o BC nas redes, segundo a PF",
+      "url": "https://www.brasildefato.com.br/2026/07/10/vorcaro-ofereceu-dinheiro-para-influenciadores-criticarem-o-bc-nas-redes-segundo-a-pf/",
+      "date": "2026-07-10",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s36": {
+      "id": "research_I3-s36",
+      "outlet": "Conjur",
+      "title": "Cabe ao Plenário do STF decidir se Alexandre deve ser investigado no caso Master, sugere Mendonça",
+      "url": "https://conjur.com.br/2026-set-01/mendonca-manda-stf-analisar-em-plenario-novos-indicios-sobre-rede-de-influencia-de-vorcaro/",
+      "date": "2026-09-01",
+      "author": null,
+      "kind": "reportagem"
+    },
+    "research_I3-s37": {
+      "id": "research_I3-s37",
+      "outlet": "Congresso em Foco",
+      "title": "Mendonça retira sigilo de apuração sobre mensagens de Vorcaro e Moraes",
+      "url": "https://www.congressoemfoco.com.br/noticia/121852/mendonca-retira-sigilo-de-apuracao-sobre-mensagens-de-vorcaro-e-moraes",
+      "date": "2026-09-01",
+      "author": "Congresso em Foco",
+      "kind": "reportagem"
+    },
+    "research_I3-s39": {
+      "id": "research_I3-s39",
+      "outlet": "Brasil de Fato",
+      "title": "PF investiga suspeita de desvio de emendas para 'Dark Horse' e faz buscas contra Mario Frias e produtora de filme sobre Bolsonaro",
+      "url": "https://www.brasildefato.com.br/2026/09/10/pf-investiga-suspeita-de-desvio-de-emendas-para-dark-horse-e-faz-buscas-contra-mario-frias-e-produtora-de-filme-sobre-bolsonaro/",
+      "date": "2026-09-10",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s40": {
+      "id": "research_I3-s40",
+      "outlet": "Revista Oeste",
+      "title": "PF tem Mário Frias e produtora de Dark Horse como alvos de operação",
+      "url": "https://revistaoeste.com/politica/pf-tem-mario-frias-e-produtora-de-dark-horse-como-alvos-de-operacao/",
+      "date": "2026-09-10",
+      "author": "Isabela Jordão",
+      "kind": "reportagem"
+    },
+    "research_I3-s41": {
+      "id": "research_I3-s41",
+      "outlet": "Agência Brasil",
+      "title": "Mario Frias e produtora de Dark Horse são alvos de operação da PF",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mario-frias-e-produtora-de-dark-horse-sao-alvos-de-operacao-da-pf",
+      "date": "2026-09-10",
+      "author": "Agência Brasil",
+      "kind": "reportagem"
+    },
+    "research_I3-s42": {
+      "id": "research_I3-s42",
+      "outlet": "Jovem Pan",
+      "title": "PF deflagra operação sobre financiamento do filme 'Dark Horse'; Mario Frias e produtora são alvos",
+      "url": "https://jovempan.com.br/politica/pf-deflagra-operacao-sobre-financiamento-do-filme-dark-horse-mario-frias-e-produtora-sao-alvos/",
+      "date": "2026-09-10",
+      "author": "Marco Viana e Marcelo Bamonte",
+      "kind": "reportagem"
+    },
+    "research_I3-s43": {
+      "id": "research_I3-s43",
+      "outlet": "CartaCapital",
+      "title": "Moraes diz que Mendonça está a serviço de grupo 'que tentou dar um golpe no País'",
+      "url": "https://www.cartacapital.com.br/politica/moraes-diz-que-mendonca-esta-a-servico-de-grupo-que-tentou-dar-um-golpe-no-pais/",
+      "date": "2026-09-15",
+      "author": "Vinícius Nunes",
+      "kind": "reportagem"
+    },
+    "research_I3-s44": {
+      "id": "research_I3-s44",
+      "outlet": "Brasil de Fato",
+      "title": "'Diálogos fantasiosos': Moraes nega mensagens com Vorcaro e acusa Mendonça de montar 'farsa incriminatória' com objetivos eleitorais",
+      "url": "https://www.brasildefato.com.br/2026/09/15/dialogos-fantasiosos-moraes-nega-mensagens-com-vorcaro-e-acusa-mendonca-de-montar-farsa-incriminatoria-com-objetivos-eleitorais/",
+      "date": "2026-09-15",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s46": {
+      "id": "research_I3-s46",
+      "outlet": "Revista Oeste",
+      "title": "Foto mostra Paulo Gonet fumando charuto com Vorcaro em Londres",
+      "url": "https://revistaoeste.com/politica/foto-mostra-gonet-fumando-charuto-com-vorcaro-em-londres/",
+      "date": "2026-09-18",
+      "author": "Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_I3-s47": {
+      "id": "research_I3-s47",
+      "outlet": "O Antagonista",
+      "title": "Mensagens indicam proximidade entre Vorcaro e Benedito Gonçalves",
+      "url": "https://oantagonista.com.br/brasil/mensagens-indicam-proximidade-entre-vorcaro-e-benedito-goncalves/",
+      "date": "2026-09-18",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s48": {
+      "id": "research_I3-s48",
+      "outlet": "Brasil 247",
+      "title": "Ministro do STJ Benedito Gonçalves disse a Vorcaro estar \"sempre à disposição\"",
+      "url": "https://www.brasil247.com/brasilia/ministro-do-stj-benedito-goncalves-disse-a-vorcaro-estar-sempre-a-disposicao/",
+      "date": "2026-09-18",
+      "author": "Guilherme Levorato",
+      "kind": "reportagem"
+    },
+    "research_I3-s49": {
+      "id": "research_I3-s49",
+      "outlet": "O Antagonista",
+      "title": "MasterWhats sai do ar após ordem judicial",
+      "url": "https://oantagonista.com.br/brasil/masterwhats-sai-do-ar-apos-ordem-judicial/",
+      "date": "2026-09-21",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s50": {
+      "id": "research_I3-s50",
+      "outlet": "O Antagonista",
+      "title": "Wagner confirma ação contra MasterWhats e diz que alvo era conversa falsa com Lula",
+      "url": "https://oantagonista.com.br/brasil/wagner-confirma-acao-contra-masterwhats-e-diz-que-alvo-era-conversa-falsa-com-lula/",
+      "date": "2026-09-22",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "research_I3-s51": {
+      "id": "research_I3-s51",
+      "outlet": "O Antagonista (Crusoé)",
+      "title": "Crusoé: MasterWhats, com mensagens do caso Master, volta ao ar",
+      "url": "https://oantagonista.com.br/brasil/crusoe-masterwhats-com-mensagens-do-caso-master-volta-ao-ar/",
+      "date": "2026-09-23",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s52": {
+      "id": "research_I3-s52",
+      "outlet": "O Antagonista",
+      "title": "\"Turma do KN\" tinha contrato de até R$ 427 milhões com Vorcaro, diz PF",
+      "url": "https://oantagonista.com.br/brasil/turma-do-kn-tinha-contrato-de-ate-r-427-milhoes-com-vorcaro-diz-pf/",
+      "date": "2026-09-21",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s53": {
+      "id": "research_I3-s53",
+      "outlet": "Brasil de Fato",
+      "title": "Diária no Fasano, jatinho, mansão no Carnaval: escritório de advocacia negociava favores de Vorcaro para o ministro Kassio Nunes",
+      "url": "https://www.brasildefato.com.br/2026/09/21/diaria-no-fasano-jatinho-mansao-no-carnaval-escritorio-de-advocacia-negociava-favores-de-vorcaro-para-o-ministro-kassio-nunes/",
+      "date": "2026-09-21",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s54": {
+      "id": "research_I3-s54",
+      "outlet": "Bahia Notícias",
+      "title": "\"Turma do KN\", ligada a Kassio Nunes, pretendia ganhar mais de R$ 400 milhões em contrato com Banco Master",
+      "url": "https://www.bahianoticias.com.br/justica/noticia/75459-turma-do-kn-ligada-a-kassio-nunes-pretendia-ganhar-mais-de-r-400-milhoes-em-contrato-com-banco-master",
+      "date": "2026-09-21",
+      "author": "Edu Mota",
+      "kind": "reportagem"
+    },
+    "research_I3-s56": {
+      "id": "research_I3-s56",
+      "outlet": "Lance!",
+      "title": "Segundo revista, mensagens obtidas pela PF citam Neymar Pai e Flávio Bolsonaro em cobranças a Vorcaro",
+      "url": "https://www.lance.com.br/santos/segundo-revista-mensagens-obtidas-pela-pf-citam-neymar-pai-e-flavio-bolsonaro-em-cobrancas-a-vorcaro.html",
+      "date": "2026-09-21",
+      "author": "Redação Lance!",
+      "kind": "reportagem"
+    },
+    "research_I3-s57": {
+      "id": "research_I3-s57",
+      "outlet": "Conjur",
+      "title": "Alexandre pede a presidente do STF que André Mendonça seja investigado",
+      "url": "https://conjur.com.br/2026-set-03/alexandre-pede-a-fachin-que-andre-mendonca-seja-investigado/",
+      "date": "2026-09-03",
+      "author": "Karla Gamba",
+      "kind": "reportagem"
+    },
+    "research_I3-s58": {
+      "id": "research_I3-s58",
+      "outlet": "Brasil de Fato",
+      "title": "Moraes acusa Mendonça de abuso de autoridade e pede investigação a Fachin",
+      "url": "https://www.brasildefato.com.br/2026/09/03/moraes-acusa-mendonca-de-abuso-de-autoridade-e-pede-investigacao-a-fachin/",
+      "date": "2026-09-03",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s59": {
+      "id": "research_I3-s59",
+      "outlet": "Jovem Pan",
+      "title": "Moraes aponta indícios de abuso de autoridade e pede investigação contra Mendonça",
+      "url": "https://jovempan.com.br/politica/moraes-aponta-indicios-de-abuso-de-autoridade-e-crime-de-responsabilidade-de-mendonca/",
+      "date": "2026-09-03",
+      "author": "Matheus Alleoni e Bruno Pinheiro",
+      "kind": "reportagem"
+    },
+    "research_I3-s61": {
+      "id": "research_I3-s61",
+      "outlet": "Conjur",
+      "title": "Fachin retira de pauta julgamento sobre irregularidades de Mendonça no caso Master",
+      "url": "https://conjur.com.br/2026-set-17/fachin-retira-de-pauta-julgamento-sobre-irregularidades-de-mendonca-no-caso-master/",
+      "date": "2026-09-17",
+      "author": null,
+      "kind": "reportagem"
+    },
+    "research_I3-s62": {
+      "id": "research_I3-s62",
+      "outlet": "Agência Brasil",
+      "title": "Fachin desmarca julgamento sobre atuação de Mendonça no caso Master",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-desmarca-julgamento-sobre-atuacao-de-mendonca-no-caso-master",
+      "date": "2026-09-17",
+      "author": "Felipe Pontes",
+      "kind": "reportagem"
+    },
+    "research_I3-s63": {
+      "id": "research_I3-s63",
+      "outlet": "Revista Oeste",
+      "title": "Fachin adia julgamento sobre Mendonça no STF",
+      "url": "https://revistaoeste.com/politica/fachin-adia-julgamento-sobre-mendonca-no-stf/",
+      "date": "2026-09-17",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I3-s64": {
+      "id": "research_I3-s64",
+      "outlet": "Jornal GGN",
+      "title": "Fachin cancela sessão que julgaria denúncias de Alexandre de Moraes contra André Mendonça no caso Master",
+      "url": "https://jornalggn.com.br/justica/fachin-cancela-sessao-que-julgaria-denuncias-de-alexandre-de-moraes-contra-andre-mendonca-no-caso-master/",
+      "date": "2026-09-17",
+      "author": "Cintia Alves",
+      "kind": "reportagem"
+    },
+    "research_I3-s65": {
+      "id": "research_I3-s65",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro contratou escritório de filho de Lewandowski para defender Master",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-contratou-escritorio-filho-lewandowski-para-defender-master/",
+      "date": "2026-09-22",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I3-s66": {
+      "id": "research_I3-s66",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro contratou filho de Ricardo Lewandowski",
+      "url": "https://revistaoeste.com/politica/vorcaro-contratou-filho-de-lewandowski-e-cobrou-juridico-por-parecer/",
+      "date": "2026-09-22",
+      "author": "Letícia Alves",
+      "kind": "reportagem"
+    },
+    "research_I3-s67": {
+      "id": "research_I3-s67",
+      "outlet": "O Antagonista",
+      "title": "Mensagens de Vorcaro sugerem tentativa de justificar contrato de filho de Lewandowski",
+      "url": "https://oantagonista.com.br/brasil/mensagens-de-vorcaro-sugerem-tentativa-de-justificar-contrato-de-filho-de-lewandowski/",
+      "date": "2026-09-22",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s68": {
+      "id": "research_I3-s68",
+      "outlet": "Brasil Paralelo",
+      "title": "PF encontra mensagens em que dono do Banco Master se diz \"amigo irmão\" de Hugo Motta",
+      "url": "https://www.brasilparalelo.com.br/noticias/pf-encontra-mensagens-em-que-vorcaro-se-diz-amigo-irmao-de-hugo-motta",
+      "date": "2026-09-21",
+      "author": "Gabriel Costa",
+      "kind": "reportagem"
+    },
+    "research_I3-s69": {
+      "id": "research_I3-s69",
+      "outlet": "Jornal da Paraíba (com base no blog de Malu Gaspar, O Globo)",
+      "title": "Escândalo do Master: Vorcaro se definia como 'o número 1' de Hugo Motta, segundo mensagens",
+      "url": "https://jornaldaparaiba.com.br/politica/pleno-poder/escandalo-do-master-vorcaro-se-definia-como-o-numero-1-de-hugo-motta-segundo-mensagens",
+      "date": "2026-09-21",
+      "author": "João Paulo Medeiros",
+      "kind": "reportagem"
+    },
+    "research_I3-s70": {
+      "id": "research_I3-s70",
+      "outlet": "Jornal de Brasília (Folhapress)",
+      "title": "Diálogos indicam que Vorcaro usou empresas para bancar homenagem a Fux em NY",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/dialogos-indicam-que-vorcaro-usou-empresas-para-bancar-homenagem-a-fux-em-ny/",
+      "date": "2026-09-22",
+      "author": "Mateus Vargas / Folhapress",
+      "kind": "reportagem"
+    },
+    "research_I3-s71": {
+      "id": "research_I3-s71",
+      "outlet": "Revista Oeste",
+      "title": "Lula recebeu uísque de presente de Vorcaro",
+      "url": "https://revistaoeste.com/politica/lula-recebeu-uisque-de-presente-de-vorcaro/",
+      "date": "2026-09-22",
+      "author": "Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_I3-s72": {
+      "id": "research_I3-s72",
+      "outlet": "Jovem Pan",
+      "title": "Advogado disse a Vorcaro que Lula 'agradeceu whisky' e 'mandou abraço'",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/advogado-disse-a-vorcaro-que-lula-agradeceu-whisky-e-mandou-abraco/",
+      "date": "2026-09-22",
+      "author": "Bruno Pinheiro e Matheus Alleoni",
+      "kind": "reportagem"
+    },
+    "research_I3-s73": {
+      "id": "research_I3-s73",
+      "outlet": "O Antagonista",
+      "title": "Um uísque de Vorcaro para Lula?",
+      "url": "https://oantagonista.com.br/brasil/um-uisque-de-vorcaro-para-lula/",
+      "date": "2026-09-22",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s74": {
+      "id": "research_I3-s74",
+      "outlet": "Gazeta do Povo",
+      "title": "Mendonça pede investigação de Moraes por abuso de autoridade e denunciação caluniosa",
+      "url": "https://www.gazetadopovo.com.br/republica/mendonca-pede-investigacao-de-moraes-por-abuso-de-autoridade-e-denunciacao-caluniosa/",
+      "date": "2026-09-22",
+      "author": "Vinicius Macia e Aline Rechmann",
+      "kind": "reportagem"
+    },
+    "research_I3-s75": {
+      "id": "research_I3-s75",
+      "outlet": "Revista Oeste",
+      "title": "Mendonça acusa Moraes de abuso e aponta monitoramento ilegal da PF",
+      "url": "https://revistaoeste.com/politica/mendonca-acusa-moraes-de-abuso-e-aponta-monitoramento-ilegal-da-pf/",
+      "date": "2026-09-22",
+      "author": "Cristyan Costa e Erich Mafra",
+      "kind": "reportagem"
+    },
+    "research_I3-s76": {
+      "id": "research_I3-s76",
+      "outlet": "O Antagonista",
+      "title": "Mendonça usa HD lacrado de Vorcaro para rebater acusação de Moraes",
+      "url": "https://oantagonista.com.br/brasil/mendonca-usa-hd-lacrado-de-vorcaro-para-rebater-acusacao-de-moraes/",
+      "date": "2026-09-22",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "research_I3-s78": {
+      "id": "research_I3-s78",
+      "outlet": "Revista Oeste",
+      "title": "Advogado de Vorcaro propôs 'estratégia' para salvar Moraes da Lei Magnitsky",
+      "url": "https://revistaoeste.com/politica/advogado-de-vorcaro-propos-estrategia-para-salvar-moraes-da-lei-magnitsky/",
+      "date": "2026-09-23",
+      "author": "Yasmin Alencar",
+      "kind": "reportagem"
+    },
+    "research_I3-s79": {
+      "id": "research_I3-s79",
+      "outlet": "Correio Braziliense",
+      "title": "Flávio apresenta notícia-crime contra Lula por relação com Vorcaro",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/09/7507140-flavio-apresenta-noticia-crime-contra-lula-por-relacao-com-vorcaro.html",
+      "date": "2026-09-23",
+      "author": "Raphael Pati",
+      "kind": "reportagem"
+    },
+    "research_I3-s81": {
+      "id": "research_I3-s81",
+      "outlet": "Agência Brasil",
+      "title": "Fux pede a Senado posição sobre acessos de Vorcaro e esposa de Moraes",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fux-manda-senado-informar-registros-sobre-vorcaro-e-esposa-de-moraes",
+      "date": "2026-09-23",
+      "author": "André Richter",
+      "kind": "reportagem"
+    },
+    "research_I3-s82": {
+      "id": "research_I3-s82",
+      "outlet": "Gazeta do Povo",
+      "title": "Fux dá 10 dias para Alcolumbre se manifestar sobre visitas de citados no Master ao Senado",
+      "url": "https://www.gazetadopovo.com.br/republica/fux-da-10-dias-para-alcolumbre-se-manifestar-sobre-visitas-de-citados-no-master-ao-senado/",
+      "date": "2026-09-23",
+      "author": "Hermano Freitas",
+      "kind": "reportagem"
+    },
+    "research_I3-s83": {
+      "id": "research_I3-s83",
+      "outlet": "CartaCapital",
+      "title": "Fux pede que Alcolumbre se manifeste sobre registros da esposa de Moraes e Vorcaro no Senado",
+      "url": "https://www.cartacapital.com.br/justica/fux-pede-que-alcolumbre-se-manifeste-sobre-registros-da-esposa-de-moraes-e-vorcaro-no-senado/",
+      "date": "2026-09-23",
+      "author": "Maiara Marinho",
+      "kind": "reportagem"
+    },
+    "research_I3-s84": {
+      "id": "research_I3-s84",
+      "outlet": "O Antagonista",
+      "title": "Fux manda Alcolumbre explicar registros de Vorcaro, Lulinha e mulher de Moraes",
+      "url": "https://oantagonista.com.br/brasil/fux-manda-alcolumbre-explicar-registros-de-vorcaro-lulinha-e-mulher-de-moraes/",
+      "date": "2026-09-23",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "research_I3-s85": {
+      "id": "research_I3-s85",
+      "outlet": "O Antagonista",
+      "title": "PF adia novamente depoimento de Daniel Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/pf-adia-novamente-depoimento-de-daniel-vorcaro/",
+      "date": "2026-09-23",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s86": {
+      "id": "research_I3-s86",
+      "outlet": "Brasil 247",
+      "title": "PF adia novamente depoimento de Daniel Vorcaro sobre BRB",
+      "url": "https://www.brasil247.com/brasil/pf-adia-novamente-depoimento-de-daniel-vorcaro-sobre-brb/",
+      "date": "2026-09-23",
+      "author": "João Antonio Cunha",
+      "kind": "reportagem"
+    },
+    "research_I3-s87": {
+      "id": "research_I3-s87",
+      "outlet": "Revista Oeste",
+      "title": "Banco Master emitiu cartões com limite de R$ 300 mil para filhos de Moraes, informa PF",
+      "url": "https://revistaoeste.com/politica/banco-master-emitiu-cartoes-com-limite-de-r-300-mil-para-filhos-de-moraes-informa-pf/",
+      "date": "2026-09-01",
+      "author": "Rachel Díaz",
+      "kind": "reportagem"
+    },
+    "research_I3-s88": {
+      "id": "research_I3-s88",
+      "outlet": "Jornal de Brasília (Estadão Conteúdo)",
+      "title": "Novo pede a André Mendonça prisão preventiva do diretor-geral da PF, Andrei Rodrigues",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/novo-pede-a-andre-mendonca-prisao-preventiva-do-diretor-geral-da-pf-andrei-rodrigues/",
+      "date": "2026-09-03",
+      "author": "Redação Jornal de Brasília / Estadão Conteúdo",
+      "kind": "reportagem"
+    },
+    "research_I3-s89": {
+      "id": "research_I3-s89",
+      "outlet": "O Antagonista",
+      "title": "Novo pede prisão preventiva e afastamento do diretor-geral da PF",
+      "url": "https://oantagonista.com.br/brasil/novo-pede-prisao-preventiva-e-afastamento-do-diretor-geral-da-pf/",
+      "date": "2026-09-03",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s90": {
+      "id": "research_I3-s90",
+      "outlet": "Revista Oeste",
+      "title": "Novo pede ao Supremo prisão preventiva do chefe da Polícia Federal",
+      "url": "https://revistaoeste.com/politica/novo-pede-ao-supremo-prisao-preventiva-do-chefe-da-policia-federal/",
+      "date": "2026-09-04",
+      "author": "Fábio Matos",
+      "kind": "reportagem"
+    },
+    "research_I3-s91": {
+      "id": "research_I3-s91",
+      "outlet": "Revista Oeste",
+      "title": "Mendonça mostra notas de R$ 26,4 mil e nega ter recebido ternos de lobista do Master",
+      "url": "https://revistaoeste.com/politica/mendonca-mostra-notas-de-r-264-mil-e-nega-ter-recebido-ternos-de-lobista-do-master/",
+      "date": "2026-09-03",
+      "author": "Cristyan Costa e Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_I3-s92": {
+      "id": "research_I3-s92",
+      "outlet": "Brasil de Fato",
+      "title": "Mendonça afasta Andrei Rodrigues da PF após relatórios usados por Moraes para pedir investigação de ministro por 'abuso de autoridade'",
+      "url": "https://www.brasildefato.com.br/2026/09/08/mendonca-afasta-andrei-rodrigues-da-pf-apos-relatorios-usados-por-moraes-para-pedir-investigacao-de-ministro-por-abuso-de-autoridade/",
+      "date": "2026-09-08",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s93": {
+      "id": "research_I3-s93",
+      "outlet": "CartaCapital",
+      "title": "Mendonça determina afastamento de Andrei Rodrigues do comando da PF em nova escalada da crise no STF",
+      "url": "https://www.cartacapital.com.br/justica/mendonca-determina-afastamento-de-andrei-rodrigues-do-comando-da-pf-em-nova-escalada-da-crise-no-stf/",
+      "date": "2026-09-08",
+      "author": "Vinícius Nunes",
+      "kind": "reportagem"
+    },
+    "research_I3-s94": {
+      "id": "research_I3-s94",
+      "outlet": "Jovem Pan",
+      "title": "Em meio à crise no Judiciário, Mendonça afasta Andrei Rodrigues do comando da PF",
+      "url": "https://jovempan.com.br/politica/em-meio-a-crise-no-judiciario-mendonca-afasta-andrei-rodrigues-do-comando-da-pf/",
+      "date": "2026-09-08",
+      "author": "Matheus Alleoni, Bruno Pinheiro, Pedro Vilas Boas",
+      "kind": "reportagem"
+    },
+    "research_I3-s95": {
+      "id": "research_I3-s95",
+      "outlet": "Gazeta do Povo",
+      "title": "Mendonça determina afastamento de Andrei Rodrigues do comando da PF",
+      "url": "https://www.gazetadopovo.com.br/republica/mendonca-afasta-andrei-rodrigues-do-cargo/",
+      "date": "2026-09-08",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I3-s98": {
+      "id": "research_I3-s98",
+      "outlet": "Revista Oeste",
+      "title": "Cezinha de Madureira é alvo da PF por suspeita de tráfico de influência",
+      "url": "https://revistaoeste.com/politica/cezinha-de-madureira-e-alvo-da-pf-por-suspeita-de-trafico-de-influencia/",
+      "date": "2026-09-14",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I3-s99": {
+      "id": "research_I3-s99",
+      "outlet": "Gazeta do Povo",
+      "title": "PF mira Cezinha de Madureira por suspeita de tráfico de influência em tribunais superiores",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-deputado-cezinha-de-madureira-suspeita-trafico-influencia/",
+      "date": "2026-09-14",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I3-s100": {
+      "id": "research_I3-s100",
+      "outlet": "CartaCapital",
+      "title": "PF mira deputado Cezinha de Madureira em operação sobre tráfico de influência em tribunais",
+      "url": "https://www.cartacapital.com.br/politica/pf-mira-deputado-cezinha-de-madureira-em-operacao-sobre-trafico-de-influencia-em-tribunais/",
+      "date": "2026-09-14",
+      "author": "Vinícius Nunes",
+      "kind": "reportagem"
+    },
+    "research_I3-s101": {
+      "id": "research_I3-s101",
+      "outlet": "O Antagonista",
+      "title": "PF mira aliado de Mendonça em operação autorizada por Dino",
+      "url": "https://oantagonista.com.br/brasil/pf-mira-aliado-de-andre-mendonca-em-operacao-autorizada-por-flavio-dino/",
+      "date": "2026-09-14",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s102": {
+      "id": "research_I3-s102",
+      "outlet": "Bahia Notícias",
+      "title": "PF faz operação contra deputado Cezinha de Madureira, acusado de articular encontro entre Mendonça e Vorcaro",
+      "url": "https://www.bahianoticias.com.br/noticia/321121-pf-faz-operacao-contra-deputado-cezinha-de-madureira-acusado-de-articular-encontro-entre-mendonca-e-vorcaro",
+      "date": "2026-09-14",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_I3-s103": {
+      "id": "research_I3-s103",
+      "outlet": "Gazeta do Povo",
+      "title": "Filho de Fux orientou Vorcaro a enviar e-mail à secretária do pai no STF",
+      "url": "https://www.gazetadopovo.com.br/republica/filho-de-fux-orientou-vorcaro-a-enviar-e-mail-a-secretaria-do-pai-no-stf/",
+      "date": "2026-09-17",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I3-s104": {
+      "id": "research_I3-s104",
+      "outlet": "Gazeta do Povo",
+      "title": "Vídeo mostra Moraes e Viviane desembarcando de jatinho ligado a Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/video-mostra-moraes-e-viviane-desembarcango-de-jatinho-ligado-a-vorcaro/",
+      "date": "2026-09-20",
+      "author": "Vinicius Macia e Marlice Pinto Vilela",
+      "kind": "reportagem"
+    },
+    "research_I3-s105": {
+      "id": "research_I3-s105",
+      "outlet": "Jovem Pan",
+      "title": "Vídeo mostra Moraes e esposa desembarcando de jatinho ligado a Vorcaro, diz jornal",
+      "url": "https://jovempan.com.br/politica/video-mostra-moraes-e-esposa-desembarcando-de-jatinho-ligado-a-vorcaro-diz-jornal/",
+      "date": "2026-09-20",
+      "author": "Jovem Pan",
+      "kind": "reportagem"
+    },
+    "research_I3-s106": {
+      "id": "research_I3-s106",
+      "outlet": "O Antagonista",
+      "title": "Vídeo mostra Moraes desembarcando de jatinho ligado a Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/video-mostra-moraes-desembarcando-de-jatinho-ligado-a-vorcaro/",
+      "date": "2026-09-20",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_I3-s107": {
+      "id": "research_I3-s107",
+      "outlet": "Revista Oeste",
+      "title": "Vídeo mostra Moraes e mulher desembarcando de jatinho ligado a Vorcaro",
+      "url": "https://revistaoeste.com/politica/video-mostra-moraes-e-mulher-desembarcando-de-jatinho-ligado-a-vorcaro/",
+      "date": "2026-09-20",
+      "author": "Redação Oeste",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -49355,7 +50174,10 @@ window.PELELEC_DATA = {
       "sources": [
         "research_A1-s1",
         "research_E-s6",
-        "research_A2-s19"
+        "research_A2-s19",
+        "research_I3-s1",
+        "research_I3-s2",
+        "research_I3-s3"
       ]
     },
     {
@@ -49376,7 +50198,8 @@ window.PELELEC_DATA = {
         "research_E-s2",
         "research_A1-s1",
         "research_C-s92",
-        "research_C-s54"
+        "research_C-s54",
+        "research_I3-s4"
       ]
     },
     {
@@ -49385,7 +50208,8 @@ window.PELELEC_DATA = {
       "title": "Operação Compliance Zero",
       "text": "A PF deflagra a operação sobre fraudes de cerca de R$ 12 bilhões em carteiras cedidas ao BRB. O iPhone de Vorcaro fica com a perícia.",
       "sources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I3-s4"
       ]
     },
     {
@@ -49394,7 +50218,10 @@ window.PELELEC_DATA = {
       "title": "Toffoli deixa a relatoria",
       "text": "Dias Toffoli deixa a relatoria do caso Master no STF depois de a PF entregar relatório com menções a ele.",
       "sources": [
-        "research_A2-s46"
+        "research_A2-s46",
+        "research_I3-s7",
+        "research_I3-s8",
+        "research_I3-s9"
       ]
     },
     {
@@ -49405,7 +50232,10 @@ window.PELELEC_DATA = {
       "sources": [
         "research_C-s65",
         "research_C-s64",
-        "research_C-s72"
+        "research_C-s72",
+        "research_I3-s10",
+        "research_I3-s11",
+        "research_I3-s12"
       ]
     },
     {
@@ -49429,7 +50259,9 @@ window.PELELEC_DATA = {
         "research_A1-s11",
         "research_E-s18",
         "research_G-s53",
-        "research_G-s52"
+        "research_G-s52",
+        "research_I3-s13",
+        "research_I3-s14"
       ]
     },
     {
@@ -49438,7 +50270,9 @@ window.PELELEC_DATA = {
       "title": "Prisão de Paulo Henrique Costa",
       "text": "4ª fase: presos o ex-presidente do BRB e o advogado Daniel Monteiro. A decisão cita imóveis de cerca de R$ 146,5 milhões.",
       "sources": [
-        "research_B2-s5"
+        "research_B2-s5",
+        "research_I3-s16",
+        "research_I3-s17"
       ]
     },
     {
@@ -49449,7 +50283,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B2-s2",
         "research_B2-s44",
-        "research_C-s91"
+        "research_C-s91",
+        "research_I3-s18"
       ]
     },
     {
@@ -49471,7 +50306,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_G-s10",
         "research_G-s11",
-        "research_C-s81"
+        "research_C-s81",
+        "research_I3-s21",
+        "research_I3-s22"
       ]
     },
     {
@@ -49480,7 +50317,9 @@ window.PELELEC_DATA = {
       "title": "PF rejeita a delação",
       "text": "A PF rejeita a proposta de delação de Vorcaro por falta de fatos novos.",
       "sources": [
-        "research_B1-s52"
+        "research_B1-s52",
+        "research_I3-s24",
+        "research_I3-s25"
       ]
     },
     {
@@ -49489,7 +50328,11 @@ window.PELELEC_DATA = {
       "title": "Castro e o Rioprevidência",
       "text": "8ª fase: buscas contra Cláudio Castro e ex-dirigentes do Rioprevidência, que aplicou cerca de R$ 3,7 bilhões no Master.",
       "sources": [
-        "research_B2-s4"
+        "research_B2-s4",
+        "research_I3-s27",
+        "research_I3-s28",
+        "research_I3-s29",
+        "research_I3-s30"
       ]
     },
     {
@@ -49499,7 +50342,9 @@ window.PELELEC_DATA = {
       "text": "9ª fase: buscas contra Jaques Wagner e Augusto Lima.",
       "sources": [
         "research_B2-s3",
-        "research_B2-s31"
+        "research_B2-s31",
+        "research_I3-s31",
+        "research_I3-s32"
       ]
     },
     {
@@ -49509,7 +50354,9 @@ window.PELELEC_DATA = {
       "text": "A PF mira o “Projeto DV”, campanha com influenciadores, e o publicitário Thiago Miranda.",
       "sources": [
         "research_G-s27",
-        "research_G-s28"
+        "research_G-s28",
+        "research_I3-s33",
+        "research_I3-s34"
       ]
     },
     {
@@ -49528,7 +50375,9 @@ window.PELELEC_DATA = {
       "text": "Mendonça retira o sigilo do relatório e o Poder360 publica a íntegra e o export do chat. Gonet pede a anulação.",
       "sources": [
         "research_E-s4",
-        "research_A1-s2"
+        "research_A1-s2",
+        "research_I3-s36",
+        "research_I3-s37"
       ]
     },
     {
@@ -49539,7 +50388,11 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B1-s44",
         "research_B1-s45",
-        "research_A2-s41"
+        "research_A2-s41",
+        "research_I3-s39",
+        "research_I3-s40",
+        "research_I3-s41",
+        "research_I3-s42"
       ]
     },
     {
@@ -49550,7 +50403,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_A2-s8",
         "research_A2-s34",
-        "research_A2-s35"
+        "research_A2-s35",
+        "research_I3-s43",
+        "research_I3-s44"
       ]
     },
     {
@@ -49561,7 +50416,10 @@ window.PELELEC_DATA = {
       "sources": [
         "research_A2-s11",
         "research_A2-s12",
-        "research_A2-s37"
+        "research_A2-s37",
+        "research_I3-s46",
+        "research_I3-s47",
+        "research_I3-s48"
       ]
     },
     {
@@ -49571,7 +50429,8 @@ window.PELELEC_DATA = {
       "text": "O juiz Isaías Vinícius de Castro Simões atende em parte a coligação de Jaques Wagner e manda retirar o site que simulava o WhatsApp de Vorcaro.",
       "sources": [
         "research_B2-s28",
-        "research_E-s30"
+        "research_E-s30",
+        "research_I3-s49"
       ]
     },
     {
@@ -49581,7 +50440,10 @@ window.PELELEC_DATA = {
       "text": "Metrópoles revela contrato de R$ 427 milhões do Master com o escritório de Camilla Ramos, mulher do desembargador Newton Ramos, condicionado ao êxito em 12 ações.",
       "sources": [
         "research_A2-s29",
-        "research_A2-s30"
+        "research_A2-s30",
+        "research_I3-s52",
+        "research_I3-s53",
+        "research_I3-s54"
       ]
     },
     {
@@ -49593,7 +50455,8 @@ window.PELELEC_DATA = {
         "research_B1-s15",
         "research_B1-s16",
         "research_B2-s12",
-        "research_B2-s13"
+        "research_B2-s13",
+        "research_I3-s56"
       ]
     },
     {
@@ -49604,7 +50467,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_E-s30",
         "research_B2-s28",
-        "research_E-s38"
+        "research_E-s38",
+        "research_I3-s50"
       ]
     },
     {
@@ -49689,7 +50553,10 @@ window.PELELEC_DATA = {
       "text": "No Inq. 4.781, Moraes aponta “fortes indícios” de irregularidades de André Mendonça na relatoria do caso. Mendonça contesta em 21/09.",
       "sources": [
         "research_A1-s17",
-        "research_A1-s14"
+        "research_A1-s14",
+        "research_I3-s57",
+        "research_I3-s58",
+        "research_I3-s59"
       ]
     },
     {
@@ -49698,7 +50565,11 @@ window.PELELEC_DATA = {
       "title": "STF tira a PET 16.704 da pauta",
       "text": "Fachin retira da pauta de 23/09 o julgamento da PET 16.704, à espera de o plenário definir a tramitação.",
       "sources": [
-        "research_I1-s26"
+        "research_I1-s26",
+        "research_I3-s61",
+        "research_I3-s62",
+        "research_I3-s63",
+        "research_I3-s64"
       ]
     },
     {
@@ -49708,7 +50579,10 @@ window.PELELEC_DATA = {
       "text": "A Folha revela mensagens de dezembro de 2024 em que Vorcaro manda o jurídico do Master passar “algum caso ou parecer” ao escritório de Enrique Lewandowski, filho do então ministro da Justiça. O escritório diz que o contrato era de consultoria tributária.",
       "sources": [
         "research_I1-s15",
-        "research_I2-s28"
+        "research_I2-s28",
+        "research_I3-s65",
+        "research_I3-s66",
+        "research_I3-s67"
       ]
     },
     {
@@ -49717,7 +50591,9 @@ window.PELELEC_DATA = {
       "title": "“Number 1” de Hugo Motta",
       "text": "O Globo publica mensagem de 02/02/2025 em que Vorcaro diz ao diretor jurídico Luiz Rennó ser o “number 1” de Hugo Motta. Motta não respondeu.",
       "sources": [
-        "research_I1-s25"
+        "research_I1-s25",
+        "research_I3-s68",
+        "research_I3-s69"
       ]
     },
     {
@@ -49726,7 +50602,8 @@ window.PELELEC_DATA = {
       "title": "A viagem de Fux a Nova York",
       "text": "A Folha revela diálogos que indicam que Vorcaro usou empresas para custear a viagem de Luiz Fux a Nova York e um almoço em sua homenagem em maio de 2024. Fux nega contato com Vorcaro e diz que foi convidado pela Forbes.",
       "sources": [
-        "research_I1-s14"
+        "research_I1-s14",
+        "research_I3-s70"
       ]
     },
     {
@@ -49740,7 +50617,10 @@ window.PELELEC_DATA = {
         "research_I1-s4",
         "research_I1-s5",
         "research_I1-s10",
-        "research_I2-s29"
+        "research_I2-s29",
+        "research_I3-s71",
+        "research_I3-s72",
+        "research_I3-s73"
       ]
     },
     {
@@ -49759,7 +50639,10 @@ window.PELELEC_DATA = {
       "title": "Mendonça responde a Moraes",
       "text": "Em manifestação a Fachin na PET 16.704, Mendonça chama de apócrifo o relatório usado por Moraes e pede apuração de abuso de autoridade e denunciação caluniosa.",
       "sources": [
-        "research_I1-s19"
+        "research_I1-s19",
+        "research_I3-s74",
+        "research_I3-s75",
+        "research_I3-s76"
       ]
     },
     {
@@ -49771,7 +50654,8 @@ window.PELELEC_DATA = {
         "research_I1-s20",
         "research_I1-s21",
         "research_I1-s22",
-        "research_I2-s26"
+        "research_I2-s26",
+        "research_I3-s51"
       ]
     },
     {
@@ -49782,7 +50666,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_I1-s7",
         "research_I1-s6",
-        "research_I1-s9"
+        "research_I1-s9",
+        "research_I3-s78"
       ]
     },
     {
@@ -49792,16 +50677,21 @@ window.PELELEC_DATA = {
       "text": "A campanha de Flávio Bolsonaro apresenta a Mendonça notícia-crime contra Lula, com base nas mensagens de Warde.",
       "sources": [
         "research_I1-s11",
-        "research_I1-s12"
+        "research_I1-s12",
+        "research_I3-s79"
       ]
     },
     {
       "id": "t70",
       "date": "2026-09-23",
       "title": "Fux pede registros do Senado",
-      "text": "Fux dá dez dias ao presidente do Senado para informar os registros de entrada de oito pessoas, entre elas Vorcaro e Viviane Barci de Moraes.",
+      "text": "O ministro Luiz Fux dá dez dias ao presidente do Senado, Davi Alcolumbre, para informar os registros de entrada e saída de oito pessoas desde fevereiro de 2019, entre elas Vorcaro e Viviane Barci de Moraes, em mandado de segurança de um vereador de Curitiba. Depois, o Ministério Público terá mais dez dias para se manifestar.",
       "sources": [
-        "research_I1-s13"
+        "research_I1-s13",
+        "research_I3-s81",
+        "research_I3-s82",
+        "research_I3-s83",
+        "research_I3-s84"
       ]
     },
     {
@@ -49811,7 +50701,9 @@ window.PELELEC_DATA = {
       "text": "A PF adia pela segunda vez o depoimento de Vorcaro sobre o BRB, marcado para 24/09, a pedido da defesa. Não há nova data.",
       "sources": [
         "research_I1-s23",
-        "research_I1-s24"
+        "research_I1-s24",
+        "research_I3-s85",
+        "research_I3-s86"
       ]
     },
     {
@@ -49821,7 +50713,8 @@ window.PELELEC_DATA = {
       "text": "O Estadão revela diálogos de 02/10/2025 em que Vorcaro autoriza cartões de crédito com limite de R$ 300 mil para dois filhos de Moraes e Viviane Barci, a pedido do administrador do escritório. O escritório diz que os cartões nunca foram usados.",
       "sources": [
         "research_I2-s1",
-        "research_I2-s2"
+        "research_I2-s2",
+        "research_I3-s87"
       ]
     },
     {
@@ -49831,7 +50724,10 @@ window.PELELEC_DATA = {
       "text": "O partido Novo pede ao STF a prisão preventiva do diretor-geral da PF, Andrei Rodrigues, depois de relatos de Vorcaro sobre ameaças de agentes.",
       "sources": [
         "research_I2-s10",
-        "research_I2-s11"
+        "research_I2-s11",
+        "research_I3-s88",
+        "research_I3-s89",
+        "research_I3-s90"
       ]
     },
     {
@@ -49841,7 +50737,8 @@ window.PELELEC_DATA = {
       "text": "Mendonça apresenta notas de R$ 26.430 da alfaiataria para rebater a suspeita levantada por um áudio de Ciro Soares.",
       "sources": [
         "research_I2-s24",
-        "research_I2-s23"
+        "research_I2-s23",
+        "research_I3-s91"
       ]
     },
     {
@@ -49851,7 +50748,11 @@ window.PELELEC_DATA = {
       "text": "André Mendonça afasta Andrei Rodrigues da direção-geral da PF e o diretor de Inteligência, dizendo ter sido monitorado pela PF. A AGU recorre.",
       "sources": [
         "research_I2-s8",
-        "research_I2-s9"
+        "research_I2-s9",
+        "research_I3-s92",
+        "research_I3-s93",
+        "research_I3-s94",
+        "research_I3-s95"
       ]
     },
     {
@@ -49869,7 +50770,12 @@ window.PELELEC_DATA = {
       "title": "Operação contra Cezinha de Madureira",
       "text": "A PF faz a 3ª fase da Operação Transparência, autorizada por Flávio Dino, contra o deputado Cezinha de Madureira, que articulou o encontro de Vorcaro com Mendonça. A defesa diz estar à disposição das autoridades.",
       "sources": [
-        "research_H-s69"
+        "research_H-s69",
+        "research_I3-s98",
+        "research_I3-s99",
+        "research_I3-s100",
+        "research_I3-s101",
+        "research_I3-s102"
       ]
     },
     {
@@ -49879,7 +50785,8 @@ window.PELELEC_DATA = {
       "text": "A Folha publica mensagens de Rodrigo Fux, filho do ministro Luiz Fux, com Vorcaro, de maio de 2024 a agosto de 2025.",
       "sources": [
         "research_I2-s6",
-        "research_I2-s7"
+        "research_I2-s7",
+        "research_I3-s103"
       ]
     },
     {
@@ -49889,7 +50796,11 @@ window.PELELEC_DATA = {
       "text": "O Globo divulga vídeo de 22/08/2025 em que Moraes e Viviane Barci descem do jato PP-NLR no Santos Dumont. O escritório admite que o ministro acompanhou a mulher em voos da Prime Aviation.",
       "sources": [
         "research_I2-s3",
-        "research_I2-s5"
+        "research_I2-s5",
+        "research_I3-s104",
+        "research_I3-s105",
+        "research_I3-s106",
+        "research_I3-s107"
       ]
     }
   ],
@@ -50388,6 +51299,177 @@ window.PELELEC_DATA = {
       "date": "2026-09-04",
       "kind": "newsletter",
       "author": "Paulo Motoryn"
+    },
+    {
+      "id": "research_I3-s5",
+      "outlet": "Agência Brasil",
+      "title": "Banco Central oficializa liquidação da Master Corretora",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-11/banco-central-oficializa-liquidacao-da-master-corretora",
+      "date": "2025-11-18",
+      "kind": "reportagem",
+      "author": "Pedro Peduzzi"
+    },
+    {
+      "id": "research_I3-s6",
+      "outlet": "Agência Pública",
+      "title": "Como Vorcaro usou a imprensa para sua rota de fuga frustrada pela PF",
+      "url": "https://apublica.org/2026/09/como-vorcaro-usou-a-imprensa-para-sua-rota-de-fuga-frustrada-pela-pf/",
+      "date": "2026-09-11",
+      "kind": "reportagem",
+      "author": "Marina Amaral"
+    },
+    {
+      "id": "research_I3-s15",
+      "outlet": "Revista Oeste",
+      "title": "'Agente' de Vorcaro, Sicário morre em Minas Gerais",
+      "url": "https://revistaoeste.com/politica/agente-de-vorcaro-morre-em-minas-gerais/",
+      "date": "2026-03-04",
+      "kind": "reportagem",
+      "author": "Fábio Bouéri"
+    },
+    {
+      "id": "research_I3-s19",
+      "outlet": "Revista Oeste",
+      "title": "Ciro Nogueira vincula operação da PF a perseguição política",
+      "url": "https://revistaoeste.com/politica/ciro-nogueira-vincula-operacao-da-pf-a-perseguicao-politica/",
+      "date": "2026-05-12",
+      "kind": "reportagem",
+      "author": "Erich Mafra"
+    },
+    {
+      "id": "research_I3-s20",
+      "outlet": "Agência Pública",
+      "title": "Emenda Master: entenda como atuação de Ciro Nogueira implodiria Fundo Garantidor",
+      "url": "https://apublica.org/2026/05/emenda-master-como-atuacao-de-ciro-nogueira-implodiria-o-fgc/",
+      "date": "2026-05-12",
+      "kind": "reportagem",
+      "author": "Anna Greg, Thiago Domenici"
+    },
+    {
+      "id": "research_I3-s26",
+      "outlet": "Revista Oeste",
+      "title": "A PF recusa a delação meia-boca de Vorcaro; a PGR não",
+      "url": "https://revistaoeste.com/politica/a-pf-recusa-a-delacao-meia-boca-de-vorcaro-a-pgr-nao/",
+      "date": "2026-05-23",
+      "kind": "opinião",
+      "author": "Mario Sabino"
+    },
+    {
+      "id": "research_I3-s38",
+      "outlet": "Agência Pública",
+      "title": "As 24h de revelações sobre o Master e Vorcaro e a granada sem pino no STF",
+      "url": "https://apublica.org/2026/09/analise-as-revelacoes-sobre-master-vorcaro-moraes-e-mendonca/",
+      "date": "2026-09-02",
+      "kind": "análise",
+      "author": "Thiago Domenici"
+    },
+    {
+      "id": "research_I3-s45",
+      "outlet": "Revista Oeste",
+      "title": "Relembre as 52 mensagens de Vorcaro a Moraes",
+      "url": "https://revistaoeste.com/politica/relembre-as-52-mensagens-de-vorcaro-a-moraes/",
+      "date": "2026-09-15",
+      "kind": "reportagem",
+      "author": "Isabela Jordão"
+    },
+    {
+      "id": "research_I3-s55",
+      "outlet": "Times Brasil | CNBC",
+      "title": "Caso Master: CNJ avalia investigar desembargador mencionado como integrante da \"Turma KN\"",
+      "url": "https://timesbrasil.com.br/brasil/caso-master-cnj-avalia-investigar-desembargador-mencionado-como-integrante-da-turma-kn/",
+      "date": "2026-09-23",
+      "kind": "reportagem",
+      "author": "Vinícius Marques"
+    },
+    {
+      "id": "research_I3-s60",
+      "outlet": "Estado de Minas",
+      "title": "Veja os crimes que André Mendonça teria cometido na condução do caso Master",
+      "url": "https://www.em.com.br/politica/2026/09/7493836-veja-os-crimes-que-andre-mendonca-teria-cometido-na-conducao-do-caso-master.html",
+      "date": "2026-09-04",
+      "kind": "reportagem",
+      "author": "Vinícius Prates"
+    },
+    {
+      "id": "research_I3-s77",
+      "outlet": "Gazeta Brasil",
+      "title": "Mendonça rebate acusações de Moraes e pede investigação do colega por abuso de autoridade",
+      "url": "https://gazetabrasil.com.br/politica/2026/09/21/mendonca-rebate-acusacoes-de-moraes-e-pede-investigacao-do-colega-por-abuso-de-autoridade/",
+      "date": "2026-09-21",
+      "kind": "reportagem",
+      "author": "Gazeta Brasil"
+    },
+    {
+      "id": "research_I3-s96",
+      "outlet": "O Antagonista",
+      "title": "Vorcaro tratou com Fábio Faria de convite a diretor da PF para evento em Londres",
+      "url": "https://oantagonista.com.br/brasil/vorcaro-tratou-com-fabio-faria-de-convite-a-diretor-geral-da-pf-para-evento-em-londres/",
+      "date": "2026-09-01",
+      "kind": "reportagem",
+      "author": "Redação O Antagonista"
+    },
+    {
+      "id": "research_I3-s97",
+      "outlet": "A Tarde",
+      "title": "PF aponta mensagens de Vorcaro sobre viagem e convite a Andrei",
+      "url": "https://atarde.com.br/politica/pf-aponta-mensagens-de-vorcaro-sobre-viagem-e-convite-a-andrei-1400493",
+      "date": "2026-09-01",
+      "kind": "reportagem",
+      "author": "Jair Mendonça Jr"
+    },
+    {
+      "id": "research_I3-s108",
+      "outlet": "O Antagonista",
+      "title": "PF formaliza rejeição da delação de Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/pf-formaliza-rejeicao-da-delacao-de-vorcaro/",
+      "date": "2026-06-11",
+      "kind": "reportagem",
+      "author": "Redação O Antagonista"
+    },
+    {
+      "id": "research_I3-s109",
+      "outlet": "Agência Brasil",
+      "title": "Mendonça retira sigilo de processo sobre rede de pagamentos de Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-retira-sigilo-de-processo-sobre-rede-de-pagamentos-de-vorcaro",
+      "date": "2026-09-14",
+      "kind": "reportagem",
+      "author": "Felipe Pontes"
+    },
+    {
+      "id": "research_I3-s110",
+      "outlet": "Correio Braziliense (BBC News Brasil)",
+      "title": "Mendonça derruba sigilo de inquérito que detalha pagamentos de Vorcaro",
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7500121-mendonca-derruba-sigilo-de-inquerito-que-detalha-pagamentos-de-vorcaro.html",
+      "date": "2026-09-14",
+      "kind": "reportagem",
+      "author": "Mariana Schreiber - BBC News Brasil"
+    },
+    {
+      "id": "research_I3-s111",
+      "outlet": "CartaCapital",
+      "title": "O que se sabe sobre as citações a Hugo Motta na investigação envolvendo Daniel Vorcaro e o Banco Master",
+      "url": "https://www.cartacapital.com.br/politica/o-que-se-sabe-sobre-as-citacoes-a-hugo-motta-na-investigacao-envolvendo-daniel-vorcaro-e-o-banco-master/",
+      "date": "2026-06-18",
+      "kind": "reportagem",
+      "author": "Vinícius Nunes"
+    },
+    {
+      "id": "research_I3-s112",
+      "outlet": "O Antagonista",
+      "title": "Mensagens entre Moraes e Vorcaro são ignoradas em sessão do STF",
+      "url": "https://oantagonista.com.br/brasil/mensagens-entre-moraes-e-vorcaro-sao-ignoradas-em-sessao-do-stf/",
+      "date": "2026-09-02",
+      "kind": "reportagem",
+      "author": "Redação O Antagonista"
+    },
+    {
+      "id": "research_I3-s113",
+      "outlet": "Congresso em Foco",
+      "title": "Leia a íntegra do relatório da PF usado por Moraes contra Mendonça",
+      "url": "https://www.congressoemfoco.com.br/noticia/121967/leia-a-integra-do-relatorio-da-pf-usado-por-moraes-contra-mendonca",
+      "date": "2026-09-04",
+      "kind": "reportagem",
+      "author": "Congresso em Foco"
     }
   ]
 };

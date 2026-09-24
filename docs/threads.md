@@ -17,10 +17,14 @@ Regras:
 
 ## Varredura de 23/09/2026
 
-Duas varreduras de imprensa (19 a 23/09 e lacunas de 01 a 18/09) entraram na pesquisa como fontes e fatos:
+Três varreduras entraram na pesquisa como fontes e fatos: imprensa de 19 a 23/09, lacunas de 01 a 18/09 e diversificação de veículos por fato.
 
-- 55 fontes novas (58 coletadas, 3 já existiam);
-- 20 fatos novos na linha do tempo (de 59 para 79).
+- 168 fontes novas: de 477 para 645 na pesquisa (668 na página, contando documentos do acervo editorial);
+- 20 fatos novos na linha do tempo (de 59 para 79);
+- 92 ligações novas entre fatos e veículos. As 17 de confiança média ficam só como cobertura, não como fonte do fato;
+- Poder360, CNN Brasil e Metrópoles caíram de 42% para 35% das fontes. Entraram mais Revista Oeste, Gazeta do Povo, O Antagonista, Jovem Pan, Agência Brasil, Brasil de Fato, CartaCapital e Agência Pública.
+
+Não foi possível ler g1, Folha, Estadão, O Globo, Veja, UOL, Valor, piauí, BBC, DW, Reuters e AP diretamente (bloqueio ou falta de indexação).
 
 Três itens foram conferidos direto na fonte:
 
