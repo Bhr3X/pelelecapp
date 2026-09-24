@@ -82,6 +82,10 @@
 
   const KIND = { document: 0, documento: 0, 'decisão': 1, nota: 2 };
   const order = (a, b) => (KIND[a.kind] ?? 5) - (KIND[b.kind] ?? 5) || a.outlet.localeCompare(b.outlet, 'pt-BR');
+  // Mais recentes primeiro: data do registro e, no mesmo dia, horário publicado.
+  // Sem data vai para o fim.
+  const stamp = ({ m }) => (/^\d{4}/.test(m.date || '') ? String(m.date).slice(0, 10) + (m.time || '') : '');
+  const newest = (a, b) => stamp(b).localeCompare(stamp(a));
   const count = (s, map) => new Set(s.ids.flatMap(id => (map[id] || []).map(x => x.id))).size;
 
   /* ---------- lista ---------- */
@@ -91,7 +95,8 @@
     if (!days.length) return '';
     const end = asDate(days[0]).getTime();
     const span = [];
-    for (let i = 44; i >= 0; i--) span.push(new Date(end - i * 864e5).toISOString().slice(0, 10));
+    // Mais recente à esquerda, na mesma ordem da lista.
+    for (let i = 0; i < 45; i++) span.push(new Date(end - i * 864e5).toISOString().slice(0, 10));
     const max = Math.max(...span.map(d => (pressByDay[d] || []).length), 1);
     const cols = span.map(d => {
       const n = (pressByDay[d] || []).length;
@@ -152,8 +157,8 @@
   function dayHTML(d) {
     if (!d) return `<div class="th-placeholder">${esc(t().pick)}</div>`;
     const items = pressByDay[d].slice().sort(order);
-    const firsts = (firstByDay[d] || []).slice().sort((a, b) => String(a.m.date).localeCompare(String(b.m.date)));
-    const facts = factsByDay[d] || [];
+    const firsts = (firstByDay[d] || []).slice().sort(newest);
+    const facts = (factsByDay[d] || []).slice().sort((a, b) => b.date.localeCompare(a.date) || b.id.localeCompare(a.id, 'pt-BR', { numeric: true }));
     const i = days.indexOf(d), prev = days[i + 1], next = days[i - 1];
     const SHOW = 12;
     return `<article class="th-card">
