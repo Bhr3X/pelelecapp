@@ -1,5 +1,5 @@
 /* Threads: cobertura por dia. Usa as variáveis de tema de style.css. */
-.th-app { height: 100vh; height: 100dvh; display: flex; flex-direction: column; background: var(--bg-app); color: var(--text-primary); font-family: var(--font-family); }
+.th-app { width: 100%; min-width: 0; max-width: 100vw; height: 100vh; height: 100dvh; display: flex; flex-direction: column; background: var(--bg-app); color: var(--text-primary); font-family: var(--font-family); }
 .th-top { display: flex; align-items: center; gap: 14px; padding: 10px 16px; background: var(--bg-sidebar-header); border-bottom: 1px solid var(--border-color); }
 .th-home { color: var(--text-link); text-decoration: none; font-size: 14px; white-space: nowrap; }
 .th-brand { flex: 1; min-width: 0; font-size: 14px; color: var(--text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

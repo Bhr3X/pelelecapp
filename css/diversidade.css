@@ -1,0 +1,47 @@
+/* Diversidade das fontes. Usa as variáveis de tema de style.css e o topo de threads.css. */
+.dv-main { flex: 1; overflow-y: auto; background: var(--bg-chat); }
+.dv-card { max-width: 920px; margin: 20px auto; padding: 26px 28px 32px; background: var(--bg-sidebar); border: 1px solid var(--border-color); border-radius: 12px; }
+.dv-kicker { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--text-secondary); }
+.dv-card h1 { margin: 6px 0 8px; font-size: 28px; line-height: 1.15; }
+.dv-card h2 { margin: 30px 0 10px; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--text-secondary); }
+.dv-lead { margin: 0; font-size: 15px; line-height: 1.5; color: var(--text-secondary); }
+.dv-note { margin: 0 0 12px; font-size: 13px; line-height: 1.5; color: var(--text-secondary); }
+.dv-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-top: 16px; }
+.dv-stat { padding: 12px 14px; border: 1px solid var(--border-color); border-radius: 10px; background: var(--bg-bubble-in); }
+.dv-stat b { display: block; font-size: 26px; line-height: 1.1; }
+.dv-stat span { font-size: 12.5px; color: var(--text-secondary); }
+.dv-stack { display: flex; height: 26px; border-radius: 7px; overflow: hidden; gap: 2px; background: var(--border-color); }
+.dv-stack span { display: block; height: 100%; min-width: 3px; }
+.dv-legend { list-style: none; padding: 0; margin: 12px 0 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 6px 18px; font-size: 14px; }
+.dv-legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 8px; vertical-align: -1px; }
+.dv-legend span { color: var(--text-secondary); }
+.dv-bars { display: grid; gap: 8px; }
+.dv-bar-row { display: grid; grid-template-columns: 190px 1fr 110px; gap: 10px; align-items: center; font-size: 13.5px; }
+.dv-bar { height: 14px; border-radius: 4px; background: var(--border-color); overflow: hidden; }
+.dv-bar span { display: block; height: 100%; }
+.dv-bar-val { text-align: right; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
+.dv-split { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 12px; font-size: 13.5px; }
+.dv-split summary { cursor: pointer; color: var(--text-link); margin-top: 4px; }
+.dv-facts { margin: 6px 0 0; padding-left: 16px; }
+.dv-facts li { margin: 3px 0; }
+.dv-facts a { color: inherit; }
+.dv-filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+.dv-filters button { border: 1px solid var(--border-color); background: var(--bg-bubble-in); color: var(--text-primary); border-radius: 999px; padding: 5px 11px; font: inherit; font-size: 12.5px; cursor: pointer; }
+.dv-filters button[aria-pressed="true"] { background: var(--accent-green); border-color: var(--accent-green); color: #fff; }
+.dv-table-wrap { overflow-x: auto; border: 1px solid var(--border-color); border-radius: 10px; }
+.dv-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.dv-table th, .dv-table td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--border-color); white-space: nowrap; }
+.dv-table th { position: sticky; top: 0; background: var(--bg-sidebar-header); font-size: 12px; color: var(--text-secondary); }
+.dv-table td:nth-child(n+3), .dv-table th:nth-child(n+3) { text-align: right; font-variant-numeric: tabular-nums; }
+.dv-chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; }
+.dv-chip::before { content: ""; width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
+.dv-limits { padding-left: 18px; font-size: 14px; line-height: 1.55; }
+.dv-limits a { color: var(--text-link); }
+
+@media (max-width: 900px) {
+  .dv-card { margin: 0; border: 0; border-radius: 0; padding: 18px 16px 28px; }
+  .dv-bar-row { grid-template-columns: 1fr 90px; }
+  .dv-bar-label { grid-column: 1 / -1; }
+  .dv-split { grid-template-columns: 1fr; }
+  .th-actions .th-home { display: none; }
+}

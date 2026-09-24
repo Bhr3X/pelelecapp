@@ -49850,6 +49850,816 @@ window.PELELEC_DATA = {
       "author": "Redação Oeste",
       "kind": "reportagem"
     },
+    "research_I4-s1": {
+      "id": "research_I4-s1",
+      "outlet": "Gazeta do Povo",
+      "title": "Fábio Faria, o ex-ministro de Bolsonaro que tinha pressa em pagar o “Careca”",
+      "url": "https://www.gazetadopovo.com.br/vozes/coluna-esplanada/fabio-faria-o-ex-ministro-de-bolsonaro-que-tinha-pressa-em-pagar-o-careca/",
+      "date": "2026-09-03",
+      "author": "Leandro Mazzini",
+      "kind": "reportagem"
+    },
+    "research_I4-s2": {
+      "id": "research_I4-s2",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro teria bancado viagem de filho do procurador-geral da República a Londres",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-teria-bancado-viagem-filho-procurador-geral-republica-londres/",
+      "date": "2026-09-01",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s3": {
+      "id": "research_I4-s3",
+      "outlet": "Gazeta do Povo",
+      "title": "Advogado relata agradecimento de Lula por whisky enviado por Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/advogado-relata-agradecimento-de-lula-por-whisky-enviado-por-vorcaro/",
+      "date": "2026-09-23",
+      "author": "Gazeta do Povo",
+      "kind": "reportagem"
+    },
+    "research_I4-s4": {
+      "id": "research_I4-s4",
+      "outlet": "Gazeta do Povo",
+      "title": "Operação contra publicitário de Vorcaro deve aprofundar investigação sobre “Dark Horse”",
+      "url": "https://www.gazetadopovo.com.br/republica/operacao-contra-publicitario-de-vorcaro-deve-aprofundar-investigacao-sobre-dark-horse/",
+      "date": "2026-07-09",
+      "author": "Renan Ramalho",
+      "kind": "reportagem"
+    },
+    "research_I4-s5": {
+      "id": "research_I4-s5",
+      "outlet": "Gazeta do Povo",
+      "title": "Nikolas Ferreira nega relação de proximidade com Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/nikolas-ferreira-nega-relacao-proximidade-vorcaro/",
+      "date": "2026-09-03",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s6": {
+      "id": "research_I4-s6",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro ordenou devassa contra jornalista do jornal O Globo",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-ordenou-devassa-jornalista-jornal-o-globo/",
+      "date": "2026-07-02",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s7": {
+      "id": "research_I4-s7",
+      "outlet": "Gazeta do Povo",
+      "title": "Flávio Bolsonaro reage a foto de Gonet com Vorcaro: “rindo da cara do povo sofrido”",
+      "url": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-reage-a-foto-de-gonet-com-vorcaro-rindo-da-cara-do-povo-sofrido/",
+      "date": "2026-09-19",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s8": {
+      "id": "research_I4-s8",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro perguntou a Moraes se deveria “estar fora” dois dias antes de ser preso",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-perguntou-a-moraes-se-deveria-estar-fora-dois-dias-antes-de-ser-preso/",
+      "date": "2026-09-01",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s10": {
+      "id": "research_I4-s10",
+      "outlet": "Gazeta do Povo",
+      "title": "Mendonça derruba sigilo de ação sobre relação entre Vorcaro e Moraes",
+      "url": "https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-de-acao-sobre-relacao-entre-vorcaro-e-moraes/",
+      "date": "2026-09-01",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s11": {
+      "id": "research_I4-s11",
+      "outlet": "Gazeta do Povo",
+      "title": "PF aponta almoço entre Moraes e Vorcaro que antecedeu contrato de R$ 131 milhões",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-aponta-almoco-entre-moraes-e-vorcaro-que-antecedeu-contrato-de-r-131-milhoes/",
+      "date": "2026-09-03",
+      "author": "Gazeta do Povo",
+      "kind": "reportagem"
+    },
+    "research_I4-s12": {
+      "id": "research_I4-s12",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro mandava priorizar pagamentos a escritório de esposa de Moraes",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-mandava-priorizar-pagamentos-escritorio-esposa-moraes/",
+      "date": "2026-09-01",
+      "author": "Aline Rechmann",
+      "kind": "reportagem"
+    },
+    "research_I4-s13": {
+      "id": "research_I4-s13",
+      "outlet": "Gazeta do Povo",
+      "title": "PF aponta que Vorcaro negociou cotas de jatinho em contrato de R$ 50 milhões com mulher de Moraes",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-aponta-escritorio-mulher-moraes-teria-negociado-contrato-50-milhoes/",
+      "date": "2026-09-01",
+      "author": "Aline Rechmann",
+      "kind": "reportagem"
+    },
+    "research_I4-s14": {
+      "id": "research_I4-s14",
+      "outlet": "Gazeta do Povo",
+      "title": "Moraes teria editado contrato de R$ 131 milhões de Viviane com Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/moraes-teria-editado-contrato-de-r-131-milhoes-de-viviane-com-vorcaro/",
+      "date": "2026-09-01",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s15": {
+      "id": "research_I4-s15",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro abriu mão de jatinho para manter voo de Moraes: “Não deixe de atender Barci”",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-abriu-mao-de-jatinho-para-manter-voo-de-moraes/",
+      "date": "2026-09-20",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s16": {
+      "id": "research_I4-s16",
+      "outlet": "Gazeta do Povo",
+      "title": "Vídeo mostra Moraes e esposa em jatinho ligado a Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/video-mostra-moraes-e-esposa-em-jatinho-ligado-a-vorcaro/",
+      "date": "2026-09-20",
+      "author": "Gabriel Fidalgo Lopes Duarte",
+      "kind": "reportagem"
+    },
+    "research_I4-s17": {
+      "id": "research_I4-s17",
+      "outlet": "Gazeta do Povo",
+      "title": "Escritório de esposa de Moraes confirma voos em jatinho ligado a Vorcaro após vídeo",
+      "url": "https://www.gazetadopovo.com.br/republica/escritorio-esposa-moraes-confirma-voos-jatinho-vorcaro-video/",
+      "date": "2026-09-20",
+      "author": "Marlice Pinto Vilela",
+      "kind": "reportagem"
+    },
+    "research_I4-s18": {
+      "id": "research_I4-s18",
+      "outlet": "Gazeta do Povo",
+      "title": "Quem é Walfrido Warde, que fez proposta “matadora” para livrar Moraes da Magnitsky",
+      "url": "https://www.gazetadopovo.com.br/vida-e-cidadania/walfrido-warde-proposta-matadora-livrar-moraes-magnitsky/",
+      "date": "2026-09-23",
+      "author": "Marlice Pinto Vilela",
+      "kind": "reportagem"
+    },
+    "research_I4-s19": {
+      "id": "research_I4-s19",
+      "outlet": "Gazeta do Povo",
+      "title": "OAB-RJ sai em defesa de filho de Fux após vazamento de mensagens com Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/oab-rj-sai-em-defesa-de-filho-de-fux-e-diz-que-busca-por-clientes-e-legitima/",
+      "date": "2026-09-19",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s20": {
+      "id": "research_I4-s20",
+      "outlet": "Gazeta do Povo",
+      "title": "Mendonça apresenta notas de ternos para rebater suspeita de presente de Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/mendonca-apresenta-notas-de-ternos-para-rebater-suspeita-de-presente-de-vorcaro/",
+      "date": "2026-09-03",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_I4-s23": {
+      "id": "research_I4-s23",
+      "outlet": "Gazeta do Povo",
+      "title": "Mensagens de ex-banqueiro sugerem crimes de Moraes e Gonet em relatório da PF",
+      "url": "https://www.gazetadopovo.com.br/republica/mensagens-de-ex-banqueiro-sugerem-crimes-de-moraes-e-gonet-em-relatorio-da-pf/",
+      "date": "2026-09-02",
+      "author": "Gazeta do Povo Lab",
+      "kind": "reportagem"
+    },
+    "research_I4-s24": {
+      "id": "research_I4-s24",
+      "outlet": "Gazeta do Povo",
+      "title": "Após caso Vorcaro, Gilmar propõe levar disputa bilionária com usinas ao plenário",
+      "url": "https://www.gazetadopovo.com.br/economia/apos-caso-vorcaro-gilmar-propoe-levar-disputa-bilionaria-com-usinas-ao-plenario/",
+      "date": "2026-09-22",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_I4-s25": {
+      "id": "research_I4-s25",
+      "outlet": "Gazeta do Povo",
+      "title": "PF apreende armas ligadas a Mário Frias em operação do caso Dark Horse",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-apreende-armas-ligadas-a-frias-em-operacao-do-caso-dark-horse/",
+      "date": "2026-09-10",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s27": {
+      "id": "research_I4-s27",
+      "outlet": "Gazeta do Povo",
+      "title": "Toffoli deixa a relatoria do caso Master e inquérito será sorteado para novo ministro no STF",
+      "url": "https://www.gazetadopovo.com.br/republica/toffoli-deixa-a-relatoria-do-caso-master-e-inquerito-sera-sorteado-para-novo-ministro-no-stf/",
+      "date": "2026-02-12",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_I4-s28": {
+      "id": "research_I4-s28",
+      "outlet": "Gazeta do Povo",
+      "title": "Toffoli abre mão do caso Master em troca de apoio no STF e preservação de provas",
+      "url": "https://www.gazetadopovo.com.br/republica/toffoli-abre-mao-do-caso-master-em-troca-de-apoio-no-stf-e-preservacao-de-provas/",
+      "date": "2026-02-12",
+      "author": "Renan Ramalho",
+      "kind": "reportagem"
+    },
+    "research_I4-s29": {
+      "id": "research_I4-s29",
+      "outlet": "Gazeta do Povo",
+      "title": "Ex de Vorcaro constitui advogado e diz que processará quem participar de vazamento de mensagens",
+      "url": "https://www.gazetadopovo.com.br/republica/ex-de-vorcaro-constitui-advogado-e-diz-que-processara-quem-participar-de-vazamento-de-mensagens/",
+      "date": "2026-03-10",
+      "author": "Hermano Freitas",
+      "kind": "reportagem"
+    },
+    "research_I4-s30": {
+      "id": "research_I4-s30",
+      "outlet": "Gazeta do Povo",
+      "title": "PF prende Daniel Vorcaro, dono do Banco Master",
+      "url": "https://www.gazetadopovo.com.br/economia/pf-prende-daniel-vorcaro-dono-do-banco-master/",
+      "date": "2025-11-18",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s31": {
+      "id": "research_I4-s31",
+      "outlet": "Gazeta do Povo",
+      "title": "Banco Central decreta liquidação do Banco Master; dono é preso pela PF",
+      "url": "https://www.gazetadopovo.com.br/economia/banco-central-decreta-liquidacao-do-banco-master/",
+      "date": "2025-11-18",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s32": {
+      "id": "research_I4-s32",
+      "outlet": "Gazeta do Povo",
+      "title": "Daniel Vorcaro é preso novamente pela PF sob suspeita de ameaças e lavagem de dinheiro",
+      "url": "https://www.gazetadopovo.com.br/republica/daniel-vorcaro-preso-novamente-pf/",
+      "date": "2026-03-04",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s33": {
+      "id": "research_I4-s33",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro antecipou voo a Dubai após conversa e encontro com Moraes",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-antecipou-voo-dubai-apos-conversa-encontro-moraes/",
+      "date": "2026-09-08",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s34": {
+      "id": "research_I4-s34",
+      "outlet": "Gazeta do Povo",
+      "title": "Defesa confirma morte de “Sicário”, suspeito de auxiliar Vorcaro em atividades criminosas",
+      "url": "https://www.gazetadopovo.com.br/republica/defesa-confirma-morte-de-sicario-suspeito-de-auxiliar-vorcaro-em-atividades-criminosas/",
+      "date": "2026-03-07",
+      "author": "Aline Menezes",
+      "kind": "reportagem"
+    },
+    "research_I4-s36": {
+      "id": "research_I4-s36",
+      "outlet": "Gazeta do Povo",
+      "title": "PF prende pai de Vorcaro por operar grupo que coagia e ameaçava desafetos do banqueiro",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-prende-pai-de-vorcaro-em-nova-fase-da-compliance-zero/",
+      "date": "2026-05-14",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s37": {
+      "id": "research_I4-s37",
+      "outlet": "Gazeta do Povo",
+      "title": "Áudio de Flávio pedindo dinheiro a Vorcaro afeta pré-campanha; veja reações",
+      "url": "https://www.gazetadopovo.com.br/republica/audio-de-flavio-pedindo-dinheiro-a-vorcaro-afeta-pre-campanha-veja-reacoes/",
+      "date": "2026-05-13",
+      "author": "Wesley Oliveira",
+      "kind": "reportagem"
+    },
+    "research_I4-s38": {
+      "id": "research_I4-s38",
+      "outlet": "Gazeta do Povo",
+      "title": "Proposta de Ciro que multiplicaria lucros do Master foi redigida pela assessoria do banco",
+      "url": "https://www.gazetadopovo.com.br/republica/proposta-de-ciro-que-multiplicaria-lucros-do-master-foi-redigida-pela-assessoria-do-banco/",
+      "date": "2026-05-07",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s39": {
+      "id": "research_I4-s39",
+      "outlet": "Gazeta do Povo",
+      "title": "Mesada, viagens e imóvel de luxo: os benefícios de Vorcaro a Ciro Nogueira, segundo a PF",
+      "url": "https://www.gazetadopovo.com.br/republica/mesada-viagens-e-imovel-de-luxo-os-beneficios-de-vorcaro-a-ciro-nogueira-segundo-a-pf/",
+      "date": "2026-05-07",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s40": {
+      "id": "research_I4-s40",
+      "outlet": "Gazeta do Povo",
+      "title": "PF rejeita proposta de delação premiada de Daniel Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-rejeita-proposta-de-delacao-premiada-de-daniel-vorcaro/",
+      "date": "2026-05-20",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_I4-s41": {
+      "id": "research_I4-s41",
+      "outlet": "Gazeta do Povo",
+      "title": "Jaques Wagner é alvo de busca e apreensão em operação do caso Master",
+      "url": "https://www.gazetadopovo.com.br/republica/jaques-wagner-e-alvo-de-busca-e-apreensao-em-operacao-do-caso-master/",
+      "date": "2026-06-18",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s42": {
+      "id": "research_I4-s42",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro cooptou cerca de 50 influenciadores e planejou produzir filme sobre o caso Master",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-cooptou-cerca-de-50-influenciadores-e-planejou-produzir-filme-sobre-o-caso-master/",
+      "date": "2026-07-13",
+      "author": "Juliet Manfrin",
+      "kind": "reportagem"
+    },
+    "research_I4-s43": {
+      "id": "research_I4-s43",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro diz ter tido “ótimo” encontro com Lula e ministros no Planalto em 2024",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-otimo-encontro-lula-ministros-planalto-2024/",
+      "date": "2026-03-05",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s44": {
+      "id": "research_I4-s44",
+      "outlet": "Gazeta do Povo",
+      "title": "Lula teria se reunido fora da agenda com Mantega, Galípolo e Vorcaro em 2024",
+      "url": "https://www.gazetadopovo.com.br/republica/lula-teria-se-reunido-fora-da-agenda-com-mantega-galipolo-e-vorcaro-em-2024/",
+      "date": "2026-01-26",
+      "author": "Hermano Freitas",
+      "kind": "reportagem"
+    },
+    "research_I4-s46": {
+      "id": "research_I4-s46",
+      "outlet": "Gazeta do Povo",
+      "title": "Jantares de luxo e degustação de uísque de US$ 1 milhão em NY: PF lista favores de Vorcaro a Castro",
+      "url": "https://www.gazetadopovo.com.br/republica/jantares-de-luxo-e-degustacao-de-uisque-de-us-1-milhao-em-ny-pf-lista-favores-de-vorcaro-a-castro/",
+      "date": "2026-05-28",
+      "author": "Juliet Manfrin",
+      "kind": "reportagem"
+    },
+    "research_I4-s47": {
+      "id": "research_I4-s47",
+      "outlet": "Gazeta do Povo",
+      "title": "Mendonça confirma encontro com Vorcaro e advogado sobre precatórios",
+      "url": "https://www.gazetadopovo.com.br/republica/mendonca-confirma-encontro-vorcaro-advogado-precatorios/",
+      "date": "2026-09-02",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s48": {
+      "id": "research_I4-s48",
+      "outlet": "Gazeta do Povo",
+      "title": "Polícia Federal aponta indícios de encontro entre Alexandre de Moraes e Daniel Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/policia-federal-aponta-indicios-de-encontro-entre-alexandre-de-moraes-e-daniel-vorcaro/",
+      "date": "2026-09-01",
+      "author": "Gazeta do Povo Lab",
+      "kind": "reportagem"
+    },
+    "research_I4-s50": {
+      "id": "research_I4-s50",
+      "outlet": "Gazeta do Povo",
+      "title": "Página que simulava WhatsApp de Vorcaro é retirada do ar por ordem judicial",
+      "url": "https://www.gazetadopovo.com.br/republica/pagina-que-simulava-whatsapp-de-vorcaro-e-retirada-do-ar-por-ordem-judicial-misteriosa/",
+      "date": "2026-09-21",
+      "author": "Hermano Freitas",
+      "kind": "reportagem"
+    },
+    "research_I4-s52": {
+      "id": "research_I4-s52",
+      "outlet": "Gazeta do Povo",
+      "title": "Mensagens de Vorcaro expõem proteção a Moraes e articulação com Lula",
+      "url": "https://www.gazetadopovo.com.br/sem-rodeios/mensagens-de-vorcaro-expoem-protecao-a-moraes-e-articulacao-com-lula/",
+      "date": "2026-09-23",
+      "author": "Joyce Brito",
+      "kind": "opinião"
+    },
+    "research_I4-s53": {
+      "id": "research_I4-s53",
+      "outlet": "Gazeta do Povo",
+      "title": "Dois servidores do BC são afastados por envolvimento com Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/dois-servidores-bc-afastados-envolvimento-vorcaro/",
+      "date": "2026-03-04",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s54": {
+      "id": "research_I4-s54",
+      "outlet": "Gazeta do Povo",
+      "title": "Ministro do STJ manteve contato com Vorcaro antes de se declarar impedido em processos do Master",
+      "url": "https://www.gazetadopovo.com.br/republica/ministro-stj-contato-vorcaro-antes-se-declarar-impedido-processos-master/",
+      "date": "2026-09-18",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_I4-s55": {
+      "id": "research_I4-s55",
+      "outlet": "Gazeta do Povo",
+      "title": "Defesa de Vorcaro pede adiamento de depoimento à PF",
+      "url": "https://www.gazetadopovo.com.br/republica/defesa-de-vorcaro-pede-adiamento-de-depoimento-a-pf/",
+      "date": "2026-09-22",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_I4-s56": {
+      "id": "research_I4-s56",
+      "outlet": "Revista Oeste",
+      "title": "Moraes nega encontro na casa de Vorcaro, dono do Master",
+      "url": "https://revistaoeste.com/politica/moraes-nega-encontro-na-casa-de-vorcaro-dono-do-master/",
+      "date": "2026-01-27",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I4-s57": {
+      "id": "research_I4-s57",
+      "outlet": "Revista Oeste",
+      "title": "Moraes e Vorcaro tiveram pelo menos 6 encontros privados",
+      "url": "https://revistaoeste.com/politica/moraes-e-vorcaro-tiveram-pelo-menos-seis-encontros-privados/",
+      "date": "2026-09-01",
+      "author": "Erich Mafra",
+      "kind": "reportagem"
+    },
+    "research_I4-s58": {
+      "id": "research_I4-s58",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro declarou ‘dívida de vida’ a Moraes 3 dias antes de prisão",
+      "url": "https://revistaoeste.com/politica/vorcaro-declarou-divida-de-vida-a-moraes-tres-dias-antes-de-prisao/",
+      "date": "2026-09-01",
+      "author": "Erich Mafra",
+      "kind": "reportagem"
+    },
+    "research_I4-s59": {
+      "id": "research_I4-s59",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro autorizou viagem do filho de Paulo Gonet a Londres",
+      "url": "https://revistaoeste.com/politica/vorcaro-autorizou-viagem-do-filho-de-paulo-gonet-a-londres/",
+      "date": "2026-09-01",
+      "author": "Victória Batalha",
+      "kind": "reportagem"
+    },
+    "research_I4-s60": {
+      "id": "research_I4-s60",
+      "outlet": "Revista Oeste",
+      "title": "Ex-advogado relatou contatos de Gonet e Vorcaro: ‘Amizade é tudo’",
+      "url": "https://revistaoeste.com/politica/ex-advogado-relatou-contatos-com-gonet-a-vorcaro-amizade-e-tudo/",
+      "date": "2026-09-03",
+      "author": "Victória Batalha",
+      "kind": "reportagem"
+    },
+    "research_I4-s61": {
+      "id": "research_I4-s61",
+      "outlet": "Revista Oeste",
+      "title": "Gonet negou relação próxima com Vorcaro dias antes de foto com charuto vir à tona",
+      "url": "https://revistaoeste.com/no-ponto/paulo-gonet-negou-relacao-proxima-com-vorcaro-dias-antes-de-foto-com-charuto-vir-a-tona/",
+      "date": "2026-09-19",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I4-s62": {
+      "id": "research_I4-s62",
+      "outlet": "Revista Oeste",
+      "title": "Em 2024, Vorcaro pagou degustação de uísque para Moraes e Toffoli em Londres",
+      "url": "https://revistaoeste.com/politica/em-2024-vorcaro-pagou-degustacao-de-whisky-para-moraes-e-toffoli-em-londres/",
+      "date": "2026-03-10",
+      "author": "Letícia Alves",
+      "kind": "reportagem"
+    },
+    "research_I4-s63": {
+      "id": "research_I4-s63",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro comemorou ‘emenda Master’ de Ciro Nogueira",
+      "url": "https://revistaoeste.com/politica/vorcaro-comemorou-emenda-master-de-ciro-nogueira/",
+      "date": "2026-03-10",
+      "author": "Vanessa Araujo",
+      "kind": "reportagem"
+    },
+    "research_I4-s64": {
+      "id": "research_I4-s64",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro diz que encontro com Lula, Galípolo e ministros ‘foi ótimo’",
+      "url": "https://revistaoeste.com/politica/vorcaro-diz-que-encontro-com-lula-galipolo-e-ministros-foi-otimo/",
+      "date": "2026-03-05",
+      "author": "Isabela Jordão",
+      "kind": "reportagem"
+    },
+    "research_I4-s65": {
+      "id": "research_I4-s65",
+      "outlet": "Revista Oeste",
+      "title": "Empresário diz que marcou reunião entre Flávio Bolsonaro e Vorcaro",
+      "url": "https://revistaoeste.com/politica/empresario-diz-que-marcou-reuniao-entre-flavio-bolsonaro-e-vorcaro/",
+      "date": "2026-05-13",
+      "author": "Redação Oeste",
+      "kind": "reportagem"
+    },
+    "research_I4-s66": {
+      "id": "research_I4-s66",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro pagou R$ 60 mi para financiar filme sobre Jair Bolsonaro; Flávio teria intermediado a negociação",
+      "url": "https://revistaoeste.com/politica/vorcaro-pagou-r-60-mi-para-financiar-filme-sobre-jair-bolsonaro-flavio-teria-intermediado-a-negociacao/",
+      "date": "2026-05-13",
+      "author": "Redação Oeste",
+      "kind": "reportagem"
+    },
+    "research_I4-s67": {
+      "id": "research_I4-s67",
+      "outlet": "Revista Oeste",
+      "title": "Mendonça confirma encontro com Vorcaro e diz que tratou apenas de precatórios",
+      "url": "https://revistaoeste.com/no-ponto/mendonca-confirma-encontro-com-vorcaro-e-diz-que-tratou-apenas-de-precatorios/",
+      "date": "2026-09-02",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I4-s68": {
+      "id": "research_I4-s68",
+      "outlet": "Revista Oeste",
+      "title": "Ex-presidente do BRB foi mandatário de Vorcaro, entende Mendonça",
+      "url": "https://revistaoeste.com/economia/ex-presidente-do-brb-foi-mandatario-de-vorcaro-entende-mendonca/",
+      "date": "2026-04-16",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I4-s69": {
+      "id": "research_I4-s69",
+      "outlet": "Revista Oeste",
+      "title": "Nikolas procurou Vorcaro para ajudar ex-assessor",
+      "url": "https://revistaoeste.com/politica/nikolas-procurou-vorcaro-para-ajudar-ex-assessor/",
+      "date": "2026-09-03",
+      "author": "Rachel Díaz",
+      "kind": "reportagem"
+    },
+    "research_I4-s70": {
+      "id": "research_I4-s70",
+      "outlet": "Revista Oeste",
+      "title": "O Globo repudia plano criminoso de Vorcaro contra o jornalista Lauro Jardim",
+      "url": "https://revistaoeste.com/imprensa/emo-globo-em-repudia-plano-criminoso-de-daniel-vorcaro-contra-o-jornalista-lauro-jardim/",
+      "date": "2026-03-04",
+      "author": "Erich Mafra",
+      "kind": "reportagem"
+    },
+    "research_I4-s71": {
+      "id": "research_I4-s71",
+      "outlet": "Revista Oeste",
+      "title": "Vida de jornalista foi vasculhada por Vorcaro, afirma O Globo",
+      "url": "https://revistaoeste.com/politica/vida-de-jornalista-foi-vasculhada-por-vorcaro-diz-o-globo/",
+      "date": "2026-07-01",
+      "author": "Fábio Bouéri",
+      "kind": "reportagem"
+    },
+    "research_I4-s72": {
+      "id": "research_I4-s72",
+      "outlet": "Revista Oeste",
+      "title": "Caso Master: Vorcaro subornou servidor do BC com viagem à Disney, diz PF",
+      "url": "https://revistaoeste.com/economia/caso-master-vorcaro-subornou-servidor-do-bc-com-viagem-a-disney-diz-pf/",
+      "date": "2026-03-04",
+      "author": "Isabela Jordão",
+      "kind": "reportagem"
+    },
+    "research_I4-s73": {
+      "id": "research_I4-s73",
+      "outlet": "Revista Oeste",
+      "title": "PF: Vorcaro praticou crimes depois de sair da prisão em novembro",
+      "url": "https://revistaoeste.com/politica/pf-vorcaro-praticou-crimes-depois-de-sair-da-prisao-em-novembro/",
+      "date": "2026-03-04",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I4-s74": {
+      "id": "research_I4-s74",
+      "outlet": "Revista Oeste",
+      "title": "Mendonça e Fux votam para manter prisão de Vorcaro",
+      "url": "https://revistaoeste.com/politica/mendonca-vota-para-manter-prisao-de-vorcaro/",
+      "date": "2026-03-13",
+      "author": "Loriane Comeli",
+      "kind": "reportagem"
+    },
+    "research_I4-s75": {
+      "id": "research_I4-s75",
+      "outlet": "Revista Oeste",
+      "title": "Toffoli: relatório da PF cita ligações com Vorcaro, convite e tratativas sobre Tayayá",
+      "url": "https://revistaoeste.com/politica/toffoli-e-vorcaro-pf-cita-ligacoes-convite-e-negocio-em-tayaya/",
+      "date": "2026-02-12",
+      "author": "Luis Batistela",
+      "kind": "reportagem"
+    },
+    "research_I4-s76": {
+      "id": "research_I4-s76",
+      "outlet": "Revista Oeste",
+      "title": "Martha Graeff: conheça a ex-namorada de Daniel Vorcaro citada em mensagens sobre autoridades",
+      "url": "https://revistaoeste.com/politica/martha-graeff-conheca-a-ex-namorada-de-daniel-vorcaro/",
+      "date": "2026-03-07",
+      "author": "Luis Batistela",
+      "kind": "reportagem"
+    },
+    "research_I4-s77": {
+      "id": "research_I4-s77",
+      "outlet": "Revista Oeste",
+      "title": "Caso Master: Ciro Nogueira é alvo de operação da Polícia Federal",
+      "url": "https://revistaoeste.com/politica/caso-mater-ciro-nogueira-e-alvo-de-operacao-da-policia-federal/",
+      "date": "2026-05-07",
+      "author": "Loriane Comeli",
+      "kind": "reportagem"
+    },
+    "research_I4-s78": {
+      "id": "research_I4-s78",
+      "outlet": "Revista Oeste",
+      "title": "Acusado de esconder mais de R$ 770 mi: quem é o pai de Vorcaro",
+      "url": "https://revistaoeste.com/politica/acusado-de-esconder-mais-de-r-770-mi-quem-e-o-pai-de-vorcaro/",
+      "date": "2026-05-14",
+      "author": "Erich Mafra",
+      "kind": "reportagem"
+    },
+    "research_I4-s79": {
+      "id": "research_I4-s79",
+      "outlet": "Revista Oeste",
+      "title": "PF identifica ‘proximidade pessoal’ entre Castro e Vorcaro",
+      "url": "https://revistaoeste.com/politica/pf-identifica-relacao-proxima-entre-claudio-castro-e-vorcaro/",
+      "date": "2026-05-26",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I4-s80": {
+      "id": "research_I4-s80",
+      "outlet": "Revista Oeste",
+      "title": "Ex-sócio de Vorcaro pagou show nos EUA a Jaques Wagner e parentes",
+      "url": "https://revistaoeste.com/politica/ex-socio-de-vorcaro-pagou-show-nos-eua-a-jaques-wagner-e-parentes/",
+      "date": "2026-06-18",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I4-s81": {
+      "id": "research_I4-s81",
+      "outlet": "Revista Oeste",
+      "title": "PF diz que Vorcaro pediu a publicitário dossiê contra CEO do Itaú",
+      "url": "https://revistaoeste.com/politica/pf-diz-que-vorcaro-pediu-a-publicitario-dossie-contra-ceo-do-itau/",
+      "date": "2026-07-09",
+      "author": "Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_I4-s82": {
+      "id": "research_I4-s82",
+      "outlet": "Revista Oeste",
+      "title": "PGR pede nulidade do relatório da PF sobre mensagens entre Vorcaro e Moraes",
+      "url": "https://revistaoeste.com/politica/paulo-gonet-pede-nulidade-do-relatorio-da-pf-sobre-mensagens-entre-vorcaro-e-moraes/",
+      "date": "2026-09-01",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I4-s83": {
+      "id": "research_I4-s83",
+      "outlet": "Revista Oeste",
+      "title": "Fachin marca julgamento sobre relatório que envolve Moraes e Vorcaro",
+      "url": "https://revistaoeste.com/politica/fachin-marca-julgamento-sobre-relatorio-que-envolve-moraes-e-vorcaro/",
+      "date": "2026-09-09",
+      "author": "Redação Oeste",
+      "kind": "reportagem"
+    },
+    "research_I4-s84": {
+      "id": "research_I4-s84",
+      "outlet": "Revista Oeste",
+      "title": "Contrato de R$ 427 milhões liga entorno de Nunes Marques a Vorcaro",
+      "url": "https://revistaoeste.com/politica/contrato-de-r-427-milhoes-liga-entorno-de-nunes-marques-a-vorcaro/",
+      "date": "2026-09-21",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I4-s85": {
+      "id": "research_I4-s85",
+      "outlet": "Revista Oeste",
+      "title": "Ibaneis enviou a Vorcaro decisão liminar e lei sobre compra do Master",
+      "url": "https://revistaoeste.com/politica/ibaneis-enviou-a-vorcaro-decisao-liminar-e-lei-sobre-compra-do-master/",
+      "date": "2026-09-21",
+      "author": "Vanessa Araujo",
+      "kind": "reportagem"
+    },
+    "research_I4-s86": {
+      "id": "research_I4-s86",
+      "outlet": "Revista Oeste",
+      "title": "Moraes editou contrato de R$ 131 mi entre Viviane e Vorcaro",
+      "url": "https://revistaoeste.com/politica/moraes-editou-contrato-de-131mi-entre-viviane-e-vorcaro/",
+      "date": "2026-09-01",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I4-s87": {
+      "id": "research_I4-s87",
+      "outlet": "Revista Oeste",
+      "title": "Viviane Barci assinou contrato depois de Moraes se encontrar com Vorcaro, diz PF",
+      "url": "https://revistaoeste.com/politica/viviane-barci-assinou-contrato-depois-de-moraes-se-encontrar-com-vorcaro-diz-pf/",
+      "date": "2026-09-01",
+      "author": "Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_I4-s88": {
+      "id": "research_I4-s88",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro cobrava equipe por pagamentos ao escritório da mulher de Moraes",
+      "url": "https://revistaoeste.com/politica/vorcaro-cobrava-equipe-por-pagamentos-ao-escritorio-da-mulher-de-moraes/",
+      "date": "2026-09-01",
+      "author": "Pâmela Zacarias",
+      "kind": "reportagem"
+    },
+    "research_I4-s89": {
+      "id": "research_I4-s89",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro firmou contrato de R$ 50 milhões com escritório de Viviane de Moraes",
+      "url": "https://revistaoeste.com/politica/vorcaro-firmou-contrato-de-r-50-milhoes-com-escritorio-de-viviane-de-moraes/",
+      "date": "2026-09-01",
+      "author": "Victória Batalha",
+      "kind": "reportagem"
+    },
+    "research_I4-s90": {
+      "id": "research_I4-s90",
+      "outlet": "Revista Oeste",
+      "title": "Motta pediu a Vorcaro empréstimo do Master para cunhada, diz jornal",
+      "url": "https://revistaoeste.com/politica/motta-pediu-a-vorcaro-emprestimo-do-master-para-cunhada-diz-jornal/",
+      "date": "2026-06-18",
+      "author": "Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_I4-s91": {
+      "id": "research_I4-s91",
+      "outlet": "Revista Oeste",
+      "title": "OAB-RJ defende filho de Fux depois de vazamento de mensagens com Vorcaro",
+      "url": "https://revistaoeste.com/politica/oab-rj-sai-em-defesa-de-filho-de-fux-depois-de-vazamento-de-mensagens-com-vorcaro/",
+      "date": "2026-09-20",
+      "author": "Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_I4-s92": {
+      "id": "research_I4-s92",
+      "outlet": "Revista Oeste",
+      "title": "Fux dá 10 dias a Alcolumbre para explicar registros da mulher de Moraes e Vorcaro",
+      "url": "https://revistaoeste.com/no-ponto/fux-da-10-dias-para-alcolumbre-explicar-registros-da-mulher-de-moraes-e-vorcaro-no-senado/",
+      "date": "2026-09-23",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
+    "research_I4-s93": {
+      "id": "research_I4-s93",
+      "outlet": "Revista Oeste",
+      "title": "Flávio apresenta notícia-crime contra Lula por relação com Vorcaro",
+      "url": "https://revistaoeste.com/politica/flavio-apresenta-noticia-crime-contra-lula-por-relacao-com-vorcaro/",
+      "date": "2026-09-23",
+      "author": "Fábio Bouéri",
+      "kind": "reportagem"
+    },
+    "research_I4-s94": {
+      "id": "research_I4-s94",
+      "outlet": "Revista Oeste",
+      "title": "Site que reúne conversas de Vorcaro volta ao ar mediante decisão judicial",
+      "url": "https://revistaoeste.com/politica/site-que-reune-conversas-de-vorcaro-volta-ao-ar-mediante-decisao-judicial/",
+      "date": "2026-09-23",
+      "author": "Isabela Jordão",
+      "kind": "reportagem"
+    },
+    "research_I4-s95": {
+      "id": "research_I4-s95",
+      "outlet": "Revista Oeste",
+      "title": "Mendonça afasta diretor-geral da PF",
+      "url": "https://revistaoeste.com/politica/andre-mendonca-determina-afastamento-de-chefe-da-policia-federal/",
+      "date": "2026-09-08",
+      "author": "Fábio Matos",
+      "kind": "reportagem"
+    },
+    "research_I4-s96": {
+      "id": "research_I4-s96",
+      "outlet": "Revista Oeste",
+      "title": "Polícia Federal prende Daniel Vorcaro, dono do Banco Master",
+      "url": "https://revistaoeste.com/brasil/policia-federal-prende-daniel-vorcaro-dono-do-banco-master/",
+      "date": "2025-11-18",
+      "author": "Lucas Cheiddi",
+      "kind": "reportagem"
+    },
+    "research_I4-s97": {
+      "id": "research_I4-s97",
+      "outlet": "Revista Oeste",
+      "title": "BC liquida Banco Master e bloqueia bens de controladores",
+      "url": "https://revistaoeste.com/economia/bc-liquida-banco-master-e-bloqueia-bens-de-controladores/",
+      "date": "2025-11-18",
+      "author": "Luis Batistela",
+      "kind": "reportagem"
+    },
+    "research_I4-s98": {
+      "id": "research_I4-s98",
+      "outlet": "Revista Oeste",
+      "title": "Defesa de Vorcaro pede adiamento de depoimento e cobra acesso a inquérito",
+      "url": "https://revistaoeste.com/no-ponto/defesa-de-vorcaro-pede-adiamento-de-depoimento-e-cobra-acesso-integral-a-inquerito/",
+      "date": "2026-09-21",
+      "author": "Cristyan Costa",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -49926,7 +50736,8 @@ window.PELELEC_DATA = {
       "text": "O advogado Ciro Soares diz a Vorcaro que “Gonet é firme” e manda áudio sobre uma conversa com o procurador-geral.",
       "sources": [
         "research_A1-s1",
-        "research_A2-s3"
+        "research_A2-s3",
+        "research_I4-s60"
       ]
     },
     {
@@ -49947,7 +50758,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_A2-s17",
         "research_A2-s11",
-        "research_A2-s15"
+        "research_A2-s15",
+        "research_I4-s62"
       ]
     },
     {
@@ -49958,7 +50770,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B2-s2",
         "research_B2-s3",
-        "research_B2-s42"
+        "research_B2-s42",
+        "research_I4-s38",
+        "research_I4-s63"
       ]
     },
     {
@@ -49979,7 +50793,10 @@ window.PELELEC_DATA = {
         "research_B2-s50",
         "research_B2-s48",
         "research_C-s17",
-        "research_B2-s49"
+        "research_B2-s49",
+        "research_I4-s43",
+        "research_I4-s44",
+        "research_I4-s64"
       ]
     },
     {
@@ -49990,7 +50807,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B1-s33",
         "research_B1-s35",
-        "research_B1-s10"
+        "research_B1-s10",
+        "research_I4-s65"
       ]
     },
     {
@@ -50018,7 +50836,8 @@ window.PELELEC_DATA = {
       "title": "Primeira remessa ao Havengate",
       "text": "Saem US$ 2 milhões da Entre Investimentos para o fundo Havengate, nos EUA, segundo a PF.",
       "sources": [
-        "research_B1-s49"
+        "research_B1-s49",
+        "research_I4-s66"
       ]
     },
     {
@@ -50029,7 +50848,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_A2-s22",
         "research_A2-s24",
-        "research_A2-s25"
+        "research_A2-s25",
+        "research_I4-s47",
+        "research_I4-s67"
       ]
     },
     {
@@ -50041,7 +50862,9 @@ window.PELELEC_DATA = {
         "research_C-s27",
         "research_C-s28",
         "research_B2-s32",
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I4-s56",
+        "research_I4-s57"
       ]
     },
     {
@@ -50062,7 +50885,9 @@ window.PELELEC_DATA = {
       "text": "Ciro Soares diz que Gonet perguntou se o filho poderia ir a Londres com o grupo; Vorcaro responde “Obvio ne”.",
       "sources": [
         "research_A1-s1",
-        "research_A2-s5"
+        "research_A2-s5",
+        "research_I4-s2",
+        "research_I4-s59"
       ]
     },
     {
@@ -50072,7 +50897,9 @@ window.PELELEC_DATA = {
       "text": "Nikolas Ferreira manda áudio a Vorcaro pedindo que ele receba seu advogado. Ele confirma o envio.",
       "sources": [
         "research_B1-s56",
-        "research_B1-s58"
+        "research_B1-s58",
+        "research_I4-s5",
+        "research_I4-s69"
       ]
     },
     {
@@ -50082,7 +50909,9 @@ window.PELELEC_DATA = {
       "text": "Vorcaro e Thiago Miranda combinam levantar dados da vida pessoal da colunista Malu Gaspar, segundo a PF.",
       "sources": [
         "research_G-s26",
-        "research_G-s25"
+        "research_G-s25",
+        "research_I4-s6",
+        "research_I4-s71"
       ]
     },
     {
@@ -50092,7 +50921,8 @@ window.PELELEC_DATA = {
       "text": "Mourão encaminha matéria de Lauro Jardim; Vorcaro diz que era preciso pôr gente seguindo o jornalista.",
       "sources": [
         "research_G-s46",
-        "research_C-s100"
+        "research_C-s100",
+        "research_I4-s70"
       ]
     },
     {
@@ -50114,7 +50944,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B1-s4",
         "research_B1-s9",
-        "research_B1-s13"
+        "research_B1-s13",
+        "research_I4-s37"
       ]
     },
     {
@@ -50144,7 +50975,9 @@ window.PELELEC_DATA = {
       "text": "Belline Santana, do Banco Central, cria o grupo “Master” com Vorcaro e Paulo Sérgio Neves de Souza.",
       "sources": [
         "research_G-s36",
-        "research_G-s38"
+        "research_G-s38",
+        "research_I4-s53",
+        "research_I4-s72"
       ]
     },
     {
@@ -50177,7 +51010,9 @@ window.PELELEC_DATA = {
         "research_A2-s19",
         "research_I3-s1",
         "research_I3-s2",
-        "research_I3-s3"
+        "research_I3-s3",
+        "research_I4-s8",
+        "research_I4-s48"
       ]
     },
     {
@@ -50186,7 +51021,9 @@ window.PELELEC_DATA = {
       "title": "Adiar a operação",
       "text": "Em nota, Vorcaro diz que o banco não quebra se Andrei conseguir adiar a ação da PF para depois do feriado.",
       "sources": [
-        "research_A1-s8"
+        "research_A1-s8",
+        "research_I4-s33",
+        "research_I4-s48"
       ]
     },
     {
@@ -50199,7 +51036,9 @@ window.PELELEC_DATA = {
         "research_A1-s1",
         "research_C-s92",
         "research_C-s54",
-        "research_I3-s4"
+        "research_I3-s4",
+        "research_I4-s30",
+        "research_I4-s96"
       ]
     },
     {
@@ -50209,7 +51048,9 @@ window.PELELEC_DATA = {
       "text": "A PF deflagra a operação sobre fraudes de cerca de R$ 12 bilhões em carteiras cedidas ao BRB. O iPhone de Vorcaro fica com a perícia.",
       "sources": [
         "research_A1-s1",
-        "research_I3-s4"
+        "research_I3-s4",
+        "research_I4-s31",
+        "research_I4-s97"
       ]
     },
     {
@@ -50221,7 +51062,10 @@ window.PELELEC_DATA = {
         "research_A2-s46",
         "research_I3-s7",
         "research_I3-s8",
-        "research_I3-s9"
+        "research_I3-s9",
+        "research_I4-s27",
+        "research_I4-s28",
+        "research_I4-s75"
       ]
     },
     {
@@ -50235,7 +51079,9 @@ window.PELELEC_DATA = {
         "research_C-s72",
         "research_I3-s10",
         "research_I3-s11",
-        "research_I3-s12"
+        "research_I3-s12",
+        "research_I4-s32",
+        "research_I4-s73"
       ]
     },
     {
@@ -50247,7 +51093,9 @@ window.PELELEC_DATA = {
         "research_C-s30",
         "research_C-s11",
         "research_C-s7",
-        "research_C-s32"
+        "research_C-s32",
+        "research_I4-s29",
+        "research_I4-s76"
       ]
     },
     {
@@ -50261,7 +51109,9 @@ window.PELELEC_DATA = {
         "research_G-s53",
         "research_G-s52",
         "research_I3-s13",
-        "research_I3-s14"
+        "research_I3-s14",
+        "research_I4-s34",
+        "research_I4-s74"
       ]
     },
     {
@@ -50272,7 +51122,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B2-s5",
         "research_I3-s16",
-        "research_I3-s17"
+        "research_I3-s17",
+        "research_I4-s68"
       ]
     },
     {
@@ -50284,7 +51135,9 @@ window.PELELEC_DATA = {
         "research_B2-s2",
         "research_B2-s44",
         "research_C-s91",
-        "research_I3-s18"
+        "research_I3-s18",
+        "research_I4-s39",
+        "research_I4-s77"
       ]
     },
     {
@@ -50295,7 +51148,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B1-s1",
         "research_B1-s4",
-        "research_B1-s5"
+        "research_B1-s5",
+        "research_I4-s37",
+        "research_I4-s66"
       ]
     },
     {
@@ -50308,7 +51163,9 @@ window.PELELEC_DATA = {
         "research_G-s11",
         "research_C-s81",
         "research_I3-s21",
-        "research_I3-s22"
+        "research_I3-s22",
+        "research_I4-s36",
+        "research_I4-s78"
       ]
     },
     {
@@ -50319,7 +51176,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B1-s52",
         "research_I3-s24",
-        "research_I3-s25"
+        "research_I3-s25",
+        "research_I4-s40"
       ]
     },
     {
@@ -50332,7 +51190,9 @@ window.PELELEC_DATA = {
         "research_I3-s27",
         "research_I3-s28",
         "research_I3-s29",
-        "research_I3-s30"
+        "research_I3-s30",
+        "research_I4-s46",
+        "research_I4-s79"
       ]
     },
     {
@@ -50344,7 +51204,9 @@ window.PELELEC_DATA = {
         "research_B2-s3",
         "research_B2-s31",
         "research_I3-s31",
-        "research_I3-s32"
+        "research_I3-s32",
+        "research_I4-s41",
+        "research_I4-s80"
       ]
     },
     {
@@ -50356,7 +51218,10 @@ window.PELELEC_DATA = {
         "research_G-s27",
         "research_G-s28",
         "research_I3-s33",
-        "research_I3-s34"
+        "research_I3-s34",
+        "research_I4-s4",
+        "research_I4-s42",
+        "research_I4-s81"
       ]
     },
     {
@@ -50365,7 +51230,9 @@ window.PELELEC_DATA = {
       "title": "O relatório do celular",
       "text": "A PF entrega a Mendonça o IPJ-A 3298613/2026, de 218 páginas, sobre o iPhone de Vorcaro.",
       "sources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I4-s23",
+        "research_I4-s82"
       ]
     },
     {
@@ -50377,7 +51244,9 @@ window.PELELEC_DATA = {
         "research_E-s4",
         "research_A1-s2",
         "research_I3-s36",
-        "research_I3-s37"
+        "research_I3-s37",
+        "research_I4-s10",
+        "research_I4-s82"
       ]
     },
     {
@@ -50392,7 +51261,8 @@ window.PELELEC_DATA = {
         "research_I3-s39",
         "research_I3-s40",
         "research_I3-s41",
-        "research_I3-s42"
+        "research_I3-s42",
+        "research_I4-s25"
       ]
     },
     {
@@ -50405,7 +51275,8 @@ window.PELELEC_DATA = {
         "research_A2-s34",
         "research_A2-s35",
         "research_I3-s43",
-        "research_I3-s44"
+        "research_I3-s44",
+        "research_I4-s83"
       ]
     },
     {
@@ -50419,7 +51290,10 @@ window.PELELEC_DATA = {
         "research_A2-s37",
         "research_I3-s46",
         "research_I3-s47",
-        "research_I3-s48"
+        "research_I3-s48",
+        "research_I4-s7",
+        "research_I4-s54",
+        "research_I4-s61"
       ]
     },
     {
@@ -50430,7 +51304,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_B2-s28",
         "research_E-s30",
-        "research_I3-s49"
+        "research_I3-s49",
+        "research_I4-s50"
       ]
     },
     {
@@ -50443,7 +51318,8 @@ window.PELELEC_DATA = {
         "research_A2-s30",
         "research_I3-s52",
         "research_I3-s53",
-        "research_I3-s54"
+        "research_I3-s54",
+        "research_I4-s84"
       ]
     },
     {
@@ -50456,7 +51332,8 @@ window.PELELEC_DATA = {
         "research_B1-s16",
         "research_B2-s12",
         "research_B2-s13",
-        "research_I3-s56"
+        "research_I3-s56",
+        "research_I4-s85"
       ]
     },
     {
@@ -50477,7 +51354,10 @@ window.PELELEC_DATA = {
       "title": "Primeiro encontro pela garagem",
       "text": "Vorcaro e Fábio Faria vão a uma reunião num prédio, com entrada pela garagem. Faria depois relata em áudio a boa impressão do anfitrião, que a PF não identifica.",
       "sources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I4-s11",
+        "research_I4-s57",
+        "research_I4-s87"
       ]
     },
     {
@@ -50486,7 +51366,9 @@ window.PELELEC_DATA = {
       "title": "A minuta do contrato Barci de Moraes",
       "text": "Viviane Barci de Moraes manda a Vorcaro a minuta do contrato do escritório com o Master. Nos metadados, o último a editar é o usuário “Ministro Alexandre de Moraes”.",
       "sources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I4-s14",
+        "research_I4-s86"
       ]
     },
     {
@@ -50496,7 +51378,9 @@ window.PELELEC_DATA = {
       "text": "Contrato Master × Barci de Moraes: 36 parcelas de R$ 3 milhões líquidos, cerca de R$ 108 milhões líquidos ou R$ 131,3 milhões brutos.",
       "sources": [
         "research_A1-s1",
-        "research_A1-s2"
+        "research_A1-s2",
+        "research_I4-s11",
+        "research_I4-s87"
       ]
     },
     {
@@ -50505,7 +51389,10 @@ window.PELELEC_DATA = {
       "title": "“O careca não pode atrasar”",
       "text": "Fábio Faria cobra o pagamento; Vorcaro manda pagar a parcela no mesmo dia, antes da nota fiscal.",
       "sources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I4-s1",
+        "research_I4-s12",
+        "research_I4-s88"
       ]
     },
     {
@@ -50525,7 +51412,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_A1-s1",
         "research_A1-s2",
-        "research_A1-s15"
+        "research_A1-s15",
+        "research_I4-s13",
+        "research_I4-s89"
       ]
     },
     {
@@ -50534,7 +51423,8 @@ window.PELELEC_DATA = {
       "title": "“Nao deixe de atender barci”",
       "text": "Vorcaro orienta a equipe de aviação sobre um voo “da Barci” no jato PP-NLR marcado para 22/08/2025.",
       "sources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I4-s15"
       ]
     },
     {
@@ -50543,7 +51433,8 @@ window.PELELEC_DATA = {
       "title": "“Dívida de vida”",
       "text": "Depois de um encontro marcado para as 14h30, Vorcaro envia ao contato a nota que fala em “divida de vida contigo e com sua familia”.",
       "sources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_I4-s58"
       ]
     },
     {
@@ -50593,7 +51484,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_I1-s25",
         "research_I3-s68",
-        "research_I3-s69"
+        "research_I3-s69",
+        "research_I4-s90"
       ]
     },
     {
@@ -50620,7 +51512,9 @@ window.PELELEC_DATA = {
         "research_I2-s29",
         "research_I3-s71",
         "research_I3-s72",
-        "research_I3-s73"
+        "research_I3-s73",
+        "research_I4-s3",
+        "research_I4-s18"
       ]
     },
     {
@@ -50630,7 +51524,8 @@ window.PELELEC_DATA = {
       "text": "Gilmar Mendes propõe levar ao plenário o caso das indenizações a usinas. Camilla Ramos confirma visitas a Vorcaro na prisão e nega ligação com Nunes Marques, que confirma uma viagem a Maceió como convite pessoal.",
       "sources": [
         "research_I1-s16",
-        "research_I1-s17"
+        "research_I1-s17",
+        "research_I4-s24"
       ]
     },
     {
@@ -50655,7 +51550,8 @@ window.PELELEC_DATA = {
         "research_I1-s21",
         "research_I1-s22",
         "research_I2-s26",
-        "research_I3-s51"
+        "research_I3-s51",
+        "research_I4-s94"
       ]
     },
     {
@@ -50667,7 +51563,9 @@ window.PELELEC_DATA = {
         "research_I1-s7",
         "research_I1-s6",
         "research_I1-s9",
-        "research_I3-s78"
+        "research_I3-s78",
+        "research_I4-s18",
+        "research_I4-s52"
       ]
     },
     {
@@ -50678,7 +51576,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_I1-s11",
         "research_I1-s12",
-        "research_I3-s79"
+        "research_I3-s79",
+        "research_I4-s93"
       ]
     },
     {
@@ -50691,7 +51590,8 @@ window.PELELEC_DATA = {
         "research_I3-s81",
         "research_I3-s82",
         "research_I3-s83",
-        "research_I3-s84"
+        "research_I3-s84",
+        "research_I4-s92"
       ]
     },
     {
@@ -50703,7 +51603,9 @@ window.PELELEC_DATA = {
         "research_I1-s23",
         "research_I1-s24",
         "research_I3-s85",
-        "research_I3-s86"
+        "research_I3-s86",
+        "research_I4-s55",
+        "research_I4-s98"
       ]
     },
     {
@@ -50738,7 +51640,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_I2-s24",
         "research_I2-s23",
-        "research_I3-s91"
+        "research_I3-s91",
+        "research_I4-s20"
       ]
     },
     {
@@ -50752,7 +51655,8 @@ window.PELELEC_DATA = {
         "research_I3-s92",
         "research_I3-s93",
         "research_I3-s94",
-        "research_I3-s95"
+        "research_I3-s95",
+        "research_I4-s95"
       ]
     },
     {
@@ -50786,7 +51690,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_I2-s6",
         "research_I2-s7",
-        "research_I3-s103"
+        "research_I3-s103",
+        "research_I4-s19",
+        "research_I4-s91"
       ]
     },
     {
@@ -50800,7 +51706,9 @@ window.PELELEC_DATA = {
         "research_I3-s104",
         "research_I3-s105",
         "research_I3-s106",
-        "research_I3-s107"
+        "research_I3-s107",
+        "research_I4-s16",
+        "research_I4-s17"
       ]
     }
   ],
@@ -51470,6 +52378,276 @@ window.PELELEC_DATA = {
       "date": "2026-09-04",
       "kind": "reportagem",
       "author": "Congresso em Foco"
+    },
+    {
+      "id": "research_I4-s9",
+      "outlet": "Gazeta do Povo",
+      "title": "Por que a PGR e a PF desistiram da delação de Daniel Vorcaro?",
+      "url": "https://www.gazetadopovo.com.br/republica/por-que-a-pgr-e-a-pf-desistiram-da-delacao-de-daniel-vorcaro/",
+      "date": "2026-07-16",
+      "kind": "reportagem",
+      "author": "Gazeta do Povo Lab"
+    },
+    {
+      "id": "research_I4-s21",
+      "outlet": "Gazeta do Povo",
+      "title": "Novo pede que Mendonça afaste Andrei Rodrigues por suspeitas de interferência no caso Master",
+      "url": "https://www.gazetadopovo.com.br/republica/novo-pede-que-mendonca-afaste-andrei-rodrigues-por-suspeitas-de-interferencia-no-caso-master/",
+      "date": "2026-09-03",
+      "kind": "reportagem",
+      "author": "Vinicius Macia"
+    },
+    {
+      "id": "research_I4-s22",
+      "outlet": "Gazeta do Povo",
+      "title": "Felipe Vorcaro cobra que Mendonça reveja prisão após Fachin negar ser o relator",
+      "url": "https://www.gazetadopovo.com.br/republica/felipe-vorcaro-pede-revogacao-de-prisao-a-mendonca-apos-fachin-negar-ser-o-relator/",
+      "date": "2026-09-23",
+      "kind": "reportagem",
+      "author": "Vinicius Macia"
+    },
+    {
+      "id": "research_I4-s26",
+      "outlet": "Gazeta do Povo",
+      "title": "Polícia Federal adia depoimento de Daniel Vorcaro para 24 de setembro",
+      "url": "https://www.gazetadopovo.com.br/republica/policia-federal-adia-depoimento-de-daniel-vorcaro-para-24-de-setembro/",
+      "date": "2026-09-15",
+      "kind": "reportagem",
+      "author": "Bruno Maffi"
+    },
+    {
+      "id": "research_I4-s35",
+      "outlet": "Gazeta do Povo",
+      "title": "PGR rejeita tentativa de delação premiada do ex-presidente do BRB",
+      "url": "https://www.gazetadopovo.com.br/economia/pgr-rejeita-tentativa-de-delacao-premiada-do-ex-presidente-do-brb/",
+      "date": "2026-06-25",
+      "kind": "reportagem",
+      "author": "Hermano Freitas"
+    },
+    {
+      "id": "research_I4-s45",
+      "outlet": "Gazeta do Povo",
+      "title": "A outra “turma” de Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/daniel-vorcaro-uisque-moraes-toffoli-gonet/",
+      "date": "2026-03-11",
+      "kind": "opinião",
+      "author": "Marcio Antonio Campos"
+    },
+    {
+      "id": "research_I4-s49",
+      "outlet": "Gazeta do Povo",
+      "title": "Dark Horse não possui dinheiro público e valores são rastreáveis, aponta perícia",
+      "url": "https://www.gazetadopovo.com.br/republica/dark-horse-nao-possui-dinheiro-publico-e-valores-sao-rastreaveis-aponta-pericia/",
+      "date": "2026-09-14",
+      "kind": "reportagem",
+      "author": "Vinicius Macia"
+    },
+    {
+      "id": "research_I4-s51",
+      "outlet": "Gazeta do Povo",
+      "title": "PGR atende à PF para investigar propostas de Flávio e Frias no Congresso de interesse do Master",
+      "url": "https://www.gazetadopovo.com.br/republica/pgr-atende-pf-investigar-propostas-flavio-frias-congresso-interesse-master/",
+      "date": "2026-09-11",
+      "kind": "reportagem",
+      "author": "Guilherme Grandi"
+    },
+    {
+      "id": "research_I4-s99",
+      "outlet": "Revista Oeste",
+      "title": "Moraes conheceu presidente do BRB em encontro reservado na mansão de Vorcaro",
+      "url": "https://revistaoeste.com/politica/jornal-revela-encontros-sigilosos-entre-moraes-e-vorcaro-dono-do-banco-master/",
+      "date": "2026-01-27",
+      "kind": "reportagem",
+      "author": "Diógenes Feitosa"
+    },
+    {
+      "id": "research_I4-s100",
+      "outlet": "Revista Oeste",
+      "title": "Antes de ser preso, Vorcaro pediu a Moraes para interceder junto ao diretor-geral da PF",
+      "url": "https://revistaoeste.com/no-ponto/antes-de-ser-preso-vorcaro-pediu-a-moraes-atuacao-junto-ao-diretor-geral-da-pf/",
+      "date": "2026-09-01",
+      "kind": "reportagem",
+      "author": "Cristyan Costa"
+    },
+    {
+      "id": "research_I4-s101",
+      "outlet": "Revista Oeste",
+      "title": "Master patrocinou ida de diretor da PF a Londres",
+      "url": "https://revistaoeste.com/politica/master-patrocinou-ida-de-diretor-da-pf-a-londres/",
+      "date": "2026-02-14",
+      "kind": "reportagem",
+      "author": "Isabela Jordão"
+    },
+    {
+      "id": "research_I4-s102",
+      "outlet": "Revista Oeste",
+      "title": "Master pagou as contas de diretor da PF em Londres",
+      "url": "https://revistaoeste.com/politica/master-pagou-as-contas-de-diretor-da-pf-em-londres/",
+      "date": "2026-04-08",
+      "kind": "reportagem",
+      "author": "Erich Mafra"
+    },
+    {
+      "id": "research_I4-s103",
+      "outlet": "Revista Oeste",
+      "title": "Relatório demonstra pagamentos de Vorcaro a jornalista e tentativa de acordo com site de esquerda",
+      "url": "https://revistaoeste.com/imprensa/relatorio-demonstra-pagamentos-de-vorcaro-a-jornalista-e-tentativa-de-acordo-com-site-de-esquerda/",
+      "date": "2026-03-05",
+      "kind": "reportagem",
+      "author": "Yasmin Alencar"
+    },
+    {
+      "id": "research_I4-s104",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro ameaçou colocar site no Inquérito das Fake News",
+      "url": "https://revistaoeste.com/politica/vorcaro-ameacou-colocar-site-no-inquerito-das-fake-news/",
+      "date": "2026-03-05",
+      "kind": "reportagem",
+      "author": "Luis Batistela"
+    },
+    {
+      "id": "research_I4-s105",
+      "outlet": "Revista Oeste",
+      "title": "Dark Horse: empresa que repassou pagamento de Vorcaro recebeu R$ 160 mi de fundos investigados",
+      "url": "https://revistaoeste.com/politica/emdark-horse-em-empresa-que-repassou-pagamento-de-vorcaro-recebeu-r-160-mi-de-fundos-investigados/",
+      "date": "2026-05-14",
+      "kind": "reportagem",
+      "author": "Redação Oeste"
+    },
+    {
+      "id": "research_I4-s106",
+      "outlet": "Revista Oeste",
+      "title": "Ex-presidente do BRB articulou entrada do Master via empresários, revela auditoria",
+      "url": "https://revistaoeste.com/economia/ex-presidente-do-brb-articulou-entrada-do-banco-master-via-empresarios-revela-auditoria/",
+      "date": "2026-04-25",
+      "kind": "reportagem",
+      "author": "Yasmin Alencar"
+    },
+    {
+      "id": "research_I4-s107",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro elogiou Lauro Jardim em evento do Grupo Globo",
+      "url": "https://revistaoeste.com/imprensa/vorcaro-elogiou-lauro-jardim-em-evento-do-grupo-globo/",
+      "date": "2026-03-11",
+      "kind": "reportagem",
+      "author": "Vanessa Araujo"
+    },
+    {
+      "id": "research_I4-s108",
+      "outlet": "Revista Oeste",
+      "title": "Messias elogia Fachin por derrubar sigilo do caso Master: ‘Publicidade é a regra’",
+      "url": "https://revistaoeste.com/politica/messias-elogia-fachin-por-derrubar-sigilo-do-caso-master-publicidade-e-a-regra/",
+      "date": "2026-09-11",
+      "kind": "reportagem",
+      "author": "Fábio Matos"
+    },
+    {
+      "id": "research_I4-s109",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro reservou mansão de R$ 250 milhões para Nunes Marques, diz site",
+      "url": "https://revistaoeste.com/politica/vorcaro-reservou-mansao-de-r-250-milhoes-para-nunes-marques-diz-site/",
+      "date": "2026-09-18",
+      "kind": "reportagem",
+      "author": "Fábio Bouéri"
+    },
+    {
+      "id": "research_I4-s110",
+      "outlet": "Revista Oeste",
+      "title": "Sem material contra Mendonça, ministros devem mirar Nunes Marques",
+      "url": "https://revistaoeste.com/no-ponto/sem-material-contra-mendonca-ministros-devem-mirar-nunes-marques/",
+      "date": "2026-09-22",
+      "kind": "reportagem",
+      "author": "Edilson Salgueiro"
+    },
+    {
+      "id": "research_I4-s111",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro discutiu ‘estratégia de guerra’ com Ibaneis",
+      "url": "https://revistaoeste.com/politica/vorcaro-discutiu-estrategia-de-guerra-com-ibaneis/",
+      "date": "2026-03-06",
+      "kind": "reportagem",
+      "author": "Vanessa Araujo"
+    },
+    {
+      "id": "research_I4-s112",
+      "outlet": "Revista Oeste",
+      "title": "Mendonça cita casos de Eduardo Cunha e Ibaneis como precedentes em afastamento de Andrei",
+      "url": "https://revistaoeste.com/politica/mendonca-cita-casos-de-eduardo-cunha-e-ibaneis-como-precedentes/",
+      "date": "2026-09-08",
+      "kind": "reportagem",
+      "author": "Fábio Matos"
+    },
+    {
+      "id": "research_I4-s113",
+      "outlet": "Revista Oeste",
+      "title": "Novo apresenta notícia-crime contra Moraes por caso Vorcaro",
+      "url": "https://revistaoeste.com/politica/novo-apresenta-noticia-crime-contra-moraes-por-caso-vorcaro/",
+      "date": "2026-09-01",
+      "kind": "reportagem",
+      "author": "Victória Batalha"
+    },
+    {
+      "id": "research_I4-s114",
+      "outlet": "Revista Oeste",
+      "title": "Moraes nega voos em jatinhos ligados a Daniel Vorcaro",
+      "url": "https://revistaoeste.com/politica/moraes-nega-voos-em-jatinhos-ligados-a-daniel-vorcaro/",
+      "date": "2026-04-01",
+      "kind": "reportagem",
+      "author": "Luis Batistela"
+    },
+    {
+      "id": "research_I4-s115",
+      "outlet": "Revista Oeste",
+      "title": "Grupo de WhatsApp de Vorcaro era usado para definir fraudes no BRB, diz PF",
+      "url": "https://revistaoeste.com/politica/grupo-de-whatsapp-de-vorcaro-era-usado-para-definir-fraudes-no-brb-diz-pf/",
+      "date": "2026-05-26",
+      "kind": "reportagem",
+      "author": "Isabela Jordão"
+    },
+    {
+      "id": "research_I4-s116",
+      "outlet": "Revista Oeste",
+      "title": "Plano de fuga fez Vorcaro simular venda do Master, sugere investigação",
+      "url": "https://revistaoeste.com/economia/plano-de-fuga-fez-vorcaro-simular-venda-do-master-sugere-investigacao/",
+      "date": "2025-11-18",
+      "kind": "reportagem",
+      "author": "Fábio Bouéri"
+    },
+    {
+      "id": "research_I4-s117",
+      "outlet": "Revista Oeste",
+      "title": "Mendonça diz que chamou delegados da PF porque Vorcaro citou Andrei e Gonet",
+      "url": "https://revistaoeste.com/politica/andre-mendonca-justifica-reuniao-com-delegados-da-pf/",
+      "date": "2026-09-15",
+      "kind": "reportagem",
+      "author": "Cristyan Costa"
+    },
+    {
+      "id": "research_I4-s118",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro recebe mensagem de Doria, que diz estar ‘preocupado’ e sugere ‘reação’",
+      "url": "https://revistaoeste.com/sem-categoria/vorcaro-recebe-mensagem-de-doria-que-diz-estar-preocupado-e-sugere-reacao/",
+      "date": "2026-03-05",
+      "kind": "reportagem",
+      "author": "Yasmin Alencar"
+    },
+    {
+      "id": "research_I4-s119",
+      "outlet": "Revista Oeste",
+      "title": "Dono do Master usa mansão de quase R$ 40 mi para fazer articulações políticas",
+      "url": "https://revistaoeste.com/politica/dono-do-master-usa-mansao-de-quase-r-40-mi-para-fazer-articulacoes-politicas/",
+      "date": "2025-05-02",
+      "kind": "reportagem",
+      "author": "Redação Oeste"
+    },
+    {
+      "id": "research_I4-s120",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro e Pandora",
+      "url": "https://revistaoeste.com/revista/edicao-304/vorcaro-e-pandora/",
+      "date": "2026-01-09",
+      "kind": "opinião",
+      "author": "Alexandre Garcia"
     }
   ]
 };
