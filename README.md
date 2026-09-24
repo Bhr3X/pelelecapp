@@ -18,6 +18,8 @@ Abrir http://127.0.0.1:4174
 
 ## Verificar
 
-`node --test tests/editorial.cjs`
+`node --test tests/editorial.cjs tests/expanded.cjs tests/i18n.cjs tests/threads.cjs`
+
+[Threads](threads.html): o caso na imprensa, dia a dia ([como funciona](docs/threads.md)).
 
 [Auditoria e fontes](docs/auditoria.md). O dossiê recebido foi indexado; 26 cartões foram incorporados após consulta às fontes. [Cobertura e limites](docs/incorporacao-dossie.md). A verificação integral dos demais registros e licenças das fotos compartilhadas permanece pendente. A licença MIT do código não substitui as licenças próprias das fotografias.
