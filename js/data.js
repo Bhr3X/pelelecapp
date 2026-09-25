@@ -52146,7 +52146,7 @@ window.PELELEC_DATA = {
       "id": "t83",
       "date": "2026-09-23",
       "title": "Flávio Bolsonaro no jato PP-NLR",
-      "text": "A revista Piauí, citada por Poder360 e CNN Brasil, informa que Flávio Bolsonaro voou de Fort Lauderdale a Brasília em 19/01/2025 no jato PP-NLR, do qual Vorcaro tinha cotas por meio da Prime You. O advogado Willer Tomaz, dono de uma das cotas, diz que dava caronas “sem qualquer custo, contrapartida ou benefício de parte a parte” e que não conhece Vorcaro. Flávio não respondeu aos pedidos de comentário.",
+      "text": "A revista Piauí, citada por Poder360 e CNN Brasil, informa que Flávio Bolsonaro voou de Fort Lauderdale a Brasília em 19/01/2025 no jato PP-NLR, do qual Vorcaro tinha cotas por meio da Prime You. O advogado Willer Tomaz, dono de uma das cotas, diz que dava caronas “sem qualquer custo, contrapartida ou benefício de parte a parte” e que não conhece Vorcaro. Em 24/09, Flávio escreveu no X: “Ainda bem que na época o avião era de Willer. Imagina se fosse agora, eu teria viajado no avião de Alexandre de Moraes”.",
       "sources": [
         "research_R20260924-09-s9",
         "research_R20260924-09-s10",
@@ -52208,7 +52208,7 @@ window.PELELEC_DATA = {
       "id": "t88",
       "date": "2026-09-25",
       "title": "Conselho do MPF julga a atuação de Gonet",
-      "text": "O Conselho Superior do MPF analisa representação de deputados do Novo sobre a atuação de Paulo Gonet no caso Master. O relator, Francisco Sanseverino, vota contra abrir investigação e contra declarar Gonet impedido; na última atualização consultada, o placar era de 2 a 2 sobre a apuração preliminar e de 4 a 0 contra o afastamento. Gonet, que não vota, diz que a única ligação com Vorcaro foi “brevíssima e banal”.",
+      "text": "O Conselho Superior do MPF analisa representação de deputados do Novo sobre a atuação de Paulo Gonet no caso Master. O relator, Francisco Sanseverino, vota contra abrir investigação e contra declarar Gonet impedido; o julgamento não havia terminado até esta atualização. Gonet, que não vota, diz que a única ligação com Vorcaro foi “brevíssima e banal”.",
       "sources": [
         "research_R20260925-15-s18",
         "research_R20260925-15-s19",
