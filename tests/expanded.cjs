@@ -1,7 +1,7 @@
 const {test}=require('node:test');const assert=require('node:assert/strict');const fs=require('fs');const vm=require('vm');
 const ctx={window:{},document:{addEventListener(){}}};vm.createContext(ctx);for(const f of ['data','forensic','app'])vm.runInContext(fs.readFileSync(`js/${f}.js`,'utf8'),ctx);const d=ctx.window.PELELEC_DATA;
 test('all eligible supplied records are preserved with sources and verification',()=>{
- const input=JSON.parse(fs.readFileSync('data/research-snapshot.json'));const records=d.contacts.flatMap(c=>c.messages).filter(m=>m.researchId);const extra=JSON.parse(fs.readFileSync('data/additional-records.json'));assert.equal(records.length,1145+extra.records.length);
+ const input=JSON.parse(fs.readFileSync('data/research-snapshot.json'));const records=d.contacts.flatMap(c=>c.messages).filter(m=>m.researchId);const extra=JSON.parse(fs.readFileSync('data/additional-records.json'));assert.equal(records.length,1163+extra.records.length);
  for(const chat of input.chats)for(const original of chat.messages){const m=records.find(m=>m.researchId===original.id);assert(m,original.id);assert.equal(m.text,original.text);assert.deepEqual(Array.from(m.sources),original.src.map(id=>'research_'+id));assert(m.verification);assert(!m.time||original.p==='minute');assert.notEqual(m.confidence,'low');}
 });
 test('third-party and group attribution does not create false direct chats',()=>{
