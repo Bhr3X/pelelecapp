@@ -3725,7 +3725,7 @@ window.PELELEC_DATA = {
             "research_G-s10"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -11460,7 +11460,7 @@ window.PELELEC_DATA = {
             "research_B1-s7"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -13861,7 +13861,7 @@ window.PELELEC_DATA = {
             "research_H-s31"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -15416,7 +15416,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/alfaiataria.webp",
             "alt": "Foto que, segundo a reportagem, mostra Ciro com André Mendonça numa alfaiataria.",
             "credit": "Reprodução — ICL Notícias / Paulo Motoryn",
-            "verifiedOn": "2026-09-29",
+            "verifiedOn": "2026-09-30",
             "originalUrl": "https://iclnoticias.com.br/app/uploads/2026/09/WhatsApp-Image-2026-09-02-at-07.50.26.webp"
           },
           "mediaLink": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/",
@@ -15500,7 +15500,7 @@ window.PELELEC_DATA = {
             "research_A2-s24"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -16035,7 +16035,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/selfie.jpg",
             "alt": "Foto (selfie) de Ciro Soares com Paulo Gonet, segundo a PF.",
             "credit": "Polícia Federal — 1º.set.2026 / Poder360",
-            "verifiedOn": "2026-09-29",
+            "verifiedOn": "2026-09-30",
             "originalUrl": "https://static.poder360.com.br/uploads/2026/09/gonet-advogado-soares-reproducao-848x477.jpg"
           },
           "mediaLink": "https://www.poder360.com.br/poder-justica/advogado-do-master-tirou-selfie-com-gonet-e-enviou-a-vorcaro/",
@@ -16996,7 +16996,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/londres.jpg",
             "alt": "Envia a foto do encontro de abril de 2024 em Londres (Gonet com charuto, ao lado de Vorcaro) com legenda que atribui o envio a 'PG'.",
             "credit": "Reprodução — Metrópoles",
-            "verifiedOn": "2026-09-29",
+            "verifiedOn": "2026-09-30",
             "originalUrl": "https://images.metroimg.com/2026/09/vorcaro-e-gonet.jpg"
           },
           "mediaLink": "https://www.metropoles.com/brasil/foto-tirada-em-londres-mostra-gonet-com-vorcaro-fumando-charuto",
@@ -17284,7 +17284,7 @@ window.PELELEC_DATA = {
             "research_A2-s28"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -17459,7 +17459,9 @@ window.PELELEC_DATA = {
         "research_B1-s55",
         "research_B2-s65",
         "research_E-s25",
-        "research_H-s61"
+        "research_H-s61",
+        "research_R20260930-18-s4",
+        "research_R20260930-18-s5"
       ],
       "source": {
         "title": "Relatório e manifestação de Fábio Faria",
@@ -22166,6 +22168,14 @@ window.PELELEC_DATA = {
           "text": "O Tempo tentou contato. Até a publicação de 01/09/2026, Fábio Faria não havia respondido.",
           "sources": [
             "research_H-s61"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "O UOL registrou em 30/09 que Fábio Faria foi procurado e preferiu não comentar as conversas do grupo. A Gazeta do Povo informou posteriormente que não encontrou a defesa do ex-ministro.",
+          "sources": [
+            "research_R20260930-18-s4",
+            "research_R20260930-18-s5"
           ]
         }
       ],
@@ -40112,7 +40122,7 @@ window.PELELEC_DATA = {
             "research_H-s40"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -43761,7 +43771,7 @@ window.PELELEC_DATA = {
             "research_G-s10"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -45333,7 +45343,9 @@ window.PELELEC_DATA = {
         "research_R20260929-23-s8",
         "research_R20260929-23-s9",
         "research_R20260929-23-s11",
-        "research_R20260929-23-s15"
+        "research_R20260929-23-s15",
+        "research_R20260930-18-s4",
+        "research_R20260930-18-s5"
       ],
       "outroLado": [
         {
@@ -45367,6 +45379,14 @@ window.PELELEC_DATA = {
             "research_R20260929-23-s9",
             "research_R20260929-23-s11",
             "research_R20260929-23-s15"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Sobre as conversas do grupo publicadas em 30/09, a assessoria disse à Gazeta do Povo que o deputado não vai se pronunciar; o UOL registrou que os três políticos procurados preferiram não comentar.",
+          "sources": [
+            "research_R20260930-18-s4",
+            "research_R20260930-18-s5"
           ]
         }
       ],
@@ -45700,7 +45720,7 @@ window.PELELEC_DATA = {
             "research_R20260929-23-s15"
           ],
           "researchRefs": [],
-          "title": "Áudio · transcrição publicada",
+          "title": "Áudio · relato publicado",
           "verification": {
             "status": "nao_registrada",
             "found_in": [],
@@ -46457,6 +46477,481 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "luciano_huck",
+      "name": "Luciano Huck",
+      "role": "Apresentador de televisão",
+      "category": "turma",
+      "avatarInitials": "LH",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Mensagens publicadas pela VEJA em 30/09/2026 sobre contatos com Vorcaro e o patrocínio do Will Bank ao Domingão com Huck.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20260930-18-s2"
+      ],
+      "outroLado": [
+        {
+          "name": "Luciano Huck",
+          "text": "Em nota de 30/09, Huck afirma que a interação tratou da captação e gestão do patrocínio do Will Bank; nega sociedade com Vorcaro e diz que houve contrato, notas, impostos e serviços prestados. Afirma que os contratos foram rescindidos antes da intervenção do Banco Central.",
+          "sources": [
+            "research_R20260930-18-s2"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Luciano Huck"
+      ],
+      "source": {
+        "outlet": "VEJA",
+        "date": "2026-09-30",
+        "headline": "Mensagens da PF revelam que Luciano Huck foi amigo e conselheiro de Daniel Vorcaro",
+        "link": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-que-luciano-huck-foi-amigo-e-conselheiro-de-daniel-vorcaro/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026093018-m1",
+          "researchId": "R2026093018-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-11-05",
+          "dateLabel": "2023-11-05",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luciano Huck",
+          "text": "Bom te encontrar pessoalmente hoje. Nos devemos um papo. Abração",
+          "sources": [
+            "research_R20260930-18-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s1"
+            ],
+            "checked": [
+              "R20260930-18-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Texto literal e data de 5/11/2023 explícitos no corpo da VEJA. A reportagem afirma que as mensagens não revelam ilegalidades; Huck contesta sociedade e atribui a relação ao patrocínio do Will Bank.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026093018-m2",
+          "researchId": "R2026093018-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-11-05",
+          "dateLabel": "2023-11-05",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Fala, amigo. Bom demais te ver. Foi bacana hoje",
+          "sources": [
+            "research_R20260930-18-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s1"
+            ],
+            "checked": [
+              "R20260930-18-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta publicada pela VEJA na sequência explicitamente datada de 5/11/2023. Apenas um trecho curto da troca foi selecionado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "iraja",
+      "name": "Irajá",
+      "role": "Senador (PSD-TO), relator do PL 2.234/2022",
+      "category": "politica",
+      "avatarInitials": "I",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Conversas com Vorcaro divulgadas em 30/09/2026 por Lauro Jardim/O Globo e confirmadas pelo UOL.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20260930-18-s3"
+      ],
+      "outroLado": [
+        {
+          "name": "Irajá",
+          "text": "O gabinete afirma que o único assunto entre as partes foi o PL 2.234/2022, sobre resorts integrados e cassinos. Diz que a articulação de apoio é própria da relatoria e foi feita com diversos setores.",
+          "sources": [
+            "research_R20260930-18-s3"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Irajá"
+      ],
+      "source": {
+        "outlet": "UOL",
+        "date": "2026-09-30",
+        "headline": "'Cadê nossas norueguesas?': as mensagens do senador do PSD-TO para Vorcaro",
+        "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+      },
+      "messages": [
+        {
+          "id": "r-R2026093018-m3",
+          "researchId": "R2026093018-m3",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-04-17",
+          "dateLabel": "2025-04-17",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Estamos num momento bem complicado aqui",
+          "sources": [
+            "research_R20260930-18-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s3"
+            ],
+            "checked": [
+              "R20260930-18-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "O UOL explicita que esta troca ocorreu em 17/4/2025. O trecho íntimo do início da matéria foi omitido. A resposta do gabinete relaciona a interlocução ao PL 2.234/2022.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026093018-m4",
+          "researchId": "R2026093018-m4",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-04-17",
+          "dateLabel": "2025-04-17",
+          "time": "",
+          "sender": "them",
+          "speaker": "Irajá",
+          "text": "Compreendo e estou a disposição p ajudar inclusive",
+          "sources": [
+            "research_R20260930-18-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s3"
+            ],
+            "checked": [
+              "R20260930-18-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta publicada imediatamente após a mensagem de Vorcaro datada de 17/4/2025. Grafia e abreviação mantidas; a matéria segue com referência ao PL de jogos.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "grupo_ciro_daniel_fabio_hugo",
+      "name": "Grupo “Ciro Daniel Fábio Hugo”",
+      "role": "Conversa documentada",
+      "category": "politica",
+      "avatarInitials": "G“",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Nome do grupo publicado pelo UOL e confirmado pela Gazeta do Povo em 30/09/2026. As mensagens selecionadas pertencem a 28/08/2025; sem fabricação de chamadas, exclusões ou recibos.",
+      "originalContext": true,
+      "responseSources": [
+        "research_B2-s44",
+        "research_B2-s45",
+        "research_B2-s36",
+        "research_B2-s40",
+        "research_B2-s37",
+        "research_H-s45",
+        "research_R20260930-18-s4",
+        "research_R20260930-18-s5",
+        "research_B1-s54",
+        "research_B1-s55",
+        "research_B2-s65",
+        "research_E-s25",
+        "research_H-s61",
+        "research_B2-s33",
+        "research_B2-s34",
+        "research_H-s68",
+        "research_R20260925-15-s8",
+        "research_R20260925-15-s9",
+        "research_R20260929-23-s8",
+        "research_R20260929-23-s9",
+        "research_R20260929-23-s11",
+        "research_R20260929-23-s15"
+      ],
+      "outroLado": [
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "A defesa rejeitou qualquer insinuação de ilegalidade e disse estar à disposição da Justiça.",
+          "sources": [
+            "research_B2-s44"
+          ]
+        },
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "A defesa afirmou que o senador não participou de atividades ilícitas nem dos fatos investigados.",
+          "sources": [
+            "research_B2-s45"
+          ]
+        },
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "Em março de 2026, disse estar tranquilo quanto às investigações e que trocar mensagens com muita gente não o torna próximo de todos.",
+          "sources": [
+            "research_B2-s36",
+            "research_B2-s40"
+          ]
+        },
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "Sobre a menção a \"Pagamento pra Ciro\" em mensagem de Fabiano Zettel, negou que se refira a ele.",
+          "sources": [
+            "research_B2-s37"
+          ]
+        },
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "A defesa repudia 'qualquer ilação de ilicitude' e contesta a força de provas baseadas em mensagens de terceiros.",
+          "sources": [
+            "research_H-s45"
+          ]
+        },
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "Sobre as conversas do grupo publicadas em 30/09, a assessoria disse à Gazeta do Povo que o senador não vai se pronunciar; o UOL registrou que os três políticos procurados preferiram não comentar.",
+          "sources": [
+            "research_R20260930-18-s4",
+            "research_R20260930-18-s5"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "Diz que só sugeriu o escritório Barci de Moraes para um caso na Justiça de SP e que não se reuniu com o escritório nem soube dos valores.",
+          "sources": [
+            "research_B1-s54"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "Confirma a negociação inicial da cota do avião, diz que a renegociou e que os R$ 15 milhões foram pagos por Pix.",
+          "sources": [
+            "research_B1-s55"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "A Aos Fatos não encontrou manifestação pública dele sobre as mensagens.",
+          "sources": [
+            "research_B2-s65"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "Nenhuma manifestação dele localizada nas reportagens consultadas.",
+          "sources": [
+            "research_E-s25"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "O Tempo tentou contato. Até a publicação de 01/09/2026, Fábio Faria não havia respondido.",
+          "sources": [
+            "research_H-s61"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "O UOL registrou em 30/09 que Fábio Faria foi procurado e preferiu não comentar as conversas do grupo. A Gazeta do Povo informou posteriormente que não encontrou a defesa do ex-ministro.",
+          "sources": [
+            "research_R20260930-18-s4",
+            "research_R20260930-18-s5"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "A assessoria informou que ele não se manifestaria; em outra reportagem, preferiu não comentar.",
+          "sources": [
+            "research_B2-s33",
+            "research_B2-s34"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Segundo o Estadão, citado pela Revista Oeste, disse que viajou 'de carona' no avião de Vorcaro e que o financiamento foi 'operação regular'.",
+          "sources": [
+            "research_H-s68"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Procurado pela CNN e pelo ICL (Folhapress) sobre as mensagens de 17/07/2025, não respondeu até a publicação.",
+          "sources": [
+            "research_R20260925-15-s8",
+            "research_R20260925-15-s9"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Em nota, diz que sempre dialogou com o empresariado, que não há ilícito nos diálogos publicados e que o empréstimo à empresa da cunhada foi feito quando não se conheciam as investigações sobre o Master.",
+          "sources": [
+            "research_R20260929-23-s8",
+            "research_R20260929-23-s9",
+            "research_R20260929-23-s11",
+            "research_R20260929-23-s15"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Sobre as conversas do grupo publicadas em 30/09, a assessoria disse à Gazeta do Povo que o deputado não vai se pronunciar; o UOL registrou que os três políticos procurados preferiram não comentar.",
+          "sources": [
+            "research_R20260930-18-s4",
+            "research_R20260930-18-s5"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": true,
+      "members": [
+        "Daniel Vorcaro",
+        "Ciro Nogueira Lima Filho",
+        "Fábio Faria",
+        "Hugo Motta"
+      ],
+      "source": {
+        "outlet": "UOL",
+        "date": "2026-09-30",
+        "headline": "Grupo de zap para organizar encontros reunia Vorcaro, Ciro, Motta e Faria",
+        "link": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.htm"
+      },
+      "messages": [
+        {
+          "id": "r-R2026093018-m5",
+          "researchId": "R2026093018-m5",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-28",
+          "dateLabel": "2025-08-28",
+          "time": "",
+          "sender": "them",
+          "speaker": "Ciro Nogueira Lima Filho",
+          "text": "Avisa quando tiverem indo hangar",
+          "sources": [
+            "research_R20260930-18-s4",
+            "research_R20260930-18-s5"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ],
+            "checked": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "O UOL e a Gazeta do Povo situam a troca em 28/8/2025. A data é explícita e a orientação ocorre no mesmo dia da notícia sobre a Operação Carbono Oculto; o destino da viagem não foi identificado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026093018-m6",
+          "researchId": "R2026093018-m6",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-28",
+          "dateLabel": "2025-08-28",
+          "time": "",
+          "sender": "them",
+          "speaker": "Fábio Faria",
+          "text": "To indo agora",
+          "sources": [
+            "research_R20260930-18-s4",
+            "research_R20260930-18-s5"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ],
+            "checked": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta atribuída a Fábio Faria na mesma troca de 28/8/2025; grafia mantida conforme os dois veículos. Não criar registros de chamada, exclusão ou leitura a partir da descrição do grupo.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -46466,10 +46961,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1297,
+      "totalMessagesRecovered": 1303,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 78
+      "sensitiveContactsIdentified": 81
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -53199,6 +53694,51 @@ window.PELELEC_DATA = {
       "author": "Gazeta do Povo Lab e Aline Rechmann",
       "kind": "análise"
     },
+    "research_R20260930-18-s1": {
+      "id": "research_R20260930-18-s1",
+      "outlet": "VEJA",
+      "title": "Mensagens da PF revelam que Luciano Huck foi amigo e conselheiro de Daniel Vorcaro",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-que-luciano-huck-foi-amigo-e-conselheiro-de-daniel-vorcaro/",
+      "date": "2026-09-30",
+      "author": "Robson Bonin",
+      "kind": "reportagem"
+    },
+    "research_R20260930-18-s2": {
+      "id": "research_R20260930-18-s2",
+      "outlet": "VEJA",
+      "title": "A versão de Luciano Huck para as mensagens trocadas com Daniel Vorcaro",
+      "url": "https://veja.abril.com.br/brasil/a-versao-de-luciano-huck-para-as-mensagens-trocadas-com-daniel-vorcaro/",
+      "date": "2026-09-30",
+      "author": "Robson Bonin",
+      "kind": "resposta pública"
+    },
+    "research_R20260930-18-s3": {
+      "id": "research_R20260930-18-s3",
+      "outlet": "UOL",
+      "title": "'Cadê nossas norueguesas?': as mensagens do senador do PSD-TO para Vorcaro",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm",
+      "date": "2026-09-30",
+      "author": "Do UOL, em São Paulo",
+      "kind": "reportagem"
+    },
+    "research_R20260930-18-s4": {
+      "id": "research_R20260930-18-s4",
+      "outlet": "UOL",
+      "title": "Grupo de zap para organizar encontros reunia Vorcaro, Ciro, Motta e Faria",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.htm",
+      "date": "2026-09-30",
+      "author": "Cézar Feitoza, Natália Portinari e Fabio Serapião",
+      "kind": "reportagem"
+    },
+    "research_R20260930-18-s5": {
+      "id": "research_R20260930-18-s5",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro tinha grupo com Motta, Ciro Nogueira e Fábio Faria para organizar encontros",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/",
+      "date": "2026-09-30",
+      "author": "Guilherme Grandi e Juliet Manfrin",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -53209,9 +53749,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-09-29",
-    "researchChats": 72,
-    "researchRecords": 1242,
+    "updated": "2026-09-30",
+    "researchChats": 75,
+    "researchRecords": 1248,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -54466,6 +55006,35 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20260929-23-s17",
         "research_R20260929-23-s18"
+      ]
+    },
+    {
+      "id": "t98",
+      "date": "2026-09-30",
+      "title": "Huck, Vorcaro e o patrocínio do Will Bank",
+      "text": "A VEJA publicou mensagens sobre contatos entre Luciano Huck e Vorcaro, incluindo o patrocínio do Will Bank ao programa do apresentador. O veículo ressalta que as mensagens não indicam ilegalidades. Huck atribui a interação ao patrocínio, nega sociedade com o banqueiro e afirma que os contratos foram encerrados antes da intervenção do Banco Central.",
+      "sources": [
+        "research_R20260930-18-s1",
+        "research_R20260930-18-s2"
+      ]
+    },
+    {
+      "id": "t99",
+      "date": "2026-09-30",
+      "title": "Irajá e a interlocução sobre o PL dos cassinos",
+      "text": "O UOL confirmou conversas entre Irajá e Vorcaro reveladas pela coluna de Lauro Jardim, incluindo pedidos do senador para discutir uma agenda. O gabinete afirma que o único assunto tratado foi o PL 2.234/2022 e que a articulação de apoio faz parte da relatoria. O material íntimo publicado na reportagem foi omitido do acervo.",
+      "sources": [
+        "research_R20260930-18-s3"
+      ]
+    },
+    {
+      "id": "t100",
+      "date": "2026-09-30",
+      "title": "O grupo de Ciro, Vorcaro, Faria e Motta",
+      "text": "O UOL revelou, e a Gazeta do Povo confirmou, um grupo usado por Vorcaro, Ciro Nogueira, Hugo Motta e Fábio Faria para combinar encontros e viagens. Segundo o UOL, os três políticos procurados preferiram não comentar; a Gazeta informou que Ciro e Motta não se pronunciariam, que não encontrou a defesa de Faria e que procurou a defesa de Vorcaro.",
+      "sources": [
+        "research_R20260930-18-s4",
+        "research_R20260930-18-s5"
       ]
     }
   ],

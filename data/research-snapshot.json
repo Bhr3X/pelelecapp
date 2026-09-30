@@ -1,15 +1,15 @@
 {
   "meta": {
-    "updated": "2026-09-29",
-    "generated": "2026-09-30T02:24:42.069Z",
+    "updated": "2026-09-30",
+    "generated": "2026-09-30T21:20:16.886Z",
     "counts": {
-      "chats": 72,
-      "messages": 1197,
+      "chats": 75,
+      "messages": 1203,
       "recovered": 61,
       "low": 0,
-      "contacts": 106,
-      "sources": 720,
-      "timeline": 97
+      "contacts": 108,
+      "sources": 725,
+      "timeline": 100
     }
   },
   "owner": {
@@ -283,6 +283,14 @@
           "src": [
             "H-s61"
           ]
+        },
+        {
+          "summary": "O UOL registrou em 30/09 que Fábio Faria foi procurado e preferiu não comentar as conversas do grupo. A Gazeta do Povo informou posteriormente que não encontrou a defesa do ex-ministro.",
+          "quote": null,
+          "src": [
+            "R20260930-18-s4",
+            "R20260930-18-s5"
+          ]
         }
       ],
       "src": [
@@ -295,7 +303,9 @@
         "E-s25",
         "A1-s3",
         "H-s61",
-        "H-s87"
+        "H-s87",
+        "R20260930-18-s4",
+        "R20260930-18-s5"
       ],
       "public": true,
       "approxMessages": null,
@@ -2454,6 +2464,14 @@
           "src": [
             "H-s45"
           ]
+        },
+        {
+          "summary": "Sobre as conversas do grupo publicadas em 30/09, a assessoria disse à Gazeta do Povo que o senador não vai se pronunciar; o UOL registrou que os três políticos procurados preferiram não comentar.",
+          "quote": null,
+          "src": [
+            "R20260930-18-s4",
+            "R20260930-18-s5"
+          ]
         }
       ],
       "src": [
@@ -2464,7 +2482,9 @@
         "B2-s32",
         "H-s11",
         "B2-s39",
-        "H-s45"
+        "H-s45",
+        "R20260930-18-s4",
+        "R20260930-18-s5"
       ],
       "public": true,
       "approxMessages": null,
@@ -2519,6 +2539,14 @@
             "R20260929-23-s11",
             "R20260929-23-s15"
           ]
+        },
+        {
+          "summary": "Sobre as conversas do grupo publicadas em 30/09, a assessoria disse à Gazeta do Povo que o deputado não vai se pronunciar; o UOL registrou que os três políticos procurados preferiram não comentar.",
+          "quote": null,
+          "src": [
+            "R20260930-18-s4",
+            "R20260930-18-s5"
+          ]
         }
       ],
       "src": [
@@ -2533,7 +2561,9 @@
         "R20260929-23-s8",
         "R20260929-23-s11",
         "R20260929-23-s12",
-        "R20260929-23-s15"
+        "R20260929-23-s15",
+        "R20260930-18-s4",
+        "R20260930-18-s5"
       ],
       "public": true,
       "approxMessages": null,
@@ -3792,6 +3822,55 @@
         "R20260929-23-s1",
         "R20260929-23-s2",
         "R20260929-23-s3"
+      ],
+      "public": true,
+      "approxMessages": null,
+      "period": null,
+      "group": "politica"
+    },
+    "luciano_huck": {
+      "id": "luciano_huck",
+      "name": "Luciano Huck",
+      "savedAs": null,
+      "role": "Apresentador de televisão",
+      "relation": "Mensagens publicadas pela VEJA em 30/09/2026 sobre contatos com Vorcaro e o patrocínio do Will Bank ao Domingão com Huck.",
+      "candidate2026": null,
+      "outroLado": [
+        {
+          "summary": "Em nota de 30/09, Huck afirma que a interação tratou da captação e gestão do patrocínio do Will Bank; nega sociedade com Vorcaro e diz que houve contrato, notas, impostos e serviços prestados. Afirma que os contratos foram rescindidos antes da intervenção do Banco Central.",
+          "quote": null,
+          "src": [
+            "R20260930-18-s2"
+          ]
+        }
+      ],
+      "src": [
+        "R20260930-18-s1",
+        "R20260930-18-s2"
+      ],
+      "public": true,
+      "approxMessages": null,
+      "period": null,
+      "group": "rede"
+    },
+    "iraja": {
+      "id": "iraja",
+      "name": "Irajá",
+      "savedAs": null,
+      "role": "Senador (PSD-TO), relator do PL 2.234/2022",
+      "relation": "Conversas com Vorcaro divulgadas em 30/09/2026 por Lauro Jardim/O Globo e confirmadas pelo UOL.",
+      "candidate2026": null,
+      "outroLado": [
+        {
+          "summary": "O gabinete afirma que o único assunto entre as partes foi o PL 2.234/2022, sobre resorts integrados e cassinos. Diz que a articulação de apoio é própria da relatoria e foi feita com diversos setores.",
+          "quote": null,
+          "src": [
+            "R20260930-18-s3"
+          ]
+        }
+      ],
+      "src": [
+        "R20260930-18-s3"
       ],
       "public": true,
       "approxMessages": null,
@@ -32021,6 +32100,186 @@
           }
         }
       ]
+    },
+    {
+      "id": "luciano_huck",
+      "title": null,
+      "members": [
+        "luciano_huck"
+      ],
+      "group": "rede",
+      "pinned": false,
+      "thirdParty": false,
+      "note": null,
+      "messages": [
+        {
+          "id": "R2026093018-m1",
+          "from": "luciano_huck",
+          "kind": "text",
+          "text": "Bom te encontrar pessoalmente hoje. Nos devemos um papo. Abração",
+          "ctx": "Texto literal e data de 5/11/2023 explícitos no corpo da VEJA. A reportagem afirma que as mensagens não revelam ilegalidades; Huck contesta sociedade e atribui a relação ao patrocínio do Will Bank.",
+          "conf": "medium",
+          "src": [
+            "R20260930-18-s1"
+          ],
+          "d": "2023-11-05",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s1"
+            ],
+            "checked": [
+              "R20260930-18-s1"
+            ]
+          }
+        },
+        {
+          "id": "R2026093018-m2",
+          "from": "vorcaro",
+          "kind": "text",
+          "text": "Fala, amigo. Bom demais te ver. Foi bacana hoje",
+          "ctx": "Resposta publicada pela VEJA na sequência explicitamente datada de 5/11/2023. Apenas um trecho curto da troca foi selecionado.",
+          "conf": "medium",
+          "src": [
+            "R20260930-18-s1"
+          ],
+          "d": "2023-11-05",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s1"
+            ],
+            "checked": [
+              "R20260930-18-s1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "iraja",
+      "title": null,
+      "members": [
+        "iraja"
+      ],
+      "group": "politica",
+      "pinned": false,
+      "thirdParty": false,
+      "note": null,
+      "messages": [
+        {
+          "id": "R2026093018-m3",
+          "from": "vorcaro",
+          "kind": "text",
+          "text": "Estamos num momento bem complicado aqui",
+          "ctx": "O UOL explicita que esta troca ocorreu em 17/4/2025. O trecho íntimo do início da matéria foi omitido. A resposta do gabinete relaciona a interlocução ao PL 2.234/2022.",
+          "conf": "medium",
+          "src": [
+            "R20260930-18-s3"
+          ],
+          "d": "2025-04-17",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s3"
+            ],
+            "checked": [
+              "R20260930-18-s3"
+            ]
+          }
+        },
+        {
+          "id": "R2026093018-m4",
+          "from": "iraja",
+          "kind": "text",
+          "text": "Compreendo e estou a disposição p ajudar inclusive",
+          "ctx": "Resposta publicada imediatamente após a mensagem de Vorcaro datada de 17/4/2025. Grafia e abreviação mantidas; a matéria segue com referência ao PL de jogos.",
+          "conf": "medium",
+          "src": [
+            "R20260930-18-s3"
+          ],
+          "d": "2025-04-17",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s3"
+            ],
+            "checked": [
+              "R20260930-18-s3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "grupo_ciro_daniel_fabio_hugo",
+      "title": "Grupo “Ciro Daniel Fábio Hugo”",
+      "members": [
+        "vorcaro",
+        "ciro",
+        "fabio_faria",
+        "hugo_motta"
+      ],
+      "group": "politica",
+      "pinned": false,
+      "thirdParty": false,
+      "note": "Nome do grupo publicado pelo UOL e confirmado pela Gazeta do Povo em 30/09/2026. As mensagens selecionadas pertencem a 28/08/2025; sem fabricação de chamadas, exclusões ou recibos.",
+      "messages": [
+        {
+          "id": "R2026093018-m5",
+          "from": "ciro",
+          "kind": "text",
+          "text": "Avisa quando tiverem indo hangar",
+          "ctx": "O UOL e a Gazeta do Povo situam a troca em 28/8/2025. A data é explícita e a orientação ocorre no mesmo dia da notícia sobre a Operação Carbono Oculto; o destino da viagem não foi identificado.",
+          "conf": "medium",
+          "src": [
+            "R20260930-18-s4",
+            "R20260930-18-s5"
+          ],
+          "d": "2025-08-28",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ],
+            "checked": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ]
+          }
+        },
+        {
+          "id": "R2026093018-m6",
+          "from": "fabio_faria",
+          "kind": "text",
+          "text": "To indo agora",
+          "ctx": "Resposta atribuída a Fábio Faria na mesma troca de 28/8/2025; grafia mantida conforme os dois veículos. Não criar registros de chamada, exclusão ou leitura a partir da descrição do grupo.",
+          "conf": "medium",
+          "src": [
+            "R20260930-18-s4",
+            "R20260930-18-s5"
+          ],
+          "d": "2025-08-28",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ],
+            "checked": [
+              "R20260930-18-s4",
+              "R20260930-18-s5"
+            ]
+          }
+        }
+      ]
     }
   ],
   "timeline": [
@@ -33489,6 +33748,46 @@
       "src": [
         "R20260929-23-s17",
         "R20260929-23-s18"
+      ]
+    },
+    {
+      "id": "t98",
+      "date": "2026-09-30",
+      "title": "Huck, Vorcaro e o patrocínio do Will Bank",
+      "text": "A VEJA publicou mensagens sobre contatos entre Luciano Huck e Vorcaro, incluindo o patrocínio do Will Bank ao programa do apresentador. O veículo ressalta que as mensagens não indicam ilegalidades. Huck atribui a interação ao patrocínio, nega sociedade com o banqueiro e afirma que os contratos foram encerrados antes da intervenção do Banco Central.",
+      "contacts": [
+        "luciano_huck"
+      ],
+      "src": [
+        "R20260930-18-s1",
+        "R20260930-18-s2"
+      ]
+    },
+    {
+      "id": "t99",
+      "date": "2026-09-30",
+      "title": "Irajá e a interlocução sobre o PL dos cassinos",
+      "text": "O UOL confirmou conversas entre Irajá e Vorcaro reveladas pela coluna de Lauro Jardim, incluindo pedidos do senador para discutir uma agenda. O gabinete afirma que o único assunto tratado foi o PL 2.234/2022 e que a articulação de apoio faz parte da relatoria. O material íntimo publicado na reportagem foi omitido do acervo.",
+      "contacts": [
+        "iraja"
+      ],
+      "src": [
+        "R20260930-18-s3"
+      ]
+    },
+    {
+      "id": "t100",
+      "date": "2026-09-30",
+      "title": "O grupo de Ciro, Vorcaro, Faria e Motta",
+      "text": "O UOL revelou, e a Gazeta do Povo confirmou, um grupo usado por Vorcaro, Ciro Nogueira, Hugo Motta e Fábio Faria para combinar encontros e viagens. Segundo o UOL, os três políticos procurados preferiram não comentar; a Gazeta informou que Ciro e Motta não se pronunciariam, que não encontrou a defesa de Faria e que procurou a defesa de Vorcaro.",
+      "contacts": [
+        "ciro",
+        "hugo_motta",
+        "fabio_faria"
+      ],
+      "src": [
+        "R20260930-18-s4",
+        "R20260930-18-s5"
       ]
     }
   ],
@@ -39972,6 +40271,51 @@
       "date": "2026-09-28",
       "author": "Gazeta do Povo Lab e Aline Rechmann",
       "kind": "análise"
+    },
+    "R20260930-18-s1": {
+      "id": "R20260930-18-s1",
+      "outlet": "VEJA",
+      "title": "Mensagens da PF revelam que Luciano Huck foi amigo e conselheiro de Daniel Vorcaro",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-que-luciano-huck-foi-amigo-e-conselheiro-de-daniel-vorcaro/",
+      "date": "2026-09-30",
+      "author": "Robson Bonin",
+      "kind": "reportagem"
+    },
+    "R20260930-18-s2": {
+      "id": "R20260930-18-s2",
+      "outlet": "VEJA",
+      "title": "A versão de Luciano Huck para as mensagens trocadas com Daniel Vorcaro",
+      "url": "https://veja.abril.com.br/brasil/a-versao-de-luciano-huck-para-as-mensagens-trocadas-com-daniel-vorcaro/",
+      "date": "2026-09-30",
+      "author": "Robson Bonin",
+      "kind": "resposta pública"
+    },
+    "R20260930-18-s3": {
+      "id": "R20260930-18-s3",
+      "outlet": "UOL",
+      "title": "'Cadê nossas norueguesas?': as mensagens do senador do PSD-TO para Vorcaro",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm",
+      "date": "2026-09-30",
+      "author": "Do UOL, em São Paulo",
+      "kind": "reportagem"
+    },
+    "R20260930-18-s4": {
+      "id": "R20260930-18-s4",
+      "outlet": "UOL",
+      "title": "Grupo de zap para organizar encontros reunia Vorcaro, Ciro, Motta e Faria",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.htm",
+      "date": "2026-09-30",
+      "author": "Cézar Feitoza, Natália Portinari e Fabio Serapião",
+      "kind": "reportagem"
+    },
+    "R20260930-18-s5": {
+      "id": "R20260930-18-s5",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro tinha grupo com Motta, Ciro Nogueira e Fábio Faria para organizar encontros",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/",
+      "date": "2026-09-30",
+      "author": "Guilherme Grandi e Juliet Manfrin",
+      "kind": "reportagem"
     }
   },
   "press": [
