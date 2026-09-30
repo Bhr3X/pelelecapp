@@ -23,3 +23,10 @@
 - `node tools/build-archive.mjs` adapta essa base e os complementos de `data/editorial-base.json` para `js/data.js`, sem reescrever mensagens.
 - Textos documentais importados ficam no português original em ambos os idiomas da interface, com aviso explícito no inglês. Não apresentar tradução automática como transcrição original.
 - Contagens distinguem registros da pesquisa, eventos, complementos editoriais e conversas pendentes. Não declarar completude das mensagens públicas.
+
+## Publicação recorrente autorizada em 30/09/2026
+- O usuário determinou: “Quero que o processo sempre seja de deploy completo, incluindo merge!”. A atualização deve concluir pesquisa, validação, commit, push, revisão, merge e publicação no GitHub Pages, sem aguardar nova aprovação para cada lote validado.
+- Essa autorização cobre somente o acervo sanitizado do PelelecApp. As invariantes documentais, de privacidade e de procedência permanecem; a pesquisa bruta e seus PDFs não são publicados.
+- Use o snapshot cumulativo mais recente. PRs antigos que contêm subconjuntos dos mesmos dados não devem ser mesclados em sequência.
+- `node tools/build-archive.mjs` também renova a versão de `js/data.js` em `index.html` e `threads.html`. Execute `node --test tests/*.cjs` antes de publicar.
+- Só declarar publicação concluída depois do deploy de `main` terminar com sucesso, do arquivo público coincidir com o esperado e de observar as novas mensagens e a data mais recente no navegador. Falha concreta interrompe a publicação e exige relato do bloqueio.
