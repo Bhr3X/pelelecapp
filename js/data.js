@@ -8302,7 +8302,9 @@ window.PELELEC_DATA = {
         "research_H-s56",
         "research_H-s81",
         "research_H-s58",
-        "research_H-s96"
+        "research_H-s96",
+        "research_R20261001-00-s1",
+        "research_R20261001-00-s2"
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alexandre_de_Moraes_%2832629948352%29.jpg",
       "photoCredit": "Jane de Araújo / Agência Senado · CC BY 2.0",
@@ -8385,6 +8387,14 @@ window.PELELEC_DATA = {
           "sources": [
             "research_H-s58",
             "research_H-s96"
+          ]
+        },
+        {
+          "name": "Alexandre de Moraes",
+          "text": "CNN e Gazeta procuraram o gabinete de Moraes; nenhuma resposta específica sobre o almoço foi publicada nas versões conferidas.",
+          "sources": [
+            "research_R20261001-00-s1",
+            "research_R20261001-00-s2"
           ]
         }
       ],
@@ -42726,7 +42736,8 @@ window.PELELEC_DATA = {
         "research_C-s84",
         "research_C-s85",
         "research_G-s12",
-        "research_G-s13"
+        "research_G-s13",
+        "research_R20261001-00-s8"
       ],
       "outroLado": [
         {
@@ -42778,6 +42789,13 @@ window.PELELEC_DATA = {
           "text": "Em carta ao STF, disse ser arrastado ao caso só por ser pai de Daniel e que não era bem-vindo nos negócios do filho.",
           "sources": [
             "research_C-s85"
+          ]
+        },
+        {
+          "name": "Henrique Moura Vorcaro",
+          "text": "À PF em 30/09, negou articular A Turma e disse manter apenas relações comerciais com três integrantes. A defesa contestou a manutenção da prisão e a falta de decisões sobre seus pedidos no STF.",
+          "sources": [
+            "research_R20261001-00-s8"
           ]
         }
       ],
@@ -46952,6 +46970,668 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "jose_maria_meira",
+      "name": "José Maria Meira",
+      "role": "Chef de cozinha",
+      "category": "turma",
+      "avatarInitials": "JM",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Interlocutor de Vorcaro na organização do almoço para Moraes, segundo a CNN.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261001-00-s1",
+        "research_R20261001-00-s2"
+      ],
+      "outroLado": [
+        {
+          "name": "José Maria Meira",
+          "text": "CNN e Gazeta tentavam contato com Meira; nenhuma resposta específica foi publicada nas versões conferidas.",
+          "sources": [
+            "research_R20261001-00-s1",
+            "research_R20261001-00-s2"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "José Maria Meira"
+      ],
+      "source": {
+        "outlet": "CNN Brasil (blog Gustavo Uribe)",
+        "date": "2026-09-30",
+        "headline": "Almoço VIP de Vorcaro para Moraes teve vinhos, vieiras e caviar",
+        "link": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/almoco-vip-de-vorcaro-para-moraes-teve-vinhos-vieiras-e-caviar/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100100-m1",
+          "researchId": "R2026100100-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "convidado mais importante até hoje",
+          "sources": [
+            "research_R20261001-00-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s1"
+            ],
+            "checked": [
+              "R20261001-00-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal; a CNN não publica a frase completa nem a data individual.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100100-m2",
+          "researchId": "R2026100100-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Outra coisa, evitar falar nome, até o meu, pra não constranger o convidado principal.",
+          "sources": [
+            "research_R20261001-00-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s1"
+            ],
+            "checked": [
+              "R20261001-00-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho inicial literal da orientação ao chef; continuação omitida. Data individual não publicada.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "temer",
+      "name": "Michel Temer",
+      "role": "Ex-presidente da República (MDB)",
+      "category": "master",
+      "avatarInitials": "MT",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Citado por Vorcaro em conversa com funcionária sobre o evento de Londres (\"alexandre sugeriu participacao do temer\"). O Master declarou pagamento de R$ 10 milhões ao seu escritório (dado resumido pela Wikipédia a partir da Folha, não conferido na fonte original).",
+      "originalContext": true,
+      "responseSources": [
+        "research_B2-s66",
+        "research_R20261001-00-s3"
+      ],
+      "outroLado": [
+        {
+          "name": "Michel Temer",
+          "text": "Segundo o resumo da Wikipédia (Folha, 8/4/2026), disse ter sido contratado para mediação, com dois pagamentos em 2025. Não conferido na fonte original.",
+          "sources": [
+            "research_B2-s66"
+          ]
+        },
+        {
+          "name": "Michel Temer",
+          "text": "Não respondeu ao Valor. Na pré-estreia em junho, negou patrocínio do Banco Master e dinheiro público. A nota de Mouco identifica o Fundo Moriah Asset como aportante.",
+          "sources": [
+            "research_R20261001-00-s3"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Michel Temer"
+      ],
+      "source": {
+        "outlet": "Valor Econômico",
+        "date": "2026-09-30",
+        "headline": "Mensagens mostram que Temer delegou a marqueteiro conversas com Vorcaro sobre patrocínio para filme",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/30/mensagens-mostram-que-temer-delegou-a-marqueteiro-conversas-com-vorcaro-sobre-patrocnio-para-filme.ghtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100100-m3",
+          "researchId": "R2026100100-m3",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-10-18",
+          "dateLabel": "2023-10-18",
+          "time": "",
+          "sender": "them",
+          "speaker": "Michel Temer",
+          "text": "Elsinho ligará para vc para tratar do assunto. Abs",
+          "sources": [
+            "research_R20261001-00-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s3"
+            ],
+            "checked": [
+              "R20261001-00-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta de Temer na troca de 18/10/2023 sobre o documentário, explicitamente datada pelo Valor.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ],
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel_Temer_(foto_oficial)_(cropped_2).jpg?width=320",
+      "photoCredit": "Beto Barata/PR · CC BY 2.0",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Michel_Temer_(foto_oficial)_(cropped_2).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Michel_Temer_(foto_oficial)_(cropped_2).jpg",
+        "credit": "Beto Barata/PR",
+        "license": "CC BY 2.0"
+      }
+    },
+    {
+      "id": "elsinho_mouco",
+      "name": "Elsinho Mouco",
+      "role": "Publicitário ligado a Michel Temer",
+      "category": "politica",
+      "avatarInitials": "EM",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Intermediou o patrocínio de 963 Dias, segundo o Valor.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261001-00-s3"
+      ],
+      "outroLado": [
+        {
+          "name": "Elsinho Mouco",
+          "text": "Confirmou cota de R$ 1 milhão do Fundo Moriah Asset, vinculado à família Vorcaro, e orçamento aproximado de R$ 12 milhões. Disse que nenhum patrocinador investiu mais de 10%.",
+          "sources": [
+            "research_R20261001-00-s3"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Elsinho Mouco"
+      ],
+      "source": {
+        "outlet": "Valor Econômico",
+        "date": "2026-09-30",
+        "headline": "Mensagens mostram que Temer delegou a marqueteiro conversas com Vorcaro sobre patrocínio para filme",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/30/mensagens-mostram-que-temer-delegou-a-marqueteiro-conversas-com-vorcaro-sobre-patrocnio-para-filme.ghtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100100-m4",
+          "researchId": "R2026100100-m4",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-11-13",
+          "dateLabel": "2023-11-13",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Eu vou ter que fazer fora do banco, por questões internas",
+          "sources": [
+            "research_R20261001-00-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s3"
+            ],
+            "checked": [
+              "R20261001-00-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho inicial literal, explicitamente datado de 13/11/2023. Continuação encaminha a organização a Fabiano Zettel.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "mauricio_quadrado",
+      "name": "Maurício Quadrado",
+      "role": "Ex-sócio e ex-diretor de investimentos do Banco Master",
+      "category": "master",
+      "avatarInitials": "MQ",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Interlocutor de Vorcaro em diálogos publicados sobre uma possível integração de distribuidoras de energia.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261001-00-s5",
+        "research_R20261001-00-s4"
+      ],
+      "outroLado": [
+        {
+          "name": "Maurício Quadrado",
+          "text": "Não foi localizada manifestação de Maurício Quadrado sobre estes diálogos nas fontes consultadas. Silveira nega conhecer Quadrado, ter mensagens com Vorcaro ou conhecer negócios do banqueiro no setor de energia; afirma manter relações institucionais e que a renovação da Light seguiu análise técnica.",
+          "sources": [
+            "research_R20261001-00-s5"
+          ]
+        },
+        {
+          "name": "Maurício Quadrado",
+          "text": "A Enel Brasil informou a O Antagonista que não comenta especulações atribuídas a terceiros sobre a companhia.",
+          "sources": [
+            "research_R20261001-00-s4"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Maurício Quadrado"
+      ],
+      "source": {
+        "outlet": "O Antagonista",
+        "date": "2026-09-30",
+        "headline": "Mensagens revelam encontros de Vorcaro com Alexandre Silveira",
+        "link": "https://oantagonista.com.br/brasil/mensagens-revelam-encontros-de-vorcaro-com-alexandre-silveira/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100100-m5",
+          "researchId": "R2026100100-m5",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-04-20",
+          "dateLabel": "2024-04-20",
+          "time": "",
+          "sender": "them",
+          "speaker": "Maurício Quadrado",
+          "text": "Você acha o ministro Silveira apoiaria a fusão da Light com a Enel?",
+          "sources": [
+            "research_R20261001-00-s4"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s4"
+            ],
+            "checked": [
+              "R20261001-00-s4"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Pergunta atribuída a Maurício Quadrado. O Antagonista repercute reportagem de O Globo; Silveira nega conhecer Quadrado e ter mensagens com Vorcaro. Não é diálogo direto com o ministro.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "julio_cezar_consultor",
+      "name": "Júlio Cezar",
+      "role": "Consultor identificado pela Folha de S.Paulo",
+      "category": "politica",
+      "avatarInitials": "JC",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "As mensagens publicadas tratam da organização de um jantar com Alexandre Padilha e Olavo Noleto em outubro de 2024.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261001-00-s6"
+      ],
+      "outroLado": [
+        {
+          "name": "Júlio Cezar",
+          "text": "A Folha informou não ter localizado Júlio Cezar. Padilha e Noleto não detalharam a pauta; sua assessoria afirma que Padilha participava de encontros com vários setores, não era ministro da Saúde em 2024 e que o jantar não gerou desdobramento. Diz que não havia acusação contra o banco naquela data.",
+          "sources": [
+            "research_R20261001-00-s6"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Júlio Cezar"
+      ],
+      "source": {
+        "outlet": "Folha de S.Paulo",
+        "date": "2026-09-30",
+        "headline": "Vorcaro teve jantar restrito com Padilha antes de encontro com Lula em 2024, indicam mensagens",
+        "link": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100100-m6",
+          "researchId": "R2026100100-m6",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10-23",
+          "dateLabel": "2024-10-23",
+          "time": "",
+          "sender": "them",
+          "speaker": "Júlio Cezar",
+          "text": "O padilha já está a caminho",
+          "sources": [
+            "research_R20261001-00-s6"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s6"
+            ],
+            "checked": [
+              "R20261001-00-s6"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Mensagem de chegada publicada pela Folha no relato da organização do jantar. A reportagem atribui esta sequência a 23/10/2024; horário da mensagem não informado. Não foi incluído endereço da residência.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "walfrido_mares_guia",
+      "name": "Walfrido dos Mares Guia",
+      "role": "Ex-ministro e empresário ligado à Biomm",
+      "category": "politica",
+      "avatarInitials": "WD",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Interlocutor de Vorcaro em mensagens publicadas sobre negócios e contatos com integrantes do governo.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261001-00-s7"
+      ],
+      "outroLado": [
+        {
+          "name": "Walfrido dos Mares Guia",
+          "text": "Mares Guia afirma que o contato decorreu da participação de Vorcaro na Biomm e nega ter intermediado a reunião do banqueiro com Lula.",
+          "sources": [
+            "research_R20261001-00-s7"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Walfrido dos Mares Guia"
+      ],
+      "source": {
+        "outlet": "Times Brasil / CNBC",
+        "date": "2026-09-30",
+        "headline": "Vorcaro recebeu Alexandre Padilha em jantar",
+        "link": "https://timesbrasil.com.br/brasil/vorcaro-recebeu-alexandre-padilha-em-jantar-e-dois-dias-depois-disse-a-mares-guia-que-precisava-muito-ver-o-lula/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100100-m7",
+          "researchId": "R2026100100-m7",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10-25",
+          "dateLabel": "2024-10-25",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Estou precisando muito ver o Lula, por conta desses ataques que tenho sofrido",
+          "sources": [
+            "research_R20261001-00-s7"
+          ],
+          "researchRefs": [],
+          "title": "Transcrição curta · trecho de mensagem",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s7"
+            ],
+            "checked": [
+              "R20261001-00-s7"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho literal de uma mensagem maior, publicado pelo Times Brasil após reportagem da Folha. A reportagem situa a conversa em 25/10/2024. Mares Guia nega ter intermediado o encontro com Lula; a citação não demonstra que ele tenha feito isso.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "campos_neto",
+      "name": "Roberto Campos Neto",
+      "role": "Ex-presidente do Banco Central",
+      "category": "master",
+      "avatarInitials": "RC",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Segundo a PF, Paulo Sérgio orientava Vorcaro sobre o que dizer em reuniões com Campos Neto. Foi intimado pela PF como testemunha.",
+      "originalContext": true,
+      "responseSources": [
+        "research_A2-s57",
+        "research_R20261001-00-s9"
+      ],
+      "outroLado": [
+        {
+          "name": "Roberto Campos Neto",
+          "text": "O advogado de Campos Neto não respondeu ao Poder360.",
+          "sources": [
+            "research_A2-s57"
+          ]
+        },
+        {
+          "name": "Roberto Campos Neto",
+          "text": "A reportagem de O Globo de 30/09 consultada nesta rodada não apresenta manifestação de Campos Neto sobre as conversas. Isso não comprova ausência de resposta posterior; os trechos, por si só, não demonstram irregularidade.",
+          "sources": [
+            "research_R20261001-00-s9"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Roberto Campos Neto"
+      ],
+      "source": {
+        "outlet": "O Globo (coluna Lauro Jardim)",
+        "date": "2026-09-30",
+        "headline": "Roberto Campos Neto convidou Vorcaro para sua casa enquanto era presidente do BC",
+        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/roberto-campos-neto-convidou-vorcaro-para-sua-casa-enquanto-era-presidente-do-bc.ghtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100100-m8",
+          "researchId": "R2026100100-m8",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-11-21",
+          "dateLabel": "2023-11-21",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "apresentar o trabalho que estamos desenvolvendo no banco e nossas perspectivas",
+          "sources": [
+            "research_R20261001-00-s9"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s9"
+            ],
+            "checked": [
+              "R20261001-00-s9"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento do pedido de reunião publicado por O Globo. A reportagem descreve remarcações posteriores; não comprova, com esse trecho, o encontro nem sua regularidade.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100100-m9",
+          "researchId": "R2026100100-m9",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-03-12",
+          "dateLabel": "2024-03-12",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "merecido! Parabéns!",
+          "sources": [
+            "research_R20261001-00-s9"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s9"
+            ],
+            "checked": [
+              "R20261001-00-s9"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta após uma imagem enviada por Campos Neto. O Globo informa que não conseguiu acessar a imagem; seu conteúdo não foi reconstruído.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100100-m10",
+          "researchId": "R2026100100-m10",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-03-13",
+          "dateLabel": "2024-03-13",
+          "time": "",
+          "sender": "them",
+          "speaker": "Roberto Campos Neto",
+          "text": "Muito obrigado Daniel. Um grande abraço e sucesso",
+          "sources": [
+            "research_R20261001-00-s9"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261001-00-s9"
+            ],
+            "checked": [
+              "R20261001-00-s9"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "O Globo situa o agradecimento no dia seguinte à troca de 12/03/2024. Não há horário publicado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ],
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roberto_Campos_Neto_(cropped).jpg?width=320",
+      "photoCredit": "Pedro França/Agência Senado · Attribution (Commons {{Attribution}}; Agência Senado terms: free use with credit to source/author, content must not be distorted)",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Roberto_Campos_Neto_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Roberto_Campos_Neto_(cropped).jpg",
+        "credit": "Pedro França/Agência Senado",
+        "license": "Attribution (Commons {{Attribution}}; Agência Senado terms: free use with credit to source/author, content must not be distorted)"
+      }
     }
   ],
   "forensicReport": {
@@ -46961,10 +47641,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1303,
+      "totalMessagesRecovered": 1313,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 81
+      "sensitiveContactsIdentified": 88
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -53739,6 +54419,87 @@ window.PELELEC_DATA = {
       "author": "Guilherme Grandi e Juliet Manfrin",
       "kind": "reportagem"
     },
+    "research_R20261001-00-s1": {
+      "id": "research_R20261001-00-s1",
+      "outlet": "CNN Brasil (blog Gustavo Uribe)",
+      "title": "Almoço VIP de Vorcaro para Moraes teve vinhos, vieiras e caviar",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/almoco-vip-de-vorcaro-para-moraes-teve-vinhos-vieiras-e-caviar/",
+      "date": "2026-09-30",
+      "author": "Gustavo Uribe",
+      "kind": "reportagem"
+    },
+    "research_R20261001-00-s2": {
+      "id": "research_R20261001-00-s2",
+      "outlet": "Gazeta do Povo",
+      "title": "Foto de Moraes com chef reforça relato de almoço “ultravip” organizado por Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/republica/foto-de-moraes-com-chef-de-cozinha-reforca-revelacoes-sobre-encontros-com-vorcaro/",
+      "date": "2026-09-30",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_R20261001-00-s3": {
+      "id": "research_R20261001-00-s3",
+      "outlet": "Valor Econômico",
+      "title": "Mensagens mostram que Temer delegou a marqueteiro conversas com Vorcaro sobre patrocínio para filme",
+      "url": "https://valor.globo.com/politica/noticia/2026/09/30/mensagens-mostram-que-temer-delegou-a-marqueteiro-conversas-com-vorcaro-sobre-patrocnio-para-filme.ghtml",
+      "date": "2026-09-30",
+      "author": "Mateus Coutinho",
+      "kind": "reportagem"
+    },
+    "research_R20261001-00-s4": {
+      "id": "research_R20261001-00-s4",
+      "outlet": "O Antagonista",
+      "title": "Mensagens revelam encontros de Vorcaro com Alexandre Silveira",
+      "url": "https://oantagonista.com.br/brasil/mensagens-revelam-encontros-de-vorcaro-com-alexandre-silveira/",
+      "date": "2026-09-30",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261001-00-s5": {
+      "id": "research_R20261001-00-s5",
+      "outlet": "O Antagonista",
+      "title": "Silveira nega conversas com Vorcaro sobre fusão de Enel e Light",
+      "url": "https://oantagonista.com.br/brasil/silveira-neg-conversas-com-vorcaro-sobre-fusao-de-enel-e-light/",
+      "date": "2026-09-30",
+      "author": "Redação O Antagonista",
+      "kind": "resposta pública"
+    },
+    "research_R20261001-00-s6": {
+      "id": "research_R20261001-00-s6",
+      "outlet": "Folha de S.Paulo",
+      "title": "Vorcaro teve jantar restrito com Padilha antes de encontro com Lula em 2024, indicam mensagens",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml",
+      "date": "2026-09-30",
+      "author": "José Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261001-00-s7": {
+      "id": "research_R20261001-00-s7",
+      "outlet": "Times Brasil / CNBC",
+      "title": "Vorcaro recebeu Alexandre Padilha em jantar",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-recebeu-alexandre-padilha-em-jantar-e-dois-dias-depois-disse-a-mares-guia-que-precisava-muito-ver-o-lula/",
+      "date": "2026-09-30",
+      "author": null,
+      "kind": "reportagem"
+    },
+    "research_R20261001-00-s8": {
+      "id": "research_R20261001-00-s8",
+      "outlet": "Agência Brasil",
+      "title": "Vorcaro depõe à PF e nega existência de grupo criminoso \"A Turma\"",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/vorcaro-depoe-pf-e-nega-existencia-de-grupo-criminoso-turma",
+      "date": "2026-09-30",
+      "author": "Marcelo Brandão",
+      "kind": "reportagem"
+    },
+    "research_R20261001-00-s9": {
+      "id": "research_R20261001-00-s9",
+      "outlet": "O Globo (coluna Lauro Jardim)",
+      "title": "Roberto Campos Neto convidou Vorcaro para sua casa enquanto era presidente do BC",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/roberto-campos-neto-convidou-vorcaro-para-sua-casa-enquanto-era-presidente-do-bc.ghtml",
+      "date": "2026-09-30",
+      "author": "Gustavo Maia",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -53750,8 +54511,8 @@ window.PELELEC_DATA = {
   },
   "archiveMeta": {
     "updated": "2026-09-30",
-    "researchChats": 75,
-    "researchRecords": 1248,
+    "researchChats": 82,
+    "researchRecords": 1258,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -53795,6 +54556,12 @@ window.PELELEC_DATA = {
       "sources": [
         "research_G-s17",
         "research_G-s20"
+      ]
+    },
+    {
+      "text": "Em depoimento de 30/09, negou atos violentos ou intimidatórios e a existência de grupos organizados chamados A Turma ou Os Meninos. Sua defesa descreveu o contrato com Mourão como lícito, atribuiu os textos a desabafos sem consequências práticas e pediu a soltura.",
+      "sources": [
+        "research_R20261001-00-s8"
       ]
     }
   ],
@@ -55035,6 +55802,63 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20260930-18-s4",
         "research_R20260930-18-s5"
+      ]
+    },
+    {
+      "id": "t101",
+      "date": "2026-09-30",
+      "title": "Novos detalhes do almoço para Moraes",
+      "text": "A CNN confirmou novos detalhes do almoço de 30/12/2023 para Moraes, incluindo orientações de Vorcaro ao chef José Maria Meira; o banqueiro não esteve presente. A Gazeta contextualizou a foto e a troca com Michael, já registrada. Os veículos procuraram Moraes e tentavam contato com Meira, sem resposta específica publicada.",
+      "sources": [
+        "research_R20261001-00-s1",
+        "research_R20261001-00-s2"
+      ]
+    },
+    {
+      "id": "t102",
+      "date": "2026-09-30",
+      "title": "O patrocínio do documentário de Temer",
+      "text": "O Valor publicou mensagens de 2023 sobre o patrocínio de 963 Dias. Temer não respondeu e havia negado patrocínio do Master e dinheiro público. Mouco confirmou R$ 1 milhão do Fundo Moriah Asset num orçamento de R$ 12 milhões; nenhum patrocinador aportou mais de 10%.",
+      "sources": [
+        "research_R20261001-00-s3"
+      ]
+    },
+    {
+      "id": "t103",
+      "date": "2026-09-30",
+      "title": "Silveira e a proposta Enel–Light",
+      "text": "O Antagonista repercute diálogos publicados por O Globo sobre uma proposta de integração entre Enel e Light, discutida por Vorcaro e Maurício Quadrado em abril de 2024. Silveira nega conhecer Quadrado, ter mensagens com Vorcaro ou negociar com o banqueiro no setor; a Enel não comenta especulações de terceiros.",
+      "sources": [
+        "research_R20261001-00-s4",
+        "research_R20261001-00-s5"
+      ]
+    },
+    {
+      "id": "t104",
+      "date": "2026-09-30",
+      "title": "O jantar com Padilha e os contatos de Mares Guia",
+      "text": "A Folha publica mensagens sobre um jantar de Vorcaro com Padilha e Noleto em 23/10/2024, fora da agenda pública, e contatos com Mares Guia. Padilha e Noleto afirmam que não houve desdobramento relacionado ao jantar; Mares Guia atribui o contato à Biomm e nega intermediar a reunião com Lula.",
+      "sources": [
+        "research_R20261001-00-s6",
+        "research_R20261001-00-s7"
+      ]
+    },
+    {
+      "id": "t105",
+      "date": "2026-09-30",
+      "title": "Daniel e Henrique Vorcaro prestam depoimento",
+      "text": "A Agência Brasil relata os depoimentos à PF em 30/09 sobre A Turma. Daniel negou violência e a existência de grupos organizados; Henrique negou coordená-los. A PF atribui ao grupo monitoramento e intimidação. As defesas contestam as acusações e a prisão; as negativas estão acessíveis em Outro lado.",
+      "sources": [
+        "research_R20261001-00-s8"
+      ]
+    },
+    {
+      "id": "t106",
+      "date": "2026-09-30",
+      "title": "Conversas de Vorcaro com Campos Neto",
+      "text": "O Globo publicou tratativas de reunião em novembro e dezembro de 2023 e uma troca de março de 2024, quando a imagem enviada não pôde ser acessada pela coluna. A seleção preserva trechos curtos e omite referências privadas. O corpo consultado não traz manifestação específica de Campos Neto; as mensagens isoladas não estabelecem irregularidade.",
+      "sources": [
+        "research_R20261001-00-s9"
       ]
     }
   ],
