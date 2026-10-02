@@ -5054,6 +5054,142 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100219-m7",
+          "researchId": "R2026100219-m7",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-07",
+          "dateLabel": "2025-08-07",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Preciso levantar tudo",
+          "sources": [
+            "research_R20261002-19-s10"
+          ],
+          "researchRefs": [],
+          "title": "Transcrição curta · trecho de mensagem",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s10"
+            ],
+            "checked": [
+              "R20261002-19-s10"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho parcial; a reportagem confirma a data, sem horário individual. Contraponto em Outro lado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m8",
+          "researchId": "R2026100219-m8",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-07",
+          "dateLabel": "2025-08-07",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "Agora!!",
+          "sources": [
+            "research_R20261002-19-s10"
+          ],
+          "researchRefs": [],
+          "title": "Transcrição curta · trecho de mensagem",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s10"
+            ],
+            "checked": [
+              "R20261002-19-s10"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho parcial; a reportagem confirma a data, sem horário individual. Contraponto em Outro lado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m9",
+          "researchId": "R2026100219-m9",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-07",
+          "dateLabel": "2025-08-07",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "Nenhum processo criminal contra ele, nada",
+          "sources": [
+            "research_R20261002-19-s10"
+          ],
+          "researchRefs": [],
+          "title": "Transcrição curta · trecho de mensagem",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s10"
+            ],
+            "checked": [
+              "R20261002-19-s10"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho parcial; a reportagem confirma a data, sem horário individual. Contraponto em Outro lado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m10",
+          "researchId": "R2026100219-m10",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-07",
+          "dateLabel": "2025-08-07",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "Muito limpo",
+          "sources": [
+            "research_R20261002-19-s10"
+          ],
+          "researchRefs": [],
+          "title": "Transcrição curta · trecho de mensagem",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s10"
+            ],
+            "checked": [
+              "R20261002-19-s10"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho parcial; a reportagem confirma a data, sem horário individual. Contraponto em Outro lado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-C-m84",
           "researchId": "C-m84",
           "editorialType": "quote",
@@ -5734,7 +5870,8 @@ window.PELELEC_DATA = {
         "research_C-s79",
         "research_G-s9",
         "research_G-s53",
-        "research_H-s49"
+        "research_H-s49",
+        "research_R20261002-19-s11"
       ],
       "originalContext": true,
       "outroLado": [
@@ -5765,6 +5902,13 @@ window.PELELEC_DATA = {
           "text": "Em depoimento ao gabinete de Mendonça (setembro de 2026), Vorcaro disse que as ordens de agressão foram dadas porque 'estava nervoso' e não foram cumpridas.",
           "sources": [
             "research_H-s49"
+          ]
+        },
+        {
+          "name": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "A defesa de Vorcaro contestou em 01/10 a tese de violência e de atos executados do grupo A Turma; esse contraponto geral não é uma manifestação específica de Mourão nem uma resposta ao novo relato sobre o BC.",
+          "sources": [
+            "research_R20261002-19-s11"
           ]
         }
       ],
@@ -10166,8 +10310,10 @@ window.PELELEC_DATA = {
         "research_G-s37",
         "research_G-s36",
         "research_H-s41",
+        "research_R20261002-19-s12",
         "research_A2-s50",
-        "research_G-s39"
+        "research_G-s39",
+        "research_R20261002-19-s8"
       ],
       "originalContext": true,
       "outroLado": [
@@ -10198,6 +10344,13 @@ window.PELELEC_DATA = {
           "text": "O advogado Leonardo Palazzi diz que a divulgação foi 'seletiva e fragmentada' e que os depoimentos vão afastar as suspeitas.",
           "sources": [
             "research_H-s41"
+          ]
+        },
+        {
+          "name": "Belline Santana",
+          "text": "À PF, Belline afirmou que os encontros trataram de questões institucionais de supervisão e regulação, negou favorecimento ao Master e contestou a interpretação da sindicância sobre os contratos mencionados pela reportagem.",
+          "sources": [
+            "research_R20261002-19-s12"
           ]
         },
         {
@@ -10235,6 +10388,14 @@ window.PELELEC_DATA = {
           "text": "A defesa, pelo advogado Odel Antun, diz que os trechos foram descontextualizados, que ele cumpria funções normais de supervisão e que sua equipe apontou irregularidades em setembro de 2024.",
           "sources": [
             "research_H-s41"
+          ]
+        },
+        {
+          "name": "Paulo Sérgio (diretor do Banco Central, segundo a PF)",
+          "text": "Sua defesa disse à Folha que as reuniões em Brasília ocorreram na representação do Master e trataram de temas solicitados pela diretoria para a solução do banco. As defesas dele e de Belline negam medidas de favorecimento a Vorcaro.",
+          "sources": [
+            "research_R20261002-19-s8",
+            "research_R20261002-19-s12"
           ]
         }
       ],
@@ -14635,7 +14796,8 @@ window.PELELEC_DATA = {
         "research_A2-s6",
         "research_A2-s27",
         "research_H-s60",
-        "research_R20260929-23-s7"
+        "research_R20260929-23-s7",
+        "research_R20261002-19-s10"
       ],
       "source": {
         "title": "Gonet nega proximidade com Vorcaro",
@@ -15426,7 +15588,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/alfaiataria.webp",
             "alt": "Foto que, segundo a reportagem, mostra Ciro com André Mendonça numa alfaiataria.",
             "credit": "Reprodução — ICL Notícias / Paulo Motoryn",
-            "verifiedOn": "2026-09-30",
+            "verifiedOn": "2026-10-02",
             "originalUrl": "https://iclnoticias.com.br/app/uploads/2026/09/WhatsApp-Image-2026-09-02-at-07.50.26.webp"
           },
           "mediaLink": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/",
@@ -16045,7 +16207,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/selfie.jpg",
             "alt": "Foto (selfie) de Ciro Soares com Paulo Gonet, segundo a PF.",
             "credit": "Polícia Federal — 1º.set.2026 / Poder360",
-            "verifiedOn": "2026-09-30",
+            "verifiedOn": "2026-10-02",
             "originalUrl": "https://static.poder360.com.br/uploads/2026/09/gonet-advogado-soares-reproducao-848x477.jpg"
           },
           "mediaLink": "https://www.poder360.com.br/poder-justica/advogado-do-master-tirou-selfie-com-gonet-e-enviou-a-vorcaro/",
@@ -17006,7 +17168,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/londres.jpg",
             "alt": "Envia a foto do encontro de abril de 2024 em Londres (Gonet com charuto, ao lado de Vorcaro) com legenda que atribui o envio a 'PG'.",
             "credit": "Reprodução — Metrópoles",
-            "verifiedOn": "2026-09-30",
+            "verifiedOn": "2026-10-02",
             "originalUrl": "https://images.metroimg.com/2026/09/vorcaro-e-gonet.jpg"
           },
           "mediaLink": "https://www.metropoles.com/brasil/foto-tirada-em-londres-mostra-gonet-com-vorcaro-fumando-charuto",
@@ -17441,6 +17603,13 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20260929-23-s7"
           ]
+        },
+        {
+          "name": "Ciro Rocha Soares",
+          "text": "Ciro Soares disse que as conversas mostram compromisso com a defesa do então cliente. Já não representa Vorcaro e invocou sigilo profissional sobre conteúdo e estratégias.",
+          "sources": [
+            "research_R20261002-19-s10"
+          ]
         }
       ],
       "thirdParty": false,
@@ -17471,7 +17640,8 @@ window.PELELEC_DATA = {
         "research_E-s25",
         "research_H-s61",
         "research_R20260930-18-s4",
-        "research_R20260930-18-s5"
+        "research_R20260930-18-s5",
+        "research_R20261002-19-s18"
       ],
       "source": {
         "title": "Relatório e manifestação de Fábio Faria",
@@ -21782,6 +21952,40 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100219-m18",
+          "researchId": "R2026100219-m18",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-05-24",
+          "dateLabel": "2024-05-24",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Turma falando que eu to apoiando Hugo pra presidente da Câmara",
+          "sources": [
+            "research_R20261002-19-s18"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s18"
+            ],
+            "checked": [
+              "R20261002-19-s18"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Mensagem literal publicada pelo UOL de Vorcaro para Fábio Faria em 24/05/2024, relatando comentários de terceiros sobre seu apoio a Hugo Motta. Não é confirmação de apoio formal nem mensagem direta com Motta. O ano é explicitado no parágrafo que introduz a sequência; Motta afirma que seus contatos seguiram critérios de probidade.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-A1-m184",
           "researchId": "A1-m184",
           "editorialType": "quote",
@@ -21940,6 +22144,40 @@ window.PELELEC_DATA = {
           "context": "",
           "documentRef": "IPJ-A nº 3298613/2026, p. 175 (Fig. 176)",
           "datePrecision": "minute",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m19",
+          "researchId": "R2026100219-m19",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-09-03",
+          "dateLabel": "2024-09-03",
+          "time": "",
+          "sender": "them",
+          "speaker": "Fábio Faria",
+          "text": "Segundo o UOL, Faria avaliou a situação como favorável a Hugo Motta após a desistência de Marcos Pereira da disputa.",
+          "sources": [
+            "research_R20261002-19-s18"
+          ],
+          "researchRefs": [],
+          "title": "Resumo editorial de mensagem publicada",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s18"
+            ],
+            "checked": [
+              "R20261002-19-s18"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo editorial, sem transcrição literal, da mensagem de Fábio Faria para Vorcaro em 03/09/2024. O UOL situa a troca após a desistência de Marcos Pereira e informa horário aproximado, não importado. Motta nega mácula à sua atuação na nota publicada pelo veículo.",
+          "documentRef": "",
+          "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
         },
@@ -22186,6 +22424,13 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20260930-18-s4",
             "research_R20260930-18-s5"
+          ]
+        },
+        {
+          "name": "Fábio Faria",
+          "text": "O UOL não publica manifestação específica de Fábio Faria neste texto. Motta, citado nos diálogos, nega mácula à sua atuação e defende a probidade de seus contatos com o setor privado.",
+          "sources": [
+            "research_R20261002-19-s18"
           ]
         }
       ],
@@ -24700,6 +24945,74 @@ window.PELELEC_DATA = {
           "context": "Trecho sobre o calendário de pagamentos do contrato Barci de Moraes. Dados bancários e telefones omitidos da seleção. Mensagem marcada como encaminhada na figura; autoria original não identificada.",
           "documentRef": "IPJ-A nº 3298613/2026 — página 149, figura 148.",
           "datePrecision": "minute",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m13",
+          "researchId": "R2026100219-m13",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-05-24",
+          "dateLabel": "2024-05-24",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "aporte no fundo",
+          "sources": [
+            "research_R20261002-19-s16"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s16"
+            ],
+            "checked": [
+              "R20261002-19-s16"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal da mensagem de 24/05/2024 publicada pelo UOL, em que Vorcaro cobra de Fabiano Zettel a resolução de um aporte ligado ao Tayayá. Não é uma mensagem completa; a reportagem descreve uma ligação anterior com Toffoli, sem fala publicada do ministro nesta seleção.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m14",
+          "researchId": "R2026100219-m14",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-05-24",
+          "dateLabel": "2024-05-24",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Tayaya",
+          "sources": [
+            "research_R20261002-19-s16"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s16"
+            ],
+            "checked": [
+              "R20261002-19-s16"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Mensagem seguinte, separada, como publicada pelo UOL na mesma sequência de 24/05/2024. Não traduzir nem corrigir a grafia.",
+          "documentRef": "",
+          "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
         },
@@ -31141,7 +31454,8 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_H-s62",
-        "research_R20260929-23-s5"
+        "research_R20260929-23-s5",
+        "research_R20261002-19-s15"
       ],
       "outroLado": [
         {
@@ -31156,6 +31470,13 @@ window.PELELEC_DATA = {
           "text": "Sobre o plano de financiar a pré-campanha de Sérgio Leonardo na OAB, confirmou que houve interesse e disse que o projeto não avançou.",
           "sources": [
             "research_R20260929-23-s5"
+          ]
+        },
+        {
+          "name": "Luiz Rennó",
+          "text": "O Times informa que não conseguiu contato com os advogados de Luiz Rennó sobre Bet.Bet e que a defesa de Vorcaro não se manifestou quando procurada pelo veículo.",
+          "sources": [
+            "research_R20261002-19-s15"
           ]
         }
       ],
@@ -31397,6 +31718,46 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100219-m11",
+          "researchId": "R2026100219-m11",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10-04",
+          "dateLabel": "2024-10-04",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luiz Rennó",
+          "text": "Vc tem que sumir de lá",
+          "sources": [
+            "research_R20261002-19-s13",
+            "research_R20261002-19-s14",
+            "research_R20261002-19-s15"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s13",
+              "R20261002-19-s14",
+              "R20261002-19-s15"
+            ],
+            "checked": [
+              "R20261002-19-s13",
+              "R20261002-19-s14",
+              "R20261002-19-s15"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal de mensagem maior sobre Bet.Bet, sem o restante. Dia 04/10/2024 explicitado no Valor e no Times; Oeste informa apenas fim de 2024. É orientação atribuída pela imprensa a Rennó, sem conclusão judicial sobre a estrutura societária.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-R2026092923-m34",
           "researchId": "R2026092923-m34",
           "editorialType": "quote",
@@ -31453,6 +31814,46 @@ window.PELELEC_DATA = {
           "context": "Resposta de Vorcaro ao ser informado de uma articulação no Maranhão, segundo o Times Brasil. Sem data publicada; as conversas são do início de 2024.",
           "documentRef": "",
           "datePrecision": "year",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m12",
+          "researchId": "R2026100219-m12",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-02",
+          "dateLabel": "2025-02",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luiz Rennó",
+          "text": "Saímos da bet!",
+          "sources": [
+            "research_R20261002-19-s13",
+            "research_R20261002-19-s14",
+            "research_R20261002-19-s15"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s13",
+              "R20261002-19-s14",
+              "R20261002-19-s15"
+            ],
+            "checked": [
+              "R20261002-19-s13",
+              "R20261002-19-s14",
+              "R20261002-19-s15"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Primeira frase literal da mensagem sobre retirada formal. O Valor e o Times publicam continuação sobre conclusão prevista no mês seguinte. As fontes informam fevereiro de 2025, sem dia ou hora individual; o trecho não comprova a conclusão da retirada.",
+          "documentRef": "",
+          "datePrecision": "month",
           "variants": [],
           "originalLanguage": true
         },
@@ -35147,7 +35548,9 @@ window.PELELEC_DATA = {
         "research_G-s37",
         "research_G-s36",
         "research_G-s39",
-        "research_H-s41"
+        "research_H-s41",
+        "research_R20261002-19-s8",
+        "research_R20261002-19-s12"
       ],
       "outroLado": [
         {
@@ -35185,6 +35588,14 @@ window.PELELEC_DATA = {
           "text": "A defesa, pelo advogado Odel Antun, diz que os trechos foram descontextualizados, que ele cumpria funções normais de supervisão e que sua equipe apontou irregularidades em setembro de 2024.",
           "sources": [
             "research_H-s41"
+          ]
+        },
+        {
+          "name": "Paulo Sérgio (diretor do Banco Central, segundo a PF)",
+          "text": "Sua defesa disse à Folha que as reuniões em Brasília ocorreram na representação do Master e trataram de temas solicitados pela diretoria para a solução do banco. As defesas dele e de Belline negam medidas de favorecimento a Vorcaro.",
+          "sources": [
+            "research_R20261002-19-s8",
+            "research_R20261002-19-s12"
           ]
         }
       ],
@@ -36120,7 +36531,8 @@ window.PELELEC_DATA = {
         "research_A2-s49",
         "research_G-s37",
         "research_G-s36",
-        "research_H-s41"
+        "research_H-s41",
+        "research_R20261002-19-s12"
       ],
       "outroLado": [
         {
@@ -36150,6 +36562,13 @@ window.PELELEC_DATA = {
           "text": "O advogado Leonardo Palazzi diz que a divulgação foi 'seletiva e fragmentada' e que os depoimentos vão afastar as suspeitas.",
           "sources": [
             "research_H-s41"
+          ]
+        },
+        {
+          "name": "Belline Santana",
+          "text": "À PF, Belline afirmou que os encontros trataram de questões institucionais de supervisão e regulação, negou favorecimento ao Master e contestou a interpretação da sindicância sobre os contratos mencionados pela reportagem.",
+          "sources": [
+            "research_R20261002-19-s12"
           ]
         }
       ],
@@ -37613,7 +38032,8 @@ window.PELELEC_DATA = {
         "research_B1-s30",
         "research_G-s28",
         "research_G-s27",
-        "research_H-s98"
+        "research_H-s98",
+        "research_R20261002-19-s1"
       ],
       "outroLado": [
         {
@@ -37643,6 +38063,13 @@ window.PELELEC_DATA = {
           "text": "A defesa nega ter participado de atos para intimidar, coagir ou violar direitos de terceiros e pede respeito à presunção de inocência.",
           "sources": [
             "research_H-s98"
+          ]
+        },
+        {
+          "name": "Thiago Miranda Silva",
+          "text": "O Valor procurou Miranda; a defesa não havia se posicionado na versão atualizada em 02/10. O Itaú informou que não comentaria. As manifestações anteriores da defesa permanecem disponíveis.",
+          "sources": [
+            "research_R20261002-19-s1"
           ]
         }
       ],
@@ -38940,6 +39367,74 @@ window.PELELEC_DATA = {
           "confidence": "medium",
           "recoveredByPF": false,
           "context": "",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m1",
+          "researchId": "R2026100219-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-05-02",
+          "dateLabel": "2025-05-02",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Temos que bater no Milton",
+          "sources": [
+            "research_R20261002-19-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s1"
+            ],
+            "checked": [
+              "R20261002-19-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal sobre Milton Maluhy Filho, presidente do Itaú. O Valor data a troca em 02/05/2025; referências a dados pessoais foram omitidas.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m2",
+          "researchId": "R2026100219-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-05-02",
+          "dateLabel": "2025-05-02",
+          "time": "",
+          "sender": "them",
+          "speaker": "Thiago Miranda Silva",
+          "text": "Vou bater muito",
+          "sources": [
+            "research_R20261002-19-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s1"
+            ],
+            "checked": [
+              "R20261002-19-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta literal na troca de 02/05/2025 sobre a estratégia de comunicação descrita pelo Valor. O Itaú não comentou e a defesa de Miranda não se posicionou na versão consultada.",
           "documentRef": "",
           "datePrecision": "day",
           "variants": [],
@@ -44130,6 +44625,7 @@ window.PELELEC_DATA = {
         "research_G-s9",
         "research_G-s53",
         "research_H-s49",
+        "research_R20261002-19-s11",
         "research_G-s11"
       ],
       "outroLado": [
@@ -44160,6 +44656,13 @@ window.PELELEC_DATA = {
           "text": "Em depoimento ao gabinete de Mendonça (setembro de 2026), Vorcaro disse que as ordens de agressão foram dadas porque 'estava nervoso' e não foram cumpridas.",
           "sources": [
             "research_H-s49"
+          ]
+        },
+        {
+          "name": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "A defesa de Vorcaro contestou em 01/10 a tese de violência e de atos executados do grupo A Turma; esse contraponto geral não é uma manifestação específica de Mourão nem uma resposta ao novo relato sobre o BC.",
+          "sources": [
+            "research_R20261002-19-s11"
           ]
         },
         {
@@ -45363,7 +45866,9 @@ window.PELELEC_DATA = {
         "research_R20260929-23-s11",
         "research_R20260929-23-s15",
         "research_R20260930-18-s4",
-        "research_R20260930-18-s5"
+        "research_R20260930-18-s5",
+        "research_R20261002-19-s17",
+        "research_R20261002-19-s18"
       ],
       "outroLado": [
         {
@@ -45405,6 +45910,21 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20260930-18-s4",
             "research_R20260930-18-s5"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Em nota à CNN em 29/09 sobre outras mensagens, Motta defende diálogo com o empresariado e nega ilícitos ou favorecimento. A Oeste não publica resposta específica aos trechos de 19/07 e 15/08.",
+          "sources": [
+            "research_R20260929-23-s8",
+            "research_R20261002-19-s17"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Em nota ao UOL, Motta afirma que contatos com o setor privado seguiram critérios de institucionalidade e probidade e que os diálogos não maculam sua atuação; considera a divulgação descontextualizada e voltada a ataques às vésperas da eleição. A defesa de Vorcaro não respondeu quando procurada pelo UOL.",
+          "sources": [
+            "research_R20261002-19-s18"
           ]
         }
       ],
@@ -46178,6 +46698,40 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100219-m16",
+          "researchId": "R2026100219-m16",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-07-19",
+          "dateLabel": "2025-07-19",
+          "time": "",
+          "sender": "them",
+          "speaker": "Hugo Motta",
+          "text": "Me liga quando puder",
+          "sources": [
+            "research_R20261002-19-s17"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s17"
+            ],
+            "checked": [
+              "R20261002-19-s17"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Texto como publicado no corpo humano da Oeste, atribuído a Hugo Motta para Vorcaro em 19/07/2025 antes de reunião no BC. A matéria diz por volta das 7h; não importar hora exata nem inventar conteúdo das ligações.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-R2026092923-m24",
           "researchId": "R2026092923-m24",
           "editorialType": "quote",
@@ -46236,6 +46790,40 @@ window.PELELEC_DATA = {
           "context": "Resposta à mensagem anterior, conforme Terra e Revista Oeste. O Times Brasil relata a resposta de outro modo (“que sim e que os dois precisavam conversar”).",
           "documentRef": "",
           "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m17",
+          "researchId": "R2026100219-m17",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-15",
+          "dateLabel": "2025-08-15",
+          "time": "",
+          "sender": "them",
+          "speaker": "Hugo Motta",
+          "text": "Luta meu irmão",
+          "sources": [
+            "research_R20261002-19-s17"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s17"
+            ],
+            "checked": [
+              "R20261002-19-s17"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Texto como publicado no corpo humano da Oeste, após imagem de agenda enviada por Vorcaro em 15/08/2025. A reportagem atribui o trecho a Motta; a agenda ou imagem não é reproduzida. Nota geral de Motta de 29/09 acessível pela fonte já existente R20260929-23-s8, sem apresentá-la como resposta específica a este trecho.",
+          "documentRef": "",
+          "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
         },
@@ -46740,6 +47328,7 @@ window.PELELEC_DATA = {
         "research_B2-s65",
         "research_E-s25",
         "research_H-s61",
+        "research_R20261002-19-s18",
         "research_B2-s33",
         "research_B2-s34",
         "research_H-s68",
@@ -46748,7 +47337,8 @@ window.PELELEC_DATA = {
         "research_R20260929-23-s8",
         "research_R20260929-23-s9",
         "research_R20260929-23-s11",
-        "research_R20260929-23-s15"
+        "research_R20260929-23-s15",
+        "research_R20261002-19-s17"
       ],
       "outroLado": [
         {
@@ -46839,6 +47429,13 @@ window.PELELEC_DATA = {
           ]
         },
         {
+          "name": "Fábio Faria",
+          "text": "O UOL não publica manifestação específica de Fábio Faria neste texto. Motta, citado nos diálogos, nega mácula à sua atuação e defende a probidade de seus contatos com o setor privado.",
+          "sources": [
+            "research_R20261002-19-s18"
+          ]
+        },
+        {
           "name": "Hugo Motta",
           "text": "A assessoria informou que ele não se manifestaria; em outra reportagem, preferiu não comentar.",
           "sources": [
@@ -46877,6 +47474,21 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20260930-18-s4",
             "research_R20260930-18-s5"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Em nota à CNN em 29/09 sobre outras mensagens, Motta defende diálogo com o empresariado e nega ilícitos ou favorecimento. A Oeste não publica resposta específica aos trechos de 19/07 e 15/08.",
+          "sources": [
+            "research_R20260929-23-s8",
+            "research_R20261002-19-s17"
+          ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Em nota ao UOL, Motta afirma que contatos com o setor privado seguiram critérios de institucionalidade e probidade e que os diálogos não maculam sua atuação; considera a divulgação descontextualizada e voltada a ataques às vésperas da eleição. A defesa de Vorcaro não respondeu quando procurada pelo UOL.",
+          "sources": [
+            "research_R20261002-19-s18"
           ]
         }
       ],
@@ -47491,7 +48103,8 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_A2-s57",
-        "research_R20261001-00-s9"
+        "research_R20261001-00-s9",
+        "research_R20261002-19-s8"
       ],
       "outroLado": [
         {
@@ -47506,6 +48119,13 @@ window.PELELEC_DATA = {
           "text": "A reportagem de O Globo de 30/09 consultada nesta rodada não apresenta manifestação de Campos Neto sobre as conversas. Isso não comprova ausência de resposta posterior; os trechos, por si só, não demonstram irregularidade.",
           "sources": [
             "research_R20261001-00-s9"
+          ]
+        },
+        {
+          "name": "Roberto Campos Neto",
+          "text": "Procurada sobre a agenda de depoimentos, a assessoria de Campos Neto disse à Folha que não vai se manifestar. Será ouvido como testemunha.",
+          "sources": [
+            "research_R20261002-19-s8"
           ]
         }
       ],
@@ -47632,6 +48252,368 @@ window.PELELEC_DATA = {
         "credit": "Pedro França/Agência Senado",
         "license": "Attribution (Commons {{Attribution}}; Agência Senado terms: free use with credit to source/author, content must not be distorted)"
       }
+    },
+    {
+      "id": "roberto_justus",
+      "name": "Roberto Justus",
+      "role": "Empresário ligado à SteelCorp",
+      "category": "master",
+      "avatarInitials": "RJ",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Negociou investimento conversível na SteelCorp com Vorcaro, segundo o Poder360.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261002-19-s2"
+      ],
+      "outroLado": [
+        {
+          "name": "Roberto Justus",
+          "text": "A assessoria de Justus informou em 01/10 que a menção à recuperação judicial foi uma estratégia de negociação, e não anúncio de pedido. Disse que a conversão em ações não ocorreu, que Vorcaro não se tornou sócio nesta operação e que a relação foi encerrada antes da liquidação do banco. A defesa de Vorcaro não respondeu ao Poder360.",
+          "sources": [
+            "research_R20261002-19-s2"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Roberto Justus"
+      ],
+      "source": {
+        "outlet": "Poder360",
+        "date": "2026-10-01",
+        "headline": "Justus cobrou Vorcaro por aporte e chegou a falar em recuperação judicial",
+        "link": "https://www.poder360.com.br/poder-justica/justus-cobrou-vorcaro-por-aporte-e-chegou-a-falar-em-recuperacao-judicial/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100219-m3",
+          "researchId": "R2026100219-m3",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-09-01",
+          "dateLabel": "2025-09-01",
+          "time": "",
+          "sender": "them",
+          "speaker": "Roberto Justus",
+          "text": "O que custa me receber por 1 horinha pra resolvermos esse assunto?",
+          "sources": [
+            "research_R20261002-19-s2"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s2"
+            ],
+            "checked": [
+              "R20261002-19-s2"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho literal da cobrança publicada pelo Poder360, datada em 01/09/2025. Não equivale a anúncio de recuperação judicial; a nota de Justus esclarece a negociação.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "acm_neto",
+      "name": "ACM Neto",
+      "role": "Ex-deputado federal e ex-prefeito de Salvador",
+      "category": "politica",
+      "avatarInitials": "AN",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Segundo resumo da Wikipédia (Folha, 8/4/2026), o Master declarou pagamentos de R$ 5,4 milhões a ele. Nenhuma mensagem ou contato documentado com Vorcaro foi encontrado.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261002-19-s3"
+      ],
+      "outroLado": [
+        {
+          "name": "ACM Neto",
+          "text": "À piauí, ACM Neto afirmou que as visitas decorreram de compromissos profissionais e negou ter participado de festas de Vorcaro. Esta seleção registra apenas a troca de contatos e a resposta, sem reproduzir conteúdo íntimo.",
+          "sources": [
+            "research_R20261002-19-s3"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "ACM Neto"
+      ],
+      "source": {
+        "outlet": "Revista piauí",
+        "date": "2026-10-01",
+        "headline": "A corte de prazeres de Vorcaro",
+        "link": "https://piaui.uol.com.br/web/festas-vorcaro-autoridades/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100219-m4",
+          "researchId": "R2026100219-m4",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-10-19",
+          "dateLabel": "2023-10-19",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Toda quarta reunião de conselho.",
+          "sources": [
+            "research_R20261002-19-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s3"
+            ],
+            "checked": [
+              "R20261002-19-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Frase final da apresentação publicada pela piauí em uma troca de contatos de 19/10/2023. A expressão não comprova a existência de um conselho formal nem define a natureza do encontro; ACM Neto afirma que suas visitas eram profissionais.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100219-m5",
+          "researchId": "R2026100219-m5",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-10-19",
+          "dateLabel": "2023-10-19",
+          "time": "",
+          "sender": "them",
+          "speaker": "ACM Neto",
+          "text": "foi bom demais. Não vou mais tomar falta de jeito nenhum. Rsss. Valeu mesmo!!!!",
+          "sources": [
+            "research_R20261002-19-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s3"
+            ],
+            "checked": [
+              "R20261002-19-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal da resposta na troca de 19/10/2023; a saudação inicial foi omitida. ACM Neto nega participação em festas e atribui as visitas a compromissos profissionais. O trecho isolado não estabelece irregularidade.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ],
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ACM_Neto_(cropped).jpg?width=320",
+      "photoCredit": "Alan Santos/PR · CC BY 2.0",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:ACM_Neto_(cropped).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:ACM_Neto_(cropped).jpg",
+        "credit": "Alan Santos/PR",
+        "license": "CC BY 2.0"
+      }
+    },
+    {
+      "id": "rueda",
+      "name": "Antônio Rueda",
+      "role": "Presidente nacional do União Brasil; advogado",
+      "category": "master",
+      "avatarInitials": "AR",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Citado por Paulo Henrique Costa em conversa com Vorcaro (queria falar com o banqueiro) e por Vorcaro em conversa sobre o evento de Londres. Seus escritórios prestaram serviços jurídicos ao Master.",
+      "originalContext": true,
+      "responseSources": [
+        "research_B2-s11",
+        "research_B2-s64",
+        "research_R20261002-19-s4"
+      ],
+      "outroLado": [
+        {
+          "name": "Antônio Rueda",
+          "text": "Não comentou diálogos privados e disse ter apenas contatos sociais eventuais com Vorcaro.",
+          "sources": [
+            "research_B2-s11"
+          ]
+        },
+        {
+          "name": "Antônio Rueda",
+          "text": "Depois admitiu ter advogado para o Master, descrevendo atividade profissional legítima.",
+          "sources": [
+            "research_B2-s64"
+          ]
+        },
+        {
+          "name": "Antônio Rueda",
+          "text": "A repercussão de Política ao Vivo consultada não traz manifestação específica sobre a oferta de aeronave. As respostas anteriores de Rueda sobre sua relação com Vorcaro permanecem disponíveis; isso não significa ausência de resposta posterior.",
+          "sources": [
+            "research_R20261002-19-s4"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Antônio Rueda"
+      ],
+      "source": {
+        "outlet": "Política ao Vivo",
+        "date": "2026-10-01",
+        "headline": "O Globo: em mensagens, Daniel Vorcaro ofereceu avião para uso de Antônio Rueda",
+        "link": "https://www.politicaaovivo.com/o-globo-em-mensagens-daniel-vorcaro-ofereceu-aviao-para-uso-de-antonio-rueda/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100219-m6",
+          "researchId": "R2026100219-m6",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2023-12",
+          "dateLabel": "2023-12",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Usa como seu",
+          "sources": [
+            "research_R20261002-19-s4"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s4"
+            ],
+            "checked": [
+              "R20261002-19-s4"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal sobre a oferta de aeronave, repercutido por Política ao Vivo com atribuição a O Globo. A fonte consultada informa dezembro de 2023, sem dia individual; omitem-se dados de terceiros e de viagem. Não demonstra que a aeronave foi utilizada.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ],
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrevistas_-_Uni%C3%A3o_Brasil_e_Progressistas_(54583141304).jpg?width=320",
+      "photoCredit": "Andressa Anholete/Agência Senado · CC BY 2.0",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Entrevistas_-_Uni%C3%A3o_Brasil_e_Progressistas_(54583141304).jpg",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Entrevistas_-_Uni%C3%A3o_Brasil_e_Progressistas_(54583141304).jpg",
+        "credit": "Andressa Anholete/Agência Senado",
+        "license": "CC BY 2.0"
+      }
+    },
+    {
+      "id": "walfrido_warde",
+      "name": "Walfrido Warde",
+      "role": "Advogado; o UOL o descreve como advogado de Vorcaro",
+      "category": "master",
+      "avatarInitials": "WW",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Interlocutor de Vorcaro em mensagens sobre a atuação de Roberta Rangel e negociações relativas ao Tayayá, segundo o UOL.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261002-19-s16"
+      ],
+      "outroLado": [
+        {
+          "name": "Walfrido Warde",
+          "text": "Roberta Rangel diz que nunca teve contrato com Vorcaro, que não havia conflito de interesse e que atuou em ações contra ele, seu pai e empresas. O UOL não publica manifestação específica de Warde.",
+          "sources": [
+            "research_R20261002-19-s16"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Walfrido Warde"
+      ],
+      "source": {
+        "outlet": "UOL",
+        "date": "2026-10-01",
+        "headline": "'Só fiz coisa boa ali com eles', reclamou Vorcaro sobre Toffoli e esposa",
+        "link": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/01/so-fiz-coisa-boa-ali-com-eles-reclamou-vorcaro-sobre-toffoli-e-esposa.htm"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100219-m15",
+          "researchId": "R2026100219-m15",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-08",
+          "dateLabel": "2024-08",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Agora recebi uma info bem chata da Roberta",
+          "sources": [
+            "research_R20261002-19-s16"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261002-19-s16"
+            ],
+            "checked": [
+              "R20261002-19-s16"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal de Vorcaro a Walfrido Warde. O UOL informa somente agosto de 2024. Roberta Rangel nega ter contratado com Vorcaro ou ter conflito de interesse e diz ter atuado em ações contra ele, seu pai e empresas. Trata-se de reclamação do remetente, não fala de Rangel ou de Toffoli.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -47641,10 +48623,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1313,
+      "totalMessagesRecovered": 1332,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 88
+      "sensitiveContactsIdentified": 92
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -49816,6 +50798,15 @@ window.PELELEC_DATA = {
       "outlet": "Wikipedia (en)",
       "title": "Ibaneis Rocha (renúncia em 28/03/2026 para disputar o Senado; consultado em 22/09/2026)",
       "url": "https://en.wikipedia.org/wiki/Ibaneis_Rocha",
+      "date": "2026-09-22",
+      "author": null,
+      "kind": "outro"
+    },
+    "research_B2-s70": {
+      "id": "research_B2-s70",
+      "outlet": "Wikipedia (en)",
+      "title": "2026 Bahia general election (candidaturas de Jaques Wagner ao Senado e ACM Neto ao governo; consultado em 22/09/2026)",
+      "url": "https://en.wikipedia.org/wiki/2026_Bahia_general_election",
       "date": "2026-09-22",
       "author": null,
       "kind": "outro"
@@ -54500,6 +55491,168 @@ window.PELELEC_DATA = {
       "author": "Gustavo Maia",
       "kind": "reportagem"
     },
+    "research_R20261002-19-s1": {
+      "id": "research_R20261002-19-s1",
+      "outlet": "Valor Econômico",
+      "title": "'Vou bater muito': Conversas de Vorcaro com publicitário mostram orquestração de ataques midiáticos contra o Itaú",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/01/conversas-de-vorcaro-com-publicitrio-mostram-orquestrao-de-ataques-miditicos-contra-o-ita.ghtml",
+      "date": "2026-10-01",
+      "author": "Álvaro Campos e Mateus Coutinho",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s2": {
+      "id": "research_R20261002-19-s2",
+      "outlet": "Poder360",
+      "title": "Justus cobrou Vorcaro por aporte e chegou a falar em recuperação judicial",
+      "url": "https://www.poder360.com.br/poder-justica/justus-cobrou-vorcaro-por-aporte-e-chegou-a-falar-em-recuperacao-judicial/",
+      "date": "2026-10-01",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s3": {
+      "id": "research_R20261002-19-s3",
+      "outlet": "Revista piauí",
+      "title": "A corte de prazeres de Vorcaro",
+      "url": "https://piaui.uol.com.br/web/festas-vorcaro-autoridades/",
+      "date": "2026-10-01",
+      "author": "João Batista Jr., Ana Clara Costa e Breno Pires",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s4": {
+      "id": "research_R20261002-19-s4",
+      "outlet": "Política ao Vivo",
+      "title": "O Globo: em mensagens, Daniel Vorcaro ofereceu avião para uso de Antônio Rueda",
+      "url": "https://www.politicaaovivo.com/o-globo-em-mensagens-daniel-vorcaro-ofereceu-aviao-para-uso-de-antonio-rueda/",
+      "date": "2026-10-01",
+      "author": null,
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s5": {
+      "id": "research_R20261002-19-s5",
+      "outlet": "CNN Brasil",
+      "title": "Master: Fachin terá reunião com PF para debater menção a ministros do STF",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/master-fachin-tera-reuniao-com-pf-para-debater-mencao-a-ministros-do-stf/",
+      "date": "2026-10-02",
+      "author": "Matheus Teixeira",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s6": {
+      "id": "research_R20261002-19-s6",
+      "outlet": "InfoMoney / Agência O Globo",
+      "title": "Fachin diz à PF que fatos envolvendo ministros devem ser apurados “sem exceção”",
+      "url": "https://www.infomoney.com.br/politica/fachin-diz-a-pf-que-fatos-envolvendo-ministros-devem-ser-apurados-sem-excecao/",
+      "date": "2026-10-02",
+      "author": "Agência O Globo",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s7": {
+      "id": "research_R20261002-19-s7",
+      "outlet": "Folha de S.Paulo",
+      "title": "Fachin marca reunião com PF e diz que menções a ministros no caso Master devem ser apuradas sem exceção",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/fachin-marca-reuniao-com-pf-sobre-achados-no-celular-de-vorcaro-contra-ministros-do-stf.shtml",
+      "date": "2026-10-02",
+      "author": "Constança Rezende",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s8": {
+      "id": "research_R20261002-19-s8",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "PF marca para próxima semana depoimentos de Galípolo, Campos Neto e Esteves sobre Banco Master",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/pf-marca-para-proxima-semana-depoimentos-de-galipolo-campos-neto-e-esteves-sobre-banco-master.shtml",
+      "date": "2026-10-01",
+      "author": "José Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s9": {
+      "id": "research_R20261002-19-s9",
+      "outlet": "Jovem Pan / Estadão Conteúdo",
+      "title": "PF marca depoimentos de Galípolo, Campos Neto e André Esteves sobre Master",
+      "url": "https://jovempan.com.br/brasil/pf-marca-depoimentos-de-galipolo-campos-neto-e-andre-esteves-sobre-master/",
+      "date": "2026-10-01",
+      "author": "Estadão Conteúdo",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s10": {
+      "id": "research_R20261002-19-s10",
+      "outlet": "SBT News",
+      "title": "Vorcaro ordenou espionagem sobre BC e falou em xeque-mate",
+      "url": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/vorcaro-ordenou-espionagem-sobre-bc-e-falou-em-xeque-mate",
+      "date": "2026-10-01",
+      "author": "Carla Araújo; Ranier Bragon",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s11": {
+      "id": "research_R20261002-19-s11",
+      "outlet": "UOL / Canal UOL",
+      "title": "Advogado: Vorcaro não fez vítimas, não é violento e apenas fez desabafos",
+      "url": "https://www.bol.uol.com.br/noticias/2026/10/01/vorcaro-nao-fez-vitimas-nao-e-violento-e-apenas-desabafou-diz-bialski.ghtm",
+      "date": "2026-10-01",
+      "author": "Do UOL, em São Paulo",
+      "kind": "resposta pública"
+    },
+    "research_R20261002-19-s12": {
+      "id": "research_R20261002-19-s12",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "Ex-gestor do BC diz à PF ter se reunido na casa de Vorcaro três vezes em SP e duas em Brasília",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/ex-gestor-do-bc-diz-a-pf-ter-se-reunido-na-casa-de-vorcaro-tres-vezes-em-sp-e-duas-em-brasilia.shtml",
+      "date": "2026-10-01",
+      "author": "Nathalia Garcia",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s13": {
+      "id": "research_R20261002-19-s13",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro usou intermediário para ocultar fatia em bet",
+      "url": "https://revistaoeste.com/politica/vorcaro-usou-intermediario-para-ocultar-fatia-em-embet-em/",
+      "date": "2026-10-01",
+      "author": "Erich Mafra",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s14": {
+      "id": "research_R20261002-19-s14",
+      "outlet": "Valor Econômico",
+      "title": "Vorcaro escondeu participação em bet, mostram mensagens: ‘Tá faturando R$ 5 milhões por dia’",
+      "url": "https://valor.globo.com/financas/noticia/2026/09/30/vorcaro-tentou-esconder-participao-em-bet-mostram-mensagens-t-faturando-r-5-milhes-por-dia.ghtml",
+      "date": "2026-09-30",
+      "author": "Liane Thedim e Mateus Coutinho",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s15": {
+      "id": "research_R20261002-19-s15",
+      "outlet": "Times Brasil | CNBC",
+      "title": "Vorcaro discutiu retirar nome de participação em bet após Fazenda exigir identificação de controlador",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-discutiu-retirar-nome-de-participacao-em-bet-apos-fazenda-exigir-identificacao-de-controlador/",
+      "date": "2026-09-30",
+      "author": "Amanda Souza",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s16": {
+      "id": "research_R20261002-19-s16",
+      "outlet": "UOL",
+      "title": "'Só fiz coisa boa ali com eles', reclamou Vorcaro sobre Toffoli e esposa",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/01/so-fiz-coisa-boa-ali-com-eles-reclamou-vorcaro-sobre-toffoli-e-esposa.htm",
+      "date": "2026-10-01",
+      "author": "Natália Portinari, Cézar Feitoza e Fabio Serapião",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s17": {
+      "id": "research_R20261002-19-s17",
+      "outlet": "Revista Oeste",
+      "title": "Motta pediu para falar com Vorcaro antes de reunião no BC",
+      "url": "https://revistaoeste.com/politica/motta-pediu-para-falar-com-vorcaro-antes-de-reuniao-no-bc/",
+      "date": "2026-09-30",
+      "author": "Pâmela Zacarias",
+      "kind": "reportagem"
+    },
+    "research_R20261002-19-s18": {
+      "id": "research_R20261002-19-s18",
+      "outlet": "UOL",
+      "title": "Vorcaro apoiou ida de Motta à presidência da Câmara e ofereceu avião e casa",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm",
+      "date": "2026-10-02",
+      "author": "Fabio Serapião, Cézar Feitoza e Natália Portinari",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -54510,9 +55663,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-09-30",
-    "researchChats": 82,
-    "researchRecords": 1258,
+    "updated": "2026-10-02",
+    "researchChats": 86,
+    "researchRecords": 1277,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -54562,6 +55715,12 @@ window.PELELEC_DATA = {
       "text": "Em depoimento de 30/09, negou atos violentos ou intimidatórios e a existência de grupos organizados chamados A Turma ou Os Meninos. Sua defesa descreveu o contrato com Mourão como lícito, atribuiu os textos a desabafos sem consequências práticas e pediu a soltura.",
       "sources": [
         "research_R20261001-00-s8"
+      ]
+    },
+    {
+      "text": "Em entrevista ao UOL News em 01/10/2026, Daniel Bialski afirmou que as mensagens eram desabafos e que não houve vítimas ou atos executórios de violência atribuíveis a Vorcaro. Disse não ver no inquérito prova de ligação de seu cliente com a queda do site da Piauí, pediu leitura integral das conversas e revogação da prisão por excesso de prazo. Trata-se da posição da defesa, contraposta às suspeitas de monitoramento, intimidação e coação investigadas pela PF, e não de conclusão judicial.",
+      "sources": [
+        "research_R20261002-19-s11"
       ]
     }
   ],
@@ -55860,6 +57019,121 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261001-00-s9"
       ]
+    },
+    {
+      "id": "t107",
+      "date": "2026-10-01",
+      "title": "Valor publica estratégia de comunicação contra o Itaú",
+      "text": "O Valor publicou diálogos de 2024 e 2025 com Thiago Miranda sobre uma estratégia de ataques midiáticos ao Itaú, sem demonstrar sua execução integral. O Itaú não comentou e a defesa de Miranda não se posicionou na versão atualizada em 02/10; suas respostas anteriores permanecem disponíveis.",
+      "sources": [
+        "research_R20261002-19-s1"
+      ]
+    },
+    {
+      "id": "t108",
+      "date": "2026-10-01",
+      "title": "SteelCorp: cobranças de Justus e resposta da assessoria",
+      "text": "O Poder360 revelou cobranças de Justus por um investimento conversível, sem apontar ilegalidade nos diálogos. Sua assessoria afirmou que a menção à recuperação judicial era uma estratégia, que a conversão em ações não ocorreu e que a relação foi encerrada antes da liquidação do banco. Vorcaro não respondeu ao veículo.",
+      "sources": [
+        "research_R20261002-19-s2"
+      ]
+    },
+    {
+      "id": "t109",
+      "date": "2026-10-01",
+      "title": "piauí publica troca de contatos e resposta de ACM Neto",
+      "text": "A piauí divulgou uma troca de contatos entre Vorcaro e ACM Neto de 19/10/2023, que isoladamente não comprova irregularidade. Neto afirmou que suas visitas eram motivadas por compromissos profissionais e negou participação em festas; o acervo não reproduz conteúdo íntimo.",
+      "sources": [
+        "research_R20261002-19-s3"
+      ]
+    },
+    {
+      "id": "t110",
+      "date": "2026-10-01",
+      "title": "Oferta de aeronave a Rueda é repercutida",
+      "text": "Política ao Vivo repercutiu diálogos publicados por O Globo sobre uma oferta de aeronave a Rueda em dezembro de 2023, sem dia preciso ou confirmação de uso efetivo. A repercussão não apresenta manifestação específica de Rueda; suas respostas anteriores permanecem acessíveis.",
+      "sources": [
+        "research_R20261002-19-s4"
+      ]
+    },
+    {
+      "id": "t111",
+      "date": "2026-10-02",
+      "title": "Fachin confirma audiência com a PF e pede apuração integral",
+      "text": "Fachin confirmou reunião com a direção da PF na segunda semana de outubro, após pedido recebido em 01/10, para tratar das menções a ministros nas investigações do Master. Em ofício de 02/10, defendeu apuração integral, sem exceções, com respeito à autonomia da PF e do Ministério Público, às competências do STF e ao devido processo legal. A reunião ainda não ocorreu e não se trata de decisão sobre a culpa dos citados.",
+      "sources": [
+        "research_R20261002-19-s5",
+        "research_R20261002-19-s6",
+        "research_R20261002-19-s7"
+      ]
+    },
+    {
+      "id": "t112",
+      "date": "2026-10-01",
+      "title": "PF agenda oitivas de testemunhas do caso Master",
+      "text": "Folha e Estadão/Jovem Pan relatam oitivas como testemunhas de André Esteves em 05/10, Gabriel Galípolo em 06/10 e Roberto Campos Neto em 07/10; Ailton de Aquino também deve depor, com calendário sujeito a adiamento. Campos Neto não se manifestou, o BTG não havia respondido à Folha e Galípolo havia declarado estar à disposição das instituições. As defesas de Belline e Paulo Sérgio negam favorecimento ao Master.",
+      "sources": [
+        "research_R20261002-19-s8",
+        "research_R20261002-19-s9"
+      ]
+    },
+    {
+      "id": "t113",
+      "date": "2026-10-01",
+      "title": "Reportagem detalha levantamento sobre diretor do BC",
+      "text": "O SBT News publica diálogos de 07–08/08/2025 sobre levantamento solicitado por Vorcaro a Mourão a respeito de Renato Gomes, então diretor do BC. O BC, Renato e a defesa de Vorcaro não responderam à reportagem; o contraponto geral da defesa publicado pelo UOL está acessível em Outro lado. Dados privados e arquivos indisponíveis foram omitidos.",
+      "sources": [
+        "research_R20261002-19-s10",
+        "research_R20261002-19-s11"
+      ]
+    },
+    {
+      "id": "t114",
+      "date": "2026-10-01",
+      "title": "Belline descreve reuniões com Vorcaro e nega favorecimento",
+      "text": "A Folha publica relato de Belline Santana à PF, em 25/08/2026, sobre ao menos três reuniões com Vorcaro em São Paulo e duas em Brasília, sem datas individuais precisas ou registros na agenda pública. Belline negou favorecimento e atribuiu os encontros a temas institucionais de supervisão e regulação, caráter também defendido por Paulo Sérgio e Vorcaro. O BC não quis se manifestar; nenhum endereço privado foi reproduzido.",
+      "sources": [
+        "research_R20261002-19-s12"
+      ]
+    },
+    {
+      "id": "t115",
+      "date": "2026-09-30",
+      "title": "Diálogos sobre identificação do beneficiário da Bet.Bet",
+      "text": "Valor e Oeste publicam mensagens de Rennó e Vorcaro sobre a identificação do beneficiário final da Bet.Bet e tratativas de retirada formal. O Times informa que a defesa de Vorcaro não se manifestou e não conseguiu contato com advogados de Rennó.",
+      "sources": [
+        "research_R20261002-19-s13",
+        "research_R20261002-19-s14",
+        "research_R20261002-19-s15"
+      ]
+    },
+    {
+      "id": "t116",
+      "date": "2026-10-01",
+      "title": "UOL publica mensagens sobre aporte ligado ao Tayayá",
+      "text": "UOL publica mensagens de Vorcaro a Zettel em 24/05/2024 sobre aporte e uma reclamação a Warde, em agosto, sobre Roberta Rangel. Rangel nega contrato com Vorcaro e conflito de interesse; o gabinete de Toffoli diz que as operações foram declaradas e as vendas feitas por valores de mercado.",
+      "sources": [
+        "research_R20261002-19-s16"
+      ]
+    },
+    {
+      "id": "t117",
+      "date": "2026-09-30",
+      "title": "Pedidos de conversa de Motta antes de reunião no BC",
+      "text": "Oeste repercute mensagens atribuídas a Motta em 19/07/2025 e 15/08/2025 sobre conversas com Vorcaro e agenda do BC. A matéria não publica resposta específica; em nota à CNN de 29/09 sobre outras mensagens, Motta negou ilícitos e favorecimento.",
+      "sources": [
+        "research_R20261002-19-s17",
+        "research_R20260929-23-s8"
+      ]
+    },
+    {
+      "id": "t118",
+      "date": "2026-10-02",
+      "title": "UOL divulga diálogos sobre a candidatura de Motta à Câmara",
+      "text": "UOL publica mensagens de Vorcaro e Fábio Faria de 24/05 e 03/09/2024 sobre a possível candidatura de Hugo Motta. Motta afirma que os diálogos não maculam sua atuação e que seus contatos seguiram critérios de probidade; a defesa de Vorcaro não respondeu ao veículo.",
+      "sources": [
+        "research_R20261002-19-s18"
+      ]
     }
   ],
   "press": [
@@ -55925,15 +57199,6 @@ window.PELELEC_DATA = {
       "date": "2026-01-27",
       "kind": "reportagem",
       "author": "Caio Junqueira"
-    },
-    {
-      "id": "research_B2-s70",
-      "outlet": "Wikipedia (en)",
-      "title": "2026 Bahia general election (candidaturas de Jaques Wagner ao Senado e ACM Neto ao governo; consultado em 22/09/2026)",
-      "url": "https://en.wikipedia.org/wiki/2026_Bahia_general_election",
-      "date": "2026-09-22",
-      "kind": "outro",
-      "author": null
     },
     {
       "id": "research_C-s31",
