@@ -1,15 +1,15 @@
 {
   "meta": {
     "updated": "2026-10-02",
-    "generated": "2026-10-02T22:47:40.488Z",
+    "generated": "2026-10-03T04:31:11.805Z",
     "counts": {
-      "chats": 86,
-      "messages": 1232,
+      "chats": 88,
+      "messages": 1236,
       "recovered": 61,
       "low": 0,
-      "contacts": 117,
-      "sources": 753,
-      "timeline": 118
+      "contacts": 121,
+      "sources": 758,
+      "timeline": 121
     }
   },
   "owner": {
@@ -4252,15 +4252,119 @@
           "src": [
             "R20261002-19-s16"
           ]
+        },
+        {
+          "summary": "Poder360 procurou Warde, a defesa de Vorcaro e o Planalto; não houve resposta até a publicação.",
+          "quote": null,
+          "src": [
+            "R20261003-01-s1"
+          ]
         }
       ],
       "src": [
-        "R20261002-19-s16"
+        "R20261002-19-s16",
+        "R20261003-01-s1"
       ],
       "public": false,
       "approxMessages": null,
       "period": null,
       "group": "negocios"
+    },
+    "joesley_batista": {
+      "id": "joesley_batista",
+      "name": "Joesley Batista",
+      "savedAs": null,
+      "role": "Empresário do grupo J&F",
+      "relation": "Citado em mensagem de Vorcaro a Warde sobre a negociação Master/BRB.",
+      "candidate2026": null,
+      "outroLado": [
+        {
+          "summary": "A J&F nega interesse em adquirir o Master ou nas negociações com o BRB; diz ter avaliado ativos e desistido após análise jurídica.",
+          "quote": null,
+          "src": [
+            "R20261003-01-s1"
+          ]
+        }
+      ],
+      "src": [
+        "R20261003-01-s1"
+      ],
+      "public": true,
+      "approxMessages": null,
+      "period": null,
+      "group": "negocios"
+    },
+    "evandro_negrao": {
+      "id": "evandro_negrao",
+      "name": "Evandro Negrão",
+      "savedAs": null,
+      "role": "Secretário-administrativo do Novo na época da mensagem",
+      "relation": "Interlocutor partidário que enviou convite a Vorcaro.",
+      "candidate2026": null,
+      "outroLado": [
+        {
+          "summary": "Zema negou encontros; sua campanha negou presença na cerimônia de julho, evento distinto dos almoços.",
+          "quote": null,
+          "src": [
+            "R20261003-01-s2"
+          ]
+        }
+      ],
+      "src": [
+        "R20261003-01-s2"
+      ],
+      "public": true,
+      "approxMessages": null,
+      "period": null,
+      "group": "politica"
+    },
+    "jessica_leocadio": {
+      "id": "jessica_leocadio",
+      "name": "Jéssica Leocadio",
+      "savedAs": null,
+      "role": "Chefe da secretaria-executiva do governo mineiro na época",
+      "relation": "Enviou convite institucional; não equivale a conversa direta com Zema.",
+      "candidate2026": null,
+      "outroLado": [
+        {
+          "summary": "Zema negou encontros; sua campanha negou presença na cerimônia de julho, evento distinto dos almoços.",
+          "quote": null,
+          "src": [
+            "R20261003-01-s2"
+          ]
+        }
+      ],
+      "src": [
+        "R20261003-01-s2"
+      ],
+      "public": true,
+      "approxMessages": null,
+      "period": null,
+      "group": "politica"
+    },
+    "zema": {
+      "id": "zema",
+      "name": "Romeu Zema",
+      "savedAs": null,
+      "role": "Ex-governador de Minas Gerais e candidato à Presidência em 2026",
+      "relation": "Mencionado pela equipe; sem conversa direta importada.",
+      "candidate2026": null,
+      "outroLado": [
+        {
+          "summary": "Zema negou encontros; sua campanha negou presença na cerimônia de julho, evento distinto dos almoços.",
+          "quote": null,
+          "src": [
+            "R20261003-01-s2"
+          ]
+        }
+      ],
+      "src": [
+        "R20261003-01-s2"
+      ],
+      "public": true,
+      "approxMessages": null,
+      "period": null,
+      "group": "politica"
     },
     "desconhecido": {
       "id": "desconhecido",
@@ -33485,6 +33589,135 @@
               "R20261002-19-s16"
             ]
           }
+        },
+        {
+          "id": "R2026100301-m1",
+          "from": "vorcaro",
+          "kind": "text",
+          "text": "Tenho que frear esse Joesley senão vai entrar numa guerra",
+          "ctx": "Trecho como publicado pelo Poder360 na conversa de 15/05/2025 sobre a negociação Master/BRB. A J&F nega interesse na aquisição do Master e nas negociações com o BRB.",
+          "conf": "medium",
+          "src": [
+            "R20261003-01-s1"
+          ],
+          "mentions": [
+            "joesley_batista"
+          ],
+          "d": "2025-05-15",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s1"
+            ],
+            "checked": [
+              "R20261003-01-s1"
+            ]
+          }
+        },
+        {
+          "id": "R2026100301-m2",
+          "from": "walfrido_warde",
+          "kind": "text",
+          "text": "Como quer fazer? Posso ajudar",
+          "ctx": "Fragmento literal da resposta de Warde na mesma conversa de 15/05/2025; expressão inicial omitida. Não há horário individual publicado.",
+          "conf": "medium",
+          "src": [
+            "R20261003-01-s1"
+          ],
+          "d": "2025-05-15",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s1"
+            ],
+            "checked": [
+              "R20261003-01-s1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "evandro_negrao",
+      "title": null,
+      "members": [
+        "evandro_negrao"
+      ],
+      "group": "politica",
+      "pinned": false,
+      "thirdParty": false,
+      "note": null,
+      "messages": [
+        {
+          "id": "R2026100301-m3",
+          "from": "evandro_negrao",
+          "kind": "text",
+          "text": "Segundo O Globo, Negrão convidou Vorcaro para um almoço com Zema e o Novo em 19/04/2024.",
+          "verbatim": false,
+          "ctx": "Convite não comprova encontro realizado.",
+          "conf": "medium",
+          "src": [
+            "R20261003-01-s2"
+          ],
+          "mentions": [
+            "zema"
+          ],
+          "d": "2024-04-19",
+          "p": "day",
+          "label": "Resumo editorial de mensagem publicada",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s2"
+            ],
+            "checked": [
+              "R20261003-01-s2"
+            ],
+            "note": "Resumo editorial conferido semanticamente no corpo original; não é transcrição literal."
+          }
+        }
+      ]
+    },
+    {
+      "id": "jessica_leocadio",
+      "title": null,
+      "members": [
+        "jessica_leocadio"
+      ],
+      "group": "politica",
+      "pinned": false,
+      "thirdParty": false,
+      "note": null,
+      "messages": [
+        {
+          "id": "R2026100301-m4",
+          "from": "vorcaro",
+          "kind": "text",
+          "text": "Segundo O Globo, Vorcaro recusou o almoço com Zema em 02/07/2025 porque estaria fora do Brasil.",
+          "verbatim": false,
+          "ctx": "Resposta a Jéssica situada em junho de 2025; dia não informado.",
+          "conf": "medium",
+          "src": [
+            "R20261003-01-s2"
+          ],
+          "mentions": [
+            "zema"
+          ],
+          "d": "2025-06",
+          "p": "month",
+          "label": "Resumo editorial de mensagem publicada",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s2"
+            ],
+            "checked": [
+              "R20261003-01-s2"
+            ],
+            "note": "Resumo editorial conferido semanticamente no corpo original; não é transcrição literal."
+          }
         }
       ]
     }
@@ -35136,7 +35369,9 @@
       "src": [
         "R20261002-19-s5",
         "R20261002-19-s6",
-        "R20261002-19-s7"
+        "R20261002-19-s7",
+        "R20261003-01-s4",
+        "R20261003-01-s5"
       ]
     },
     {
@@ -35234,6 +35469,46 @@
       ],
       "src": [
         "R20261002-19-s18"
+      ]
+    },
+    {
+      "id": "t119",
+      "date": "2026-10-01",
+      "title": "Diálogo de Vorcaro e Warde menciona conflito com Joesley",
+      "text": "Poder360 divulga conversa de 15/05/2025 sobre a negociação Master/BRB. J&F nega interesse na aquisição do banco ou nas negociações com o BRB. Warde, defesa de Vorcaro e Planalto não responderam ao veículo.",
+      "contacts": [
+        "walfrido_warde",
+        "joesley_batista"
+      ],
+      "src": [
+        "R20261003-01-s1"
+      ]
+    },
+    {
+      "id": "t120",
+      "date": "2026-10-02",
+      "title": "Convites da equipe de Zema a Vorcaro",
+      "text": "O Globo divulga convites da equipe de Zema em 2024 e 2025, sem comprovar encontros. A campanha informou convites amplos e negou presença na cerimônia de julho, evento distinto.",
+      "contacts": [
+        "zema",
+        "evandro_negrao",
+        "jessica_leocadio"
+      ],
+      "src": [
+        "R20261003-01-s2"
+      ]
+    },
+    {
+      "id": "t121",
+      "date": "2026-10-01",
+      "title": "CNN relata previsão de conclusão do inquérito de A Turma",
+      "text": "A CNN informou em 01/10 que a PF previa concluir em outubro o inquérito específico sobre A Turma após os depoimentos de Daniel e Henrique Vorcaro em 30/09; o destinatário no STF ainda estava indefinido. Trata-se de previsão, sem confirmação de conclusão. Daniel e Henrique negaram os atos investigados, e a defesa de Daniel negou articulação para intimidar jornalistas ou adversários e contestou o uso de mensagens fragmentadas.",
+      "contacts": [
+        "henrique_vorcaro",
+        "mourao"
+      ],
+      "src": [
+        "R20261003-01-s3"
       ]
     }
   ],
@@ -42013,6 +42288,51 @@
       "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm",
       "date": "2026-10-02",
       "author": "Fabio Serapião, Cézar Feitoza e Natália Portinari",
+      "kind": "reportagem"
+    },
+    "R20261003-01-s1": {
+      "id": "R20261003-01-s1",
+      "outlet": "Poder360",
+      "title": "“Tenho que frear esse Joesley”, disse Vorcaro a advogado",
+      "url": "https://www.poder360.com.br/poder-justica/tenho-que-frear-esse-joesley-disse-vorcaro-a-advogado/",
+      "date": "2026-10-01",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "R20261003-01-s2": {
+      "id": "R20261003-01-s2",
+      "outlet": "O Globo / Lauro Jardim",
+      "title": "Zema, que nega ter encontrado Vorcaro, o convidou para ao menos três almoços, mostram mensagens",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/zema-que-nega-ter-encontrado-vorcaro-o-convidou-para-ao-menos-tres-almocos-mostram-mensagens.ghtml",
+      "date": "2026-10-02",
+      "author": "Gustavo Maia e Rodrigo Castro",
+      "kind": "reportagem"
+    },
+    "R20261003-01-s3": {
+      "id": "R20261003-01-s3",
+      "outlet": "CNN Brasil",
+      "title": "Após depoimento de Vorcaro, PF prevê fim de inquérito da \"Turma\" este mês",
+      "url": "https://www.cnnbrasil.com.br/politica/apos-depoimento-de-vorcaro-pf-preve-fim-de-inquerito-da-turma-este-mes/",
+      "date": "2026-10-01",
+      "author": "Da CNN Brasil",
+      "kind": "reportagem"
+    },
+    "R20261003-01-s4": {
+      "id": "R20261003-01-s4",
+      "outlet": "Agência Brasil",
+      "title": "Fachin terá reunião com PF sobre citações a ministros no caso Master",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-tera-reuniao-com-pf-sobre-citacoes-ministros-no-caso-master",
+      "date": "2026-10-02",
+      "author": "André Richter",
+      "kind": "reportagem"
+    },
+    "R20261003-01-s5": {
+      "id": "R20261003-01-s5",
+      "outlet": "Radioagência Nacional",
+      "title": "Fachin e Andrei se reunirão para tratar de Vorcaro e ministros do STF",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/fachin-e-andrei-se-reunirao-para-tratar-de-vorcaro-e-ministros-do-stf",
+      "date": "2026-10-02",
+      "author": "Gésio Passos",
       "kind": "reportagem"
     }
   },

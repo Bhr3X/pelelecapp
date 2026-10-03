@@ -48556,7 +48556,8 @@ window.PELELEC_DATA = {
       "contextSummary": "Interlocutor de Vorcaro em mensagens sobre a atuação de Roberta Rangel e negociações relativas ao Tayayá, segundo o UOL.",
       "originalContext": true,
       "responseSources": [
-        "research_R20261002-19-s16"
+        "research_R20261002-19-s16",
+        "research_R20261003-01-s1"
       ],
       "outroLado": [
         {
@@ -48564,6 +48565,13 @@ window.PELELEC_DATA = {
           "text": "Roberta Rangel diz que nunca teve contrato com Vorcaro, que não havia conflito de interesse e que atuou em ações contra ele, seu pai e empresas. O UOL não publica manifestação específica de Warde.",
           "sources": [
             "research_R20261002-19-s16"
+          ]
+        },
+        {
+          "name": "Walfrido Warde",
+          "text": "Poder360 procurou Warde, a defesa de Vorcaro e o Planalto; não houve resposta até a publicação.",
+          "sources": [
+            "research_R20261003-01-s1"
           ]
         }
       ],
@@ -48612,6 +48620,224 @@ window.PELELEC_DATA = {
           "datePrecision": "month",
           "variants": [],
           "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100301-m1",
+          "researchId": "R2026100301-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-05-15",
+          "dateLabel": "2025-05-15",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Tenho que frear esse Joesley senão vai entrar numa guerra",
+          "sources": [
+            "research_R20261003-01-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s1"
+            ],
+            "checked": [
+              "R20261003-01-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho como publicado pelo Poder360 na conversa de 15/05/2025 sobre a negociação Master/BRB. A J&F nega interesse na aquisição do Master e nas negociações com o BRB.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100301-m2",
+          "researchId": "R2026100301-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-05-15",
+          "dateLabel": "2025-05-15",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Como quer fazer? Posso ajudar",
+          "sources": [
+            "research_R20261003-01-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s1"
+            ],
+            "checked": [
+              "R20261003-01-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal da resposta de Warde na mesma conversa de 15/05/2025; expressão inicial omitida. Não há horário individual publicado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "evandro_negrao",
+      "name": "Evandro Negrão",
+      "role": "Secretário-administrativo do Novo na época da mensagem",
+      "category": "politica",
+      "avatarInitials": "EN",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Interlocutor partidário que enviou convite a Vorcaro.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261003-01-s2"
+      ],
+      "outroLado": [
+        {
+          "name": "Evandro Negrão",
+          "text": "Zema negou encontros; sua campanha negou presença na cerimônia de julho, evento distinto dos almoços.",
+          "sources": [
+            "research_R20261003-01-s2"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Evandro Negrão"
+      ],
+      "source": {
+        "outlet": "O Globo / Lauro Jardim",
+        "date": "2026-10-02",
+        "headline": "Zema, que nega ter encontrado Vorcaro, o convidou para ao menos três almoços, mostram mensagens",
+        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/zema-que-nega-ter-encontrado-vorcaro-o-convidou-para-ao-menos-tres-almocos-mostram-mensagens.ghtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100301-m3",
+          "researchId": "R2026100301-m3",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-04-19",
+          "dateLabel": "2024-04-19",
+          "time": "",
+          "sender": "them",
+          "speaker": "Evandro Negrão",
+          "text": "Segundo O Globo, Negrão convidou Vorcaro para um almoço com Zema e o Novo em 19/04/2024.",
+          "sources": [
+            "research_R20261003-01-s2"
+          ],
+          "researchRefs": [],
+          "title": "Resumo editorial de mensagem publicada",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s2"
+            ],
+            "checked": [
+              "R20261003-01-s2"
+            ],
+            "note": "Resumo editorial conferido semanticamente no corpo original; não é transcrição literal."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Convite não comprova encontro realizado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "jessica_leocadio",
+      "name": "Jéssica Leocadio",
+      "role": "Chefe da secretaria-executiva do governo mineiro na época",
+      "category": "politica",
+      "avatarInitials": "JL",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Enviou convite institucional; não equivale a conversa direta com Zema.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261003-01-s2"
+      ],
+      "outroLado": [
+        {
+          "name": "Jéssica Leocadio",
+          "text": "Zema negou encontros; sua campanha negou presença na cerimônia de julho, evento distinto dos almoços.",
+          "sources": [
+            "research_R20261003-01-s2"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Jéssica Leocadio"
+      ],
+      "source": {
+        "outlet": "O Globo / Lauro Jardim",
+        "date": "2026-10-02",
+        "headline": "Zema, que nega ter encontrado Vorcaro, o convidou para ao menos três almoços, mostram mensagens",
+        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/zema-que-nega-ter-encontrado-vorcaro-o-convidou-para-ao-menos-tres-almocos-mostram-mensagens.ghtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100301-m4",
+          "researchId": "R2026100301-m4",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-06",
+          "dateLabel": "2025-06",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Segundo O Globo, Vorcaro recusou o almoço com Zema em 02/07/2025 porque estaria fora do Brasil.",
+          "sources": [
+            "research_R20261003-01-s2"
+          ],
+          "researchRefs": [],
+          "title": "Resumo editorial de mensagem publicada",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-01-s2"
+            ],
+            "checked": [
+              "R20261003-01-s2"
+            ],
+            "note": "Resumo editorial conferido semanticamente no corpo original; não é transcrição literal."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta a Jéssica situada em junho de 2025; dia não informado.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
         }
       ]
     }
@@ -48623,10 +48849,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1332,
+      "totalMessagesRecovered": 1336,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 92
+      "sensitiveContactsIdentified": 94
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -55653,6 +55879,51 @@ window.PELELEC_DATA = {
       "author": "Fabio Serapião, Cézar Feitoza e Natália Portinari",
       "kind": "reportagem"
     },
+    "research_R20261003-01-s1": {
+      "id": "research_R20261003-01-s1",
+      "outlet": "Poder360",
+      "title": "“Tenho que frear esse Joesley”, disse Vorcaro a advogado",
+      "url": "https://www.poder360.com.br/poder-justica/tenho-que-frear-esse-joesley-disse-vorcaro-a-advogado/",
+      "date": "2026-10-01",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261003-01-s2": {
+      "id": "research_R20261003-01-s2",
+      "outlet": "O Globo / Lauro Jardim",
+      "title": "Zema, que nega ter encontrado Vorcaro, o convidou para ao menos três almoços, mostram mensagens",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/zema-que-nega-ter-encontrado-vorcaro-o-convidou-para-ao-menos-tres-almocos-mostram-mensagens.ghtml",
+      "date": "2026-10-02",
+      "author": "Gustavo Maia e Rodrigo Castro",
+      "kind": "reportagem"
+    },
+    "research_R20261003-01-s3": {
+      "id": "research_R20261003-01-s3",
+      "outlet": "CNN Brasil",
+      "title": "Após depoimento de Vorcaro, PF prevê fim de inquérito da \"Turma\" este mês",
+      "url": "https://www.cnnbrasil.com.br/politica/apos-depoimento-de-vorcaro-pf-preve-fim-de-inquerito-da-turma-este-mes/",
+      "date": "2026-10-01",
+      "author": "Da CNN Brasil",
+      "kind": "reportagem"
+    },
+    "research_R20261003-01-s4": {
+      "id": "research_R20261003-01-s4",
+      "outlet": "Agência Brasil",
+      "title": "Fachin terá reunião com PF sobre citações a ministros no caso Master",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-tera-reuniao-com-pf-sobre-citacoes-ministros-no-caso-master",
+      "date": "2026-10-02",
+      "author": "André Richter",
+      "kind": "reportagem"
+    },
+    "research_R20261003-01-s5": {
+      "id": "research_R20261003-01-s5",
+      "outlet": "Radioagência Nacional",
+      "title": "Fachin e Andrei se reunirão para tratar de Vorcaro e ministros do STF",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/fachin-e-andrei-se-reunirao-para-tratar-de-vorcaro-e-ministros-do-stf",
+      "date": "2026-10-02",
+      "author": "Gésio Passos",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -55664,8 +55935,8 @@ window.PELELEC_DATA = {
   },
   "archiveMeta": {
     "updated": "2026-10-02",
-    "researchChats": 86,
-    "researchRecords": 1277,
+    "researchChats": 88,
+    "researchRecords": 1281,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -57064,7 +57335,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261002-19-s5",
         "research_R20261002-19-s6",
-        "research_R20261002-19-s7"
+        "research_R20261002-19-s7",
+        "research_R20261003-01-s4",
+        "research_R20261003-01-s5"
       ]
     },
     {
@@ -57133,6 +57406,33 @@ window.PELELEC_DATA = {
       "text": "UOL publica mensagens de Vorcaro e Fábio Faria de 24/05 e 03/09/2024 sobre a possível candidatura de Hugo Motta. Motta afirma que os diálogos não maculam sua atuação e que seus contatos seguiram critérios de probidade; a defesa de Vorcaro não respondeu ao veículo.",
       "sources": [
         "research_R20261002-19-s18"
+      ]
+    },
+    {
+      "id": "t119",
+      "date": "2026-10-01",
+      "title": "Diálogo de Vorcaro e Warde menciona conflito com Joesley",
+      "text": "Poder360 divulga conversa de 15/05/2025 sobre a negociação Master/BRB. J&F nega interesse na aquisição do banco ou nas negociações com o BRB. Warde, defesa de Vorcaro e Planalto não responderam ao veículo.",
+      "sources": [
+        "research_R20261003-01-s1"
+      ]
+    },
+    {
+      "id": "t120",
+      "date": "2026-10-02",
+      "title": "Convites da equipe de Zema a Vorcaro",
+      "text": "O Globo divulga convites da equipe de Zema em 2024 e 2025, sem comprovar encontros. A campanha informou convites amplos e negou presença na cerimônia de julho, evento distinto.",
+      "sources": [
+        "research_R20261003-01-s2"
+      ]
+    },
+    {
+      "id": "t121",
+      "date": "2026-10-01",
+      "title": "CNN relata previsão de conclusão do inquérito de A Turma",
+      "text": "A CNN informou em 01/10 que a PF previa concluir em outubro o inquérito específico sobre A Turma após os depoimentos de Daniel e Henrique Vorcaro em 30/09; o destinatário no STF ainda estava indefinido. Trata-se de previsão, sem confirmação de conclusão. Daniel e Henrique negaram os atos investigados, e a defesa de Daniel negou articulação para intimidar jornalistas ou adversários e contestou o uso de mensagens fragmentadas.",
+      "sources": [
+        "research_R20261003-01-s3"
       ]
     }
   ],
