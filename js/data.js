@@ -10355,7 +10355,9 @@ window.PELELEC_DATA = {
         "research_R20261002-19-s12",
         "research_A2-s50",
         "research_G-s39",
-        "research_R20261002-19-s8"
+        "research_R20261002-19-s8",
+        "research_R20261003-19-s6",
+        "research_R20261003-19-s13"
       ],
       "originalContext": true,
       "outroLado": [
@@ -10438,6 +10440,20 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20261002-19-s8",
             "research_R20261002-19-s12"
+          ]
+        },
+        {
+          "name": "Paulo Sérgio (diretor do Banco Central, segundo a PF)",
+          "text": "À Veja, o advogado Odel Antun negou favorecimento ao Master ou recebimento de dinheiro de Vorcaro e afirmou venda dos bens pelo valor de mercado.",
+          "sources": [
+            "research_R20261003-19-s6"
+          ]
+        },
+        {
+          "name": "Paulo Sérgio (diretor do Banco Central, segundo a PF)",
+          "text": "À PF, Paulo Sérgio afirmou que sua equipe identificou e comunicou fraudes e contestou a versão de Aquino.",
+          "sources": [
+            "research_R20261003-19-s13"
           ]
         }
       ],
@@ -35600,7 +35616,9 @@ window.PELELEC_DATA = {
         "research_G-s39",
         "research_H-s41",
         "research_R20261002-19-s8",
-        "research_R20261002-19-s12"
+        "research_R20261002-19-s12",
+        "research_R20261003-19-s6",
+        "research_R20261003-19-s13"
       ],
       "outroLado": [
         {
@@ -35646,6 +35664,20 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20261002-19-s8",
             "research_R20261002-19-s12"
+          ]
+        },
+        {
+          "name": "Paulo Sérgio (diretor do Banco Central, segundo a PF)",
+          "text": "À Veja, o advogado Odel Antun negou favorecimento ao Master ou recebimento de dinheiro de Vorcaro e afirmou venda dos bens pelo valor de mercado.",
+          "sources": [
+            "research_R20261003-19-s6"
+          ]
+        },
+        {
+          "name": "Paulo Sérgio (diretor do Banco Central, segundo a PF)",
+          "text": "À PF, Paulo Sérgio afirmou que sua equipe identificou e comunicou fraudes e contestou a versão de Aquino.",
+          "sources": [
+            "research_R20261003-19-s13"
           ]
         }
       ],
@@ -35723,6 +35755,40 @@ window.PELELEC_DATA = {
           "context": "Segundo a Folhapress, é de Vorcaro a Paulo Sérgio, sobre uma mudança de regra para fundos de pensão. O documento primário não foi conferido.",
           "documentRef": "",
           "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m2",
+          "researchId": "R2026100319-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-07",
+          "dateLabel": "2024-07",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Mas bolsonaro entrou no circuito",
+          "sources": [
+            "research_R20261003-19-s5"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s5"
+            ],
+            "checked": [
+              "R20261003-19-s5"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Veja situa a conversa em meados de julho de 2024, sem dia ou hora. A menção não comprova atuação de Bolsonaro; a reportagem não localizou indício de sua participação. Paulo Sérgio nega irregularidade.",
+          "documentRef": "",
+          "datePrecision": "month",
           "variants": [],
           "originalLanguage": true
         },
@@ -45984,6 +46050,13 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20261002-19-s18"
           ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Na reportagem original do UOL de 02/10, Motta afirma que seus contatos com o setor privado seguiram critérios de institucionalidade e probidade. A nota não é apresentada como resposta nova à repercussão da Oeste.",
+          "sources": [
+            "research_R20261002-19-s18"
+          ]
         }
       ],
       "thirdParty": false,
@@ -46177,6 +46250,74 @@ window.PELELEC_DATA = {
           "context": "Conversa sobre a compra de um terreno em João Pessoa (PB) em nome da cunhada de Motta, revelada pelo site Fatos Online e confirmada pela CNN em 29/09/2026.",
           "documentRef": "",
           "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m8",
+          "researchId": "R2026100319-m8",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10",
+          "dateLabel": "2024-10",
+          "time": "",
+          "sender": "them",
+          "speaker": "Hugo Motta",
+          "text": "Posso chamar o Arthur aqui",
+          "sources": [
+            "research_R20261003-19-s12"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s12"
+            ],
+            "checked": [
+              "R20261003-19-s12"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento literal do pedido de Motta para receber Arthur Lira em imóvel de Vorcaro. Oeste informa outubro, na sequência da campanha de 2024, sem dia individual. Pedido não comprova encontro realizado.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m9",
+          "researchId": "R2026100319-m9",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10",
+          "dateLabel": "2024-10",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Claro. Casa é sua",
+          "sources": [
+            "research_R20261003-19-s12"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s12"
+            ],
+            "checked": [
+              "R20261003-19-s12"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta curta de Vorcaro ao pedido de Motta, como publicada pela Oeste. Mesma precisão mensal; nenhum dia, endereço ou horário foi criado.",
+          "documentRef": "",
+          "datePrecision": "month",
           "variants": [],
           "originalLanguage": true
         },
@@ -47548,6 +47689,13 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20261002-19-s18"
           ]
+        },
+        {
+          "name": "Hugo Motta",
+          "text": "Na reportagem original do UOL de 02/10, Motta afirma que seus contatos com o setor privado seguiram critérios de institucionalidade e probidade. A nota não é apresentada como resposta nova à repercussão da Oeste.",
+          "sources": [
+            "research_R20261002-19-s18"
+          ]
         }
       ],
       "thirdParty": false,
@@ -48162,7 +48310,8 @@ window.PELELEC_DATA = {
       "responseSources": [
         "research_A2-s57",
         "research_R20261001-00-s9",
-        "research_R20261002-19-s8"
+        "research_R20261002-19-s8",
+        "research_R20261003-19-s11"
       ],
       "outroLado": [
         {
@@ -48184,6 +48333,13 @@ window.PELELEC_DATA = {
           "text": "Procurada sobre a agenda de depoimentos, a assessoria de Campos Neto disse à Folha que não vai se manifestar. Será ouvido como testemunha.",
           "sources": [
             "research_R20261002-19-s8"
+          ]
+        },
+        {
+          "name": "Roberto Campos Neto",
+          "text": "À Folha em 01/10, a defesa de Vorcaro não quis se manifestar sobre o diálogo; a assessoria de Campos Neto não respondeu até a publicação. A reportagem cita agenda do BC para um encontro institucional posterior à remarcação.",
+          "sources": [
+            "research_R20261003-19-s11"
           ]
         }
       ],
@@ -48327,7 +48483,9 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_R20261002-19-s2",
-        "research_R20261003-07-s2"
+        "research_R20261003-07-s2",
+        "research_R20261003-19-s16",
+        "research_R20261003-19-s17"
       ],
       "outroLado": [
         {
@@ -48343,6 +48501,14 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20261003-07-s2",
             "research_R20261002-19-s2"
+          ]
+        },
+        {
+          "name": "Roberto Justus",
+          "text": "Em vídeo de 03/10 relatado pelo Poder360 e Terra, Justus afirmou ter recomprado a dívida com recursos próprios e impedido a conversão em ações da SteelCorp. Disse que a recuperação judicial era pressão de negociação. É sua versão; não foram apresentados comprovantes independentes da recompra.",
+          "sources": [
+            "research_R20261003-19-s16",
+            "research_R20261003-19-s17"
           ]
         }
       ],
@@ -49128,6 +49294,426 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "interlocutor_bets",
+      "name": "Projeto de apostas · interlocutor não identificado",
+      "role": "Destinatário não identificado pela reportagem",
+      "category": "master",
+      "avatarInitials": "PD",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "A reportagem não identifica o destinatário nem a data da mensagem. As pessoas mencionadas não são apresentadas como interlocutores desta conversa.\nVEJA atribui a Vorcaro planos no setor de apostas; nomes citados não são destinatários documentados.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261003-19-s1",
+        "research_R20261003-19-s2",
+        "research_R20260930-18-s2",
+        "research_R20261003-19-s15"
+      ],
+      "outroLado": [
+        {
+          "name": "Interlocutor não identificado (projeto de apostas)",
+          "text": "A VEJA não publica manifestação dos citados e informa que registrará eventuais respostas.",
+          "sources": [
+            "research_R20261003-19-s1"
+          ]
+        },
+        {
+          "name": "Interlocutor não identificado (projeto de apostas)",
+          "text": "Contrapontos anteriores, sobre assuntos distintos: em 20/03, Anitta informou ao Metrópoles que a contratação pelo Will Bank não avançou; em 30/09, Huck negou sociedade com Vorcaro. Não são respostas à reportagem de hoje.",
+          "sources": [
+            "research_R20261003-19-s2",
+            "research_R20260930-18-s2"
+          ]
+        },
+        {
+          "name": "Interlocutor não identificado (projeto de apostas)",
+          "text": "A Oeste de 03/10 ressalva que os trechos não comprovam acordos ou autorizações. Não foi encontrada nova manifestação específica; notas anteriores permanecem como contexto.",
+          "sources": [
+            "research_R20261003-19-s15"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Interlocutor não identificado (projeto de apostas)"
+      ],
+      "source": {
+        "outlet": "VEJA / Radar",
+        "date": "2026-10-03",
+        "headline": "Em mensagens, Vorcaro cita a cantora Anitta como parceira em ‘maior de todas’ as bets",
+        "link": "https://veja.abril.com.br/brasil/em-mensagens-vorcaro-cita-a-cantora-anitta-como-parceira-em-maior-de-todas-as-bets/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100319-m1",
+          "researchId": "R2026100319-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Fechei já Anitta, Gustavo Lima, Luciano Huck e Globo",
+          "sources": [
+            "research_R20261003-19-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s1"
+            ],
+            "checked": [
+              "R20261003-19-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Afirmação de Vorcaro a destinatário não identificado pela VEJA. Sem data individual; não comprova participação dos citados. Grafia do cantor preservada como publicada.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m10",
+          "researchId": "R2026100319-m10",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "fazer estrago",
+          "sources": [
+            "research_R20261003-19-s15"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s15"
+            ],
+            "checked": [
+              "R20261003-19-s15"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento atribuído a Vorcaro sobre expectativas no mercado de apostas. Sem data ou destinatário identificado. Não comprova realização do empreendimento.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m11",
+          "researchId": "R2026100319-m11",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "em Brasília estava aprovando tudo, já",
+          "sources": [
+            "research_R20261003-19-s15"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s15"
+            ],
+            "checked": [
+              "R20261003-19-s15"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento atribuído a Vorcaro sobre articulação em Brasília. Sem data ou destinatário identificado. A reportagem não identifica autorizações nem confirma concessão.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "vanessa_souza",
+      "name": "Vanessa Souza",
+      "role": "Advogada",
+      "category": "master",
+      "avatarInitials": "VS",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Interlocutora de Vorcaro em conversa publicada pelo O Globo sobre o Master, Banco Central e Haddad.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261003-19-s8",
+        "research_R20261003-19-s9",
+        "research_R20261003-19-s18"
+      ],
+      "outroLado": [
+        {
+          "name": "Vanessa Souza",
+          "text": "O Globo não publica manifestação específica de Vanessa Souza. Sua resposta não descreve providência concreta nem comprova execução.",
+          "sources": [
+            "research_R20261003-19-s8"
+          ]
+        },
+        {
+          "name": "Vanessa Souza",
+          "text": "Contexto de Haddad: em entrevista de 18/09 ao Estadão, reproduzida pelo Terra, afirmou não ter recebido Vorcaro após alertas internos. Em 03/10, o Correio reproduziu post no X em que se apresentou como opositor. Essas manifestações não esclarecem providência de Vanessa.",
+          "sources": [
+            "research_R20261003-19-s9",
+            "research_R20261003-19-s18"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Vanessa Souza"
+      ],
+      "source": {
+        "outlet": "O Globo / Lauro Jardim",
+        "date": "2026-10-03",
+        "headline": "Vorcaro considerava Haddad um dos seus 'maiores opositores'",
+        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/vorcaro-considerava-haddad-um-dos-seus-maiores-opositores.ghtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100319-m3",
+          "researchId": "R2026100319-m3",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-10-29",
+          "dateLabel": "2025-10-29",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "E haddad um dos meus maiores opositores",
+          "sources": [
+            "research_R20261003-19-s8"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s8"
+            ],
+            "checked": [
+              "R20261003-19-s8"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Avaliação de Vorcaro, que na mesma resposta afirma não conhecer Haddad. Não comprova oposição efetiva ou irregularidade.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m4",
+          "researchId": "R2026100319-m4",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-10-29",
+          "dateLabel": "2025-10-29",
+          "time": "",
+          "sender": "them",
+          "speaker": "Vanessa Souza",
+          "text": "Vamos mudar isso, então",
+          "sources": [
+            "research_R20261003-19-s8"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s8"
+            ],
+            "checked": [
+              "R20261003-19-s8"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta publicada sem horário individual. Não descreve providência concreta nem comprova aproximação realizada.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
+    },
+    {
+      "id": "marcelo_cohen",
+      "name": "Marcelo Cohen",
+      "role": "Empresário ligado à Qualitours",
+      "category": "master",
+      "avatarInitials": "MC",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Interlocutor de Vorcaro em conversa sobre hospedagem para a COP30, publicada pela CNN.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261003-19-s10"
+      ],
+      "outroLado": [
+        {
+          "name": "Marcelo Cohen",
+          "text": "Qualitours negou participação Master/Vorcaro na contratação e execução; outro banco garantiu a operação. Casa Civil afirmou seguir critérios técnicos. Defesa de Vorcaro não havia respondido.",
+          "sources": [
+            "research_R20261003-19-s10"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Marcelo Cohen"
+      ],
+      "source": {
+        "outlet": "CNN Brasil / Gustavo Uribe",
+        "date": "2026-10-02",
+        "headline": "Empresário citou Lula “desesperado” na COP30 e buscou “solução” com Vorcaro",
+        "link": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/empresario-citou-lula-desesperado-na-cop30-e-buscou-solucao-com-vorcaro/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100319-m5",
+          "researchId": "R2026100319-m5",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-02",
+          "dateLabel": "2025-02",
+          "time": "",
+          "sender": "them",
+          "speaker": "Marcelo Cohen",
+          "text": "Nós temos a solução.",
+          "sources": [
+            "research_R20261003-19-s10"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s10"
+            ],
+            "checked": [
+              "R20261003-19-s10"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento sobre a COP30, situado pela CNN em fevereiro de 2025. Qualitours nega participação do Master ou de Vorcaro.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m6",
+          "researchId": "R2026100319-m6",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-02",
+          "dateLabel": "2025-02",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Claro",
+          "sources": [
+            "research_R20261003-19-s10"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s10"
+            ],
+            "checked": [
+              "R20261003-19-s10"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta à proposta de Cohen, sem dia ou hora individual. Não comprova participação ou execução.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100319-m7",
+          "researchId": "R2026100319-m7",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-02",
+          "dateLabel": "2025-02",
+          "time": "",
+          "sender": "them",
+          "speaker": "Marcelo Cohen",
+          "text": "Você vira o salvador da pátria.",
+          "sources": [
+            "research_R20261003-19-s10"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-19-s10"
+            ],
+            "checked": [
+              "R20261003-19-s10"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Continuação atribuída a Cohen. Avaliação do remetente, sem ação dos citados comprovada.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -49137,10 +49723,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1342,
+      "totalMessagesRecovered": 1353,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 95
+      "sensitiveContactsIdentified": 98
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -56266,6 +56852,168 @@ window.PELELEC_DATA = {
       "author": "Isabela Jordão",
       "kind": "reportagem"
     },
+    "research_R20261003-19-s1": {
+      "id": "research_R20261003-19-s1",
+      "outlet": "VEJA / Radar",
+      "title": "Em mensagens, Vorcaro cita a cantora Anitta como parceira em ‘maior de todas’ as bets",
+      "url": "https://veja.abril.com.br/brasil/em-mensagens-vorcaro-cita-a-cantora-anitta-como-parceira-em-maior-de-todas-as-bets/",
+      "date": "2026-10-03",
+      "author": "Robson Bonin",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s2": {
+      "id": "research_R20261003-19-s2",
+      "outlet": "Metrópoles / Fábia Oliveira",
+      "title": "Anitta se manifesta sobre reunião com Daniel Vorcaro; leia a nota",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/anitta-se-manifesta-sobre-reuniao-com-daniel-vorcaro-leia-a-nota",
+      "date": "2026-03-20",
+      "author": "Fábia Oliveira",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s3": {
+      "id": "research_R20261003-19-s3",
+      "outlet": "O Dia / Andrei Lara",
+      "title": "Roberto Justus implorou por reunião com Vorcaro",
+      "url": "https://odia.ig.com.br/colunas/andrei-lara/2026/10/7308374-roberto-justus-implorou-por-reuniao-com-vorcaro.html",
+      "date": "2026-10-03",
+      "author": "Andrei Lara",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s4": {
+      "id": "research_R20261003-19-s4",
+      "outlet": "g1",
+      "title": "Justiça dá direito de resposta a Tarcísio por vídeo de Haddad que o vinculava a suposta ‘máfia’ do Banco Master",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/justica-da-direito-de-resposta-a-tarcisio-por-video-de-haddad-que-o-vinculava-a-suposta-mafia-do-banco-master.ghtml",
+      "date": "2026-10-03",
+      "author": "Redação g1 SP",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s5": {
+      "id": "research_R20261003-19-s5",
+      "outlet": "Veja",
+      "title": "A menção aleatória de Vorcaro a Jair Bolsonaro em mensagens com ex-diretor do Banco Central",
+      "url": "https://veja.abril.com.br/politica/a-mencao-aleatoria-de-vorcaro-a-jair-bolsonaro-em-mensagens-com-ex-diretor-do-banco-central/",
+      "date": "2026-10-03",
+      "author": "Nicholas Shores",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s6": {
+      "id": "research_R20261003-19-s6",
+      "outlet": "Veja",
+      "title": "A incredulidade da PF com explicações de ex-Banco Central para ‘consultoria’ a Vorcaro",
+      "url": "https://veja.abril.com.br/politica/a-incredulidade-da-pf-com-explicacoes-de-ex-banco-central-para-consultoria-a-vorcaro/",
+      "date": "2026-10-03",
+      "author": "Nicholas Shores",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s7": {
+      "id": "research_R20261003-19-s7",
+      "outlet": "Veja",
+      "title": "Ex-chefe da comissão de ética da Presidência avalia decisão sobre Gonet e caso Master",
+      "url": "https://veja.abril.com.br/politica/ex-chefe-da-comissao-de-etica-da-presidencia-avalia-decisao-sobre-gonet-e-caso-master/",
+      "date": "2026-10-03",
+      "author": "Nicholas Shores",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s8": {
+      "id": "research_R20261003-19-s8",
+      "outlet": "O Globo / Lauro Jardim",
+      "title": "Vorcaro considerava Haddad um dos seus 'maiores opositores'",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/vorcaro-considerava-haddad-um-dos-seus-maiores-opositores.ghtml",
+      "date": "2026-10-03",
+      "author": "Gustavo Maia — Brasília",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s9": {
+      "id": "research_R20261003-19-s9",
+      "outlet": "Terra / Estadão Conteúdo",
+      "title": "'Se você não deve nada, tem que colaborar com a investigação', diz Haddad sobre crise no STF",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/se-voce-nao-deve-nada-tem-que-colaborar-com-a-investigacao-diz-haddad-sobre-crise-no-stf%2C19b0de8b5b2c072236dc4f97960b71bf2ya62b56.html",
+      "date": "2026-09-18",
+      "author": "Bianca Gomes, Juliano Galisi, Marcelo Godoy e Ricardo Corrêa",
+      "kind": "entrevista"
+    },
+    "research_R20261003-19-s10": {
+      "id": "research_R20261003-19-s10",
+      "outlet": "CNN Brasil / Gustavo Uribe",
+      "title": "Empresário citou Lula “desesperado” na COP30 e buscou “solução” com Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/empresario-citou-lula-desesperado-na-cop30-e-buscou-solucao-com-vorcaro/",
+      "date": "2026-10-02",
+      "author": "Gustavo Uribe",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s11": {
+      "id": "research_R20261003-19-s11",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "Mensagens mostram que Campos Neto convidou Vorcaro para encontro em casa quando presidia BC",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/mensagens-mostram-que-campos-neto-convidou-vorcaro-para-encontro-em-casa-quando-presidia-bc.shtml",
+      "date": "2026-10-01",
+      "author": "Constança Rezende e Diego Felix",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s12": {
+      "id": "research_R20261003-19-s12",
+      "outlet": "Revista Oeste",
+      "title": "Mensagens mostram atuação de Vorcaro na eleição para a Câmara dos Deputados",
+      "url": "https://revistaoeste.com/politica/mensagens-mostram-atuacao-de-vorcaro-na-eleicao-para-a-camara-dos-deputados/",
+      "date": "2026-10-02",
+      "author": "Victória Batalha",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s13": {
+      "id": "research_R20261003-19-s13",
+      "outlet": "Veja",
+      "title": "A guerra de versões entre diretor do BC e subordinado flagrado em mensagens com Vorcaro",
+      "url": "https://veja.abril.com.br/politica/a-guerra-de-versoes-entre-diretor-do-bc-e-subordinado-flagrado-em-mensagens-com-vorcaro/",
+      "date": "2026-10-03",
+      "author": "Nicholas Shores",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s14": {
+      "id": "research_R20261003-19-s14",
+      "outlet": "O Dia",
+      "title": "Mensagens de Vorcaro citam Anitta em projeto de ‘megabet’",
+      "url": "https://odia.ig.com.br/brasil/2026/10/7308556-mensagens-de-vorcaro-citam-anitta-em-projeto-de-megabet.html",
+      "date": "2026-10-03",
+      "author": "Frederico Vidal",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s15": {
+      "id": "research_R20261003-19-s15",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro dizia que estava criando a ‘maior de todas as bets’",
+      "url": "https://revistaoeste.com/politica/vorcaro-dizia-que-estava-criando-a-maior-de-todas-as-ibets-i/",
+      "date": "2026-10-03",
+      "author": "Eugenio Goussinsky",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s16": {
+      "id": "research_R20261003-19-s16",
+      "outlet": "Poder360",
+      "title": "Justus diz que recomprou dívida e afastou Vorcaro da SteelCorp",
+      "url": "https://www.poder360.com.br/poder-justica/justus-diz-que-recomprou-divida-e-afastou-vorcaro-da-steelcorp/",
+      "date": "2026-10-03",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s17": {
+      "id": "research_R20261003-19-s17",
+      "outlet": "Terra",
+      "title": "Roberto Justus se pronuncia após mensagens de cobrança enviadas a Vorcaro",
+      "url": "https://www.terra.com.br/diversao/gente/roberto-justus-se-pronuncia-apos-mensagens-de-cobranca-enviadas-a-vorcaro,8c6afd5d1e24af40945247a4e9b4ec20fz3yo9pw.html",
+      "date": "2026-10-03",
+      "author": "Redação Terra",
+      "kind": "reportagem"
+    },
+    "research_R20261003-19-s18": {
+      "id": "research_R20261003-19-s18",
+      "outlet": "Correio Braziliense / Agência Estado",
+      "title": "Haddad usa fala de banqueiro e pede voto: \"Um dos maiores opositores\"",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513854-haddad-usa-fala-de-banqueiro-e-pede-voto-um-dos-maiores-opositores.html",
+      "date": "2026-10-03",
+      "author": "Correio Braziliense",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -56277,8 +57025,8 @@ window.PELELEC_DATA = {
   },
   "archiveMeta": {
     "updated": "2026-10-03",
-    "researchChats": 89,
-    "researchRecords": 1287,
+    "researchChats": 92,
+    "researchRecords": 1298,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -57456,7 +58204,8 @@ window.PELELEC_DATA = {
       "text": "O Conselho Superior do MPF arquiva, por 5 votos a 4, o pedido de investigação sobre a atuação de Paulo Gonet no caso Master, com o voto de desempate de Nicolao Dino, e decide por 9 a 0 mantê-lo nos processos do caso no STF. Gonet, que não votou, nega proximidade com Vorcaro.",
       "sources": [
         "research_R20260926-08-s6",
-        "research_R20260926-08-s7"
+        "research_R20260926-08-s7",
+        "research_R20261003-19-s7"
       ]
     },
     {
@@ -57630,7 +58379,8 @@ window.PELELEC_DATA = {
       "title": "Conversas de Vorcaro com Campos Neto",
       "text": "O Globo publicou tratativas de reunião em novembro e dezembro de 2023 e uma troca de março de 2024, quando a imagem enviada não pôde ser acessada pela coluna. A seleção preserva trechos curtos e omite referências privadas. O corpo consultado não traz manifestação específica de Campos Neto; as mensagens isoladas não estabelecem irregularidade.",
       "sources": [
-        "research_R20261001-00-s9"
+        "research_R20261001-00-s9",
+        "research_R20261003-19-s11"
       ]
     },
     {
@@ -57648,7 +58398,10 @@ window.PELELEC_DATA = {
       "title": "SteelCorp: cobranças de Justus e resposta da assessoria",
       "text": "O Poder360 revelou cobranças de Justus por um investimento conversível, sem apontar ilegalidade nos diálogos. Sua assessoria afirmou que a menção à recuperação judicial era uma estratégia, que a conversão em ações não ocorreu e que a relação foi encerrada antes da liquidação do banco. Vorcaro não respondeu ao veículo.",
       "sources": [
-        "research_R20261002-19-s2"
+        "research_R20261002-19-s2",
+        "research_R20261003-19-s3",
+        "research_R20261003-19-s16",
+        "research_R20261003-19-s17"
       ]
     },
     {
@@ -57809,9 +58562,10 @@ window.PELELEC_DATA = {
       "id": "t125",
       "date": "2026-10-02",
       "title": "Direito de resposta eleitoral sobre associação ao Master",
-      "text": "Segundo o Metrópoles, a Justiça Eleitoral determinou, na noite de 02/10, que Fernando Haddad publicasse em suas redes direito de resposta a Tarcísio de Freitas pela associação ao grupo do Banco Master. A reportagem informa que a associação foi considerada indevida e ofensiva e reproduz a resposta publicada no perfil de Haddad, que defende uma campanha baseada em propostas. A íntegra da decisão não foi localizada nesta consulta.",
+      "text": "O Metrópoles noticiou em 02/10 o direito de resposta a Tarcísio pela associação feita por Haddad ao grupo do Master. O g1 relata que a defesa de Haddad invocou fatos públicos e o caráter retórico da crítica. Segundo a reportagem, a juíza reconheceu a doação de Zettel, mas disse que ela não autoriza atribuir participação em estrutura ilícita; preservou o debate político sobre o caso. Em 02/10, negou suspender a decisão enquanto o recurso era analisado e exigiu nova versão da resposta de Tarcísio por extrapolar a sentença. A íntegra judicial não foi localizada.",
       "sources": [
-        "research_R20261003-07-s4"
+        "research_R20261003-07-s4",
+        "research_R20261003-19-s4"
       ]
     },
     {
@@ -57831,6 +58585,94 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261003-07-s6",
         "research_R20261002-19-s3"
+      ]
+    },
+    {
+      "id": "t128",
+      "date": "2026-10-03",
+      "title": "VEJA divulga planos de apostas atribuídos a Vorcaro",
+      "text": "A VEJA divulga afirmações de Vorcaro sobre supostos parceiros e articulação para apostas, sem data ou destinatário identificado. Oeste repercute outros fragmentos, sem comprovar acordos ou autorizações. Não há resposta específica publicada; as notas anteriores de Anitta sobre Will Bank e de Huck sobre sociedade são contexto distinto.",
+      "sources": [
+        "research_R20261003-19-s1",
+        "research_R20261003-19-s2",
+        "research_R20260930-18-s2",
+        "research_R20261003-19-s14",
+        "research_R20261003-19-s15"
+      ]
+    },
+    {
+      "id": "t129",
+      "date": "2026-10-03",
+      "title": "Veja divulga menção a Bolsonaro em conversa sobre a Caixa",
+      "text": "Veja publica trecho de julho de 2024 em que Vorcaro menciona Bolsonaro ao falar com Paulo Sérgio sobre uma negociação com a Caixa. A reportagem informa que a compra de títulos não ocorreu e que não surgiu indício de participação de Bolsonaro nesse episódio. Paulo Sérgio nega irregularidades e atribui as comunicações à prevenção de danos aos credores.",
+      "sources": [
+        "research_R20261003-19-s5"
+      ]
+    },
+    {
+      "id": "t130",
+      "date": "2026-10-03",
+      "title": "Veja relata questionamentos da PF a Paulo Sérgio",
+      "text": "Veja relata perguntas da PF, no depoimento de Paulo Sérgio em julho, sobre orientações a Vorcaro e uma venda de bens. O investigado negou irregularidades; seu advogado, Odel Antun, afirmou que não houve favorecimento, que ele não recebeu dinheiro de Vorcaro e que a venda ocorreu pelo valor de mercado.",
+      "sources": [
+        "research_R20261003-19-s6"
+      ]
+    },
+    {
+      "id": "t131",
+      "date": "2026-10-03",
+      "title": "O Globo publica avaliação de Vorcaro sobre Haddad",
+      "text": "O Globo divulga conversa de 29/10/2025 com Vanessa Souza em que Vorcaro descreve Haddad como opositor e afirma não o conhecer. A resposta da advogada não comprova providência concreta. A matéria não publica resposta. Como contexto anterior, Haddad afirmou em 18/09 não ter recebido Vorcaro após alertas do compliance.",
+      "sources": [
+        "research_R20261003-19-s8",
+        "research_R20261003-19-s9"
+      ]
+    },
+    {
+      "id": "t132",
+      "date": "2026-10-02",
+      "title": "CNN divulga conversa sobre hospedagem para a COP30",
+      "text": "A CNN publica conversa de fevereiro de 2025 sobre hospedagem para a COP30. Qualitours nega participação do Master/Vorcaro na contratação e execução; a Casa Civil afirma seguir critérios técnicos. A defesa não havia respondido. As falas não comprovam participação dos citados.",
+      "sources": [
+        "research_R20261003-19-s10"
+      ]
+    },
+    {
+      "id": "t133",
+      "date": "2026-10-02",
+      "title": "Motta pede para receber Arthur Lira em imóvel de Vorcaro",
+      "text": "Oeste publica pedido de Motta e autorização de Vorcaro, situados em outubro de 2024. Na nota publicada no UOL em 02/10, Motta defende a institucionalidade e probidade de seus contatos com o setor privado.",
+      "sources": [
+        "research_R20261003-19-s12",
+        "research_R20261002-19-s18"
+      ]
+    },
+    {
+      "id": "t134",
+      "date": "2026-10-03",
+      "title": "Veja relata divergência em depoimentos sobre fraudes do Master",
+      "text": "Veja relata versões divergentes à PF: Ailton de Aquino questionou a percepção de Paulo Sérgio sobre operações do Master com a Reag; Paulo Sérgio afirmou que sua equipe identificou e comunicou fraudes e contestou a apresentação dos fatos pela direção do BC. São relatos contrapostos de depoimentos, sem conclusão de responsabilidade; a matéria não publica manifestação nova de Aquino ou Galípolo sobre essa contestação.",
+      "sources": [
+        "research_R20261003-19-s13"
+      ]
+    },
+    {
+      "id": "t135",
+      "date": "2026-10-03",
+      "title": "Justus afirma ter recomprado dívida com recursos próprios",
+      "text": "Em pronunciamento nas redes relatado pelo Poder360 e Terra, Justus afirmou ter recomprado a dívida com recursos próprios e impedido a conversão em ações da SteelCorp. Apresentou as cobranças como negociação. As matérias registram sua versão e não fornecem comprovação independente da recompra.",
+      "sources": [
+        "research_R20261003-19-s16",
+        "research_R20261003-19-s17"
+      ]
+    },
+    {
+      "id": "t136",
+      "date": "2026-10-03",
+      "title": "Haddad se apresenta como opositor em publicação no X",
+      "text": "O Correio reproduz publicação de Haddad no X, datada de 03/10, em que ele se apresenta como opositor de Vorcaro. É manifestação pública, sem comprovar relação com o banqueiro ou horário individual do post.",
+      "sources": [
+        "research_R20261003-19-s18"
       ]
     }
   ],
