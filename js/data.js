@@ -4396,6 +4396,40 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100307-m4",
+          "researchId": "R2026100307-m4",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10-19",
+          "dateLabel": "2024-10-19",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "Quer que mande interna-lo??",
+          "sources": [
+            "research_R20261003-07-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-07-s3"
+            ],
+            "checked": [
+              "R20261003-07-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento sobre proposta de internação de um adversário. O UOL cita a PF: não há resposta registrada de Vorcaro à proposta; a fonte não comprova sua execução.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-G-m52",
           "researchId": "G-m52",
           "editorialType": "quote",
@@ -5871,7 +5905,8 @@ window.PELELEC_DATA = {
         "research_G-s9",
         "research_G-s53",
         "research_H-s49",
-        "research_R20261002-19-s11"
+        "research_R20261002-19-s11",
+        "research_R20261003-07-s3"
       ],
       "originalContext": true,
       "outroLado": [
@@ -5909,6 +5944,13 @@ window.PELELEC_DATA = {
           "text": "A defesa de Vorcaro contestou em 01/10 a tese de violência e de atos executados do grupo A Turma; esse contraponto geral não é uma manifestação específica de Mourão nem uma resposta ao novo relato sobre o BC.",
           "sources": [
             "research_R20261002-19-s11"
+          ]
+        },
+        {
+          "name": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "A defesa de Vorcaro não respondeu à coluna. Segundo o relatório da PF citado pelo UOL, não há resposta registrada à proposta; dados pessoais e alegações sobre a saúde do terceiro foram omitidos.",
+          "sources": [
+            "research_R20261003-07-s3"
           ]
         }
       ],
@@ -13840,7 +13882,8 @@ window.PELELEC_DATA = {
         "research_B1-s68",
         "research_B1-s14",
         "research_B1-s67",
-        "research_H-s27"
+        "research_H-s27",
+        "research_R20261003-07-s5"
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fl%C3%A1vio_Bolsonaro.jpg",
       "photoCredit": "U.S. Consulate in Rio · Domínio público (governo dos EUA)",
@@ -13919,6 +13962,13 @@ window.PELELEC_DATA = {
           "sources": [
             "research_B1-s5",
             "research_H-s27"
+          ]
+        },
+        {
+          "name": "Flávio Bolsonaro",
+          "text": "Procurado pela piauí para esta reportagem, Flávio não respondeu. A defesa de Daniel Vorcaro preferiu não se manifestar.",
+          "sources": [
+            "research_R20261003-07-s5"
           ]
         }
       ],
@@ -15588,7 +15638,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/alfaiataria.webp",
             "alt": "Foto que, segundo a reportagem, mostra Ciro com André Mendonça numa alfaiataria.",
             "credit": "Reprodução — ICL Notícias / Paulo Motoryn",
-            "verifiedOn": "2026-10-02",
+            "verifiedOn": "2026-10-03",
             "originalUrl": "https://iclnoticias.com.br/app/uploads/2026/09/WhatsApp-Image-2026-09-02-at-07.50.26.webp"
           },
           "mediaLink": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/",
@@ -16207,7 +16257,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/selfie.jpg",
             "alt": "Foto (selfie) de Ciro Soares com Paulo Gonet, segundo a PF.",
             "credit": "Polícia Federal — 1º.set.2026 / Poder360",
-            "verifiedOn": "2026-10-02",
+            "verifiedOn": "2026-10-03",
             "originalUrl": "https://static.poder360.com.br/uploads/2026/09/gonet-advogado-soares-reproducao-848x477.jpg"
           },
           "mediaLink": "https://www.poder360.com.br/poder-justica/advogado-do-master-tirou-selfie-com-gonet-e-enviou-a-vorcaro/",
@@ -17168,7 +17218,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/londres.jpg",
             "alt": "Envia a foto do encontro de abril de 2024 em Londres (Gonet com charuto, ao lado de Vorcaro) com legenda que atribui o envio a 'PG'.",
             "credit": "Reprodução — Metrópoles",
-            "verifiedOn": "2026-10-02",
+            "verifiedOn": "2026-10-03",
             "originalUrl": "https://images.metroimg.com/2026/09/vorcaro-e-gonet.jpg"
           },
           "mediaLink": "https://www.metropoles.com/brasil/foto-tirada-em-londres-mostra-gonet-com-vorcaro-fumando-charuto",
@@ -44626,6 +44676,7 @@ window.PELELEC_DATA = {
         "research_G-s53",
         "research_H-s49",
         "research_R20261002-19-s11",
+        "research_R20261003-07-s3",
         "research_G-s11"
       ],
       "outroLado": [
@@ -44663,6 +44714,13 @@ window.PELELEC_DATA = {
           "text": "A defesa de Vorcaro contestou em 01/10 a tese de violência e de atos executados do grupo A Turma; esse contraponto geral não é uma manifestação específica de Mourão nem uma resposta ao novo relato sobre o BC.",
           "sources": [
             "research_R20261002-19-s11"
+          ]
+        },
+        {
+          "name": "Luiz Phillipi Machado de Moraes Mourão",
+          "text": "A defesa de Vorcaro não respondeu à coluna. Segundo o relatório da PF citado pelo UOL, não há resposta registrada à proposta; dados pessoais e alegações sobre a saúde do terceiro foram omitidos.",
+          "sources": [
+            "research_R20261003-07-s3"
           ]
         },
         {
@@ -48268,13 +48326,22 @@ window.PELELEC_DATA = {
       "contextSummary": "Negociou investimento conversível na SteelCorp com Vorcaro, segundo o Poder360.",
       "originalContext": true,
       "responseSources": [
-        "research_R20261002-19-s2"
+        "research_R20261002-19-s2",
+        "research_R20261003-07-s2"
       ],
       "outroLado": [
         {
           "name": "Roberto Justus",
           "text": "A assessoria de Justus informou em 01/10 que a menção à recuperação judicial foi uma estratégia de negociação, e não anúncio de pedido. Disse que a conversão em ações não ocorreu, que Vorcaro não se tornou sócio nesta operação e que a relação foi encerrada antes da liquidação do banco. A defesa de Vorcaro não respondeu ao Poder360.",
           "sources": [
+            "research_R20261002-19-s2"
+          ]
+        },
+        {
+          "name": "Roberto Justus",
+          "text": "Justus não respondeu ao Metrópoles. Ao Poder360 em 01/10, sua assessoria disse que o aporte original era dívida conversível, não convertida em ações, e não tornou Vorcaro sócio da Steelcorp.",
+          "sources": [
+            "research_R20261003-07-s2",
             "research_R20261002-19-s2"
           ]
         }
@@ -48324,13 +48391,48 @@ window.PELELEC_DATA = {
           "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100307-m3",
+          "researchId": "R2026100307-m3",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-09-02 · data aproximada",
+          "dateLabel": "2025-09-02 · data aproximada",
+          "time": "",
+          "sender": "them",
+          "speaker": "Roberto Justus",
+          "text": "Mas o cotista do fundo não é você?",
+          "sources": [
+            "research_R20261003-07-s2"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-07-s2"
+            ],
+            "checked": [
+              "R20261003-07-s2"
+            ],
+            "note": "Literal conferido no Metrópoles; data aproximada por relato equivalente no Poder360, explicitamente delimitada no contexto."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Metrópoles publica a pergunta sem dia individual. Data aproximada pelo relato equivalente do Poder360 em 02/09/2025; não prova que a conversão em sociedade ocorreu.",
+          "documentRef": "",
+          "datePrecision": "approx",
+          "variants": [],
+          "originalLanguage": true
         }
       ]
     },
     {
       "id": "acm_neto",
       "name": "ACM Neto",
-      "role": "Ex-deputado federal e ex-prefeito de Salvador",
+      "role": "Ex-deputado federal e ex-prefeito de Salvador; candidato ao governo da Bahia em 2026",
       "category": "politica",
       "avatarInitials": "AN",
       "avatarColor": "#455a64",
@@ -48339,10 +48441,11 @@ window.PELELEC_DATA = {
       "phone": "Não exibida: sem necessidade editorial",
       "pinned": false,
       "unreadCount": 0,
-      "contextSummary": "Segundo resumo da Wikipédia (Folha, 8/4/2026), o Master declarou pagamentos de R$ 5,4 milhões a ele. Nenhuma mensagem ou contato documentado com Vorcaro foi encontrado.",
+      "contextSummary": "Interlocutor de Vorcaro em conversas publicadas pela piauí e pela Oeste; os fragmentos desta seleção incluem troca de contato e mensagens de 22 e 31/10/2024.",
       "originalContext": true,
       "responseSources": [
-        "research_R20261002-19-s3"
+        "research_R20261002-19-s3",
+        "research_R20261003-07-s6"
       ],
       "outroLado": [
         {
@@ -48350,6 +48453,14 @@ window.PELELEC_DATA = {
           "text": "À piauí, ACM Neto afirmou que as visitas decorreram de compromissos profissionais e negou ter participado de festas de Vorcaro. Esta seleção registra apenas a troca de contatos e a resposta, sem reproduzir conteúdo íntimo.",
           "sources": [
             "research_R20261002-19-s3"
+          ]
+        },
+        {
+          "name": "ACM Neto",
+          "text": "Contraponto geral anterior: à piauí, ACM Neto afirmou que as visitas decorreram de compromissos profissionais e negou participação em festas. A Oeste não publica resposta específica aos dois trechos selecionados.",
+          "sources": [
+            "research_R20261002-19-s3",
+            "research_R20261003-07-s6"
           ]
         }
       ],
@@ -48428,6 +48539,74 @@ window.PELELEC_DATA = {
           "confidence": "medium",
           "recoveredByPF": false,
           "context": "Fragmento literal da resposta na troca de 19/10/2023; a saudação inicial foi omitida. ACM Neto nega participação em festas e atribui as visitas a compromissos profissionais. O trecho isolado não estabelece irregularidade.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100307-m6",
+          "researchId": "R2026100307-m6",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10-22",
+          "dateLabel": "2024-10-22",
+          "time": "",
+          "sender": "them",
+          "speaker": "ACM Neto",
+          "text": "Veja aonde e q hs deseja encontrar e me avise",
+          "sources": [
+            "research_R20261003-07-s6"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-07-s6"
+            ],
+            "checked": [
+              "R20261003-07-s6"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento da mensagem de ACM Neto de 22/10/2024 sobre tentativa de encontro. A parte inicial, horário e local privado foram omitidos; não comprova encontro realizado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100307-m5",
+          "researchId": "R2026100307-m5",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10-31",
+          "dateLabel": "2024-10-31",
+          "time": "",
+          "sender": "them",
+          "speaker": "ACM Neto",
+          "text": "as coisas em Brasília estão consolidadas",
+          "sources": [
+            "research_R20261003-07-s6"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-07-s6"
+            ],
+            "checked": [
+              "R20261003-07-s6"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento de ACM Neto para Vorcaro, explicitamente datado em 31/10/2024. A reportagem não identifica quais articulações políticas estavam em discussão.",
           "documentRef": "",
           "datePrecision": "day",
           "variants": [],
@@ -48840,6 +49019,115 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "ronaldo",
+      "name": "Ronaldo Nazário",
+      "role": "Ex-jogador; controlador da SAF do Cruzeiro à época",
+      "category": "master",
+      "avatarInitials": "RN",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Tratou de financiamento do clube com Vorcaro.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261003-07-s1"
+      ],
+      "outroLado": [
+        {
+          "name": "Ronaldo Nazário",
+          "text": "Ronaldo não respondeu ao UOL. A reportagem registra quitação em abril de 2025, conforme balanço do Cruzeiro.",
+          "sources": [
+            "research_R20261003-07-s1"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Ronaldo Nazário"
+      ],
+      "source": {
+        "outlet": "UOL Esporte",
+        "date": "2026-10-02",
+        "headline": "Fundo de Vorcaro emprestou R$ 28 milhões ao Cruzeiro a pedido de Ronaldo",
+        "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/02/fundo-de-vorcaro-emprestou-r-28-milhoes-ao-cruzeiro-a-pedido-de-ronaldo.htm"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100307-m1",
+          "researchId": "R2026100307-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-03",
+          "dateLabel": "2024-03",
+          "time": "",
+          "sender": "them",
+          "speaker": "Ronaldo Nazário",
+          "text": "Segundo o UOL, Ronaldo pediu ajuda para o fluxo de caixa do Cruzeiro e propôs contato com o CEO.",
+          "sources": [
+            "research_R20261003-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "Resumo editorial de mensagem publicada",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-07-s1"
+            ],
+            "checked": [
+              "R20261003-07-s1"
+            ],
+            "note": "Resumo editorial conferido semanticamente no corpo original; não é transcrição literal."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo da mensagem situada em março de 2024, sem dia ou horário.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100307-m2",
+          "researchId": "R2026100307-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-03",
+          "dateLabel": "2024-03",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Fala, irmão. Deixa comigo que falo com ele. Conte comigo",
+          "sources": [
+            "research_R20261003-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261003-07-s1"
+            ],
+            "checked": [
+              "R20261003-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta como publicada, na mesma troca sobre o Cruzeiro; não indica transferência nessa mensagem.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -48849,10 +49137,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1336,
+      "totalMessagesRecovered": 1342,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 94
+      "sensitiveContactsIdentified": 95
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -55924,6 +56212,60 @@ window.PELELEC_DATA = {
       "author": "Gésio Passos",
       "kind": "reportagem"
     },
+    "research_R20261003-07-s1": {
+      "id": "research_R20261003-07-s1",
+      "outlet": "UOL Esporte",
+      "title": "Fundo de Vorcaro emprestou R$ 28 milhões ao Cruzeiro a pedido de Ronaldo",
+      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/02/fundo-de-vorcaro-emprestou-r-28-milhoes-ao-cruzeiro-a-pedido-de-ronaldo.htm",
+      "date": "2026-10-02",
+      "author": "Igor Siqueira",
+      "kind": "reportagem"
+    },
+    "research_R20261003-07-s2": {
+      "id": "research_R20261003-07-s2",
+      "outlet": "Metrópoles",
+      "title": "Vorcaro negociou com Justus, fechou com BRB e recebeu 170% a mais",
+      "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/vorcaro-negociou-com-justus-fechou-com-brb-e-recebeu-170-a-mais",
+      "date": "2026-10-03",
+      "author": "Demétrio Vecchioli",
+      "kind": "reportagem"
+    },
+    "research_R20261003-07-s3": {
+      "id": "research_R20261003-07-s3",
+      "outlet": "UOL / Mariana Barbosa",
+      "title": "Mourão fez planos para mandar internar adversário de Vorcaro",
+      "url": "https://economia.uol.com.br/colunas/mariana-barbosa/2026/10/01/mourao-tinha-planos-para-mandar-internar-adversario-de-vorcaro.htm",
+      "date": "2026-10-01",
+      "author": "Mariana Barbosa",
+      "kind": "reportagem"
+    },
+    "research_R20261003-07-s4": {
+      "id": "research_R20261003-07-s4",
+      "outlet": "Metrópoles",
+      "title": "Haddad é condenado a publicar direito de resposta a Tarcísio",
+      "url": "https://www.metropoles.com/sao-paulo/haddad-e-condenado-a-publicar-direito-de-resposta-de-tarcisio",
+      "date": "2026-10-02",
+      "author": "Emilly Gondim",
+      "kind": "reportagem"
+    },
+    "research_R20261003-07-s5": {
+      "id": "research_R20261003-07-s5",
+      "outlet": "piauí",
+      "title": "As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
+      "date": "2026-10-01",
+      "author": "Ana Clara Costa, João Batista Jr. e Breno Pires",
+      "kind": "reportagem"
+    },
+    "research_R20261003-07-s6": {
+      "id": "research_R20261003-07-s6",
+      "outlet": "Revista Oeste",
+      "title": "Vorcaro mantinha conversas com ACM Neto por mensagens",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/",
+      "date": "2026-10-02",
+      "author": "Isabela Jordão",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -55934,9 +56276,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-02",
-    "researchChats": 88,
-    "researchRecords": 1281,
+    "updated": "2026-10-03",
+    "researchChats": 89,
+    "researchRecords": 1287,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -57433,6 +57775,62 @@ window.PELELEC_DATA = {
       "text": "A CNN informou em 01/10 que a PF previa concluir em outubro o inquérito específico sobre A Turma após os depoimentos de Daniel e Henrique Vorcaro em 30/09; o destinatário no STF ainda estava indefinido. Trata-se de previsão, sem confirmação de conclusão. Daniel e Henrique negaram os atos investigados, e a defesa de Daniel negou articulação para intimidar jornalistas ou adversários e contestou o uso de mensagens fragmentadas.",
       "sources": [
         "research_R20261003-01-s3"
+      ]
+    },
+    {
+      "id": "t122",
+      "date": "2026-10-02",
+      "title": "UOL relata empréstimo do Fundo Victória ao Cruzeiro",
+      "text": "O UOL confirmou o pedido de Ronaldo em 2024: principal de R$ 25 milhões e total contabilizado de R$ 28 milhões, com juros. Segundo o balanço citado, houve quitação em abril de 2025. Ronaldo não respondeu ao veículo; o empréstimo precede a liquidação do Master.",
+      "sources": [
+        "research_R20261003-07-s1"
+      ]
+    },
+    {
+      "id": "t123",
+      "date": "2026-10-03",
+      "title": "Metrópoles detalha aquisição do SH FIPM pelo BRB",
+      "text": "Metrópoles relata compra do fundo SH FIPM pelo BRB por R$ 350 milhões em 02/10/2025, envolvendo cotas da Steelcorp, paralela à negociação de R$ 130 milhões com Justus. Justus não respondeu ao veículo; ao Poder360, sua assessoria disse que o aporte original era dívida conversível e não tornou Vorcaro sócio da Steelcorp.",
+      "sources": [
+        "research_R20261003-07-s2",
+        "research_R20261002-19-s2"
+      ]
+    },
+    {
+      "id": "t124",
+      "date": "2026-10-01",
+      "title": "UOL divulga proposta de internação em diálogo de Mourão",
+      "text": "O UOL publica trecho de 19/10/2024 em que Mourão propõe a Vorcaro internar um adversário. Segundo a PF citada pela coluna, não há resposta registrada à proposta, nem execução comprovada no texto. A defesa de Vorcaro não respondeu ao UOL.",
+      "sources": [
+        "research_R20261003-07-s3"
+      ]
+    },
+    {
+      "id": "t125",
+      "date": "2026-10-02",
+      "title": "Direito de resposta eleitoral sobre associação ao Master",
+      "text": "Segundo o Metrópoles, a Justiça Eleitoral determinou, na noite de 02/10, que Fernando Haddad publicasse em suas redes direito de resposta a Tarcísio de Freitas pela associação ao grupo do Banco Master. A reportagem informa que a associação foi considerada indevida e ofensiva e reproduz a resposta publicada no perfil de Haddad, que defende uma campanha baseada em propostas. A íntegra da decisão não foi localizada nesta consulta.",
+      "sources": [
+        "research_R20261003-07-s4"
+      ]
+    },
+    {
+      "id": "t126",
+      "date": "2026-10-01",
+      "title": "piauí relata 110 registros no chat de Flávio e Vorcaro",
+      "text": "A piauí relata 110 registros no chat analisado: 50 mensagens de Flávio Bolsonaro, 46 de Daniel Vorcaro e 14 ligações, das quais oito atendidas. O senador não respondeu aos contatos da reportagem; as defesas de Vorcaro e dos demais citados preferiram não se manifestar.",
+      "sources": [
+        "research_R20261003-07-s5"
+      ]
+    },
+    {
+      "id": "t127",
+      "date": "2026-10-02",
+      "title": "Oeste publica conversas de ACM Neto sobre Brasília e encontro",
+      "text": "Oeste repercute mensagens de ACM Neto a Vorcaro de 22 e 31/10/2024 sobre tentativa de encontro e articulações políticas não especificadas. Em contraponto geral anterior, ACM Neto declarou à piauí que as visitas eram profissionais e negou participação em festas; sem resposta específica publicada pela Oeste.",
+      "sources": [
+        "research_R20261003-07-s6",
+        "research_R20261002-19-s3"
       ]
     }
   ],
