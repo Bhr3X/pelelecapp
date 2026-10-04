@@ -47295,16 +47295,25 @@ window.PELELEC_DATA = {
       "phone": "Não exibida: sem necessidade editorial",
       "pinned": false,
       "unreadCount": 0,
-      "contextSummary": "Mensagens publicadas pela VEJA em 30/09/2026 sobre contatos com Vorcaro e o patrocínio do Will Bank ao Domingão com Huck.",
+      "contextSummary": "Mensagens publicadas pela VEJA em 30/09/2026 sobre contatos com Vorcaro e o patrocínio do Will Bank ao Domingão com Huck. A VEJA de 03/10 também publica propostas de negócios de seguro e saúde ligadas ao Familhão, sem comprovação de parceria concluída.",
       "originalContext": true,
       "responseSources": [
-        "research_R20260930-18-s2"
+        "research_R20260930-18-s2",
+        "research_R20261004-01-s1"
       ],
       "outroLado": [
         {
           "name": "Luciano Huck",
           "text": "Em nota de 30/09, Huck afirma que a interação tratou da captação e gestão do patrocínio do Will Bank; nega sociedade com Vorcaro e diz que houve contrato, notas, impostos e serviços prestados. Afirma que os contratos foram rescindidos antes da intervenção do Banco Central.",
           "sources": [
+            "research_R20260930-18-s2"
+          ]
+        },
+        {
+          "name": "Luciano Huck",
+          "text": "A VEJA remete à nota anterior de 30/09: Huck atribuiu os contatos ao patrocínio do Will Bank, negou sociedade e afirmou encerramento dos contratos antes da intervenção do BC. Não é resposta específica ao Familhão.",
+          "sources": [
+            "research_R20261004-01-s1",
             "research_R20260930-18-s2"
           ]
         }
@@ -47386,6 +47395,74 @@ window.PELELEC_DATA = {
           "context": "Resposta publicada pela VEJA na sequência explicitamente datada de 5/11/2023. Apenas um trecho curto da troca foi selecionado.",
           "documentRef": "",
           "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100401-m1",
+          "researchId": "R2026100401-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-05",
+          "dateLabel": "2024-05",
+          "time": "",
+          "sender": "them",
+          "speaker": "Luciano Huck",
+          "text": "Falei hoje do produto do seguro",
+          "sources": [
+            "research_R20261004-01-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261004-01-s1"
+            ],
+            "checked": [
+              "R20261004-01-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento de mensagem de Huck a Vorcaro, datada pela VEJA em maio de 2024, sobre produto de seguro. Não revela que uma parceria foi concluída.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100401-m2",
+          "researchId": "R2026100401-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024",
+          "dateLabel": "2024",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Vamos, sim. Quero saber desse projeto",
+          "sources": [
+            "research_R20261004-01-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261004-01-s1"
+            ],
+            "checked": [
+              "R20261004-01-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta publicada ao convite de Huck para conhecer projeto de cartão de saúde popular com o Familhão. A reportagem situa os contatos em meados de 2024, sem data individual desta resposta. Não é apresentada como resposta ao fragmento de seguro acima.",
+          "documentRef": "",
+          "datePrecision": "year",
           "variants": [],
           "originalLanguage": true
         }
@@ -47522,6 +47599,8 @@ window.PELELEC_DATA = {
         "research_H-s45",
         "research_R20260930-18-s4",
         "research_R20260930-18-s5",
+        "research_R20261004-01-s5",
+        "research_R20261004-01-s6",
         "research_B1-s54",
         "research_B1-s55",
         "research_B2-s65",
@@ -47582,6 +47661,21 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20260930-18-s4",
             "research_R20260930-18-s5"
+          ]
+        },
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "Sobre os registros divulgados em 03/10, CNN e Poder360 informam que a assessoria de Ciro não havia respondido. A CNN registra que a defesa de Vorcaro não pretende se manifestar.",
+          "sources": [
+            "research_R20261004-01-s5",
+            "research_R20261004-01-s6"
+          ]
+        },
+        {
+          "name": "Ciro Nogueira Lima Filho",
+          "text": "Como contexto anterior, o Poder360 reproduz negativa da defesa de Ciro sobre ilicitudes e contestação de medidas baseadas em mensagens de terceiros. Não é resposta nova à divulgação dos registros.",
+          "sources": [
+            "research_R20261004-01-s6"
           ]
         },
         {
@@ -48485,7 +48579,9 @@ window.PELELEC_DATA = {
         "research_R20261002-19-s2",
         "research_R20261003-07-s2",
         "research_R20261003-19-s16",
-        "research_R20261003-19-s17"
+        "research_R20261003-19-s17",
+        "research_R20261004-01-s2",
+        "research_R20261004-01-s7"
       ],
       "outroLado": [
         {
@@ -48509,6 +48605,20 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20261003-19-s16",
             "research_R20261003-19-s17"
+          ]
+        },
+        {
+          "name": "Roberto Justus",
+          "text": "Metrópoles de 03/10 repercute a mesma versão de Justus: investimento conversível e recompra da dívida com recursos próprios, sem comprovação independente apresentada pela matéria. Não é resposta nova adicional ao pronunciamento já registrado.",
+          "sources": [
+            "research_R20261004-01-s2"
+          ]
+        },
+        {
+          "name": "Roberto Justus",
+          "text": "Em relato do iG sobre seu pronunciamento de 03/10, Justus afirmou desconhecer os cotistas de um aporte de outro grupo em 2023 e ter reduzido a participação desse outro grupo após identificar os cotistas. Distinguiu esse investimento da negociação com Vorcaro em 2024. São declarações sem comprovação independente apresentada; não estabelecem resposta específica à compra do SH FIPM pelo BRB.",
+          "sources": [
+            "research_R20261004-01-s7"
           ]
         }
       ],
@@ -49723,7 +49833,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1353,
+      "totalMessagesRecovered": 1355,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 98
@@ -57014,6 +57124,78 @@ window.PELELEC_DATA = {
       "author": "Correio Braziliense",
       "kind": "reportagem"
     },
+    "research_R20261004-01-s1": {
+      "id": "research_R20261004-01-s1",
+      "outlet": "VEJA / Radar",
+      "title": "Luciano Huck ofereceu a Daniel Vorcaro parceria envolvendo o ‘Familhão’",
+      "url": "https://veja.abril.com.br/brasil/luciano-huck-ofereceu-a-daniel-vorcaro-parceria-envolvendo-o-familhao/",
+      "date": "2026-10-03",
+      "author": "Robson Bonin",
+      "kind": "reportagem"
+    },
+    "research_R20261004-01-s2": {
+      "id": "research_R20261004-01-s2",
+      "outlet": "Metrópoles / Fábia Oliveira",
+      "title": "Roberto Justus detalha negócio com Vorcaro: “Jamais usaria dinheiro sujo”",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/roberto-justus-detalha-negocio-com-vorcaro-jamais-usaria-dinheiro-sujo",
+      "date": "2026-10-03",
+      "author": "Fábia Oliveira",
+      "kind": "reportagem"
+    },
+    "research_R20261004-01-s3": {
+      "id": "research_R20261004-01-s3",
+      "outlet": "Correio Braziliense",
+      "title": "Justus explica mensagem com Vorcaro: \"Negociação entre dois empresários\"",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513940-justus-explica-mensagem-com-vorcaro.html",
+      "date": "2026-10-03",
+      "author": "Ronayre Nunes",
+      "kind": "reportagem"
+    },
+    "research_R20261004-01-s4": {
+      "id": "research_R20261004-01-s4",
+      "outlet": "SBT News",
+      "title": "Justiça manda e Haddad posta direito de resposta a Tarcísio",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/justica-manda-e-haddad-posta-direito-de-resposta-a-tarcisio",
+      "date": "2026-10-03",
+      "author": "Caroline Vale",
+      "kind": "reportagem"
+    },
+    "research_R20261004-01-s5": {
+      "id": "research_R20261004-01-s5",
+      "outlet": "CNN Brasil / Débora Bergamasco",
+      "title": "Imagens obtidas pela PF mostram Ciro Nogueira e Vorcaro nos Alpes franceses",
+      "url": "https://www.cnnbrasil.com.br/blogs/debora-bergamasco/politica/imagens-obtidas-pela-pf-mostram-ciro-nogueira-e-vorcaro-nos-alpes-franceses/",
+      "date": "2026-10-03",
+      "author": "Débora Bergamasco",
+      "kind": "reportagem"
+    },
+    "research_R20261004-01-s6": {
+      "id": "research_R20261004-01-s6",
+      "outlet": "Poder360",
+      "title": "Vídeo mostra Ciro Nogueira dançando com Vorcaro na França, diz revista",
+      "url": "https://www.poder360.com.br/poder-justica/video-mostra-ciro-nogueira-dancando-com-vorcaro-na-franca-diz-revista/",
+      "date": "2026-10-03",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261004-01-s7": {
+      "id": "research_R20261004-01-s7",
+      "outlet": "iG / Gente",
+      "title": "Roberto Justus se pronuncia após mensagens com Vorcaro vazarem",
+      "url": "https://gente.ig.com.br/celebridades/2026-10-03/roberto-justus-se-pronuncia-apos-mensagens-com-vorcaro-vazarem.html",
+      "date": "2026-10-03",
+      "author": "Gabriela Martins",
+      "kind": "reportagem"
+    },
+    "research_R20261004-01-s8": {
+      "id": "research_R20261004-01-s8",
+      "outlet": "iG / Alessandro Lo-Bianco",
+      "title": "Globo amplia auditoria sobre Vorcaro com apresentadores e âncoras",
+      "url": "https://lobianco.ig.com.br/2026-10-03/globo-amplia-auditoria-vorcaro.html",
+      "date": "2026-10-03",
+      "author": "Alessandro Lo-Bianco",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57026,7 +57208,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-03",
     "researchChats": 92,
-    "researchRecords": 1298,
+    "researchRecords": 1300,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -58401,7 +58583,8 @@ window.PELELEC_DATA = {
         "research_R20261002-19-s2",
         "research_R20261003-19-s3",
         "research_R20261003-19-s16",
-        "research_R20261003-19-s17"
+        "research_R20261003-19-s17",
+        "research_R20261004-01-s3"
       ]
     },
     {
@@ -58562,10 +58745,11 @@ window.PELELEC_DATA = {
       "id": "t125",
       "date": "2026-10-02",
       "title": "Direito de resposta eleitoral sobre associação ao Master",
-      "text": "O Metrópoles noticiou em 02/10 o direito de resposta a Tarcísio pela associação feita por Haddad ao grupo do Master. O g1 relata que a defesa de Haddad invocou fatos públicos e o caráter retórico da crítica. Segundo a reportagem, a juíza reconheceu a doação de Zettel, mas disse que ela não autoriza atribuir participação em estrutura ilícita; preservou o debate político sobre o caso. Em 02/10, negou suspender a decisão enquanto o recurso era analisado e exigiu nova versão da resposta de Tarcísio por extrapolar a sentença. A íntegra judicial não foi localizada.",
+      "text": "O Metrópoles noticiou em 02/10 o direito de resposta a Tarcísio pela associação feita por Haddad ao grupo do Master. O g1 relata que a defesa de Haddad invocou fatos públicos e o caráter retórico da crítica. Segundo a reportagem, a juíza reconheceu a doação de Zettel, mas disse que ela não autoriza atribuir participação em estrutura ilícita; preservou o debate político sobre o caso. Em 02/10, negou suspender a decisão enquanto o recurso era analisado e exigiu nova versão da resposta de Tarcísio por extrapolar a sentença. A íntegra judicial não foi localizada. Segundo o SBT News de 03/10, Haddad publicou o direito de resposta na madrugada daquele dia; a reportagem incorpora o post, sem horário individual verificado.",
       "sources": [
         "research_R20261003-07-s4",
-        "research_R20261003-19-s4"
+        "research_R20261003-19-s4",
+        "research_R20261004-01-s4"
       ]
     },
     {
@@ -58663,7 +58847,10 @@ window.PELELEC_DATA = {
       "text": "Em pronunciamento nas redes relatado pelo Poder360 e Terra, Justus afirmou ter recomprado a dívida com recursos próprios e impedido a conversão em ações da SteelCorp. Apresentou as cobranças como negociação. As matérias registram sua versão e não fornecem comprovação independente da recompra.",
       "sources": [
         "research_R20261003-19-s16",
-        "research_R20261003-19-s17"
+        "research_R20261003-19-s17",
+        "research_R20261004-01-s2",
+        "research_R20261004-01-s3",
+        "research_R20261004-01-s7"
       ]
     },
     {
@@ -58673,6 +58860,35 @@ window.PELELEC_DATA = {
       "text": "O Correio reproduz publicação de Haddad no X, datada de 03/10, em que ele se apresenta como opositor de Vorcaro. É manifestação pública, sem comprovar relação com o banqueiro ou horário individual do post.",
       "sources": [
         "research_R20261003-19-s18"
+      ]
+    },
+    {
+      "id": "t137",
+      "date": "2026-10-03",
+      "title": "VEJA divulga propostas de Huck envolvendo o Familhão",
+      "text": "A VEJA divulga mensagens sobre propostas de seguro e cartão de saúde popular vinculadas ao Familhão, sem comprovar uma parceria concluída. O artigo remete à nota anterior em que Huck negou sociedade e atribuiu os contatos ao patrocínio do Will Bank; não apresenta resposta específica sobre essas propostas.",
+      "sources": [
+        "research_R20261004-01-s1",
+        "research_R20260930-18-s2"
+      ]
+    },
+    {
+      "id": "t138",
+      "date": "2026-10-03",
+      "title": "Imprensa divulga registros da viagem de Ciro e Vorcaro",
+      "text": "CNN e Poder360 repercutem registros divulgados pela piauí sobre uma viagem de Ciro Nogueira e Vorcaro em janeiro de 2025. A CNN atribui à investigação da PF o custeio de despesas do senador por Vorcaro. A assessoria de Ciro não havia respondido; a defesa de Vorcaro não pretende se manifestar à CNN. Os registros isolados não estabelecem irregularidade.",
+      "sources": [
+        "research_R20261004-01-s5",
+        "research_R20261004-01-s6"
+      ]
+    },
+    {
+      "id": "t139",
+      "date": "2026-10-03",
+      "title": "iG relata ampliação de auditoria interna da Globo",
+      "text": "A coluna de Alessandro Lo-Bianco relata, com fontes não identificadas, ampliação de entrevistas internas após o caso Huck, para mapear relações com Vorcaro. Não apresenta manifestação específica da Globo ou de Huck sobre essa ampliação; o relato não comprova irregularidade dos entrevistados.",
+      "sources": [
+        "research_R20261004-01-s8"
       ]
     }
   ],
