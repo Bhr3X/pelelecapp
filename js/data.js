@@ -47299,7 +47299,8 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_R20260930-18-s2",
-        "research_R20261004-01-s1"
+        "research_R20261004-01-s1",
+        "research_R20261004-07-s4"
       ],
       "outroLado": [
         {
@@ -47315,6 +47316,13 @@ window.PELELEC_DATA = {
           "sources": [
             "research_R20261004-01-s1",
             "research_R20260930-18-s2"
+          ]
+        },
+        {
+          "name": "Luciano Huck",
+          "text": "Em coluna de 02/10 no Terra, Jeff Benício relata que um diretor não identificado da Globo avaliou as mensagens então divulgadas como sem indício de ilegalidade. É opinião atribuída, não nota oficial nem conclusão investigativa; anterior às publicações de 03/10 sobre Familhão e auditoria.",
+          "sources": [
+            "research_R20261004-07-s4"
           ]
         }
       ],
@@ -48581,7 +48589,8 @@ window.PELELEC_DATA = {
         "research_R20261003-19-s16",
         "research_R20261003-19-s17",
         "research_R20261004-01-s2",
-        "research_R20261004-01-s7"
+        "research_R20261004-01-s7",
+        "research_R20261004-07-s1"
       ],
       "outroLado": [
         {
@@ -48619,6 +48628,13 @@ window.PELELEC_DATA = {
           "text": "Em relato do iG sobre seu pronunciamento de 03/10, Justus afirmou desconhecer os cotistas de um aporte de outro grupo em 2023 e ter reduzido a participação desse outro grupo após identificar os cotistas. Distinguiu esse investimento da negociação com Vorcaro em 2024. São declarações sem comprovação independente apresentada; não estabelecem resposta específica à compra do SH FIPM pelo BRB.",
           "sources": [
             "research_R20261004-01-s7"
+          ]
+        },
+        {
+          "name": "Roberto Justus",
+          "text": "Hugo Gloss de 03/10 repercute a mesma versão de Justus: aporte por notas comerciais previsto para conversão em ações e recompra da dívida com recursos próprios. A matéria não apresenta comprovação independente da recompra. Não é uma nova manifestação diferente do pronunciamento já catalogado.",
+          "sources": [
+            "research_R20261004-07-s1"
           ]
         }
       ],
@@ -49311,7 +49327,8 @@ window.PELELEC_DATA = {
       "contextSummary": "Tratou de financiamento do clube com Vorcaro.",
       "originalContext": true,
       "responseSources": [
-        "research_R20261003-07-s1"
+        "research_R20261003-07-s1",
+        "research_R20261004-07-s2"
       ],
       "outroLado": [
         {
@@ -49319,6 +49336,13 @@ window.PELELEC_DATA = {
           "text": "Ronaldo não respondeu ao UOL. A reportagem registra quitação em abril de 2025, conforme balanço do Cruzeiro.",
           "sources": [
             "research_R20261003-07-s1"
+          ]
+        },
+        {
+          "name": "Ronaldo Nazário",
+          "text": "Gabriel Lima, CEO do Cruzeiro à época, afirmou à VEJA que a captação de abril de 2024 era legal, constava do balanço auditado e foi quitada.",
+          "sources": [
+            "research_R20261004-07-s2"
           ]
         }
       ],
@@ -49400,6 +49424,43 @@ window.PELELEC_DATA = {
           "context": "Resposta como publicada, na mesma troca sobre o Cruzeiro; não indica transferência nessa mensagem.",
           "documentRef": "",
           "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100407-m1",
+          "researchId": "R2026100407-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-04-09",
+          "dateLabel": "2024-04-09",
+          "time": "",
+          "sender": "them",
+          "speaker": "Ronaldo Nazário",
+          "text": "Amigo, o empréstimo saiu lá para o Cruzeiro! Muito obrigado, irmão!",
+          "sources": [
+            "research_R20261004-07-s2",
+            "research_R20261004-07-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261004-07-s2",
+              "R20261004-07-s3"
+            ],
+            "checked": [
+              "R20261004-07-s2",
+              "R20261004-07-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Ronaldo agradece pelo empréstimo. Poder360 situa o trecho em 9 de abril na troca de 2024; VEJA não informa o dia. Não comprova transferência.",
+          "documentRef": "",
+          "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
         }
@@ -49833,7 +49894,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1355,
+      "totalMessagesRecovered": 1356,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 98
@@ -57196,6 +57257,42 @@ window.PELELEC_DATA = {
       "author": "Alessandro Lo-Bianco",
       "kind": "reportagem"
     },
+    "research_R20261004-07-s1": {
+      "id": "research_R20261004-07-s1",
+      "outlet": "Hugo Gloss / UOL",
+      "title": "Roberto Justus se pronuncia após vazamento de mensagens com Daniel Vorcaro e detalha atitude com banqueiro; assista",
+      "url": "https://hugogloss.uol.com.br/buzz/comportamento/poder/roberto-justus-se-pronuncia-apos-vazamento-de-mensagens-com-daniel-vorcaro-e-detalha-atitude-com-banqueiro-assista/",
+      "date": "2026-10-03",
+      "author": "Cora Andrade",
+      "kind": "reportagem"
+    },
+    "research_R20261004-07-s2": {
+      "id": "research_R20261004-07-s2",
+      "outlet": "VEJA",
+      "title": "A versão do Cruzeiro para empréstimo de Vorcaro negociado com Ronaldo Fenômeno",
+      "url": "https://veja.abril.com.br/brasil/a-versao-do-cruzeiro-para-emprestimo-de-vorcaro-negociado-com-ronaldo-fenomeno/",
+      "date": "2026-10-02",
+      "author": "Gabriel Sabóia",
+      "kind": "reportagem"
+    },
+    "research_R20261004-07-s3": {
+      "id": "research_R20261004-07-s3",
+      "outlet": "Poder360",
+      "title": "Vorcaro fez empréstimo de R$ 25 mi a Cruzeiro a pedido de Ronaldo",
+      "url": "https://www.poder360.com.br/poder-gente/vorcaro-fez-emprestimo-de-r-25-mi-a-cruzeiro-a-pedido-de-ronaldo/",
+      "date": "2026-10-02",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261004-07-s4": {
+      "id": "research_R20261004-07-s4",
+      "outlet": "Terra / Sala de TV",
+      "title": "Reações na Globo às mensagens entre Huck e Vorcaro vão decepcionar quem torce contra o apresentador",
+      "url": "https://www.terra.com.br/diversao/tv/reacoes-na-globo-as-mensagens-entre-huck-e-vorcaro-vao-decepcionar-quem-torce-contra-o-apresentador%2C03d78e1d82fdbbf801f033fc680a25c0k9i5ufwt.html",
+      "date": "2026-10-02",
+      "author": "Jeff Benício",
+      "kind": "coluna"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57208,7 +57305,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-03",
     "researchChats": 92,
-    "researchRecords": 1300,
+    "researchRecords": 1301,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -58485,7 +58582,8 @@ window.PELELEC_DATA = {
       "text": "A VEJA publicou mensagens sobre contatos entre Luciano Huck e Vorcaro, incluindo o patrocínio do Will Bank ao programa do apresentador. O veículo ressalta que as mensagens não indicam ilegalidades. Huck atribui a interação ao patrocínio, nega sociedade com o banqueiro e afirma que os contratos foram encerrados antes da intervenção do Banco Central.",
       "sources": [
         "research_R20260930-18-s1",
-        "research_R20260930-18-s2"
+        "research_R20260930-18-s2",
+        "research_R20261004-07-s4"
       ]
     },
     {
@@ -58717,9 +58815,11 @@ window.PELELEC_DATA = {
       "id": "t122",
       "date": "2026-10-02",
       "title": "UOL relata empréstimo do Fundo Victória ao Cruzeiro",
-      "text": "O UOL confirmou o pedido de Ronaldo em 2024: principal de R$ 25 milhões e total contabilizado de R$ 28 milhões, com juros. Segundo o balanço citado, houve quitação em abril de 2025. Ronaldo não respondeu ao veículo; o empréstimo precede a liquidação do Master.",
+      "text": "O UOL confirmou o pedido de Ronaldo em 2024: principal de R$ 25 milhões e total contabilizado de R$ 28 milhões, com juros. Segundo o balanço citado, houve quitação em abril de 2025. Ronaldo não respondeu ao veículo; o empréstimo precede a liquidação do Master. Na VEJA, Gabriel Lima, CEO à época, afirmou que a captação de abril de 2024 era legal, auditada e quitada; é sua versão publicada.",
       "sources": [
-        "research_R20261003-07-s1"
+        "research_R20261003-07-s1",
+        "research_R20261004-07-s2",
+        "research_R20261004-07-s3"
       ]
     },
     {
@@ -58850,7 +58950,8 @@ window.PELELEC_DATA = {
         "research_R20261003-19-s17",
         "research_R20261004-01-s2",
         "research_R20261004-01-s3",
-        "research_R20261004-01-s7"
+        "research_R20261004-01-s7",
+        "research_R20261004-07-s1"
       ]
     },
     {
