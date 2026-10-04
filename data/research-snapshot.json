@@ -1,14 +1,14 @@
 {
   "meta": {
     "updated": "2026-10-03",
-    "generated": "2026-10-04T04:35:48.718Z",
+    "generated": "2026-10-04T10:35:48.439Z",
     "counts": {
       "chats": 92,
-      "messages": 1255,
+      "messages": 1256,
       "recovered": 61,
       "low": 0,
       "contacts": 126,
-      "sources": 790,
+      "sources": 794,
       "timeline": 139
     }
   },
@@ -4108,12 +4108,20 @@
             "R20261004-01-s1",
             "R20260930-18-s2"
           ]
+        },
+        {
+          "summary": "Em coluna de 02/10 no Terra, Jeff Benício relata que um diretor não identificado da Globo avaliou as mensagens então divulgadas como sem indício de ilegalidade. É opinião atribuída, não nota oficial nem conclusão investigativa; anterior às publicações de 03/10 sobre Familhão e auditoria.",
+          "quote": null,
+          "src": [
+            "R20261004-07-s4"
+          ]
         }
       ],
       "src": [
         "R20260930-18-s1",
         "R20260930-18-s2",
-        "R20261004-01-s1"
+        "R20261004-01-s1",
+        "R20261004-07-s4"
       ],
       "public": true,
       "approxMessages": null,
@@ -4317,6 +4325,13 @@
           "src": [
             "R20261004-01-s7"
           ]
+        },
+        {
+          "summary": "Hugo Gloss de 03/10 repercute a mesma versão de Justus: aporte por notas comerciais previsto para conversão em ações e recompra da dívida com recursos próprios. A matéria não apresenta comprovação independente da recompra. Não é uma nova manifestação diferente do pronunciamento já catalogado.",
+          "quote": null,
+          "src": [
+            "R20261004-07-s1"
+          ]
         }
       ],
       "src": [
@@ -4325,7 +4340,8 @@
         "R20261003-19-s16",
         "R20261003-19-s17",
         "R20261004-01-s2",
-        "R20261004-01-s7"
+        "R20261004-01-s7",
+        "R20261004-07-s1"
       ],
       "public": true,
       "approxMessages": null,
@@ -4498,10 +4514,19 @@
           "src": [
             "R20261003-07-s1"
           ]
+        },
+        {
+          "summary": "Gabriel Lima, CEO do Cruzeiro à época, afirmou à VEJA que a captação de abril de 2024 era legal, constava do balanço auditado e foi quitada.",
+          "quote": null,
+          "src": [
+            "R20261004-07-s2"
+          ]
         }
       ],
       "src": [
-        "R20261003-07-s1"
+        "R20261003-07-s1",
+        "R20261004-07-s2",
+        "R20261004-07-s3"
       ],
       "public": true,
       "approxMessages": null,
@@ -34252,6 +34277,31 @@
               "R20261003-07-s1"
             ]
           }
+        },
+        {
+          "id": "R2026100407-m1",
+          "from": "ronaldo",
+          "kind": "text",
+          "text": "Amigo, o empréstimo saiu lá para o Cruzeiro! Muito obrigado, irmão!",
+          "ctx": "Ronaldo agradece pelo empréstimo. Poder360 situa o trecho em 9 de abril na troca de 2024; VEJA não informa o dia. Não comprova transferência.",
+          "conf": "medium",
+          "src": [
+            "R20261004-07-s2",
+            "R20261004-07-s3"
+          ],
+          "d": "2024-04-09",
+          "p": "day",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261004-07-s2",
+              "R20261004-07-s3"
+            ],
+            "checked": [
+              "R20261004-07-s2",
+              "R20261004-07-s3"
+            ]
+          }
         }
       ]
     },
@@ -35956,7 +36006,8 @@
       ],
       "src": [
         "R20260930-18-s1",
-        "R20260930-18-s2"
+        "R20260930-18-s2",
+        "R20261004-07-s4"
       ]
     },
     {
@@ -36276,12 +36327,14 @@
       "id": "t122",
       "date": "2026-10-02",
       "title": "UOL relata empréstimo do Fundo Victória ao Cruzeiro",
-      "text": "O UOL confirmou o pedido de Ronaldo em 2024: principal de R$ 25 milhões e total contabilizado de R$ 28 milhões, com juros. Segundo o balanço citado, houve quitação em abril de 2025. Ronaldo não respondeu ao veículo; o empréstimo precede a liquidação do Master.",
+      "text": "O UOL confirmou o pedido de Ronaldo em 2024: principal de R$ 25 milhões e total contabilizado de R$ 28 milhões, com juros. Segundo o balanço citado, houve quitação em abril de 2025. Ronaldo não respondeu ao veículo; o empréstimo precede a liquidação do Master. Na VEJA, Gabriel Lima, CEO à época, afirmou que a captação de abril de 2024 era legal, auditada e quitada; é sua versão publicada.",
       "contacts": [
         "ronaldo"
       ],
       "src": [
-        "R20261003-07-s1"
+        "R20261003-07-s1",
+        "R20261004-07-s2",
+        "R20261004-07-s3"
       ]
     },
     {
@@ -36453,7 +36506,8 @@
         "R20261003-19-s17",
         "R20261004-01-s2",
         "R20261004-01-s3",
-        "R20261004-01-s7"
+        "R20261004-01-s7",
+        "R20261004-07-s1"
       ]
     },
     {
@@ -43617,6 +43671,42 @@
       "date": "2026-10-03",
       "author": "Alessandro Lo-Bianco",
       "kind": "reportagem"
+    },
+    "R20261004-07-s1": {
+      "id": "R20261004-07-s1",
+      "outlet": "Hugo Gloss / UOL",
+      "title": "Roberto Justus se pronuncia após vazamento de mensagens com Daniel Vorcaro e detalha atitude com banqueiro; assista",
+      "url": "https://hugogloss.uol.com.br/buzz/comportamento/poder/roberto-justus-se-pronuncia-apos-vazamento-de-mensagens-com-daniel-vorcaro-e-detalha-atitude-com-banqueiro-assista/",
+      "date": "2026-10-03",
+      "author": "Cora Andrade",
+      "kind": "reportagem"
+    },
+    "R20261004-07-s2": {
+      "id": "R20261004-07-s2",
+      "outlet": "VEJA",
+      "title": "A versão do Cruzeiro para empréstimo de Vorcaro negociado com Ronaldo Fenômeno",
+      "url": "https://veja.abril.com.br/brasil/a-versao-do-cruzeiro-para-emprestimo-de-vorcaro-negociado-com-ronaldo-fenomeno/",
+      "date": "2026-10-02",
+      "author": "Gabriel Sabóia",
+      "kind": "reportagem"
+    },
+    "R20261004-07-s3": {
+      "id": "R20261004-07-s3",
+      "outlet": "Poder360",
+      "title": "Vorcaro fez empréstimo de R$ 25 mi a Cruzeiro a pedido de Ronaldo",
+      "url": "https://www.poder360.com.br/poder-gente/vorcaro-fez-emprestimo-de-r-25-mi-a-cruzeiro-a-pedido-de-ronaldo/",
+      "date": "2026-10-02",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "R20261004-07-s4": {
+      "id": "R20261004-07-s4",
+      "outlet": "Terra / Sala de TV",
+      "title": "Reações na Globo às mensagens entre Huck e Vorcaro vão decepcionar quem torce contra o apresentador",
+      "url": "https://www.terra.com.br/diversao/tv/reacoes-na-globo-as-mensagens-entre-huck-e-vorcaro-vao-decepcionar-quem-torce-contra-o-apresentador%2C03d78e1d82fdbbf801f033fc680a25c0k9i5ufwt.html",
+      "date": "2026-10-02",
+      "author": "Jeff Benício",
+      "kind": "coluna"
     }
   },
   "press": [
