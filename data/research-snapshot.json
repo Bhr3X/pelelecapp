@@ -1,15 +1,15 @@
 {
   "meta": {
     "updated": "2026-10-04",
-    "generated": "2026-10-04T16:39:19.615Z",
+    "generated": "2026-10-04T22:40:47.042Z",
     "counts": {
       "chats": 92,
-      "messages": 1257,
+      "messages": 1258,
       "recovered": 61,
       "low": 0,
       "contacts": 126,
-      "sources": 801,
-      "timeline": 142
+      "sources": 805,
+      "timeline": 146
     }
   },
   "owner": {
@@ -714,6 +714,13 @@
           "src": [
             "A1-s1"
           ]
+        },
+        {
+          "summary": "A defesa de Vorcaro disse não reconhecer o conteúdo citado e contestou sua utilização. A reportagem não traz manifestação de Giunchetti; Motta, Faria e Ciro foram procurados sem retorno.",
+          "quote": null,
+          "src": [
+            "R20261004-19-s1"
+          ]
         }
       ],
       "src": [
@@ -722,7 +729,8 @@
         "A2-s30",
         "A2-s31",
         "B2-s2",
-        "H-s11"
+        "H-s11",
+        "R20261004-19-s1"
       ],
       "public": false,
       "approxMessages": null,
@@ -14755,6 +14763,27 @@
             ],
             "checked": [
               "B2-s2"
+            ]
+          }
+        },
+        {
+          "id": "R2026100419-m1",
+          "from": "vorcaro",
+          "kind": "text",
+          "text": "Vc tem que pedir invoice total pra Voto",
+          "ctx": "Fragmento final da resposta atribuída a Vorcaro, sobre fatura de hospedagem após fórum em Londres. Sem data individual publicada; não prova pagamento, irregularidade nem participação de autoridade específica. O termo final não é identificado como empresa ou destinatário.",
+          "conf": "medium",
+          "src": [
+            "R20261004-19-s1"
+          ],
+          "p": "unknown",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261004-19-s1"
+            ],
+            "checked": [
+              "R20261004-19-s1"
             ]
           }
         }
@@ -36637,6 +36666,52 @@
       "src": [
         "R20261004-13-s7"
       ]
+    },
+    {
+      "id": "t143",
+      "date": "2026-10-04",
+      "title": "Estadão relata conversa sobre fatura de evento em Londres",
+      "text": "Jovem Pan/Estadão publica diálogo atribuído a Giunchetti e Vorcaro sobre hospedagem após fórum em Londres em 2024. A defesa de Vorcaro contesta o conteúdo. Sem data individual, prova de pagamento ou conclusão de irregularidade; a matéria não apresenta resposta de Giunchetti.",
+      "contacts": [
+        "leo_serrano"
+      ],
+      "src": [
+        "R20261004-19-s1"
+      ]
+    },
+    {
+      "id": "t144",
+      "date": "2026-10-04",
+      "title": "VEJA relata voto de Vorcaro enquanto preso provisório",
+      "text": "Segundo a VEJA, Daniel Vorcaro votou em 04/10 enquanto preso provisoriamente na Papuda. A matéria não apresenta nova decisão sobre o caso Master nem manifestação específica de Vorcaro.",
+      "contacts": [],
+      "src": [
+        "R20261004-19-s2"
+      ]
+    },
+    {
+      "id": "t145",
+      "date": "2026-10-04",
+      "title": "Pública publica versão de produtor de Dark Horse",
+      "text": "A Pública, em parceria com Mother Jones, publica reportagem sobre o financiamento de Dark Horse e a versão de seu produtor Michael Brian Davis. Ele recusou comentar orçamentos e contratos privados e contestou o enquadramento e pressupostos das perguntas. A matéria reúne negativas anteriores de Flávio e Eduardo Bolsonaro e registra que a assessoria de Eduardo não respondeu antes da publicação; o email não tem data individual publicada; sua divulgação não confirma irregularidade.",
+      "contacts": [
+        "flavio"
+      ],
+      "src": [
+        "R20261004-19-s3"
+      ]
+    },
+    {
+      "id": "t146",
+      "date": "2026-10-04",
+      "title": "Correio divulga checagem de boato sobre viagem de Flávio",
+      "text": "O Correio publica checagem do Comprova que considera falsa a alegada viagem de Flávio Bolsonaro aos EUA em 13/09, vinculada por um vídeo ao caso Master. Segundo a checagem, o vídeo usa imagens de maio e reportagens indicam que ele estava em Brasília naquela data. A assessoria não respondeu ao Comprova; o registro se limita ao boato sobre a viagem.",
+      "contacts": [
+        "flavio"
+      ],
+      "src": [
+        "R20261004-19-s4"
+      ]
     }
   ],
   "sources": {
@@ -43848,6 +43923,42 @@
       "date": "2026-10-04",
       "author": "Amanda S. Feitoza",
       "kind": "reportagem"
+    },
+    "R20261004-19-s1": {
+      "id": "R20261004-19-s1",
+      "outlet": "Jovem Pan / Estadão Conteúdo",
+      "title": "Celular de Vorcaro mostra novas fotos com Ciro e Motta em viagem a Londres, diz revista",
+      "url": "https://jovempan.com.br/politica/celular-de-vorcaro-mostra-novas-fotos-com-ciro-e-motta-em-viagem-a-londres-diz-revista/",
+      "date": "2026-10-04",
+      "author": "Estadão Conteúdo",
+      "kind": "reportagem"
+    },
+    "R20261004-19-s2": {
+      "id": "R20261004-19-s2",
+      "outlet": "VEJA",
+      "title": "De Vorcaro ao ‘Careca do INSS’: presos provisórios votam na Papuda",
+      "url": "https://veja.abril.com.br/brasil/de-vorcaro-ao-careca-do-inss-presos-provisorios-votam-na-papuda/",
+      "date": "2026-10-04",
+      "author": "João Nogueira",
+      "kind": "reportagem"
+    },
+    "R20261004-19-s3": {
+      "id": "R20261004-19-s3",
+      "outlet": "Agência Pública / Mother Jones",
+      "title": "Why a Bolsonaro biopic is at the center of Brazil’s presidential election",
+      "url": "https://apublica.org/2026/10/why-a-bolsonaro-biopic-is-at-the-center-of-brazils-presidential-election/",
+      "date": "2026-10-04",
+      "author": "Isabela Dias, Maria Martha Bruno",
+      "kind": "reportagem"
+    },
+    "R20261004-19-s4": {
+      "id": "R20261004-19-s4",
+      "outlet": "Correio Braziliense / Projeto Comprova",
+      "title": "Flávio Bolsonaro não viajou aos EUA em setembro; imagens são de maio",
+      "url": "https://www.correiobraziliense.com.br/holofote/2026/10/7513444-flavio-bolsonaro-nao-viajou-aos-eua-em-setembro-imagens-sao-de-maio.html",
+      "date": "2026-10-04",
+      "author": "Projeto Comprova",
+      "kind": "checagem"
     }
   },
   "press": [

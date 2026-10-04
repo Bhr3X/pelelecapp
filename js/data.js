@@ -30985,7 +30985,8 @@ window.PELELEC_DATA = {
       "contextSummary": "Tratou da logística de carros para 'ministros mais sensiveis' (citando Toffoli) e repassou pedidos de Newton Ramos para o 'KN' (Fasano, camarote, mansão).",
       "originalContext": true,
       "responseSources": [
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_R20261004-19-s1"
       ],
       "outroLado": [
         {
@@ -30993,6 +30994,13 @@ window.PELELEC_DATA = {
           "text": "Nenhuma manifestação localizada nas fontes consultadas.",
           "sources": [
             "research_A1-s1"
+          ]
+        },
+        {
+          "name": "Leo Serrano Giunchetti",
+          "text": "A defesa de Vorcaro disse não reconhecer o conteúdo citado e contestou sua utilização. A reportagem não traz manifestação de Giunchetti; Motta, Faria e Ciro foram procurados sem retorno.",
+          "sources": [
+            "research_R20261004-19-s1"
           ]
         }
       ],
@@ -31498,6 +31506,40 @@ window.PELELEC_DATA = {
           "recoveredByPF": false,
           "context": "Transcrita na decisão da Pet 15.873.",
           "documentRef": "STF, PET 15.873, decisão de 06/05/2026, §15, p. 7",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100419-m1",
+          "researchId": "R2026100419-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Vc tem que pedir invoice total pra Voto",
+          "sources": [
+            "research_R20261004-19-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261004-19-s1"
+            ],
+            "checked": [
+              "R20261004-19-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento final da resposta atribuída a Vorcaro, sobre fatura de hospedagem após fórum em Londres. Sem data individual publicada; não prova pagamento, irregularidade nem participação de autoridade específica. O termo final não é identificado como empresa ou destinatário.",
+          "documentRef": "",
           "datePrecision": "unknown",
           "variants": [],
           "originalLanguage": true
@@ -49936,7 +49978,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1357,
+      "totalMessagesRecovered": 1358,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 98
@@ -57398,6 +57440,42 @@ window.PELELEC_DATA = {
       "author": "Amanda S. Feitoza",
       "kind": "reportagem"
     },
+    "research_R20261004-19-s1": {
+      "id": "research_R20261004-19-s1",
+      "outlet": "Jovem Pan / Estadão Conteúdo",
+      "title": "Celular de Vorcaro mostra novas fotos com Ciro e Motta em viagem a Londres, diz revista",
+      "url": "https://jovempan.com.br/politica/celular-de-vorcaro-mostra-novas-fotos-com-ciro-e-motta-em-viagem-a-londres-diz-revista/",
+      "date": "2026-10-04",
+      "author": "Estadão Conteúdo",
+      "kind": "reportagem"
+    },
+    "research_R20261004-19-s2": {
+      "id": "research_R20261004-19-s2",
+      "outlet": "VEJA",
+      "title": "De Vorcaro ao ‘Careca do INSS’: presos provisórios votam na Papuda",
+      "url": "https://veja.abril.com.br/brasil/de-vorcaro-ao-careca-do-inss-presos-provisorios-votam-na-papuda/",
+      "date": "2026-10-04",
+      "author": "João Nogueira",
+      "kind": "reportagem"
+    },
+    "research_R20261004-19-s3": {
+      "id": "research_R20261004-19-s3",
+      "outlet": "Agência Pública / Mother Jones",
+      "title": "Why a Bolsonaro biopic is at the center of Brazil’s presidential election",
+      "url": "https://apublica.org/2026/10/why-a-bolsonaro-biopic-is-at-the-center-of-brazils-presidential-election/",
+      "date": "2026-10-04",
+      "author": "Isabela Dias, Maria Martha Bruno",
+      "kind": "reportagem"
+    },
+    "research_R20261004-19-s4": {
+      "id": "research_R20261004-19-s4",
+      "outlet": "Correio Braziliense / Projeto Comprova",
+      "title": "Flávio Bolsonaro não viajou aos EUA em setembro; imagens são de maio",
+      "url": "https://www.correiobraziliense.com.br/holofote/2026/10/7513444-flavio-bolsonaro-nao-viajou-aos-eua-em-setembro-imagens-sao-de-maio.html",
+      "date": "2026-10-04",
+      "author": "Projeto Comprova",
+      "kind": "checagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57410,7 +57488,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-04",
     "researchChats": 92,
-    "researchRecords": 1302,
+    "researchRecords": 1303,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -59127,6 +59205,42 @@ window.PELELEC_DATA = {
       "text": "O Correio relata que Zema, questionado sobre o caso Master após votar em Araxá, negou ter mantido contato com Vorcaro. É sua versão publicada; a manifestação anterior da campanha sobre convites da equipe permanece acessível. A negativa não comprova nem desmente por si os registros de convites.",
       "sources": [
         "research_R20261004-13-s7"
+      ]
+    },
+    {
+      "id": "t143",
+      "date": "2026-10-04",
+      "title": "Estadão relata conversa sobre fatura de evento em Londres",
+      "text": "Jovem Pan/Estadão publica diálogo atribuído a Giunchetti e Vorcaro sobre hospedagem após fórum em Londres em 2024. A defesa de Vorcaro contesta o conteúdo. Sem data individual, prova de pagamento ou conclusão de irregularidade; a matéria não apresenta resposta de Giunchetti.",
+      "sources": [
+        "research_R20261004-19-s1"
+      ]
+    },
+    {
+      "id": "t144",
+      "date": "2026-10-04",
+      "title": "VEJA relata voto de Vorcaro enquanto preso provisório",
+      "text": "Segundo a VEJA, Daniel Vorcaro votou em 04/10 enquanto preso provisoriamente na Papuda. A matéria não apresenta nova decisão sobre o caso Master nem manifestação específica de Vorcaro.",
+      "sources": [
+        "research_R20261004-19-s2"
+      ]
+    },
+    {
+      "id": "t145",
+      "date": "2026-10-04",
+      "title": "Pública publica versão de produtor de Dark Horse",
+      "text": "A Pública, em parceria com Mother Jones, publica reportagem sobre o financiamento de Dark Horse e a versão de seu produtor Michael Brian Davis. Ele recusou comentar orçamentos e contratos privados e contestou o enquadramento e pressupostos das perguntas. A matéria reúne negativas anteriores de Flávio e Eduardo Bolsonaro e registra que a assessoria de Eduardo não respondeu antes da publicação; o email não tem data individual publicada; sua divulgação não confirma irregularidade.",
+      "sources": [
+        "research_R20261004-19-s3"
+      ]
+    },
+    {
+      "id": "t146",
+      "date": "2026-10-04",
+      "title": "Correio divulga checagem de boato sobre viagem de Flávio",
+      "text": "O Correio publica checagem do Comprova que considera falsa a alegada viagem de Flávio Bolsonaro aos EUA em 13/09, vinculada por um vídeo ao caso Master. Segundo a checagem, o vídeo usa imagens de maio e reportagens indicam que ele estava em Brasília naquela data. A assessoria não respondeu ao Comprova; o registro se limita ao boato sobre a viagem.",
+      "sources": [
+        "research_R20261004-19-s4"
       ]
     }
   ],
