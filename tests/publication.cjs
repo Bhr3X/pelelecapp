@@ -29,3 +29,30 @@ test('audio reports without a published transcript do not claim to be transcript
  assert(audio.length>0);
  for(const m of audio){assert.doesNotMatch(m.title,/transcri[çc][aã]o publicada/i,m.id);}
 });
+
+test('updating the archive does not invent or advance image verification dates',()=>{
+ const dir=fs.mkdtempSync(path.join(os.tmpdir(),'pelelec-media-dates-'));
+ try{
+  for(const sub of ['tools','data','js'])fs.mkdirSync(path.join(dir,sub));
+  for(const file of ['tools/build-archive.mjs','data/editorial-base.json','data/research-snapshot.json','data/additional-records.json','index.html','threads.html'])fs.copyFileSync(file,path.join(dir,file));
+  const file=path.join(dir,'data/research-snapshot.json');
+  const snapshot=JSON.parse(fs.readFileSync(file,'utf8'));
+  const mediaRecords=snapshot.chats.flatMap(c=>c.messages).filter(m=>m.media);
+  assert(mediaRecords.length>=2);
+  mediaRecords[0].media.verifiedOn='2026-09-23';
+  for(const m of mediaRecords.slice(1))delete m.media.verifiedOn;
+  const build=()=>{
+   fs.writeFileSync(file,JSON.stringify(snapshot));
+   execFileSync(process.execPath,[path.join(dir,'tools/build-archive.mjs')],{stdio:'pipe'});
+   const context={window:{}};require('node:vm').runInNewContext(fs.readFileSync(path.join(dir,'js/data.js'),'utf8'),context);
+   return context.window.PELELEC_DATA.contacts.flatMap(c=>c.messages);
+  };
+  const assertDates=records=>{
+   assert.equal(records.find(m=>m.researchId===mediaRecords[0].id).publishedImage.verifiedOn,'2026-09-23');
+   for(const m of mediaRecords.slice(1))assert.equal(records.find(r=>r.researchId===m.id).publishedImage.verifiedOn,'Data não registrada');
+  };
+  assertDates(build());
+  snapshot.meta.updated='2099-01-01';
+  assertDates(build());
+ }finally{fs.rmSync(dir,{recursive:true,force:true});}
+});

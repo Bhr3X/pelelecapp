@@ -15654,7 +15654,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/alfaiataria.webp",
             "alt": "Foto que, segundo a reportagem, mostra Ciro com André Mendonça numa alfaiataria.",
             "credit": "Reprodução — ICL Notícias / Paulo Motoryn",
-            "verifiedOn": "2026-10-03",
+            "verifiedOn": "Data não registrada",
             "originalUrl": "https://iclnoticias.com.br/app/uploads/2026/09/WhatsApp-Image-2026-09-02-at-07.50.26.webp"
           },
           "mediaLink": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/",
@@ -16273,7 +16273,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/selfie.jpg",
             "alt": "Foto (selfie) de Ciro Soares com Paulo Gonet, segundo a PF.",
             "credit": "Polícia Federal — 1º.set.2026 / Poder360",
-            "verifiedOn": "2026-10-03",
+            "verifiedOn": "Data não registrada",
             "originalUrl": "https://static.poder360.com.br/uploads/2026/09/gonet-advogado-soares-reproducao-848x477.jpg"
           },
           "mediaLink": "https://www.poder360.com.br/poder-justica/advogado-do-master-tirou-selfie-com-gonet-e-enviou-a-vorcaro/",
@@ -17234,7 +17234,7 @@ window.PELELEC_DATA = {
             "url": "assets/media/londres.jpg",
             "alt": "Envia a foto do encontro de abril de 2024 em Londres (Gonet com charuto, ao lado de Vorcaro) com legenda que atribui o envio a 'PG'.",
             "credit": "Reprodução — Metrópoles",
-            "verifiedOn": "2026-10-03",
+            "verifiedOn": "Data não registrada",
             "originalUrl": "https://images.metroimg.com/2026/09/vorcaro-e-gonet.jpg"
           },
           "mediaLink": "https://www.metropoles.com/brasil/foto-tirada-em-londres-mostra-gonet-com-vorcaro-fumando-charuto",
@@ -49643,7 +49643,8 @@ window.PELELEC_DATA = {
       "responseSources": [
         "research_R20261003-19-s8",
         "research_R20261003-19-s9",
-        "research_R20261003-19-s18"
+        "research_R20261003-19-s18",
+        "research_R20261004-13-s2"
       ],
       "outroLado": [
         {
@@ -49660,6 +49661,13 @@ window.PELELEC_DATA = {
             "research_R20261003-19-s9",
             "research_R20261003-19-s18"
           ]
+        },
+        {
+          "name": "Vanessa Souza",
+          "text": "A Folha não publica manifestação específica de Vanessa sobre a reportagem. A pergunta não comprova providência concreta nem conclusão da venda.",
+          "sources": [
+            "research_R20261004-13-s2"
+          ]
         }
       ],
       "thirdParty": false,
@@ -49668,12 +49676,46 @@ window.PELELEC_DATA = {
         "Vanessa Souza"
       ],
       "source": {
-        "outlet": "O Globo / Lauro Jardim",
+        "outlet": "Folha de S.Paulo / C-Level",
         "date": "2026-10-03",
-        "headline": "Vorcaro considerava Haddad um dos seus 'maiores opositores'",
-        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/vorcaro-considerava-haddad-um-dos-seus-maiores-opositores.ghtml"
+        "headline": "Vorcaro disse que Haddad é um dos seus 'maiores opositores', indicam mensagens",
+        "link": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-disse-que-haddad-e-um-dos-seus-maiores-opositores-indicam-mensagens.shtml"
       },
       "messages": [
+        {
+          "id": "r-R2026100413-m1",
+          "researchId": "R2026100413-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-10",
+          "dateLabel": "2025-10",
+          "time": "",
+          "sender": "them",
+          "speaker": "Vanessa Souza",
+          "text": "Vc abortou o assunto da venda do banco",
+          "sources": [
+            "research_R20261004-13-s2"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261004-13-s2"
+            ],
+            "checked": [
+              "R20261004-13-s2"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho inicial da pergunta publicada de Vanessa a Vorcaro sobre a venda do Master. A Folha situa a conversa em outubro de 2025, sem dia nem hora. A pergunta não confirma que a venda foi abortada.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
         {
           "id": "r-R2026100319-m3",
           "researchId": "R2026100319-m3",
@@ -49894,7 +49936,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1356,
+      "totalMessagesRecovered": 1357,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 98
@@ -57293,6 +57335,69 @@ window.PELELEC_DATA = {
       "author": "Jeff Benício",
       "kind": "coluna"
     },
+    "research_R20261004-13-s1": {
+      "id": "research_R20261004-13-s1",
+      "outlet": "Gazeta do Paraná",
+      "title": "TRE mantém no ar post de Gleisi que diz que Filipe Barros está “nas asas de Vorcaro”",
+      "url": "https://gazetadoparana.com.br/publico/tre-mantem-no-ar-post-de-gleisi-que-diz-que-filipe-barros-esta-nas-asas-de-vorcaro",
+      "date": "2026-10-04",
+      "author": "Gazeta do Paraná",
+      "kind": "reportagem"
+    },
+    "research_R20261004-13-s2": {
+      "id": "research_R20261004-13-s2",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "Vorcaro disse que Haddad é um dos seus 'maiores opositores', indicam mensagens",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-disse-que-haddad-e-um-dos-seus-maiores-opositores-indicam-mensagens.shtml",
+      "date": "2026-10-03",
+      "author": "José Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261004-13-s3": {
+      "id": "research_R20261004-13-s3",
+      "outlet": "InfoMoney",
+      "title": "Lula vota no ABC, fala em democracia contra “barbárie” e ataca “quadrilha do Master”",
+      "url": "https://www.infomoney.com.br/politica/lula-vota-no-abc-se-diz-confiante-na-vitoria-e-ataca-quadrilha-do-banco-master/",
+      "date": "2026-10-04",
+      "author": "Equipe InfoMoney",
+      "kind": "reportagem"
+    },
+    "research_R20261004-13-s4": {
+      "id": "research_R20261004-13-s4",
+      "outlet": "Agência Brasil",
+      "title": "Flávio e Lula votam no 1º turno; acompanhe voto dos demais candidatos",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-e-lula-votam-no-1o-turno-saiba-candidatos-que-ja-votaram",
+      "date": "2026-10-04",
+      "author": "Agência Brasil",
+      "kind": "reportagem"
+    },
+    "research_R20261004-13-s5": {
+      "id": "research_R20261004-13-s5",
+      "outlet": "InfoMoney / Estadão Conteúdo",
+      "title": "Romeu Zema vota em Araxá e critica decisão do TSE que cassou chapa de Deltan",
+      "url": "https://www.infomoney.com.br/politica/romeu-zema-vota-em-araxa-e-critica-decisao-do-tse-que-cassou-chapa-de-deltan/",
+      "date": "2026-10-04",
+      "author": "Estadão Conteúdo",
+      "kind": "reportagem"
+    },
+    "research_R20261004-13-s6": {
+      "id": "research_R20261004-13-s6",
+      "outlet": "O Estado CE",
+      "title": "Flávio, Lula e Zema votam no RJ, SP e MG, nesta ordem; urnas serão fechadas às 17h",
+      "url": "https://oestadoce.com.br/politica/flavio-lula-e-zema-votam-no-rj-sp-e-mg-nesta-ordem-urnas-serao-fechadas-as-17-horas/",
+      "date": "2026-10-04",
+      "author": "Kelly Hekally",
+      "kind": "reportagem"
+    },
+    "research_R20261004-13-s7": {
+      "id": "research_R20261004-13-s7",
+      "outlet": "Correio Braziliense",
+      "title": "Romeu Zema já votou em Minas e vai acompanhar apuração na capital",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/10/7514061-romeu-zema-ja-votou-em-araxa-e-vai-acompanhar-apuracao-na-capital.html",
+      "date": "2026-10-04",
+      "author": "Amanda S. Feitoza",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57303,9 +57408,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-03",
+    "updated": "2026-10-04",
     "researchChats": 92,
-    "researchRecords": 1301,
+    "researchRecords": 1302,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -58799,7 +58904,8 @@ window.PELELEC_DATA = {
       "title": "Convites da equipe de Zema a Vorcaro",
       "text": "O Globo divulga convites da equipe de Zema em 2024 e 2025, sem comprovar encontros. A campanha informou convites amplos e negou presença na cerimônia de julho, evento distinto.",
       "sources": [
-        "research_R20261003-01-s2"
+        "research_R20261003-01-s2",
+        "research_R20261004-13-s7"
       ]
     },
     {
@@ -58909,7 +59015,8 @@ window.PELELEC_DATA = {
       "text": "O Globo divulga conversa de 29/10/2025 com Vanessa Souza em que Vorcaro descreve Haddad como opositor e afirma não o conhecer. A resposta da advogada não comprova providência concreta. A matéria não publica resposta. Como contexto anterior, Haddad afirmou em 18/09 não ter recebido Vorcaro após alertas do compliance.",
       "sources": [
         "research_R20261003-19-s8",
-        "research_R20261003-19-s9"
+        "research_R20261003-19-s9",
+        "research_R20261004-13-s2"
       ]
     },
     {
@@ -58990,6 +59097,36 @@ window.PELELEC_DATA = {
       "text": "A coluna de Alessandro Lo-Bianco relata, com fontes não identificadas, ampliação de entrevistas internas após o caso Huck, para mapear relações com Vorcaro. Não apresenta manifestação específica da Globo ou de Huck sobre essa ampliação; o relato não comprova irregularidade dos entrevistados.",
       "sources": [
         "research_R20261004-01-s8"
+      ]
+    },
+    {
+      "id": "t140",
+      "date": "2026-10-04",
+      "title": "Gazeta relata manutenção de posts de Gleisi contestados por Filipe Barros",
+      "text": "Segundo a Gazeta do Paraná, o TRE-PR referendou a negativa preliminar de remoção de posts de Gleisi Hoffmann que associam Filipe Barros ao Master. Filipe e sua coligação alegaram falsidade e ofensa, pedindo retirada e direito de resposta. O veículo ressalta que a manutenção não declara verdadeiro o vínculo insinuado; a íntegra da decisão não foi localizada e a data da sessão é incerta.",
+      "sources": [
+        "research_R20261004-13-s1"
+      ]
+    },
+    {
+      "id": "t141",
+      "date": "2026-10-04",
+      "title": "Lula e Zema criticam o caso Master após votar",
+      "text": "Agência Brasil e InfoMoney relatam crítica de Lula ao caso Master após votar em São Bernardo do Campo. InfoMoney/Estadão e O Estado CE registram crítica de Zema ao escândalo, sem nomes. São declarações políticas; essas fontes não registram resposta específica e não estabelecem responsabilidade dos citados.",
+      "sources": [
+        "research_R20261004-13-s3",
+        "research_R20261004-13-s4",
+        "research_R20261004-13-s5",
+        "research_R20261004-13-s6"
+      ]
+    },
+    {
+      "id": "t142",
+      "date": "2026-10-04",
+      "title": "Correio relata nova negativa de Zema sobre Vorcaro",
+      "text": "O Correio relata que Zema, questionado sobre o caso Master após votar em Araxá, negou ter mantido contato com Vorcaro. É sua versão publicada; a manifestação anterior da campanha sobre convites da equipe permanece acessível. A negativa não comprova nem desmente por si os registros de convites.",
+      "sources": [
+        "research_R20261004-13-s7"
       ]
     }
   ],
