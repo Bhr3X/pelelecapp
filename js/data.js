@@ -57539,6 +57539,42 @@ window.PELELEC_DATA = {
       "author": "1uc4sm4theus; RecomendeMe",
       "kind": "artigo"
     },
+    "research_R20261005-19-s1": {
+      "id": "research_R20261005-19-s1",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "PF adia depoimento de André Esteves como testemunha em inquérito sobre Master",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/pf-adia-depoimento-de-andre-esteves-como-testemunha-em-inquerito-sobre-master.shtml",
+      "date": "2026-10-05",
+      "author": "José Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261005-19-s2": {
+      "id": "research_R20261005-19-s2",
+      "outlet": "Poder360",
+      "title": "DF reelege 11 deputados ligados à compra do Banco Master",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/df-reelege-11-deputados-ligados-a-compra-do-banco-master/",
+      "date": "2026-10-05",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261005-19-s3": {
+      "id": "research_R20261005-19-s3",
+      "outlet": "O Dia",
+      "title": "Governo do Estado suspende descontos do Banco Master e do Credcesta",
+      "url": "https://odia.ig.com.br/economia/2026/10/7309300-governo-do-estado-suspende-descontos-do-banco-master-e-do-credcesta.html",
+      "date": "2026-10-05",
+      "author": "Leonardo Brito",
+      "kind": "reportagem"
+    },
+    "research_R20261005-19-s4": {
+      "id": "research_R20261005-19-s4",
+      "outlet": "UOL/BOL",
+      "title": "PF adia fala de André Esteves em caso do Banco Master",
+      "url": "https://www.bol.uol.com.br/economia/2026/10/05/pf-adia-fala-de-andre-esteves-em-caso-do-banco-master.ghtm",
+      "date": "2026-10-05",
+      "author": "Do UOL, em São Paulo",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59373,6 +59409,34 @@ window.PELELEC_DATA = {
       "text": "Em texto no HackerNoon, os perfis 1uc4sm4theus e RecomendeMe descrevem um método de consulta do MasterWhats que vincularia respostas a mensagens e documentos publicados. Os autores admitem risco de erro de IA e classificam identificações incertas como hipóteses, sem declarar culpa. É um relato dos responsáveis, sem auditoria independente apresentada; não constitui nova divulgação de conversas.",
       "sources": [
         "research_R20261005-13-s4"
+      ]
+    },
+    {
+      "id": "t154",
+      "date": "2026-10-05",
+      "title": "Folha e BOL relatam adiamento de oitiva de Esteves",
+      "text": "Folha e BOL/UOL informam que a PF adiou a oitiva de André Esteves, prevista para 05/10, na investigação da fiscalização do BC sobre o Master. Seus advogados alegaram compromissos profissionais ao solicitar a mudança; a nova data ainda não estava definida. Segundo o BOL/UOL, ele participa como testemunha e não é investigado nesse inquérito.",
+      "sources": [
+        "research_R20261005-19-s1",
+        "research_R20261005-19-s4"
+      ]
+    },
+    {
+      "id": "t155",
+      "date": "2026-10-05",
+      "title": "Poder360 relata resultados de parlamentares favoráveis à compra",
+      "text": "Segundo o Poder360, dos 15 distritais favoráveis à aquisição do Master pelo BRB, 11 renovaram o mandato em 04/10; Thiago Manzoni conquistou uma vaga de deputado federal. Voto legislativo e resultado eleitoral não estabelecem participação em ilícitos; a matéria não apresenta resposta individual dos parlamentares sobre o levantamento.",
+      "sources": [
+        "research_R20261005-19-s2"
+      ]
+    },
+    {
+      "id": "t156",
+      "date": "2026-10-05",
+      "title": "O Dia relata suspensão preventiva de consignados no RJ",
+      "text": "O Dia relata decreto publicado em 05/10 que suspende temporariamente descontos do Master e do Credcesta na folha estadual de outubro, com crédito em novembro, para apurar eventuais cobranças indevidas. A medida é preventiva e não comprova irregularidade; descontos regulares poderão ser restabelecidos. A matéria informa que as instituições deverão se manifestar após intimação, mas não reproduz resposta delas; o decreto oficial não foi conferido.",
+      "sources": [
+        "research_R20261005-19-s3"
       ]
     }
   ],
