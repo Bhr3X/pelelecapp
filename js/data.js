@@ -57476,6 +57476,33 @@ window.PELELEC_DATA = {
       "author": "Projeto Comprova",
       "kind": "checagem"
     },
+    "research_R20261005-01-s1": {
+      "id": "research_R20261005-01-s1",
+      "outlet": "Folha de S.Paulo",
+      "title": "Políticos envolvidos no caso Master driblam escândalo e conseguem se eleger",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/politicos-envolvidos-no-caso-master-driblam-escandalo-e-conseguem-se-eleger.shtml",
+      "date": "2026-10-04",
+      "author": "Tamara Nassif",
+      "kind": "reportagem"
+    },
+    "research_R20261005-01-s2": {
+      "id": "research_R20261005-01-s2",
+      "outlet": "Folha de S.Paulo",
+      "title": "Celina Leão (PP) e Leandro Grass (PT) vão disputar o 2º turno no DF",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/celina-leao-pp-e-leandro-grass-pt-vao-disputar-o-2o-turno-no-df-projeta-datafolha.shtml",
+      "date": "2026-10-04",
+      "author": "Mateus Vargas, Constança Rezende",
+      "kind": "reportagem"
+    },
+    "research_R20261005-01-s3": {
+      "id": "research_R20261005-01-s3",
+      "outlet": "Hora do Povo",
+      "title": "Em áudio, Lula chama o povo a derrotar “as quadrilhas que assaltaram o Brasil”",
+      "url": "https://horadopovo.com.br/em-audio-lula-chama-o-povo-a-derrotar-as-quadrilhas-que-assaltaram-o-brasil/",
+      "date": "2026-10-04",
+      "author": "Hora do Povo",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59241,6 +59268,33 @@ window.PELELEC_DATA = {
       "text": "O Correio publica checagem do Comprova que considera falsa a alegada viagem de Flávio Bolsonaro aos EUA em 13/09, vinculada por um vídeo ao caso Master. Segundo a checagem, o vídeo usa imagens de maio e reportagens indicam que ele estava em Brasília naquela data. A assessoria não respondeu ao Comprova; o registro se limita ao boato sobre a viagem.",
       "sources": [
         "research_R20261004-19-s4"
+      ]
+    },
+    {
+      "id": "t147",
+      "date": "2026-10-04",
+      "title": "Folha relata resultados de candidatos citados no caso Master",
+      "text": "A Folha reúne 16 candidatos citados na cobertura do caso Master e relata Jaques Wagner reeleito, Ciro Nogueira e ACM Neto sem vitória e Flávio Bolsonaro no segundo turno. A matéria ainda descreve as eleições de Mario Frias, Hugo Motta e Antônio Rueda como expectativas. Ela registra versões de legalidade e negativas de irregularidades; resultados eleitorais e menção ao caso não estabelecem responsabilidade por ilícitos.",
+      "sources": [
+        "research_R20261005-01-s1"
+      ]
+    },
+    {
+      "id": "t148",
+      "date": "2026-10-04",
+      "title": "Folha relata segundo turno no DF e contexto da crise do BRB",
+      "text": "A Folha relata que Celina Leão e Leandro Grass disputarão o segundo turno no DF, com 100% das urnas apuradas. Ao contextualizar a crise do BRB, a reportagem retoma conversas de abril de 2025 já no acervo e a negativa de Celina sobre envolvimento na compra do Master ou contato com Vorcaro. São versões e resultados apresentados pelo jornal; não se infere participação dela ou responsabilidade pelo rombo.",
+      "sources": [
+        "research_R20261005-01-s2"
+      ]
+    },
+    {
+      "id": "t149",
+      "date": "2026-10-04",
+      "title": "Hora do Povo relata áudio de Lula que menciona o Master",
+      "text": "Hora do Povo publica transcrição de áudio atribuído a Lula, situado na noite de 03/10, que menciona o caso Master na campanha. A matéria não apresenta resposta específica ao áudio; a declaração política não comprova responsabilidade no caso.",
+      "sources": [
+        "research_R20261005-01-s3"
       ]
     }
   ],
