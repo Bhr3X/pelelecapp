@@ -57503,6 +57503,42 @@ window.PELELEC_DATA = {
       "author": "Hora do Povo",
       "kind": "reportagem"
     },
+    "research_R20261005-13-s1": {
+      "id": "research_R20261005-13-s1",
+      "outlet": "O Antagonista",
+      "title": "Transparência Internacional critica eleitos ligados a Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/transparencia-internacional-critica-eleitos-ligados-a-vorcaro/",
+      "date": "2026-10-05",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261005-13-s2": {
+      "id": "research_R20261005-13-s2",
+      "outlet": "iG / Último Segundo",
+      "title": "Moraes e Vorcaro voltam a se comunicar, diz colunista",
+      "url": "https://ultimosegundo.ig.com.br/2026-10-05/moraes-e-vorcaro-voltam-a-se-comunicar--diz-colunista.html",
+      "date": "2026-10-05",
+      "author": "Nathália Fontes",
+      "kind": "reportagem"
+    },
+    "research_R20261005-13-s3": {
+      "id": "research_R20261005-13-s3",
+      "outlet": "Folha de S.Paulo",
+      "title": "Flávio lidera onda bolsonarista ao superar o próprio pai e ir ao 2º turno em vantagem contra Lula",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-lidera-onda-bolsonarista-ao-superar-o-proprio-pai-e-ir-ao-2o-turno-em-vantagem-contra-lula.shtml",
+      "date": "2026-10-05",
+      "author": "Uirá Machado",
+      "kind": "reportagem"
+    },
+    "research_R20261005-13-s4": {
+      "id": "research_R20261005-13-s4",
+      "outlet": "HackerNoon",
+      "title": "How MasterWhats Used GraphRAG to Untangle Brazil’s Biggest Banking Fraud",
+      "url": "https://hackernoon.com/how-masterwhats-used-graphrag-to-untangle-brazils-biggest-banking-fraud",
+      "date": "2026-10-05",
+      "author": "1uc4sm4theus; RecomendeMe",
+      "kind": "artigo"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57513,7 +57549,7 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-04",
+    "updated": "2026-10-05",
     "researchChats": 92,
     "researchRecords": 1303,
     "events": 3,
@@ -59295,6 +59331,48 @@ window.PELELEC_DATA = {
       "text": "Hora do Povo publica transcrição de áudio atribuído a Lula, situado na noite de 03/10, que menciona o caso Master na campanha. A matéria não apresenta resposta específica ao áudio; a declaração política não comprova responsabilidade no caso.",
       "sources": [
         "research_R20261005-01-s3"
+      ]
+    },
+    {
+      "id": "t150",
+      "date": "2026-10-05",
+      "title": "O Antagonista relata crítica da Transparência Internacional após a eleição",
+      "text": "O Antagonista relata crítica da Transparência Internacional–Brasil, atribuída a publicação no X em 05/10, ao avanço de Flávio ao segundo turno e aos resultados de Wagner, Motta, Frias e Rueda. A ONG relaciona os resultados, em parte, a emendas e polarização; trata-se de sua avaliação, sem comprovar irregularidade ou efeito eleitoral. Como contexto anterior, Flávio, Frias e Motta negam irregularidades, Wagner nega relação com Vorcaro e Rueda descreve vínculo profissional legítimo; essas versões não são respostas novas à crítica, e a matéria não registra manifestações específicas.",
+      "sources": [
+        "research_R20261005-13-s1",
+        "research_B1-s4",
+        "research_B1-s33",
+        "research_B2-s20",
+        "research_R20260929-23-s8",
+        "research_B2-s64"
+      ]
+    },
+    {
+      "id": "t151",
+      "date": "2026-10-05",
+      "title": "iG repercute relato de suposta retomada de comunicação",
+      "text": "O iG atribui a Lauro Jardim, em 04/10, relato de que Moraes e Vorcaro teriam retomado comunicação. A matéria não informa quando, por qual canal ou sobre qual assunto, nem apresenta transcrição ou resposta específica; o original de O Globo não foi conferido. Isso não confirma contato ou relação com as investigações; a negativa de Moraes em março sobre outras mensagens, nas quais disse não ter sido o destinatário, não é resposta a esse relato.",
+      "sources": [
+        "research_R20261005-13-s2",
+        "research_A1-s12"
+      ]
+    },
+    {
+      "id": "t152",
+      "date": "2026-10-05",
+      "title": "Folha relata crítica de Lula após resultado eleitoral",
+      "text": "A Folha relata discurso de Lula após a divulgação dos resultados do primeiro turno e reproduz sua crítica sobre participação do grupo político adversário na criação do Banco Master. É declaração política, sem resposta específica à crítica nesta matéria e sem estabelecer responsabilidade ou ilícito. Não se confunde com a fala após votar de 04/10 ou o áudio de 03/10 já no acervo.",
+      "sources": [
+        "research_R20261005-13-s3"
+      ]
+    },
+    {
+      "id": "t153",
+      "date": "2026-10-05",
+      "title": "Autores descrevem método e limites do MasterWhats",
+      "text": "Em texto no HackerNoon, os perfis 1uc4sm4theus e RecomendeMe descrevem um método de consulta do MasterWhats que vincularia respostas a mensagens e documentos publicados. Os autores admitem risco de erro de IA e classificam identificações incertas como hipóteses, sem declarar culpa. É um relato dos responsáveis, sem auditoria independente apresentada; não constitui nova divulgação de conversas.",
+      "sources": [
+        "research_R20261005-13-s4"
       ]
     }
   ],
