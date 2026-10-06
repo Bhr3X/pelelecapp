@@ -46019,7 +46019,7 @@ window.PELELEC_DATA = {
       "phone": "Não exibida: sem necessidade editorial",
       "pinned": false,
       "unreadCount": 0,
-      "contextSummary": "A Folha e o Estadão relatam mensagens de Motta com Vorcaro sobre empréstimo de R$ 22 milhões à cunhada, mas o texto não foi publicado nas fontes consultadas. É mencionado em mensagem de Vorcaro a Rennó ('number 1'). A PF não identifica o 'hugo' da mensagem a Martha de 20/03/2025. A Estadão Conteúdo associou o nome a Motta.",
+      "contextSummary": "Os trechos reunidos neste cartão têm suas fontes e notas de contexto indicadas abaixo. É mencionado em mensagem de Vorcaro a Rennó ('number 1'). A PF não identifica o 'hugo' da mensagem a Martha de 20/03/2025. A Estadão Conteúdo associou o nome a Motta.",
       "originalContext": true,
       "responseSources": [
         "research_B2-s33",
