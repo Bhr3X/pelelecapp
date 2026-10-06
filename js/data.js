@@ -14863,7 +14863,8 @@ window.PELELEC_DATA = {
         "research_A2-s27",
         "research_H-s60",
         "research_R20260929-23-s7",
-        "research_R20261002-19-s10"
+        "research_R20261002-19-s10",
+        "research_R20261006-13-s1"
       ],
       "source": {
         "title": "Gonet nega proximidade com Vorcaro",
@@ -17597,6 +17598,40 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100613-m1",
+          "researchId": "R2026100613-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Queren (sic) tomar café?",
+          "sources": [
+            "research_R20261006-13-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261006-13-s1"
+            ],
+            "checked": [
+              "R20261006-13-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento da sequência sobre jantar, sem data ou hora individual publicada. O veículo preserva uma marcação editorial; Gilmar nega o jantar e encontros sobre o Master. Não é mensagem enviada por Gilmar.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "ds-cs8",
           "editorialType": "summary",
           "type": "summary",
@@ -17675,6 +17710,13 @@ window.PELELEC_DATA = {
           "text": "Ciro Soares disse que as conversas mostram compromisso com a defesa do então cliente. Já não representa Vorcaro e invocou sigilo profissional sobre conteúdo e estratégias.",
           "sources": [
             "research_R20261002-19-s10"
+          ]
+        },
+        {
+          "name": "Ciro Rocha Soares",
+          "text": "Gilmar negou o jantar, reuniões relacionadas ao banco e participação nas mensagens; caracterizou o almoço do Esfera como evento público. A matéria não apresenta resposta específica de Ciro.",
+          "sources": [
+            "research_R20261006-13-s1"
           ]
         }
       ],
@@ -49978,7 +50020,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1358,
+      "totalMessagesRecovered": 1359,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 98
@@ -57638,6 +57680,33 @@ window.PELELEC_DATA = {
       "author": "Luísa Martins e Ana Pompeu",
       "kind": "reportagem"
     },
+    "research_R20261006-13-s1": {
+      "id": "research_R20261006-13-s1",
+      "outlet": "O Antagonista",
+      "title": "“GM queria que vc fosse jantar com ele”, diz advogado a Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/gm-queria-que-vc-fosse-jantar-com-ele-diz-advogado-a-vorcaro/",
+      "date": "2026-10-06",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261006-13-s2": {
+      "id": "research_R20261006-13-s2",
+      "outlet": "CNN Brasil",
+      "title": "PL rejeita acordão e defende impeachment de Moraes e Dino",
+      "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/pl-rejeita-acordao-e-defende-impeachment-de-moraes-e-dino/",
+      "date": "2026-10-06",
+      "author": "Caio Junqueira",
+      "kind": "reportagem"
+    },
+    "research_R20261006-13-s3": {
+      "id": "research_R20261006-13-s3",
+      "outlet": "R7",
+      "title": "Caso Master: Galípolo depõe à PF como testemunha no caso de cooptação de servidores do Banco Central",
+      "url": "https://noticias.r7.com/prisma/natalia-martins/caso-master-galipolo-depoe-a-pf-como-testemunha-no-caso-de-cooptacao-de-servidores-do-banco-central-06102026/",
+      "date": "2026-10-06",
+      "author": "Natália Martins",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57648,9 +57717,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-05",
+    "updated": "2026-10-06",
     "researchChats": 92,
-    "researchRecords": 1303,
+    "researchRecords": 1304,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -59531,6 +59600,33 @@ window.PELELEC_DATA = {
       "text": "A Folha atribui a magistrados e auxiliares do Supremo preocupações com possíveis processos para afastar integrantes da Corte em 2027 e a avaliação de que seria necessária interlocução com setores do PL. A reportagem relaciona esse cenário à crise do Master; são avaliações prospectivas atribuídas a interlocutores, sem anúncio de procedimento ou decisão no caso. O texto não apresenta resposta nominal específica às avaliações relatadas.",
       "sources": [
         "research_R20261006-07-s1"
+      ]
+    },
+    {
+      "id": "t160",
+      "date": "2026-10-06",
+      "title": "O Antagonista divulga conversas de Ciro sobre Gilmar",
+      "text": "O Antagonista, repercutindo o Estadão, publica mensagens de Ciro Soares sobre tentativa de encontro entre Vorcaro e Gilmar em 2024. Gilmar nega o jantar e reuniões relacionadas ao Master; sua assessoria destaca que as mensagens são entre terceiros e o almoço do Esfera foi público. A matéria não traz resposta específica de Ciro ou Vorcaro, nem comprova encontro reservado.",
+      "sources": [
+        "research_R20261006-13-s1"
+      ]
+    },
+    {
+      "id": "t161",
+      "date": "2026-10-06",
+      "title": "CNN relata posição atribuída ao PL sobre pedidos contra ministros",
+      "text": "Segundo a CNN, o PL rejeita uma aproximação com Moraes e pretende levar pedidos de impeachment ao Senado em 2027, com eventual iniciativa contra Dino condicionada à atuação futura do ministro. A matéria associa a posição partidária ao caso Master; são planos atribuídos à legenda, sem comprovar apresentação de pedido ou abertura de processo. O texto não identifica porta-voz da posição relatada nem reproduz resposta específica dos ministros.",
+      "sources": [
+        "research_R20261006-13-s2"
+      ]
+    },
+    {
+      "id": "t162",
+      "date": "2026-10-06",
+      "title": "R7 noticia oitiva de Galípolo como testemunha",
+      "text": "O R7 relata que Galípolo é ouvido em 06/10 na investigação da atuação de antigos funcionários do BC no Master, como testemunha. A matéria não traz conteúdo ou conclusão da oitiva, nem manifestação específica dele; registra que Paulo Sérgio Souza contesta as acusações contra si. Os depoimentos de Campos Neto e Ailton de Aquino continuam descritos como previstos para 07 e 08/10, respectivamente.",
+      "sources": [
+        "research_R20261006-13-s3"
       ]
     }
   ],
