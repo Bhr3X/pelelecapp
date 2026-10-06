@@ -50011,6 +50011,80 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "daniel_alves",
+      "name": "Daniel Alves",
+      "role": "Ex-jogador de futebol",
+      "category": "master",
+      "avatarInitials": "DA",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "Ex-jogador citado em reportagem sobre proposta empresarial feita a Vorcaro em janeiro/2019; a fonte não demonstra que houve sociedade ou execução.",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261006-19-s3"
+      ],
+      "outroLado": [
+        {
+          "name": "Daniel Alves",
+          "text": "Segundo o veículo, Alves foi procurado sobre os diálogos e não se manifestou até a publicação. O relato não comprova irregularidade, sociedade ou projeto realizado.",
+          "sources": [
+            "research_R20261006-19-s3"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Daniel Alves"
+      ],
+      "source": {
+        "outlet": "Poder360",
+        "date": "2026-10-06",
+        "headline": "Daniel Alves quis Vorcaro como sócio em negócio de mineração",
+        "link": "https://www.poder360.com.br/poder-gente/daniel-alves-quis-vorcaro-como-socio-em-negocio-de-mineracao/"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100619-m1",
+          "researchId": "R2026100619-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Vamos analisar juntos!",
+          "sources": [
+            "research_R20261006-19-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261006-19-s3"
+            ],
+            "checked": [
+              "R20261006-19-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento publicado como resposta de Vorcaro à proposta empresarial. A reportagem situa o assunto em janeiro/2019, mas não fornece carimbo individual desta resposta; não se atribui o dia do convite a ela. Não há prova de execução do projeto ou sociedade; Alves não respondeu ao veículo.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -50020,10 +50094,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1359,
+      "totalMessagesRecovered": 1360,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 98
+      "sensitiveContactsIdentified": 99
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -57707,6 +57781,60 @@ window.PELELEC_DATA = {
       "author": "Natália Martins",
       "kind": "reportagem"
     },
+    "research_R20261006-19-s1": {
+      "id": "research_R20261006-19-s1",
+      "outlet": "Gazeta do Povo",
+      "title": "Conselho da Justiça endurece regras para precatórios após suspeitas do Master",
+      "url": "https://www.gazetadopovo.com.br/economia/conselho-justica-endurece-regras-precatorios-apos-suspeitas-master/",
+      "date": "2026-10-06",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_R20261006-19-s2": {
+      "id": "research_R20261006-19-s2",
+      "outlet": "Gazeta do Povo",
+      "title": "PL quer impeachment de Moraes e Dino",
+      "url": "https://www.gazetadopovo.com.br/republica/pl-quer-impeachment-de-moraes-e-dino-partido-diz-ter-votos-para-afastar-ministros-do-stf/",
+      "date": "2026-10-06",
+      "author": "Gazeta do Povo",
+      "kind": "reportagem"
+    },
+    "research_R20261006-19-s3": {
+      "id": "research_R20261006-19-s3",
+      "outlet": "Poder360",
+      "title": "Daniel Alves quis Vorcaro como sócio em negócio de mineração",
+      "url": "https://www.poder360.com.br/poder-gente/daniel-alves-quis-vorcaro-como-socio-em-negocio-de-mineracao/",
+      "date": "2026-10-06",
+      "author": "Vinicius Filgueira",
+      "kind": "reportagem"
+    },
+    "research_R20261006-19-s4": {
+      "id": "research_R20261006-19-s4",
+      "outlet": "Poder360",
+      "title": "Erika Hilton critica comunicação de Lula sobre caso Master",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/erika-hilton-critica-comunicacao-de-lula-sobre-caso-master/",
+      "date": "2026-10-06",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261006-19-s5": {
+      "id": "research_R20261006-19-s5",
+      "outlet": "SBT News",
+      "title": "Caso Master: PF ouve Galípolo na condição de testemunha",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/caso-master-pf-ouve-galipolo-na-condicao-de-testemunha",
+      "date": "2026-10-06",
+      "author": "SBT News",
+      "kind": "reportagem"
+    },
+    "research_R20261006-19-s6": {
+      "id": "research_R20261006-19-s6",
+      "outlet": "Times Brasil",
+      "title": "Galípolo presta depoimento à PF como testemunha no caso Master",
+      "url": "https://timesbrasil.com.br/brasil/galipolo-presta-depoimento-a-pf-como-testemunha-no-caso-master/",
+      "date": "2026-10-06",
+      "author": "Alessandro Martins",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57718,8 +57846,8 @@ window.PELELEC_DATA = {
   },
   "archiveMeta": {
     "updated": "2026-10-06",
-    "researchChats": 92,
-    "researchRecords": 1304,
+    "researchChats": 93,
+    "researchRecords": 1305,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -59617,7 +59745,8 @@ window.PELELEC_DATA = {
       "title": "CNN relata posição atribuída ao PL sobre pedidos contra ministros",
       "text": "Segundo a CNN, o PL rejeita uma aproximação com Moraes e pretende levar pedidos de impeachment ao Senado em 2027, com eventual iniciativa contra Dino condicionada à atuação futura do ministro. A matéria associa a posição partidária ao caso Master; são planos atribuídos à legenda, sem comprovar apresentação de pedido ou abertura de processo. O texto não identifica porta-voz da posição relatada nem reproduz resposta específica dos ministros.",
       "sources": [
-        "research_R20261006-13-s2"
+        "research_R20261006-13-s2",
+        "research_R20261006-19-s2"
       ]
     },
     {
@@ -59627,6 +59756,43 @@ window.PELELEC_DATA = {
       "text": "O R7 relata que Galípolo é ouvido em 06/10 na investigação da atuação de antigos funcionários do BC no Master, como testemunha. A matéria não traz conteúdo ou conclusão da oitiva, nem manifestação específica dele; registra que Paulo Sérgio Souza contesta as acusações contra si. Os depoimentos de Campos Neto e Ailton de Aquino continuam descritos como previstos para 07 e 08/10, respectivamente.",
       "sources": [
         "research_R20261006-13-s3"
+      ]
+    },
+    {
+      "id": "t163",
+      "date": "2026-10-06",
+      "title": "Gazeta relata novos controles do CJF sobre créditos judiciais",
+      "text": "A Gazeta relata que o CJF passou a exigir decisão definitiva sobre direito e valor antes da emissão de precatórios e RPVs, com exceção de parcelas independentes sem disputa. O veículo atribui a Salomão orientações de transparência nas cessões e distingue essas medidas de uma proposta de rastreamento apresentada por Fachin e Galípolo; o texto contextualiza o caso Master. A notícia não apresenta resposta específica de Vorcaro ou de sua defesa, nem conclui responsabilidade individual.",
+      "sources": [
+        "research_R20261006-19-s1"
+      ]
+    },
+    {
+      "id": "t164",
+      "date": "2026-10-06",
+      "title": "Poder360 relata proposta empresarial de Daniel Alves a Vorcaro",
+      "text": "O Poder360 noticia que Daniel Alves propôs a Vorcaro uma exploração mineral em janeiro de 2019 e que o banqueiro se dispôs a avaliar a ideia. O veículo atribui os diálogos ao material da PF, sem comprovar execução do projeto, formação da sociedade ou irregularidade. A reportagem informa que Alves foi procurado e não se manifestou até a publicação.",
+      "sources": [
+        "research_R20261006-19-s3"
+      ]
+    },
+    {
+      "id": "t165",
+      "date": "2026-10-06",
+      "title": "Erika Hilton comenta comunicação eleitoral do caso Master",
+      "text": "Segundo o Poder360, Erika Hilton cobrou, em entrevista à GloboNews, maior clareza da campanha de Lula ao comunicar o caso Master. É uma avaliação política dela, sem prova de efeito do caso sobre o voto. A matéria recupera a negativa anterior de Flávio Bolsonaro sobre vantagens individuais e sua declaração de que o financiamento do filme se destinou à produção; não publica uma resposta nova à entrevista.",
+      "sources": [
+        "research_R20261006-19-s4"
+      ]
+    },
+    {
+      "id": "t166",
+      "date": "2026-10-06",
+      "title": "Imprensa relata encerramento da oitiva de Galípolo",
+      "text": "Times Brasil e SBT noticiam que Galípolo foi ouvido como testemunha em 06/10. O Times atribui à PF o término às 12h30, sem divulgar o conteúdo; o SBT situa os esclarecimentos na fiscalização do Master. Não há manifestação específica de Galípolo reproduzida nesses textos. A previsão de oitiva de Campos Neto em 07/10 permanece uma agenda futura.",
+      "sources": [
+        "research_R20261006-19-s6",
+        "research_R20261006-19-s5"
       ]
     }
   ],
