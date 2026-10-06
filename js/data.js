@@ -57629,6 +57629,15 @@ window.PELELEC_DATA = {
       "author": "Thiago Domenici",
       "kind": "reportagem"
     },
+    "research_R20261006-07-s1": {
+      "id": "research_R20261006-07-s1",
+      "outlet": "Folha de S.Paulo",
+      "title": "STF vê risco concreto de impeachment de ministros e quer buscar 'PL moderado' para evitar afastamentos",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/stf-ve-risco-concreto-de-impeachment-de-ministros-e-quer-buscar-pl-moderado-para-evitar-afastamentos.shtml",
+      "date": "2026-10-05",
+      "author": "Luísa Martins e Ana Pompeu",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59513,6 +59522,15 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261006-01-s4",
         "research_R20261006-01-s5"
+      ]
+    },
+    {
+      "id": "t159",
+      "date": "2026-10-05",
+      "title": "Folha descreve receios de magistrados após eleição para o Senado",
+      "text": "A Folha atribui a magistrados e auxiliares do Supremo preocupações com possíveis processos para afastar integrantes da Corte em 2027 e a avaliação de que seria necessária interlocução com setores do PL. A reportagem relaciona esse cenário à crise do Master; são avaliações prospectivas atribuídas a interlocutores, sem anúncio de procedimento ou decisão no caso. O texto não apresenta resposta nominal específica às avaliações relatadas.",
+      "sources": [
+        "research_R20261006-07-s1"
       ]
     }
   ],

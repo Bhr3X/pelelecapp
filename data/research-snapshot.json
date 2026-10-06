@@ -1,15 +1,15 @@
 {
   "meta": {
     "updated": "2026-10-05",
-    "generated": "2026-10-06T04:41:35.552Z",
+    "generated": "2026-10-06T10:39:53.449Z",
     "counts": {
       "chats": 92,
       "messages": 1258,
       "recovered": 61,
       "low": 0,
       "contacts": 126,
-      "sources": 822,
-      "timeline": 158
+      "sources": 823,
+      "timeline": 159
     }
   },
   "owner": {
@@ -36886,6 +36886,16 @@
         "R20261006-01-s4",
         "R20261006-01-s5"
       ]
+    },
+    {
+      "id": "t159",
+      "date": "2026-10-05",
+      "title": "Folha descreve receios de magistrados após eleição para o Senado",
+      "text": "A Folha atribui a magistrados e auxiliares do Supremo preocupações com possíveis processos para afastar integrantes da Corte em 2027 e a avaliação de que seria necessária interlocução com setores do PL. A reportagem relaciona esse cenário à crise do Master; são avaliações prospectivas atribuídas a interlocutores, sem anúncio de procedimento ou decisão no caso. O texto não apresenta resposta nominal específica às avaliações relatadas.",
+      "contacts": [],
+      "src": [
+        "R20261006-07-s1"
+      ]
     }
   ],
   "sources": {
@@ -44285,6 +44295,15 @@
       "url": "https://apublica.org/2026/10/escandalo-master-pesa-na-urna-para-uns-e-passa-batido-para-outros/",
       "date": "2026-10-05",
       "author": "Thiago Domenici",
+      "kind": "reportagem"
+    },
+    "R20261006-07-s1": {
+      "id": "R20261006-07-s1",
+      "outlet": "Folha de S.Paulo",
+      "title": "STF vê risco concreto de impeachment de ministros e quer buscar 'PL moderado' para evitar afastamentos",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/stf-ve-risco-concreto-de-impeachment-de-ministros-e-quer-buscar-pl-moderado-para-evitar-afastamentos.shtml",
+      "date": "2026-10-05",
+      "author": "Luísa Martins e Ana Pompeu",
       "kind": "reportagem"
     }
   },
