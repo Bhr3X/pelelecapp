@@ -57575,6 +57575,60 @@ window.PELELEC_DATA = {
       "author": "Do UOL, em São Paulo",
       "kind": "reportagem"
     },
+    "research_R20261006-01-s1": {
+      "id": "research_R20261006-01-s1",
+      "outlet": "Jovem Pan",
+      "title": "Lula diz ‘carregar nas costas’ a ‘promiscuidade’ do STF",
+      "url": "https://jovempan.com.br/politica/lula-diz-carregar-nas-costas-a-promiscuidade-do-stf/",
+      "date": "2026-10-05",
+      "author": "Júlia Mano",
+      "kind": "reportagem"
+    },
+    "research_R20261006-01-s2": {
+      "id": "research_R20261006-01-s2",
+      "outlet": "Gazeta do Povo",
+      "title": "“Estamos carregando nas costas a promiscuidade da Suprema Corte”, diz Lula",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/estamos-carregando-nas-costas-a-promiscuidade-da-suprema-corte-diz-lula/",
+      "date": "2026-10-05",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_R20261006-01-s3": {
+      "id": "research_R20261006-01-s3",
+      "outlet": "O Antagonista",
+      "title": "Lula diz carregar “nas costas” a “promiscuidade” do STF",
+      "url": "https://oantagonista.com.br/brasil/lula-diz-carregar-nas-costas-a-promiscuidade-do-stf/",
+      "date": "2026-10-05",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261006-01-s4": {
+      "id": "research_R20261006-01-s4",
+      "outlet": "Gazeta do Povo",
+      "title": "Fachin diz que STF é “maior do que tudo e do que todos” e permanecerá",
+      "url": "https://www.gazetadopovo.com.br/republica/fachin-diz-que-stf-e-maior-do-que-tudo-e-do-que-todos-e-permanecera/",
+      "date": "2026-10-05",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_R20261006-01-s5": {
+      "id": "research_R20261006-01-s5",
+      "outlet": "O Antagonista",
+      "title": "Fachin diz que STF “permanecerá” após eleição de senadores críticos",
+      "url": "https://oantagonista.com.br/brasil/fachin-diz-que-stf-permanecera-apos-eleicao-de-senadores-critico/",
+      "date": "2026-10-05",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261006-01-s6": {
+      "id": "research_R20261006-01-s6",
+      "outlet": "Agência Pública",
+      "title": "Escândalo Master pesa na urna para uns e passa batido para outros",
+      "url": "https://apublica.org/2026/10/escandalo-master-pesa-na-urna-para-uns-e-passa-batido-para-outros/",
+      "date": "2026-10-05",
+      "author": "Thiago Domenici",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59427,7 +59481,8 @@ window.PELELEC_DATA = {
       "title": "Poder360 relata resultados de parlamentares favoráveis à compra",
       "text": "Segundo o Poder360, dos 15 distritais favoráveis à aquisição do Master pelo BRB, 11 renovaram o mandato em 04/10; Thiago Manzoni conquistou uma vaga de deputado federal. Voto legislativo e resultado eleitoral não estabelecem participação em ilícitos; a matéria não apresenta resposta individual dos parlamentares sobre o levantamento.",
       "sources": [
-        "research_R20261005-19-s2"
+        "research_R20261005-19-s2",
+        "research_R20261006-01-s6"
       ]
     },
     {
@@ -59437,6 +59492,27 @@ window.PELELEC_DATA = {
       "text": "O Dia relata decreto publicado em 05/10 que suspende temporariamente descontos do Master e do Credcesta na folha estadual de outubro, com crédito em novembro, para apurar eventuais cobranças indevidas. A medida é preventiva e não comprova irregularidade; descontos regulares poderão ser restabelecidos. A matéria informa que as instituições deverão se manifestar após intimação, mas não reproduz resposta delas; o decreto oficial não foi conferido.",
       "sources": [
         "research_R20261005-19-s3"
+      ]
+    },
+    {
+      "id": "t157",
+      "date": "2026-10-05",
+      "title": "Imprensa relata crítica de Lula ao STF em encontro eleitoral",
+      "text": "Jovem Pan, Gazeta do Povo e O Antagonista relatam uma crítica de Lula à crise no STF numa reunião eleitoral em 05/10 e sua defesa de mudanças na indicação e duração do cargo dos ministros. A cobertura da Jovem Pan e da Gazeta associa o contexto ao Master; são declarações eleitorais, sem demonstração de ilícito ou responsabilidade individual, e essas matérias não apresentam resposta específica da Corte.",
+      "sources": [
+        "research_R20261006-01-s1",
+        "research_R20261006-01-s2",
+        "research_R20261006-01-s3"
+      ]
+    },
+    {
+      "id": "t158",
+      "date": "2026-10-05",
+      "title": "Imprensa relata pronunciamento institucional de Fachin",
+      "text": "O Antagonista e a Gazeta do Povo relatam que Fachin falou em 05/10 num evento constitucional, defendendo estabilidade institucional e atuação do STF dentro das competências previstas. O Antagonista contextualiza o pronunciamento com resistência a uma proposta de ética, que relaciona à crise do Master; não relata votação ou nova decisão da investigação. As matérias não trazem resposta específica às falas, nem apresentam o discurso como resposta à declaração de Lula.",
+      "sources": [
+        "research_R20261006-01-s4",
+        "research_R20261006-01-s5"
       ]
     }
   ],
