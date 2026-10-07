@@ -16443,6 +16443,40 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100719-m3",
+          "researchId": "R2026100719-m3",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-03-21",
+          "dateLabel": "2025-03-21",
+          "time": "",
+          "sender": "them",
+          "speaker": "Ciro Rocha Soares",
+          "text": "O jantar ontem foi fantástico na casa do PG. Falamos muito de vc.",
+          "sources": [
+            "research_R20261007-19-s8"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261007-19-s8"
+            ],
+            "checked": [
+              "R20261007-19-s8"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento atribuído a Ciro em 21/03/2025, sem hora; repercussão do Estadão, original não conferido. Relato de Ciro, sem prova de presença de Vorcaro. Gonet diz nunca tê-lo recebido em casa; Ciro nega irregularidades. Localização e dados familiares excluídos.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-A2-m50",
           "researchId": "A2-m50",
           "editorialType": "summary",
@@ -49186,7 +49220,8 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_R20261002-19-s16",
-        "research_R20261003-01-s1"
+        "research_R20261003-01-s1",
+        "research_R20261007-19-s3"
       ],
       "outroLado": [
         {
@@ -49201,6 +49236,13 @@ window.PELELEC_DATA = {
           "text": "Poder360 procurou Warde, a defesa de Vorcaro e o Planalto; não houve resposta até a publicação.",
           "sources": [
             "research_R20261003-01-s1"
+          ]
+        },
+        {
+          "name": "Walfrido Warde",
+          "text": "O Planalto afirma que Lula encontrou Vorcaro só em 04/12/2024, sem outro contato entre ambos; a nota não esclarece contatos com Warde ou Mantega. Não há resposta específica de Warde reproduzida.",
+          "sources": [
+            "research_R20261007-19-s3"
           ]
         }
       ],
@@ -49313,6 +49355,74 @@ window.PELELEC_DATA = {
           "confidence": "medium",
           "recoveredByPF": false,
           "context": "Fragmento literal da resposta de Warde na mesma conversa de 15/05/2025; expressão inicial omitida. Não há horário individual publicado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100719-m2",
+          "researchId": "R2026100719-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-07",
+          "dateLabel": "2025-07",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Avise presidente amanhã",
+          "sources": [
+            "research_R20261007-19-s3"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261007-19-s3"
+            ],
+            "checked": [
+              "R20261007-19-s3"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento inicial de escrita atribuída a Vorcaro a Warde pelo Times, repercutindo o Estadão; original não conferido. Mantido julho de 2025, sem hora ou dia individual seguro para este trecho. O pedido não comprova contato com Lula. O Planalto nega outro contato entre Lula e Vorcaro além de 04/12/2024.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100719-m1",
+          "researchId": "R2026100719-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-07-31",
+          "dateLabel": "2025-07-31",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Você precisa conversar com o chefe. Única chance nossa",
+          "sources": [
+            "research_R20261007-19-s7"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261007-19-s7"
+            ],
+            "checked": [
+              "R20261007-19-s7"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Trecho curto atribuído a Vorcaro, dirigido a Warde. A tabela humana de A Crítica situa a cobrança em 31/07/2025, sem hora individual. Repercussão do Estadão, original não conferido. O Planalto afirma que Lula encontrou Vorcaro uma vez, com recomendação de análise técnica pelo BC. Não comprova contato efetivo com Lula.",
           "documentRef": "",
           "datePrecision": "day",
           "variants": [],
@@ -50168,7 +50278,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1362,
+      "totalMessagesRecovered": 1365,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 99
@@ -58008,6 +58118,78 @@ window.PELELEC_DATA = {
       "author": "Daniel Gullino",
       "kind": "reportagem"
     },
+    "research_R20261007-19-s1": {
+      "id": "research_R20261007-19-s1",
+      "outlet": "Folha de S.Paulo",
+      "title": "Cunhado de Vorcaro diz na prisão que não pretende mais ficar calado",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/cunhado-de-vorcaro-diz-na-prisao-que-nao-pretende-mais-ficar-calado.shtml",
+      "date": "2026-10-07",
+      "author": "Mônica Bergamo",
+      "kind": "reportagem"
+    },
+    "research_R20261007-19-s2": {
+      "id": "research_R20261007-19-s2",
+      "outlet": "Gazeta do Povo",
+      "title": "PF adia depoimento de Campos Neto como testemunha do escândalo do Banco Master",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-adia-depoimento-campos-neto-testemunha-escandalo-banco-master/",
+      "date": "2026-10-07",
+      "author": "Guilherme Grandi e Juliet Manfrin",
+      "kind": "reportagem"
+    },
+    "research_R20261007-19-s3": {
+      "id": "research_R20261007-19-s3",
+      "outlet": "Times Brasil",
+      "title": "Mensagens revelam articulação de Vorcaro e advogado para que Guido Mantega defendesse Master junto a Lula",
+      "url": "https://timesbrasil.com.br/brasil/mensagens-revelam-articulacao-de-vorcaro-e-advogado-para-que-guido-mantega-defendesse-master-junto-a-lula/",
+      "date": "2026-10-07",
+      "author": "Amanda Souza",
+      "kind": "reportagem"
+    },
+    "research_R20261007-19-s4": {
+      "id": "research_R20261007-19-s4",
+      "outlet": "Correio Braziliense",
+      "title": "Depoimento de Campos Neto à PF na investigação do Master é adiado",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/10/7516634-depoimento-de-campos-neto-a-pf-na-investigacao-do-master-e-adiado.html",
+      "date": "2026-10-07",
+      "author": "Renato Souza",
+      "kind": "reportagem"
+    },
+    "research_R20261007-19-s5": {
+      "id": "research_R20261007-19-s5",
+      "outlet": "Bahia Notícias",
+      "title": "Preso, cunhado de Vorcaro afirma ter informações reveladoras sobre autoridades",
+      "url": "https://www.bahianoticias.com.br/noticia/322175-preso-cunhado-de-vorcaro-afirma-ter-informacoes-reveladoras-sobre-autoridades",
+      "date": "2026-10-07",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_R20261007-19-s6": {
+      "id": "research_R20261007-19-s6",
+      "outlet": "Veja",
+      "title": "Caso Master leva Justiça Federal a barrar precatórios sem decisão definitiva",
+      "url": "https://veja.abril.com.br/economia/caso-master-leva-justica-federal-a-barrar-precatorios-sem-decisao-definitiva/",
+      "date": "2026-10-07",
+      "author": "Ligia Moraes",
+      "kind": "reportagem"
+    },
+    "research_R20261007-19-s7": {
+      "id": "research_R20261007-19-s7",
+      "outlet": "A Crítica",
+      "title": "Mensagens mostram tentativa de Vorcaro de levar defesa do Master a Lula",
+      "url": "https://acritica.net/politica/vorcaro-tentou-levar-defesa-do-master-a-lula/",
+      "date": "2026-10-07",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
+    "research_R20261007-19-s8": {
+      "id": "research_R20261007-19-s8",
+      "outlet": "Informa Tudo DF",
+      "title": "Advogado enviou endereço da casa de Paulo Gonet a Vorcaro",
+      "url": "https://informatudodf.com.br/advogado-enviou-endereco-da-casa-de-paulo-gonet-a-vorcaro/",
+      "date": "2026-10-07",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -58020,7 +58202,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-07",
     "researchChats": 93,
-    "researchRecords": 1307,
+    "researchRecords": 1310,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -59939,7 +60121,8 @@ window.PELELEC_DATA = {
       "text": "A Gazeta relata que o CJF passou a exigir decisão definitiva sobre direito e valor antes da emissão de precatórios e RPVs, com exceção de parcelas independentes sem disputa. O veículo atribui a Salomão orientações de transparência nas cessões e distingue essas medidas de uma proposta de rastreamento apresentada por Fachin e Galípolo; o texto contextualiza o caso Master. A notícia não apresenta resposta específica de Vorcaro ou de sua defesa, nem conclui responsabilidade individual. A Folha informa que a proposta de regulamentação das cessões de precatórios será analisada pelo CNJ em sessão virtual de 8 a 16 de outubro; a apresentação não equivale à aprovação das novas regras.",
       "sources": [
         "research_R20261006-19-s1",
-        "research_R20261006-23-s1"
+        "research_R20261006-23-s1",
+        "research_R20261007-19-s6"
       ]
     },
     {
@@ -59997,7 +60180,9 @@ window.PELELEC_DATA = {
       "text": "Times Brasil e BM&C noticiam o adiamento da oitiva de Campos Neto, prevista para 07/10 como testemunha na investigação da fiscalização do Master, sem nova data confirmada. O Times recupera negativas dos ex-servidores investigados; nenhum dos textos reproduz manifestação específica de Campos Neto sobre o adiamento.",
       "sources": [
         "research_R20261007-13-s1",
-        "research_R20261007-13-s3"
+        "research_R20261007-13-s3",
+        "research_R20261007-19-s2",
+        "research_R20261007-19-s4"
       ]
     },
     {
@@ -60016,6 +60201,26 @@ window.PELELEC_DATA = {
       "text": "Segundo a Veja, Nunes Marques negou pedido para suspender um programa de Flávio exibido em 15/09, que associava Lula a Moraes no contexto do debate sobre o caso Master. A campanha de Lula contestou a ideia de competências compartilhadas; o ministro tratou o conteúdo como interpretação eleitoral. A reportagem não fornece a data específica da decisão, cuja íntegra judicial não foi conferida, e esse relato não estabelece ilícito de qualquer citado.",
       "sources": [
         "research_R20261007-13-s4"
+      ]
+    },
+    {
+      "id": "t172",
+      "date": "2026-10-07",
+      "title": "Imprensa relata tentativa de levar defesa do Master a Lula",
+      "text": "Times Brasil e A Crítica repercutem tratativas de julho de 2025 entre Vorcaro e Warde para buscar interlocução com Lula por Mantega. O Planalto afirma que Lula encontrou Vorcaro só em 04/12/2024, sem outro contato entre ambos; a nota não esclarece contatos com Warde ou Mantega. As mensagens não comprovam que a articulação se concretizou, e não há resposta específica de Warde reproduzida.",
+      "sources": [
+        "research_R20261007-19-s3",
+        "research_R20261007-19-s7"
+      ]
+    },
+    {
+      "id": "t173",
+      "date": "2026-10-07",
+      "title": "Imprensa relata intenção atribuída a Zettel de falar sobre autoridades",
+      "text": "Folha e Bahia Notícias atribuem a interlocutores que visitam Zettel na prisão sua intenção de falar sobre autoridades e a queixa de notícias para constrangê-lo. Os veículos dizem que uma tentativa de colaboração em abril foi rejeitada pela PGR. O relato não identifica informações ou autoridades, nem apresenta novo acordo formal ou resposta específica da defesa ou da PGR sobre essa intenção.",
+      "sources": [
+        "research_R20261007-19-s1",
+        "research_R20261007-19-s5"
       ]
     }
   ],
