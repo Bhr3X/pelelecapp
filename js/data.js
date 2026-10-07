@@ -14864,7 +14864,8 @@ window.PELELEC_DATA = {
         "research_H-s60",
         "research_R20260929-23-s7",
         "research_R20261002-19-s10",
-        "research_R20261006-13-s1"
+        "research_R20261006-13-s1",
+        "research_R20261007-01-s3"
       ],
       "source": {
         "title": "Gonet nega proximidade com Vorcaro",
@@ -15207,6 +15208,72 @@ window.PELELEC_DATA = {
           "recoveredByPF": false,
           "context": "Transcrição do áudio feita pela PF. Segundo a PF, trata da desistência de uma candidatura em favor de 'Jarbas'. | Transcrição feita pela PF do áudio de 13:09:10. Antes, Vorcaro perguntou 'O cara largou?' e Ciro respondeu 'Sim'. Segundo a PF, trata da desistência de uma candidatura em favor de 'Jarbas'.",
           "documentRef": "IPJ-A 3298613/2026, p. 204, Fig. 215",
+          "datePrecision": "minute",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100701-m2",
+          "researchId": "R2026100701-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-06-17",
+          "dateLabel": "2024-06-17",
+          "time": "23:04:00",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Terminei agora",
+          "sources": [
+            "research_R20261007-01-s2"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261007-01-s2"
+            ],
+            "checked": [
+              "R20261007-01-s2"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta na sequência sobre a espera por Vorcaro. O horário individual está explícito na matéria. Gilmar nega convite e jantar; o fragmento não comprova encontro.",
+          "documentRef": "",
+          "datePrecision": "minute",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100701-m1",
+          "researchId": "R2026100701-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-06-17",
+          "dateLabel": "2024-06-17",
+          "time": "23:20:00",
+          "sender": "them",
+          "speaker": "Ciro Rocha Soares",
+          "text": "Ciro afirma que Gilmar queria a presença de Vorcaro num jantar e que quatro pessoas compareceram.",
+          "sources": [
+            "research_R20261007-01-s2"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "relato_conferido",
+            "found_in": [],
+            "checked": [
+              "R20261007-01-s2"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Relato editorial da mensagem atribuída ao advogado, não a Gilmar. O gabinete do ministro nega convite e jantar; os quatro participantes não são identificados. A matéria não traz resposta específica de Ciro ou Vorcaro.",
+          "documentRef": "",
           "datePrecision": "minute",
           "variants": [],
           "originalLanguage": true
@@ -17717,6 +17784,13 @@ window.PELELEC_DATA = {
           "text": "Gilmar negou o jantar, reuniões relacionadas ao banco e participação nas mensagens; caracterizou o almoço do Esfera como evento público. A matéria não apresenta resposta específica de Ciro.",
           "sources": [
             "research_R20261006-13-s1"
+          ]
+        },
+        {
+          "name": "Ciro Rocha Soares",
+          "text": "Ciro Soares negou irregularidades nos diálogos e afirmou que não havia investigação contra Vorcaro na época das trocas. Na Folha, Gonet reafirma que só encontrou Vorcaro no evento de 2024. A PGR nega que ele tenha convidado o banqueiro para evento em sua casa e afirma que Gonet não foi a evento na residência de Vorcaro.",
+          "sources": [
+            "research_R20261007-01-s3"
           ]
         }
       ],
@@ -50094,7 +50168,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1360,
+      "totalMessagesRecovered": 1362,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 99
@@ -57835,13 +57909,49 @@ window.PELELEC_DATA = {
       "author": "Alessandro Martins",
       "kind": "reportagem"
     },
+    "research_R20261007-01-s1": {
+      "id": "research_R20261007-01-s1",
+      "outlet": "Gazeta do Povo",
+      "title": "13 eleitos em 2026 que aparecem em registros ligados a Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/13-eleitos-em-2026-que-aparecem-em-registros-ligados-a-daniel-vorcaro/",
+      "date": "2026-10-06",
+      "author": "Diógenes Freire Feitosa",
+      "kind": "reportagem"
+    },
+    "research_R20261007-01-s2": {
+      "id": "research_R20261007-01-s2",
+      "outlet": "Jornal Razão",
+      "title": "Mensagens do celular de Vorcaro citam jantar na casa de Gilmar Mendes: “GM queria”, diz advogado",
+      "url": "https://jornalrazao.com/politica/mensagens-vorcaro-ciro-soares-gilmar-mendes-jantar",
+      "date": "2026-10-06",
+      "author": "Equipe Jornal Razão",
+      "kind": "reportagem"
+    },
+    "research_R20261007-01-s3": {
+      "id": "research_R20261007-01-s3",
+      "outlet": "Folha de S.Paulo",
+      "title": "Advogado mandou endereço de Gonet a Vorcaro, indicam mensagens",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/advogado-mandou-endereco-de-gonet-a-vorcaro-indicam-mensagens.shtml",
+      "date": "2026-10-06",
+      "author": "José Marques",
+      "kind": "reportagem"
+    },
     "research_R20261006-23-s1": {
       "id": "research_R20261006-23-s1",
       "outlet": "Folha de S.Paulo / C-Level",
       "title": "Fachin defende regulação de precatórios e cita circulação de crédito com segurança",
       "url": "https://c-level.folha.uol.com.br/financas/2026/10/fachin-defende-regulacao-de-precatorios-e-cita-circulacao-de-credito-com-seguranca.shtml",
-      "date": "2026-10-06 · 19h56 · atualizada às 22h09",
+      "date": "2026-10-06",
       "author": "Nathalia Garcia; Anna Júlia Lopes",
+      "kind": "reportagem"
+    },
+    "research_R20261007-01-s4": {
+      "id": "research_R20261007-01-s4",
+      "outlet": "Estado de Minas",
+      "title": "TRE pede à Meta rastreio do documento falso da PF divulgado por Nikolas",
+      "url": "https://www.em.com.br/politica/2026/10/7516158-tre-pede-a-meta-rastreio-do-documento-falso-da-pf-divulgado-por-nikolas.html",
+      "date": "2026-10-06",
+      "author": "Bruno Luis Barros",
       "kind": "reportagem"
     },
     "research_MW-pdf": {
@@ -57856,7 +57966,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-06",
     "researchChats": 93,
-    "researchRecords": 1305,
+    "researchRecords": 1307,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -59745,7 +59855,8 @@ window.PELELEC_DATA = {
       "title": "O Antagonista divulga conversas de Ciro sobre Gilmar",
       "text": "O Antagonista, repercutindo o Estadão, publica mensagens de Ciro Soares sobre tentativa de encontro entre Vorcaro e Gilmar em 2024. Gilmar nega o jantar e reuniões relacionadas ao Master; sua assessoria destaca que as mensagens são entre terceiros e o almoço do Esfera foi público. A matéria não traz resposta específica de Ciro ou Vorcaro, nem comprova encontro reservado.",
       "sources": [
-        "research_R20261006-13-s1"
+        "research_R20261006-13-s1",
+        "research_R20261007-01-s2"
       ]
     },
     {
@@ -59803,6 +59914,24 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261006-19-s6",
         "research_R20261006-19-s5"
+      ]
+    },
+    {
+      "id": "t167",
+      "date": "2026-10-06",
+      "title": "Gazeta reúne 13 eleitos em balanço de registros do caso Master",
+      "text": "A Gazeta apresenta uma seleção de 13 políticos descritos como eleitos e associa seus nomes a registros de naturezas diferentes sobre o Master, incluindo contatos, viagens e decisões administrativas. A matéria recupera negativas de Wagner, Motta e Rueda e outras versões; não traz resposta específica de todos os citados ao balanço. Eleição e menção em documentos não estabelecem participação em ilícitos.",
+      "sources": [
+        "research_R20261007-01-s1"
+      ]
+    },
+    {
+      "id": "t168",
+      "date": "2026-10-06",
+      "title": "Estado de Minas relata diligências sobre documento atribuído à PF",
+      "text": "O Estado de Minas noticia que o TRE-MG requisitou à Meta e ao X dados para apurar a circulação de material falsamente atribuído à PF sobre conversas entre Nikolas e Vorcaro. O relato situa a decisão em 06/10, sem julgamento definitivo das acusações eleitorais. O tribunal recusou, naquele momento, impedir novas publicações e registrou que Nikolas retirara o conteúdo após saber que era inautêntico; a reportagem não reproduz manifestação específica dele sobre a decisão.",
+      "sources": [
+        "research_R20261007-01-s4"
       ]
     }
   ],
