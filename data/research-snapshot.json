@@ -1,14 +1,14 @@
 {
   "meta": {
-    "updated": "2026-10-06",
-    "generated": "2026-10-07T04:47:54.885Z",
+    "updated": "2026-10-07",
+    "generated": "2026-10-07T10:44:15.692Z",
     "counts": {
       "chats": 93,
       "messages": 1262,
       "recovered": 61,
       "low": 0,
       "contacts": 127,
-      "sources": 837,
+      "sources": 839,
       "timeline": 168
     }
   },
@@ -37125,7 +37125,9 @@
       "contacts": [],
       "src": [
         "R20261006-19-s6",
-        "R20261006-19-s5"
+        "R20261006-19-s5",
+        "R20261007-07-s1",
+        "R20261007-07-s2"
       ]
     },
     {
@@ -44687,6 +44689,24 @@
       "url": "https://www.em.com.br/politica/2026/10/7516158-tre-pede-a-meta-rastreio-do-documento-falso-da-pf-divulgado-por-nikolas.html",
       "date": "2026-10-06",
       "author": "Bruno Luis Barros",
+      "kind": "reportagem"
+    },
+    "R20261007-07-s1": {
+      "id": "R20261007-07-s1",
+      "outlet": "CNN Brasil",
+      "title": "Master: Galípolo depõe à PF sobre relação de servidores do BC com Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/master-galipolo-depoe-a-pf-sobre-relacao-de-servidores-do-bc-com-vorcaro/",
+      "date": "2026-10-06",
+      "author": "Elijonas Maia",
+      "kind": "reportagem"
+    },
+    "R20261007-07-s2": {
+      "id": "R20261007-07-s2",
+      "outlet": "Tribuna do Sertão / Agência O Globo",
+      "title": "Galípolo depõe à PF como testemunha no caso do Banco Master",
+      "url": "https://www.tribunadosertao.com.br/poder-e-governo/2026/10/07/992028-galipolo-depoe-a-pf-como-testemunha-no-caso-do-banco-master",
+      "date": "2026-10-07",
+      "author": "Agência O Globo",
       "kind": "reportagem"
     }
   },
