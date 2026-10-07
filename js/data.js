@@ -57972,6 +57972,42 @@ window.PELELEC_DATA = {
       "author": "Agência O Globo",
       "kind": "reportagem"
     },
+    "research_R20261007-13-s1": {
+      "id": "research_R20261007-13-s1",
+      "outlet": "Times Brasil",
+      "title": "PF adia depoimento de Roberto Campos Neto sobre caso Banco Master",
+      "url": "https://timesbrasil.com.br/brasil/pf-adia-depoimento-de-roberto-campos-neto-sobre-caso-banco-master/",
+      "date": "2026-10-07",
+      "author": "Lara Madeira",
+      "kind": "reportagem"
+    },
+    "research_R20261007-13-s2": {
+      "id": "research_R20261007-13-s2",
+      "outlet": "Metrópoles",
+      "title": "Andrei Rodrigues e chefes da PF se reúnem com Moraes",
+      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/andrei-rodrigues-e-chefes-da-pf-se-reunem-com-moraes",
+      "date": "2026-10-07",
+      "author": "Mirelle Pinheiro e Giovanna Sfalsin",
+      "kind": "reportagem"
+    },
+    "research_R20261007-13-s3": {
+      "id": "research_R20261007-13-s3",
+      "outlet": "BM&C News",
+      "title": "PF adia depoimento de Campos Neto no caso Banco Master",
+      "url": "https://bmcnews.com.br/caso-master/pf-adia-depoimento-de-campos-neto-no-caso-banco-master/",
+      "date": "2026-10-07",
+      "author": "Renata Nunes",
+      "kind": "reportagem"
+    },
+    "research_R20261007-13-s4": {
+      "id": "research_R20261007-13-s4",
+      "outlet": "Veja",
+      "title": "Nunes Marques mantém propaganda em que Flávio afirma que Lula ‘dividiu poder’ com Moraes",
+      "url": "https://veja.abril.com.br/brasil/nunes-marques-mantem-propaganda-em-que-flavio-afirma-que-lula-dividiu-poder-com-moraes/",
+      "date": "2026-10-07",
+      "author": "Daniel Gullino",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59952,6 +59988,34 @@ window.PELELEC_DATA = {
       "text": "O Estado de Minas noticia que o TRE-MG requisitou à Meta e ao X dados para apurar a circulação de material falsamente atribuído à PF sobre conversas entre Nikolas e Vorcaro. O relato situa a decisão em 06/10, sem julgamento definitivo das acusações eleitorais. O tribunal recusou, naquele momento, impedir novas publicações e registrou que Nikolas retirara o conteúdo após saber que era inautêntico; a reportagem não reproduz manifestação específica dele sobre a decisão.",
       "sources": [
         "research_R20261007-01-s4"
+      ]
+    },
+    {
+      "id": "t169",
+      "date": "2026-10-07",
+      "title": "Imprensa relata adiamento da oitiva de Campos Neto",
+      "text": "Times Brasil e BM&C noticiam o adiamento da oitiva de Campos Neto, prevista para 07/10 como testemunha na investigação da fiscalização do Master, sem nova data confirmada. O Times recupera negativas dos ex-servidores investigados; nenhum dos textos reproduz manifestação específica de Campos Neto sobre o adiamento.",
+      "sources": [
+        "research_R20261007-13-s1",
+        "research_R20261007-13-s3"
+      ]
+    },
+    {
+      "id": "t170",
+      "date": "2026-10-07",
+      "title": "Metrópoles relata reunião entre direção da PF e Moraes",
+      "text": "Metrópoles noticia que Andrei Rodrigues e outros dirigentes da PF estiveram com Moraes em 06/10, em encontro que, segundo a coluna, não constava nas agendas de Andrei e Moraes e teve pauta não divulgada. O texto menciona o caso Master como contexto, sem demonstrar que foi assunto da reunião. Recupera uma negativa anterior de Andrei sobre monitoramentos ilícitos, mas não reproduz manifestação específica dos participantes sobre o encontro.",
+      "sources": [
+        "research_R20261007-13-s2"
+      ]
+    },
+    {
+      "id": "t171",
+      "date": "2026-10-07",
+      "title": "Veja noticia recusa de pedido para suspender propaganda de Flávio",
+      "text": "Segundo a Veja, Nunes Marques negou pedido para suspender um programa de Flávio exibido em 15/09, que associava Lula a Moraes no contexto do debate sobre o caso Master. A campanha de Lula contestou a ideia de competências compartilhadas; o ministro tratou o conteúdo como interpretação eleitoral. A reportagem não fornece a data específica da decisão, cuja íntegra judicial não foi conferida, e esse relato não estabelece ilícito de qualquer citado.",
+      "sources": [
+        "research_R20261007-13-s4"
       ]
     }
   ],
