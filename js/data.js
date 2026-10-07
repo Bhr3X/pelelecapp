@@ -57835,6 +57835,15 @@ window.PELELEC_DATA = {
       "author": "Alessandro Martins",
       "kind": "reportagem"
     },
+    "research_R20261006-23-s1": {
+      "id": "research_R20261006-23-s1",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "Fachin defende regulação de precatórios e cita circulação de crédito com segurança",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/fachin-defende-regulacao-de-precatorios-e-cita-circulacao-de-credito-com-seguranca.shtml",
+      "date": "2026-10-06 · 19h56 · atualizada às 22h09",
+      "author": "Nathalia Garcia; Anna Júlia Lopes",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59762,9 +59771,10 @@ window.PELELEC_DATA = {
       "id": "t163",
       "date": "2026-10-06",
       "title": "Gazeta relata novos controles do CJF sobre créditos judiciais",
-      "text": "A Gazeta relata que o CJF passou a exigir decisão definitiva sobre direito e valor antes da emissão de precatórios e RPVs, com exceção de parcelas independentes sem disputa. O veículo atribui a Salomão orientações de transparência nas cessões e distingue essas medidas de uma proposta de rastreamento apresentada por Fachin e Galípolo; o texto contextualiza o caso Master. A notícia não apresenta resposta específica de Vorcaro ou de sua defesa, nem conclui responsabilidade individual.",
+      "text": "A Gazeta relata que o CJF passou a exigir decisão definitiva sobre direito e valor antes da emissão de precatórios e RPVs, com exceção de parcelas independentes sem disputa. O veículo atribui a Salomão orientações de transparência nas cessões e distingue essas medidas de uma proposta de rastreamento apresentada por Fachin e Galípolo; o texto contextualiza o caso Master. A notícia não apresenta resposta específica de Vorcaro ou de sua defesa, nem conclui responsabilidade individual. A Folha informa que a proposta de regulamentação das cessões de precatórios será analisada pelo CNJ em sessão virtual de 8 a 16 de outubro; a apresentação não equivale à aprovação das novas regras.",
       "sources": [
-        "research_R20261006-19-s1"
+        "research_R20261006-19-s1",
+        "research_R20261006-23-s1"
       ]
     },
     {
