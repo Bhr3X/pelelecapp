@@ -57954,6 +57954,24 @@ window.PELELEC_DATA = {
       "author": "Bruno Luis Barros",
       "kind": "reportagem"
     },
+    "research_R20261007-07-s1": {
+      "id": "research_R20261007-07-s1",
+      "outlet": "CNN Brasil",
+      "title": "Master: Galípolo depõe à PF sobre relação de servidores do BC com Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/master-galipolo-depoe-a-pf-sobre-relacao-de-servidores-do-bc-com-vorcaro/",
+      "date": "2026-10-06",
+      "author": "Elijonas Maia",
+      "kind": "reportagem"
+    },
+    "research_R20261007-07-s2": {
+      "id": "research_R20261007-07-s2",
+      "outlet": "Tribuna do Sertão / Agência O Globo",
+      "title": "Galípolo depõe à PF como testemunha no caso do Banco Master",
+      "url": "https://www.tribunadosertao.com.br/poder-e-governo/2026/10/07/992028-galipolo-depoe-a-pf-como-testemunha-no-caso-do-banco-master",
+      "date": "2026-10-07",
+      "author": "Agência O Globo",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -57964,7 +57982,7 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-06",
+    "updated": "2026-10-07",
     "researchChats": 93,
     "researchRecords": 1307,
     "events": 3,
@@ -59913,7 +59931,9 @@ window.PELELEC_DATA = {
       "text": "Times Brasil e SBT noticiam que Galípolo foi ouvido como testemunha em 06/10. O Times atribui à PF o término às 12h30, sem divulgar o conteúdo; o SBT situa os esclarecimentos na fiscalização do Master. Não há manifestação específica de Galípolo reproduzida nesses textos. A previsão de oitiva de Campos Neto em 07/10 permanece uma agenda futura.",
       "sources": [
         "research_R20261006-19-s6",
-        "research_R20261006-19-s5"
+        "research_R20261006-19-s5",
+        "research_R20261007-07-s1",
+        "research_R20261007-07-s2"
       ]
     },
     {
