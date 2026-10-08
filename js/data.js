@@ -50311,6 +50311,318 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "marcos_pereira",
+      "name": "Marcos Pereira",
+      "role": "Deputado federal (SP); presidente do Republicanos",
+      "category": "politica",
+      "avatarInitials": "MP",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261008-07-s1"
+      ],
+      "outroLado": [
+        {
+          "name": "Marcos Pereira",
+          "text": "Pereira descreve tratativas profissionais e nega contrato, serviços ou honorários; contesta divulgação seletiva em contexto eleitoral. A defesa de Vorcaro não comenta.",
+          "sources": [
+            "research_R20261008-07-s1"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Marcos Pereira"
+      ],
+      "source": {
+        "outlet": "Tribuna do Sertão",
+        "date": "2026-10-08",
+        "headline": "Presidente do Republicanos ofereceu a Vorcaro serviços de advocacia, mostram mensagens",
+        "link": "https://www.tribunadosertao.com.br/poder-e-governo/2026/10/08/992675-presidente-do-republicanos-ofereceu-a-vorcaro-servicos-de-advocacia-mostram-mensagens"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100807-m3",
+          "researchId": "R2026100807-m3",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-10-31",
+          "dateLabel": "2024-10-31",
+          "time": "",
+          "sender": "them",
+          "speaker": "Marcos Pereira",
+          "text": "Encaminhou notícia sobre candidatura de Hugo Motta.",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Encaminhamento relatado; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100807-m4",
+          "researchId": "R2026100807-m4",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-11-18",
+          "dateLabel": "2024-11-18",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Pediu reunião sobre precatórios.",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Também mencionou outro tema; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100807-m5",
+          "researchId": "R2026100807-m5",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-03-28",
+          "dateLabel": "2025-03-28",
+          "time": "",
+          "sender": "them",
+          "speaker": "Marcos Pereira",
+          "text": "Encaminhou notícia sobre aprovação da compra parcial pelo conselho do BRB.",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Encaminhamento relatado; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100807-m6",
+          "researchId": "R2026100807-m6",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-03-28",
+          "dateLabel": "2025-03-28",
+          "time": "",
+          "sender": "them",
+          "speaker": "Marcos Pereira",
+          "text": "Parabenizou Vorcaro.",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100807-m7",
+          "researchId": "R2026100807-m7",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-03-28",
+          "dateLabel": "2025-03-28",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Agradeceu e propôs mais encontros.",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100807-m1",
+          "researchId": "R2026100807-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-04-10",
+          "dateLabel": "2025-04-10",
+          "time": "",
+          "sender": "them",
+          "speaker": "Marcos Pereira",
+          "text": "atuo forte nos tribunais superiores",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Fragmento final da oferta; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100807-m2",
+          "researchId": "R2026100807-m2",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-04-10",
+          "dateLabel": "2025-04-10",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Vamos, sim! Preciso",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100807-m8",
+          "researchId": "R2026100807-m8",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-04-10",
+          "dateLabel": "2025-04-10",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Encaminhou notícia sobre convite da Câmara aos dirigentes do Master e BRB.",
+          "sources": [
+            "research_R20261008-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-07-s1"
+            ],
+            "checked": [
+              "R20261008-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Encaminhamento relatado; sem horário.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -50320,10 +50632,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1366,
+      "totalMessagesRecovered": 1374,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 99
+      "sensitiveContactsIdentified": 100
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -58277,6 +58589,60 @@ window.PELELEC_DATA = {
       "author": "Conselho da Justiça Federal",
       "kind": "comunicado institucional"
     },
+    "research_R20261008-07-s1": {
+      "id": "research_R20261008-07-s1",
+      "outlet": "Tribuna do Sertão",
+      "title": "Presidente do Republicanos ofereceu a Vorcaro serviços de advocacia, mostram mensagens",
+      "url": "https://www.tribunadosertao.com.br/poder-e-governo/2026/10/08/992675-presidente-do-republicanos-ofereceu-a-vorcaro-servicos-de-advocacia-mostram-mensagens",
+      "date": "2026-10-08",
+      "author": "Agência O Globo",
+      "kind": "reportagem"
+    },
+    "research_R20261008-07-s2": {
+      "id": "research_R20261008-07-s2",
+      "outlet": "Vero Notícias",
+      "title": "Defesa de Daniel Vorcaro negocia entrevista sobre caso Banco Master na TV",
+      "url": "https://veronoticias.com/politica/defesa-de-daniel-vorcaro-negocia-entrevista-sobre-caso-banco-master-na-tv/",
+      "date": "2026-10-08",
+      "author": "Redação Vero",
+      "kind": "reportagem"
+    },
+    "research_R20261008-07-s3": {
+      "id": "research_R20261008-07-s3",
+      "outlet": "Agência Brasil",
+      "title": "CNJ e BC assinam acordo para disciplinar pagamento de precatórios",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/cnj-e-bc-assinam-acordo-para-disciplinar-pagamento-de-precatorios",
+      "date": "2026-10-06",
+      "author": "Andre Richter",
+      "kind": "reportagem"
+    },
+    "research_R20261008-07-s4": {
+      "id": "research_R20261008-07-s4",
+      "outlet": "CNN Brasil",
+      "title": "Vox Radar: crise no STF, 6x1 e Master lideram menções ao 1° turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-crise-no-stf-6x1-e-master-lideram-mencoes-ao-1-turno/",
+      "date": "2026-10-07",
+      "author": "Leticia Moreira",
+      "kind": "reportagem"
+    },
+    "research_R20261008-07-s5": {
+      "id": "research_R20261008-07-s5",
+      "outlet": "Supremo Tribunal Federal",
+      "title": "Parceria entre CNJ e Banco Central busca ampliar segurança na negociação de precatórios",
+      "url": "https://noticias.stf.jus.br/postsnoticias/parceria-entre-cnj-e-banco-central-busca-ampliar-seguranca-na-negociacao-de-precatorios/",
+      "date": "2026-10-06",
+      "author": "Cezar Camilo//CF",
+      "kind": "comunicado institucional"
+    },
+    "research_R20261008-07-s6": {
+      "id": "research_R20261008-07-s6",
+      "outlet": "O Antagonista",
+      "title": "Alckmin defende que governo envie reforma do Judiciário antes do 2º turno",
+      "url": "https://oantagonista.com.br/brasil/alckmin-defende-que-governo-envie-reforma-do-judiciario-antes-do-2o-turno/",
+      "date": "2026-10-07",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -58287,9 +58653,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-07",
-    "researchChats": 93,
-    "researchRecords": 1311,
+    "updated": "2026-10-08",
+    "researchChats": 94,
+    "researchRecords": 1319,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -60210,7 +60576,9 @@ window.PELELEC_DATA = {
         "research_R20261006-19-s1",
         "research_R20261006-23-s1",
         "research_R20261007-19-s6",
-        "research_R20261008-01-s5"
+        "research_R20261008-01-s5",
+        "research_R20261008-07-s3",
+        "research_R20261008-07-s5"
       ]
     },
     {
@@ -60320,6 +60688,42 @@ window.PELELEC_DATA = {
       "text": "CartaCapital noticia a rejeição de pedidos feitos por Flávio Bolsonaro contra um vídeo de Camila Moreno, dirigente de comunicação do PT, que o associava a investigações e ao caso Master. O senador alegou excesso no debate e pediu retirada, retratação e indenização; a reportagem atribui à juíza a avaliação de que a crítica se apoiava em notícias públicas e que figuras políticas estão sujeitas a maior escrutínio. A data específica e a íntegra da decisão não foram conferidas; a recusa dos pedidos não estabelece responsabilidade de Flávio pelos fatos mencionados.",
       "sources": [
         "research_R20261008-01-s4"
+      ]
+    },
+    {
+      "id": "t175",
+      "date": "2026-10-08",
+      "title": "Reportagem divulga oferta de advocacia de Marcos Pereira",
+      "text": "A Agência O Globo relata oferta de advocacia em diálogos de 2024–2025. Pereira nega contratação e pagamento, e contesta o contexto da divulgação; a defesa de Vorcaro não comenta.",
+      "sources": [
+        "research_R20261008-07-s1"
+      ]
+    },
+    {
+      "id": "t176",
+      "date": "2026-10-08",
+      "title": "Vero relata negociação de entrevista de Vorcaro na TV",
+      "text": "A Vero, atribuindo a informação ao Estadão, relata tratativas para entrevista de Vorcaro à Globo ou à Record. O texto diz que uma entrevista no presídio dependeria de autorização judicial, sem confirmar realização, data ou autorização concedida; não reproduz manifestação específica da defesa ou das emissoras sobre a negociação.",
+      "sources": [
+        "research_R20261008-07-s2"
+      ]
+    },
+    {
+      "id": "t177",
+      "date": "2026-10-07",
+      "title": "CNN relata menções ao caso Master em comentários no Instagram",
+      "text": "Segundo a CNN, a Vox examinou um milhão de comentários sobre o primeiro turno no Instagram, de 4 a 6/10, e registrou 37.670 menções ao caso Master. O estudo original não foi conferido; a reportagem não demonstra representatividade eleitoral ou efeito no voto e não reproduz resposta dos citados sobre esse levantamento.",
+      "sources": [
+        "research_R20261008-07-s4"
+      ]
+    },
+    {
+      "id": "t178",
+      "date": "2026-10-07",
+      "title": "O Antagonista relata defesa de reforma do Judiciário por Alckmin",
+      "text": "O Antagonista atribui a um assessor da liderança do PT, não identificado, que Alckmin defendeu em reunião de 07/10 o envio de uma proposta de reforma do Judiciário antes do segundo turno. O veículo relaciona a discussão ao caso Master e registra negativas de magistrados. A notícia não demonstra que a proposta tenha sido enviada, nem reproduz resposta específica de Alckmin ou do governo ao relato.",
+      "sources": [
+        "research_R20261008-07-s6"
       ]
     }
   ],
