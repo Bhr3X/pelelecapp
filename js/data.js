@@ -49335,6 +49335,40 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         },
         {
+          "id": "r-R2026100813-m2",
+          "researchId": "R2026100813-m2",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-03",
+          "dateLabel": "2025-03",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Warde encaminha mensagem segundo a qual o presidente aceitaria receber Vorcaro, com menção à participação de Jaques.",
+          "sources": [
+            "research_R20261008-13-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-13-s1"
+            ],
+            "checked": [
+              "R20261008-13-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Gazeta situa em março de 2025 e associa Pr a Lula. Jaques não é identificado no diálogo; reunião não confirmada.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-R2026100301-m1",
           "researchId": "R2026100301-m1",
           "editorialType": "quote",
@@ -49433,6 +49467,40 @@ window.PELELEC_DATA = {
           "context": "Fragmento inicial de escrita atribuída a Vorcaro a Warde pelo Times, repercutindo o Estadão; original não conferido. Mantido julho de 2025, sem hora ou dia individual seguro para este trecho. O pedido não comprova contato com Lula. O Planalto nega outro contato entre Lula e Vorcaro além de 04/12/2024.",
           "documentRef": "",
           "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100813-m1",
+          "researchId": "R2026100813-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "audio",
+          "date": "2025-07-23",
+          "dateLabel": "2025-07-23",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Warde sugere buscar Mantega de avião em Londres para um encontro com o presidente.",
+          "sources": [
+            "research_R20261008-13-s1"
+          ],
+          "researchRefs": [],
+          "title": "Áudio · relato publicado",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-13-s1"
+            ],
+            "checked": [
+              "R20261008-13-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Gazeta data o áudio em 23/07/2025, repercutindo o Estadão, não conferido. Planalto nega contato posterior a 04/12/2024; encontro não comprovado.",
+          "documentRef": "",
+          "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
         },
@@ -50632,7 +50700,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1374,
+      "totalMessagesRecovered": 1376,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 100
@@ -58643,6 +58711,42 @@ window.PELELEC_DATA = {
       "author": "Guilherme Resck",
       "kind": "reportagem"
     },
+    "research_R20261008-13-s1": {
+      "id": "research_R20261008-13-s1",
+      "outlet": "Gazeta do Povo",
+      "title": "Vorcaro acionou Mantega e buscou nova reunião com Lula em 2025, revelam mensagens",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-acionou-mantega-e-buscou-nova-reuniao-com-lula-em-2025/",
+      "date": "2026-10-08",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_R20261008-13-s2": {
+      "id": "research_R20261008-13-s2",
+      "outlet": "Revista Oeste",
+      "title": "Galípolo presta depoimento à PF no inquérito do Master",
+      "url": "https://revistaoeste.com/politica/galipolo-presta-depoimento-a-pf-no-inquerito-do-master/",
+      "date": "2026-10-07",
+      "author": "Erich Mafra",
+      "kind": "reportagem"
+    },
+    "research_R20261008-13-s3": {
+      "id": "research_R20261008-13-s3",
+      "outlet": "Poder360",
+      "title": "Site de apostas ilegal usa nome e imagem de Daniel Vorcaro",
+      "url": "https://www.poder360.com.br/poder-economia/site-de-apostas-usa-nome-e-imagem-de-daniel-vorcaro/",
+      "date": "2026-10-08",
+      "author": "Victor Boscato",
+      "kind": "reportagem"
+    },
+    "research_R20261008-13-s4": {
+      "id": "research_R20261008-13-s4",
+      "outlet": "Poder360",
+      "title": "Moraes recebe Andrei e outros chefes da PF no Supremo",
+      "url": "https://www.poder360.com.br/poder-justica/moraes-recebe-andrei-e-outros-chefes-da-pf-no-supremo/",
+      "date": "2026-10-07",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -58655,7 +58759,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-08",
     "researchChats": 94,
-    "researchRecords": 1319,
+    "researchRecords": 1321,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -60608,7 +60712,8 @@ window.PELELEC_DATA = {
         "research_R20261006-19-s6",
         "research_R20261006-19-s5",
         "research_R20261007-07-s1",
-        "research_R20261007-07-s2"
+        "research_R20261007-07-s2",
+        "research_R20261008-13-s2"
       ]
     },
     {
@@ -60648,7 +60753,8 @@ window.PELELEC_DATA = {
       "title": "Metrópoles relata reunião entre direção da PF e Moraes",
       "text": "Metrópoles noticia que Andrei Rodrigues e outros dirigentes da PF estiveram com Moraes em 06/10, em encontro que, segundo a coluna, não constava nas agendas de Andrei e Moraes e teve pauta não divulgada. O texto menciona o caso Master como contexto, sem demonstrar que foi assunto da reunião. Recupera uma negativa anterior de Andrei sobre monitoramentos ilícitos, mas não reproduz manifestação específica dos participantes sobre o encontro.",
       "sources": [
-        "research_R20261007-13-s2"
+        "research_R20261007-13-s2",
+        "research_R20261008-13-s4"
       ]
     },
     {
@@ -60667,7 +60773,8 @@ window.PELELEC_DATA = {
       "text": "Times Brasil e A Crítica repercutem tratativas de julho de 2025 entre Vorcaro e Warde para buscar interlocução com Lula por Mantega. O Planalto afirma que Lula encontrou Vorcaro só em 04/12/2024, sem outro contato entre ambos; a nota não esclarece contatos com Warde ou Mantega. As mensagens não comprovam que a articulação se concretizou, e não há resposta específica de Warde reproduzida.",
       "sources": [
         "research_R20261007-19-s3",
-        "research_R20261007-19-s7"
+        "research_R20261007-19-s7",
+        "research_R20261008-13-s1"
       ]
     },
     {
@@ -60724,6 +60831,15 @@ window.PELELEC_DATA = {
       "text": "O Antagonista atribui a um assessor da liderança do PT, não identificado, que Alckmin defendeu em reunião de 07/10 o envio de uma proposta de reforma do Judiciário antes do segundo turno. O veículo relaciona a discussão ao caso Master e registra negativas de magistrados. A notícia não demonstra que a proposta tenha sido enviada, nem reproduz resposta específica de Alckmin ou do governo ao relato.",
       "sources": [
         "research_R20261008-07-s6"
+      ]
+    },
+    {
+      "id": "t179",
+      "date": "2026-10-08",
+      "title": "Poder360 relata uso do nome de Vorcaro por plataforma de apostas",
+      "text": "O Poder360 noticia que uma plataforma de apostas usa o nome e a imagem de Vorcaro, sem confirmar vínculo societário ou comercial com ele; isso não comprova participação ou autorização. Segundo a reportagem, um representante da defesa disse desconhecer o tema e recusou manifestação. O Ministério da Fazenda não respondeu até a publicação.",
+      "sources": [
+        "research_R20261008-13-s3"
       ]
     }
   ],
