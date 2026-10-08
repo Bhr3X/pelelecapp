@@ -58747,6 +58747,78 @@ window.PELELEC_DATA = {
       "author": "PODER360",
       "kind": "reportagem"
     },
+    "research_R20261008-19-s1": {
+      "id": "research_R20261008-19-s1",
+      "outlet": "Gazeta do Povo",
+      "title": "Defesa de Vorcaro cobra Fachin por análise de soltura",
+      "url": "https://www.gazetadopovo.com.br/republica/defesa-de-vorcaro-cobra-fachin-por-analise-de-soltura-e-critica-limbo-processual-no-stf/",
+      "date": "2026-10-08",
+      "author": "Camila Abrão; Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_R20261008-19-s2": {
+      "id": "research_R20261008-19-s2",
+      "outlet": "O Antagonista",
+      "title": "Vorcaro e Camisotti cobram Fachin por pedidos de liberdade parados no STF",
+      "url": "https://oantagonista.com.br/brasil/vorcaro-e-camisotti-cobram-fachin-por-pedidos-de-liberdade-parados-no-stf/",
+      "date": "2026-10-08",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "research_R20261008-19-s3": {
+      "id": "research_R20261008-19-s3",
+      "outlet": "Jovem Pan",
+      "title": "Senado pede a Fux que barre acesso a visitas de Vorcaro, Lulinha e mulher de Moraes",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/senado-pede-a-fux-que-barre-acesso-a-visitas-de-vorcaro-lulinha-e-mulher-de-moraes/",
+      "date": "2026-10-08",
+      "author": "Bruno Pinheiro",
+      "kind": "reportagem"
+    },
+    "research_R20261008-19-s4": {
+      "id": "research_R20261008-19-s4",
+      "outlet": "Gazeta do Povo",
+      "title": "Após proibição de Lula, bloco de bets é registrado e usa até imagem de Vorcaro",
+      "url": "https://www.gazetadopovo.com.br/economia/apos-proibicao-de-lula-bets-com-nome-de-vorcaro-surgem-em-meio-a-bloco/",
+      "date": "2026-10-08",
+      "author": "Vinicius Macia",
+      "kind": "reportagem"
+    },
+    "research_R20261008-19-s5": {
+      "id": "research_R20261008-19-s5",
+      "outlet": "Metrópoles",
+      "title": "Senado defende sigilo de visitas de Vorcaro e Viviane Barci",
+      "url": "https://www.metropoles.com/colunas/neila-guimaraes/senado-defende-sigilo-de-visitas-de-vorcaro-e-viviane-barci",
+      "date": "2026-10-08",
+      "author": "Neila Guimarães",
+      "kind": "reportagem"
+    },
+    "research_R20261008-19-s6": {
+      "id": "research_R20261008-19-s6",
+      "outlet": "Política Livre",
+      "title": "Galípolo diz à PF que 'esgotou repertório de palavrões' por demora de servidores na fiscalização do Master",
+      "url": "https://www.politicalivre.com.br/2026/10/galipolo-diz-a-pf-que-esgotou-repertorio-de-palavroes-por-demora-de-servidores-na-fiscalizacao-do-master",
+      "date": "2026-10-08",
+      "author": "Nathalia Garcia/Folhapress",
+      "kind": "reportagem"
+    },
+    "research_R20261008-19-s7": {
+      "id": "research_R20261008-19-s7",
+      "outlet": "Brasil em Folhas",
+      "title": "Vorcaro buscou apoio de Lula para vender Master ao BRB",
+      "url": "https://www.brasilemfolhas.com.br/2026/10/vorcaro-buscou-apoio-de-lula-para-vender-master-ao-brb/",
+      "date": "2026-10-08",
+      "author": "Carla Fernandes",
+      "kind": "reportagem"
+    },
+    "research_R20261008-19-s8": {
+      "id": "research_R20261008-19-s8",
+      "outlet": "Ponto Fixo",
+      "title": "Investigada em caso Vorcaro pede ao STF para tirar tornozeleira",
+      "url": "https://opontofixo.com.br/investigada-em-caso-vorcaro-pede-ao-stf-para-tirar-tornozeleira/",
+      "date": "2026-10-08",
+      "author": "Redação Ponto Fixo",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -60774,7 +60846,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261007-19-s3",
         "research_R20261007-19-s7",
-        "research_R20261008-13-s1"
+        "research_R20261008-13-s1",
+        "research_R20261008-19-s7"
       ]
     },
     {
@@ -60839,7 +60912,46 @@ window.PELELEC_DATA = {
       "title": "Poder360 relata uso do nome de Vorcaro por plataforma de apostas",
       "text": "O Poder360 noticia que uma plataforma de apostas usa o nome e a imagem de Vorcaro, sem confirmar vínculo societário ou comercial com ele; isso não comprova participação ou autorização. Segundo a reportagem, um representante da defesa disse desconhecer o tema e recusou manifestação. O Ministério da Fazenda não respondeu até a publicação.",
       "sources": [
-        "research_R20261008-13-s3"
+        "research_R20261008-13-s3",
+        "research_R20261008-19-s4"
+      ]
+    },
+    {
+      "id": "t180",
+      "date": "2026-10-08",
+      "title": "Defesa pede a Fachin análise de liberdade de Vorcaro",
+      "text": "Gazeta do Povo e O Antagonista relatam que a defesa de Vorcaro pediu a Fachin que Mendonça possa analisar pedidos urgentes, incluindo a revogação da prisão. Os advogados afirmam que os autos remetidos à Presidência impedem a análise e que o pedido de liberdade está pendente desde 18/09. O Antagonista recupera os fundamentos da prisão de março, entre eles risco de interferência nas investigações, e informa que não havia nova decisão de Fachin até a publicação.",
+      "sources": [
+        "research_R20261008-19-s1",
+        "research_R20261008-19-s2"
+      ]
+    },
+    {
+      "id": "t181",
+      "date": "2026-10-08",
+      "title": "Senado contesta acesso a registros de visitas",
+      "text": "Metrópoles e Jovem Pan relatam que o Senado pediu a extinção ou a rejeição da ação de Guilherme Kilter sobre registros de visitantes, incluindo Vorcaro e Viviane Barci de Moraes. A Casa invoca proteção de dados e prerrogativas parlamentares, mas afirma fornecer registros em investigações formais. Os textos não informam decisão final de Fux nem comprovam visitas específicas dos citados.",
+      "sources": [
+        "research_R20261008-19-s3",
+        "research_R20261008-19-s5"
+      ]
+    },
+    {
+      "id": "t182",
+      "date": "2026-10-08",
+      "title": "Folhapress relata cobranças de Galípolo e contestação de Belline",
+      "text": "Política Livre/Folhapress relata que Galípolo descreveu à PF, como testemunha em 06/10, dificuldades para obter análises do Master e a criação de outra equipe de supervisão. A defesa de Belline contesta a existência de indícios concretos de irregularidade em sua atuação; o texto registra que ele e Paulo Sérgio negam favorecimento ao banqueiro. A transcrição original não foi conferida e o depoimento não estabelece responsabilidade dos investigados.",
+      "sources": [
+        "research_R20261008-19-s6"
+      ]
+    },
+    {
+      "id": "t183",
+      "date": "2026-10-08",
+      "title": "Ponto Fixo relata pedido de retirada de tornozeleira de Ana Cláudia",
+      "text": "O Ponto Fixo, repercutindo a Oeste, relata que a defesa de Ana Cláudia Queiroz de Paiva pediu a Mendonça a substituição da tornozeleira por comparecimento mensal à Justiça. Os advogados alegam que o monitoramento dificulta a busca por emprego e propõem manter restrições de viagem e contato com outros investigados. A petição original e o texto da Oeste não foram conferidos; a matéria não informa decisão sobre o pedido.",
+      "sources": [
+        "research_R20261008-19-s8"
       ]
     }
   ],
