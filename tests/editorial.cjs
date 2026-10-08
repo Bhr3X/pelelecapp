@@ -13,14 +13,17 @@ test('divulgação só entra depois dos contatos, fora de buscas e filtros',()=>
   const list={innerHTML:'',insertAdjacentHTML(position,html){assert.equal(position,'beforeend');this.innerHTML+=html;}};
   ctx.document.getElementById=()=>list;
   app.activeCategory='all';app.searchQuery='';app.renderContacts();
-  assert(list.innerHTML.lastIndexOf('brasilia_survivors')>list.innerHTML.lastIndexOf('camilla_ramos'));
-  assert(!d.contacts.some(c=>c.id===app.promotion.id));
-  app.searchQuery='Martha'.toLowerCase();app.renderContacts();assert(!list.innerHTML.includes('promo-contact'));
-  app.searchQuery='';app.activeCategory='intimate';app.renderContacts();assert(!list.innerHTML.includes('promo-contact'));
+  assert(list.innerHTML.lastIndexOf('creator-project-list')>list.innerHTML.lastIndexOf('camilla_ramos'));
+  assert(!d.contacts.some(c=>c.id==='brasilia_survivors'));
+  assert(!/contact-item[^>]*brasilia_survivors/.test(list.innerHTML));
+  app.searchQuery='Martha'.toLowerCase();app.renderContacts();assert(!list.innerHTML.includes('creator-project-list'));
+  app.searchQuery='';app.activeCategory='intimate';app.renderContacts();assert(!list.innerHTML.includes('creator-project-list'));
   app.activeCategory='all';
   assert(!fs.readFileSync('index.html','utf8').includes('gamePromoBanner'));
-  for(const file of ['characters.png','gameplay.png'])assert(fs.statSync(`assets/promo/${file}`).size>10000);
-  assert(app.renderPromotion().includes('JOGAR AGORA'));
+  assert(fs.statSync('assets/promo/brasilia-menu-20261008.png').size>10000);
+  assert(fs.readFileSync('index.html','utf8').includes('id="creatorProjects"'));
+  assert(!app.renderCreatorProject('list').includes('message-bubble'));
+  assert.match(app.renderCreatorProject('about'), /Ficção satírica, separada do acervo documental/);
 });
 test('fotos e galerias têm procedência e acesso à imagem completa',()=>{
  const records=d.contacts.flatMap(c=>c.messages).filter(m=>m.publishedImage||m.publishedImages);
@@ -29,4 +32,16 @@ test('fotos e galerias têm procedência e acesso à imagem completa',()=>{
  for(const m of records){assert(m.mediaLink);const html=ctx.window.PelelecApp.renderMessageBody(m);for(const p of m.publishedImages||[m.publishedImage]){count++;assert(p.credit&&p.verifiedOn&&p.alt);if(p.url.startsWith('assets/media/'))assert(fs.existsSync(p.url));else assert(['admin.cnnbrasil.com.br','images.metroimg.com','uploads.intercept.com.br'].includes(new URL(p.url).hostname));assert(html.includes('href="'+p.url.replaceAll('&','&amp;')+'"'));}assert(html.includes('photo-unavailable'));}
  assert.equal(count,12);
  const london=records.find(m=>m.researchId==='A2-m70');assert.equal(london.publishedImage.originalUrl,'https://images.metroimg.com/2026/09/vorcaro-e-gonet.jpg');
+});
+
+test('links do criador limitam atribuição à origem e ao local de entrada',()=>{
+  const app=ctx.window.PelelecApp;
+  for(const placement of ['about','list']) {
+    const url=new URL(app.creatorGameUrl(placement));
+    assert.equal(url.origin,'https://brasiliasurvivors.com.br');
+    assert.equal(url.pathname,'/');
+    assert.deepEqual(Object.fromEntries(url.searchParams),{utm_source:'pelelecapp',utm_medium:'referral',utm_campaign:'do_mesmo_criador',utm_content:placement});
+    assert.match(app.renderCreatorProject(placement),/target="_blank" rel="noopener noreferrer"/);
+  }
+  for(const bad of ['martha','about&contact=martha','<script>','',null]) assert.throws(()=>app.creatorGameUrl(bad), /Unknown creator link placement/);
 });

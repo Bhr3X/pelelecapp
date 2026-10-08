@@ -1312,20 +1312,26 @@ body {
 body[data-theme="light"] .message-row.me .message-meta { color: #526456; }
 .media-caption-text a { color: #8adfff; }
 
-/* Divulgação como última conversa: sem banner fixo ou sobreposição. */
-.promo-contact { padding: 0; }
-.promo-contact-button { display: flex; align-items: center; gap: 14px; width: 100%; padding: 16px; border: 0; background: transparent; color: inherit; text-align: left; font: inherit; cursor: pointer; }
-.promo-contact-button:focus-visible { outline: 2px solid #b59c00; outline-offset: -3px; }
-.promo-label { font-size: 9px; color: var(--text-secondary); }
-.promo-open { background: #ffe600; color: #0d0d11; border-radius: 14px; padding: 4px 9px; font-size: 10px; font-weight: 800; white-space: nowrap; }
-.promo-bubble { width: min(100%, 560px); }
-.promo-shot { margin: 0; }
-.promo-shot img { display: block; width: 100%; height: auto; border-radius: 7px; }
-.promo-shot figcaption { padding-top: 8px; font-size: 13px; }
-.promo-chat-cta { margin-top: 12px; min-height: 44px; padding: 10px 20px; }
-.promo-credit { font-size: 11px; line-height: 1.5; color: var(--text-secondary); margin: 12px 0 0; }
-
-#sourceBtnHeader[hidden] { display: none; }
+/* Recomendação do criador: fora das conversas, sem visual de mensagem ou alerta. */
+.creator-project-list { list-style: none; padding: 20px 14px; border-top: 1px solid var(--border-color); }
+.creator-project { padding: 16px; border: 1px solid var(--border-color); border-radius: 10px; background: var(--bg-sidebar); color: var(--text-primary); }
+.creator-project-label { margin: 0 0 14px; color: var(--text-secondary); font-size: 11px; line-height: 1.5; font-weight: 600; }
+.creator-project-main { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 14px; align-items: start; }
+.creator-project-shot { display: block; width: 100%; height: auto; border: 1px solid var(--border-color); border-radius: 5px; }
+.creator-project-copy h3 { margin: 0 0 8px; font-size: 18px; line-height: 1.25; font-weight: 650; }
+.creator-project-copy p { margin: 0 0 10px; font-size: 13px; line-height: 1.5; }
+.creator-project-copy .creator-project-domain { font-size: 11px; overflow-wrap: anywhere; }
+.creator-project-copy .creator-project-format { font-size: 11px; color: var(--text-secondary); }
+.creator-project-link { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 9px 12px; border: 1px solid var(--icon-color); border-radius: 6px; color: var(--text-primary); font-size: 12px; font-weight: 600; line-height: 1.4; text-decoration: none; }
+.creator-project-link:hover { background: var(--bg-hover-chat); }
+.creator-project-link:focus-visible { outline: 2px solid var(--text-link); outline-offset: 3px; }
+.creator-project-note, .creator-project-credit { margin: 12px 0 0; color: var(--text-secondary); font-size: 11px; line-height: 1.5; }
+.creator-project-credit { margin-top: 4px; font-size: 10px; }
+#creatorProjects { margin-top: 22px; }
+@media (max-width: 360px) {
+  .creator-project { padding: 12px; }
+  .creator-project-main { grid-template-columns: 76px minmax(0, 1fr); gap: 10px; }
+}
 
 .language-switch { display: inline-flex; border: 1px solid var(--border-color, #8696a0); border-radius: 6px; overflow: hidden; flex-shrink: 0; }
 .language-switch button { border: 0; padding: 7px 6px; min-height: 32px; background: transparent; color: var(--text-primary); font-family: inherit; font-size: 11px; font-weight: 700; cursor: pointer; }
