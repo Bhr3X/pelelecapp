@@ -14865,7 +14865,8 @@ window.PELELEC_DATA = {
         "research_R20260929-23-s7",
         "research_R20261002-19-s10",
         "research_R20261006-13-s1",
-        "research_R20261007-01-s3"
+        "research_R20261007-01-s3",
+        "research_R20261008-01-s2"
       ],
       "source": {
         "title": "Gonet nega proximidade com Vorcaro",
@@ -15275,6 +15276,40 @@ window.PELELEC_DATA = {
           "context": "Relato editorial da mensagem atribuída ao advogado, não a Gilmar. O gabinete do ministro nega convite e jantar; os quatro participantes não são identificados. A matéria não traz resposta específica de Ciro ou Vorcaro.",
           "documentRef": "",
           "datePrecision": "minute",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100801-m1",
+          "researchId": "R2026100801-m1",
+          "editorialType": "quote",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-08",
+          "dateLabel": "2024-08",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Que pena. Não vi",
+          "sources": [
+            "research_R20261008-01-s2"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261008-01-s2"
+            ],
+            "checked": [
+              "R20261008-01-s2"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resposta atribuída a Vorcaro a um pedido de Ciro para falar com Gonet em agosto de 2024; dia e hora não publicados. Times repercute o Estadão, original não conferido, e não confirma conversa posterior. Gonet afirma só um encontro em Londres e nega receber Vorcaro em casa; Ciro nega irregularidades.",
+          "documentRef": "",
+          "datePrecision": "month",
           "variants": [],
           "originalLanguage": true
         },
@@ -17825,6 +17860,13 @@ window.PELELEC_DATA = {
           "text": "Ciro Soares negou irregularidades nos diálogos e afirmou que não havia investigação contra Vorcaro na época das trocas. Na Folha, Gonet reafirma que só encontrou Vorcaro no evento de 2024. A PGR nega que ele tenha convidado o banqueiro para evento em sua casa e afirma que Gonet não foi a evento na residência de Vorcaro.",
           "sources": [
             "research_R20261007-01-s3"
+          ]
+        },
+        {
+          "name": "Ciro Rocha Soares",
+          "text": "Ciro nega irregularidades e afirma que a referência a conversas no jantar não era a Vorcaro. Gonet nega ter recebido Vorcaro em sua residência; a PGR descreve a presença de Ciro como evento social com outras pessoas.",
+          "sources": [
+            "research_R20261008-01-s2"
           ]
         }
       ],
@@ -50278,7 +50320,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1365,
+      "totalMessagesRecovered": 1366,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 99
@@ -58190,6 +58232,51 @@ window.PELELEC_DATA = {
       "author": "Redação",
       "kind": "reportagem"
     },
+    "research_R20261008-01-s1": {
+      "id": "research_R20261008-01-s1",
+      "outlet": "Times Brasil",
+      "title": "Preso há sete meses, cunhado de Vorcaro diz que não ficará mais calado e afirma ter informações sobre autoridades",
+      "url": "https://timesbrasil.com.br/brasil/preso-ha-sete-meses-cunhado-de-vorcaro-diz-que-nao-ficara-mais-calado-e-afirma-ter-informacoes-sobre-autoridades/",
+      "date": "2026-10-07",
+      "author": "Amanda Souza",
+      "kind": "reportagem"
+    },
+    "research_R20261008-01-s2": {
+      "id": "research_R20261008-01-s2",
+      "outlet": "Times Brasil",
+      "title": "Caso Master: advogado de Vorcaro enviou endereço residencial de Gonet ao banqueiro e elogiou jantar na casa do PGR",
+      "url": "https://timesbrasil.com.br/brasil/caso-master-advogado-de-vorcaro-enviou-endereco-residencial-de-gonet-ao-banqueiro-e-elogiou-jantar-na-casa-do-pgr/",
+      "date": "2026-10-07",
+      "author": "Vinícius Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261008-01-s3": {
+      "id": "research_R20261008-01-s3",
+      "outlet": "CNN Brasil",
+      "title": "Master: Campos Neto cancela oitiva à PF sobre atuação de servidores do BC",
+      "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/master-campos-neto-cancela-oitiva-a-pf-sobre-atuacao-de-servidores-do-bc/",
+      "date": "2026-10-07",
+      "author": "Elijonas Maia",
+      "kind": "reportagem"
+    },
+    "research_R20261008-01-s4": {
+      "id": "research_R20261008-01-s4",
+      "outlet": "CartaCapital",
+      "title": "Juíza nega pedido de Flávio Bolsonaro para apagar vídeo que o liga a rachadinha e Caso Master",
+      "url": "https://www.cartacapital.com.br/justica/juiza-nega-pedido-de-flavio-bolsonaro-para-apagar-video-que-o-liga-a-rachadinha-e-caso-master/",
+      "date": "2026-10-07",
+      "author": "Ana Luiza Basilio",
+      "kind": "reportagem"
+    },
+    "research_R20261008-01-s5": {
+      "id": "research_R20261008-01-s5",
+      "outlet": "Conselho da Justiça Federal",
+      "title": "CJF amplia controle sobre a expedição e a negociação de precatórios federais",
+      "url": "https://www.cjf.jus.br/cjf/noticias/2026/outubro/cjf-amplia-controle-sobre-a-expedicao-e-a-negociacao-de-precatorios-federais-1/view",
+      "date": "2026-10-06",
+      "author": "Conselho da Justiça Federal",
+      "kind": "comunicado institucional"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -58202,7 +58289,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-07",
     "researchChats": 93,
-    "researchRecords": 1310,
+    "researchRecords": 1311,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -60122,7 +60209,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261006-19-s1",
         "research_R20261006-23-s1",
-        "research_R20261007-19-s6"
+        "research_R20261007-19-s6",
+        "research_R20261008-01-s5"
       ]
     },
     {
@@ -60182,7 +60270,8 @@ window.PELELEC_DATA = {
         "research_R20261007-13-s1",
         "research_R20261007-13-s3",
         "research_R20261007-19-s2",
-        "research_R20261007-19-s4"
+        "research_R20261007-19-s4",
+        "research_R20261008-01-s3"
       ]
     },
     {
@@ -60220,7 +60309,17 @@ window.PELELEC_DATA = {
       "text": "Folha e Bahia Notícias atribuem a interlocutores que visitam Zettel na prisão sua intenção de falar sobre autoridades e a queixa de notícias para constrangê-lo. Os veículos dizem que uma tentativa de colaboração em abril foi rejeitada pela PGR. O relato não identifica informações ou autoridades, nem apresenta novo acordo formal ou resposta específica da defesa ou da PGR sobre essa intenção.",
       "sources": [
         "research_R20261007-19-s1",
-        "research_R20261007-19-s5"
+        "research_R20261007-19-s5",
+        "research_R20261008-01-s1"
+      ]
+    },
+    {
+      "id": "t174",
+      "date": "2026-10-07",
+      "title": "CartaCapital relata recusa de pedidos de Flávio contra vídeo sobre o caso Master",
+      "text": "CartaCapital noticia a rejeição de pedidos feitos por Flávio Bolsonaro contra um vídeo de Camila Moreno, dirigente de comunicação do PT, que o associava a investigações e ao caso Master. O senador alegou excesso no debate e pediu retirada, retratação e indenização; a reportagem atribui à juíza a avaliação de que a crítica se apoiava em notícias públicas e que figuras políticas estão sujeitas a maior escrutínio. A data específica e a íntegra da decisão não foram conferidas; a recusa dos pedidos não estabelece responsabilidade de Flávio pelos fatos mencionados.",
+      "sources": [
+        "research_R20261008-01-s4"
       ]
     }
   ],
