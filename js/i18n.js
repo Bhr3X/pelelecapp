@@ -133,6 +133,15 @@
     'Anexo':'Attachment', 'Enviar mensagem':'Send message', 'Voltar':'Back', 'Nome':'Name', 'Cargo / Função':'Position / Role', 'Transcrição pendente de verificação':'Transcript awaiting verification', 'Revisão editorial':'Editorial review'
   };
   Object.assign(dictionary, {
+    'Do mesmo criador · Brasília Survivors':'From the same creator · Brasília Survivors',
+    'Do mesmo criador · Jogo satírico':'From the same creator · Satirical game',
+    'Escolha sua fita no fliperama da sátira brasileira.':'Pick a tape in the arcade of Brazilian satire.',
+    'No navegador · sem instalar':'In your browser · no installation',
+    'Jogar no navegador ↗':'Play in your browser ↗',
+    'Ficção satírica, separada do acervo documental.':'Satirical fiction, separate from the documentary archive.',
+    'Imagem: Brasília Survivors · captura de 08/10/2026.':'Image: Brasília Survivors · captured on 8 October 2026.',
+    'Captura real do Brasília Survivors: lista de fitas e prévia da Dancinha do Carnaval.':'Actual Brasília Survivors screenshot: tape list and Carnival Dance preview.',
+
     'Selfie de Ciro Soares e Paulo Gonet publicada pela CNN Brasil':'Selfie of Ciro Soares and Paulo Gonet published by CNN Brasil',
     'Fotografia do encontro em Londres reproduzida pelo UOL no registro da conversa de Ciro':'Photograph of the London meeting reproduced by UOL in the record of Ciro’s conversation',
     'Imagem da publicação original':'Image from the original publication',

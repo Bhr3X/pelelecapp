@@ -6,15 +6,6 @@ const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"
  */
 
 const PelelecApp = {
-  promotion: {
-    id: 'brasilia_survivors', name: 'Brasília Survivors',
-    avatarInitials: '🎮', avatarColor: '#725000',
-    role: 'Divulgação · jogo no navegador', lastSeen: 'Divulgação · prints reais do jogo',
-    phone: 'Conteúdo promocional',
-    contextSummary: 'Divulgação do Brasília Survivors, separada do acervo documental. Capturas da versão V2 beta disponível no site oficial em 22/09/2026, reproduzidas a pedido do responsável pelo projeto.',
-    source: {outlet: 'Brasília Survivors', date: '22/09/2026', headline: 'Site oficial do jogo · V2 beta', link: 'https://www.brasiliasurvivors.com.br/'},
-    isPromotion: true
-  },
   activeContactId: "martha",
   activeCategory: "all",
   searchQuery: "",
@@ -24,6 +15,7 @@ const PelelecApp = {
   init() {
     this.renderCategories();
     this.renderContacts();
+    document.getElementById('creatorProjects').innerHTML = this.renderCreatorProject('about');
 
     // Suporte a deep-link por hash (#contact=stf_alexandre) ou query (?contact=...)
     const urlParams = new URLSearchParams(window.location.search);
@@ -51,7 +43,6 @@ const PelelecApp = {
   },
 
   getActiveContact() {
-    if (this.activeContactId === this.promotion.id) return this.promotion;
     return window.PELELEC_DATA.contacts.find(c => c.id === this.activeContactId);
   },
 
@@ -157,7 +148,6 @@ const PelelecApp = {
   },
 
   renderAvatar(contact) {
-    if (contact?.isPromotion) return '<span class="pudim-combat-avatar" role="img" aria-label="Pudim em combate · Brasília Survivors"></span>';
     if (contact && contact.photoUrl) {
       return `
         <img src="${escapeHTML(contact.photoUrl)}" alt="${escapeHTML(contact.name)}" class="avatar-img" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
@@ -266,14 +256,9 @@ const PelelecApp = {
       })
       .join("");
 
-    // A divulgação só fica no fim da lista completa, nunca em resultados filtrados.
+    // A recomendação fica separada das conversas e nunca entra nos filtros do acervo.
     if (this.activeCategory === 'all' && !this.searchQuery) {
-      list.insertAdjacentHTML('beforeend', `<li class="contact-item promo-contact ${this.activeContactId === this.promotion.id ? 'active' : ''}" data-id="${this.promotion.id}">
-        <button class="promo-contact-button" onclick="PelelecApp.selectContact('${this.promotion.id}'); event.stopPropagation()" aria-label="Abrir divulgação do Brasília Survivors">
-          <span class="contact-avatar" style="background:#725000">${this.renderAvatar(this.promotion)}</span>
-          <span class="contact-content"><span class="contact-top-row"><span class="contact-name">Brasília Survivors</span><span class="promo-label">DIVULGAÇÃO</span></span>
-          <span class="contact-bottom-row"><span class="contact-preview">📷 Conheça os personagens e o jogo</span><span class="promo-open">VER ↗</span></span></span>
-        </button></li>`);
+      list.insertAdjacentHTML('beforeend', `<li class="creator-project-list">${this.renderCreatorProject('list')}</li>`);
     }
   },
 
@@ -296,8 +281,6 @@ const PelelecApp = {
     if (headerStatus) {
       headerStatus.textContent = contact.statusText === "online" ? "Online" : contact.lastSeen;
     }
-
-    document.getElementById('sourceBtnHeader').hidden = !!contact.isPromotion;
 
     // Renderiza mensagens
     this.renderMessages(contact);
@@ -326,12 +309,6 @@ const PelelecApp = {
   renderMessages(contact) {
     const container = document.getElementById("chatMessages");
     if (!container) return;
-
-    if (contact.isPromotion) {
-      container.innerHTML = this.renderPromotion();
-      container.scrollTop = 0;
-      return;
-    }
 
     let html = `
       <div class="encryption-pill system-pill">
@@ -377,14 +354,28 @@ const PelelecApp = {
     }, 50);
   },
 
-  renderPromotion() {
-    return `<div class="system-pill">Divulgação · Brasília Survivors</div>
-      <div class="message-row them"><div class="message-bubble promo-bubble"><div class="message-text">Terminou de explorar o acervo? Conheça Brasília Survivors: escolha seu personagem e entre na arena.</div></div></div>
-      ${[
-        ['characters.png', 'Escolha seu personagem', 'Seleção de personagens da V2 beta, com Biroliro selecionado.'],
-        ['gameplay.png', 'A partida em ação', 'Biroliro na arena Resort Tayaya, com inimigos e um apoio ativo.']
-      ].map(([file, title, alt]) => `<div class="message-row them"><div class="message-bubble promo-bubble"><figure class="promo-shot"><a href="assets/promo/${file}" target="_blank" rel="noopener noreferrer" aria-label="Ampliar: ${title}"><img src="assets/promo/${file}" width="1280" height="720" alt="${alt}" loading="lazy"></a><figcaption>${title}</figcaption></figure></div></div>`).join('')}
-      <div class="message-row them"><div class="message-bubble promo-bubble"><div class="message-text">Pronto para jogar?</div><a class="game-play-cta-btn promo-chat-cta" href="https://www.brasiliasurvivors.com.br/" target="_blank" rel="noopener noreferrer">🕹️ JOGAR AGORA ↗</a><p class="promo-credit">Prints reais do site oficial · V2 beta · 22/09/2026.<br>Imagens: Brasília Survivors. Conteúdo promocional, fora do acervo documental.</p></div></div>`;
+  creatorGameUrl(placement) {
+    // Only placement attribution crosses sites; no reader/contact/session identifiers.
+    if (!['about', 'list'].includes(placement)) throw new RangeError('Unknown creator link placement');
+    return `https://brasiliasurvivors.com.br/?utm_source=pelelecapp&utm_medium=referral&utm_campaign=do_mesmo_criador&utm_content=${placement}`;
+  },
+
+  renderCreatorProject(placement) {
+    return `<article class="creator-project" aria-label="Do mesmo criador · Brasília Survivors">
+      <p class="creator-project-label">Do mesmo criador · Jogo satírico</p>
+      <div class="creator-project-main">
+        <img class="creator-project-shot" src="assets/promo/brasilia-menu-20261008.png" width="390" height="844" alt="Captura real do Brasília Survivors: lista de fitas e prévia da Dancinha do Carnaval." loading="lazy" decoding="async">
+        <div class="creator-project-copy">
+          <h3>Brasília Survivors</h3>
+          <p>Escolha sua fita no fliperama da sátira brasileira.</p>
+          <p class="creator-project-domain" data-no-translate>brasiliasurvivors.com.br</p>
+          <p class="creator-project-format">No navegador · sem instalar</p>
+          <a class="creator-project-link" href="${escapeHTML(this.creatorGameUrl(placement))}" data-creator-placement="${placement}" target="_blank" rel="noopener noreferrer">Jogar no navegador ↗</a>
+        </div>
+      </div>
+      <p class="creator-project-note">Ficção satírica, separada do acervo documental.</p>
+      <p class="creator-project-credit">Imagem: Brasília Survivors · captura de 08/10/2026.</p>
+    </article>`;
   },
 
   renderResponses(responses) {

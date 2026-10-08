@@ -46,3 +46,10 @@ test('translated date precision and caveats are retained',()=>{
   assert.equal(app.locale.text('Junho de 2025 · dia não conferido na reportagem textual'),'June 2025 · day not verified in the article text');
   assert.match(app.locale.text('Citação publicada · trecho'),/translated from Portuguese · excerpt/);
 });
+
+test('recomendação do criador preserva a distinção entre ficção e acervo em inglês',()=>{
+  const app=setup();app.locale.setLanguage('en');
+  assert.equal(app.locale.text('Do mesmo criador · Jogo satírico'),'From the same creator · Satirical game');
+  assert.equal(app.locale.text('Ficção satírica, separada do acervo documental.'),'Satirical fiction, separate from the documentary archive.');
+  assert.equal(app.locale.text('Jogar no navegador ↗'),'Play in your browser ↗');
+});
