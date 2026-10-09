@@ -58819,6 +58819,51 @@ window.PELELEC_DATA = {
       "author": "Redação Ponto Fixo",
       "kind": "reportagem"
     },
+    "research_R20261009-01-s1": {
+      "id": "research_R20261009-01-s1",
+      "outlet": "Jovem Pan",
+      "title": "Vorcaro encomendou ataque hacker durante prisão domiciliar para tentar apagar dados do celular",
+      "url": "https://jovempan.com.br/brasil/vorcaro-encomendou-ataque-hacker-durante-prisao-domiciliar-para-tentar-apagar-dados-do-celular/",
+      "date": "2026-10-08",
+      "author": "Estadão Conteúdo",
+      "kind": "reportagem"
+    },
+    "research_R20261009-01-s2": {
+      "id": "research_R20261009-01-s2",
+      "outlet": "Poder360",
+      "title": "Senado diz a Fux que divulgar visitas viola sigilo de congressistas",
+      "url": "https://www.poder360.com.br/poder-congresso/senado-diz-a-fux-que-divulgar-visitas-viola-sigilo-de-congressistas/",
+      "date": "2026-10-08",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261009-01-s3": {
+      "id": "research_R20261009-01-s3",
+      "outlet": "Metrópoles",
+      "title": "Vorcaro aciona Fachin para que Mendonça analise pedido de soltura",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/vorcaro-aciona-fachin-para-que-mendonca-analise-pedido-de-soltura",
+      "date": "2026-10-08",
+      "author": "Manoela Alcântara; Pablo Giovanni",
+      "kind": "reportagem"
+    },
+    "research_R20261009-01-s4": {
+      "id": "research_R20261009-01-s4",
+      "outlet": "Metrópoles",
+      "title": "No dia seguinte à proibição, internet tem bet ilegal “Vorcaro777” operando",
+      "url": "https://www.metropoles.com/colunas/andreza-matais/no-dia-seguinte-a-proibicao-internet-tem-bet-ilegal-vorcaro777-operando",
+      "date": "2026-10-08",
+      "author": "Andre Shalders",
+      "kind": "reportagem"
+    },
+    "research_R20261009-01-s5": {
+      "id": "research_R20261009-01-s5",
+      "outlet": "UOL",
+      "title": "Marcos Pereira, do Republicanos, ofereceu serviços de advocacia a Vorcaro",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/marcos-pereira-republicanos-vorcaro.ghtm",
+      "date": "2026-10-08",
+      "author": "Redação UOL; Fernanda Bassi (JSON-LD)",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -60876,7 +60921,8 @@ window.PELELEC_DATA = {
       "title": "Reportagem divulga oferta de advocacia de Marcos Pereira",
       "text": "A Agência O Globo relata oferta de advocacia em diálogos de 2024–2025. Pereira nega contratação e pagamento, e contesta o contexto da divulgação; a defesa de Vorcaro não comenta.",
       "sources": [
-        "research_R20261008-07-s1"
+        "research_R20261008-07-s1",
+        "research_R20261009-01-s5"
       ]
     },
     {
@@ -60913,7 +60959,8 @@ window.PELELEC_DATA = {
       "text": "O Poder360 noticia que uma plataforma de apostas usa o nome e a imagem de Vorcaro, sem confirmar vínculo societário ou comercial com ele; isso não comprova participação ou autorização. Segundo a reportagem, um representante da defesa disse desconhecer o tema e recusou manifestação. O Ministério da Fazenda não respondeu até a publicação.",
       "sources": [
         "research_R20261008-13-s3",
-        "research_R20261008-19-s4"
+        "research_R20261008-19-s4",
+        "research_R20261009-01-s4"
       ]
     },
     {
@@ -60923,7 +60970,8 @@ window.PELELEC_DATA = {
       "text": "Gazeta do Povo e O Antagonista relatam que a defesa de Vorcaro pediu a Fachin que Mendonça possa analisar pedidos urgentes, incluindo a revogação da prisão. Os advogados afirmam que os autos remetidos à Presidência impedem a análise e que o pedido de liberdade está pendente desde 18/09. O Antagonista recupera os fundamentos da prisão de março, entre eles risco de interferência nas investigações, e informa que não havia nova decisão de Fachin até a publicação.",
       "sources": [
         "research_R20261008-19-s1",
-        "research_R20261008-19-s2"
+        "research_R20261008-19-s2",
+        "research_R20261009-01-s3"
       ]
     },
     {
@@ -60933,7 +60981,8 @@ window.PELELEC_DATA = {
       "text": "Metrópoles e Jovem Pan relatam que o Senado pediu a extinção ou a rejeição da ação de Guilherme Kilter sobre registros de visitantes, incluindo Vorcaro e Viviane Barci de Moraes. A Casa invoca proteção de dados e prerrogativas parlamentares, mas afirma fornecer registros em investigações formais. Os textos não informam decisão final de Fux nem comprovam visitas específicas dos citados.",
       "sources": [
         "research_R20261008-19-s3",
-        "research_R20261008-19-s5"
+        "research_R20261008-19-s5",
+        "research_R20261009-01-s2"
       ]
     },
     {
@@ -60952,6 +61001,15 @@ window.PELELEC_DATA = {
       "text": "O Ponto Fixo, repercutindo a Oeste, relata que a defesa de Ana Cláudia Queiroz de Paiva pediu a Mendonça a substituição da tornozeleira por comparecimento mensal à Justiça. Os advogados alegam que o monitoramento dificulta a busca por emprego e propõem manter restrições de viagem e contato com outros investigados. A petição original e o texto da Oeste não foram conferidos; a matéria não informa decisão sobre o pedido.",
       "sources": [
         "research_R20261008-19-s8"
+      ]
+    },
+    {
+      "id": "t184",
+      "date": "2026-10-08",
+      "title": "Jovem Pan relata pedido atribuído a Vorcaro para apagar dados do iCloud",
+      "text": "Jovem Pan/Estadão Conteúdo, repercutindo a piauí, atribui a depoimento de Thiago Santos à PF um pedido de Vorcaro, intermediado por Thiago Miranda, para apagar dados do iCloud durante a prisão domiciliar, em janeiro, sem ano explícito na passagem. O texto relata tentativa de acesso interrompida por policiais; o depoimento original e os registros técnicos não foram conferidos. A reportagem informa que as defesas de Vorcaro e Miranda foram procuradas sem resposta específica e recupera uma negativa geral de ilegalidade.",
+      "sources": [
+        "research_R20261009-01-s1"
       ]
     }
   ],
