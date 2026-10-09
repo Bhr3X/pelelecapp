@@ -9875,7 +9875,9 @@ window.PELELEC_DATA = {
       "phone": "Não exibida: sem necessidade editorial",
       "originalContext": true,
       "responseSources": [
-        "research_B2-s3"
+        "research_B2-s3",
+        "research_R20261009-13-s14",
+        "research_R20261009-13-s8"
       ],
       "outroLado": [
         {
@@ -9883,6 +9885,14 @@ window.PELELEC_DATA = {
           "text": "Nenhuma manifestação localizada nas fontes consultadas.",
           "sources": [
             "research_B2-s3"
+          ]
+        },
+        {
+          "name": "Augusto Ferreira Lima",
+          "text": "Sua defesa rejeita os relatos e nega fundamento para atribuição de ilícitos.",
+          "sources": [
+            "research_R20261009-13-s14",
+            "research_R20261009-13-s8"
           ]
         }
       ],
@@ -45524,6 +45534,8 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_B2-s3",
+        "research_R20261009-13-s14",
+        "research_R20261009-13-s8",
         "research_B2-s20",
         "research_B2-s22",
         "research_B2-s73",
@@ -45543,6 +45555,14 @@ window.PELELEC_DATA = {
           "text": "Nenhuma manifestação localizada nas fontes consultadas.",
           "sources": [
             "research_B2-s3"
+          ]
+        },
+        {
+          "name": "Augusto Ferreira Lima",
+          "text": "Sua defesa rejeita os relatos e nega fundamento para atribuição de ilícitos.",
+          "sources": [
+            "research_R20261009-13-s14",
+            "research_R20261009-13-s8"
           ]
         },
         {
@@ -49307,6 +49327,7 @@ window.PELELEC_DATA = {
       "responseSources": [
         "research_R20261002-19-s16",
         "research_R20261003-01-s1",
+        "research_R20261009-13-s6",
         "research_R20261007-19-s3"
       ],
       "outroLado": [
@@ -49326,6 +49347,13 @@ window.PELELEC_DATA = {
         },
         {
           "name": "Walfrido Warde",
+          "text": "Segundo a Veja, Warde não quis comentar. As mensagens não comprovam encontros ou intervenção.",
+          "sources": [
+            "research_R20261009-13-s6"
+          ]
+        },
+        {
+          "name": "Walfrido Warde",
           "text": "O Planalto afirma que Lula encontrou Vorcaro só em 04/12/2024, sem outro contato entre ambos; a nota não esclarece contatos com Warde ou Mantega. Não há resposta específica de Warde reproduzida.",
           "sources": [
             "research_R20261007-19-s3"
@@ -49338,12 +49366,114 @@ window.PELELEC_DATA = {
         "Walfrido Warde"
       ],
       "source": {
-        "outlet": "UOL",
-        "date": "2026-10-01",
-        "headline": "'Só fiz coisa boa ali com eles', reclamou Vorcaro sobre Toffoli e esposa",
-        "link": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/01/so-fiz-coisa-boa-ali-com-eles-reclamou-vorcaro-sobre-toffoli-e-esposa.htm"
+        "outlet": "Poder360",
+        "date": "2026-10-09",
+        "headline": "Vorcaro financiou filme de Lula em troca de acesso a fundos, diz revista",
+        "link": "https://www.poder360.com.br/poder-justica/vorcaro-financiou-filme-de-lula-em-troca-de-acesso-a-fundos-diz-revista/"
       },
       "messages": [
+        {
+          "id": "r-R2026100913-m3",
+          "researchId": "R2026100913-m3",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2022-10-29",
+          "dateLabel": "2022-10-29",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Enviou três imagens e indicou que eram sobre o filme de Oliver Stone.",
+          "sources": [
+            "research_R20261009-13-s8"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-13-s8"
+            ],
+            "checked": [
+              "R20261009-13-s8"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado pelo Poder360; sem horário. Conteúdo das imagens indisponível nesta reconstrução; o diálogo não comprova financiamento.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100913-m4",
+          "researchId": "R2026100913-m4",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2022-10-29",
+          "dateLabel": "2022-10-29",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Respondeu positivamente à mensagem sobre o filme.",
+          "sources": [
+            "research_R20261009-13-s8"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-13-s8"
+            ],
+            "checked": [
+              "R20261009-13-s8"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo da mesma conversa; sem horário. A resposta não demonstra aporte ou participação na produção.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100913-m1",
+          "researchId": "R2026100913-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-05-22",
+          "dateLabel": "2024-05-22",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Relatou ter saído da sala do presidente, que teria pedido o e-mail de Vorcaro.",
+          "sources": [
+            "research_R20261009-13-s6"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-13-s6"
+            ],
+            "checked": [
+              "R20261009-13-s6"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado pela Veja; sem horário. O relato não comprova o encontro ou o pedido.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
         {
           "id": "r-R2026100219-m15",
           "researchId": "R2026100219-m15",
@@ -49375,6 +49505,40 @@ window.PELELEC_DATA = {
           "context": "Fragmento literal de Vorcaro a Walfrido Warde. O UOL informa somente agosto de 2024. Roberta Rangel nega ter contratado com Vorcaro ou ter conflito de interesse e diz ter atuado em ações contra ele, seu pai e empresas. Trata-se de reclamação do remetente, não fala de Rangel ou de Toffoli.",
           "documentRef": "",
           "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100913-m2",
+          "researchId": "R2026100913-m2",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-01-22",
+          "dateLabel": "2025-01-22",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Relatou conversa com o presidente e agradecimento por uísque.",
+          "sources": [
+            "research_R20261009-13-s6"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-13-s6"
+            ],
+            "checked": [
+              "R20261009-13-s6"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado pela Veja; sem horário. Encontro e presente não comprovados pelas falas.",
+          "documentRef": "",
+          "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
         },
@@ -50886,7 +51050,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1380,
+      "totalMessagesRecovered": 1384,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 101
@@ -59194,6 +59358,177 @@ window.PELELEC_DATA = {
       "author": "Thiago Antunes FolhaPress",
       "kind": "reportagem"
     },
+    "research_R20261009-13-s1": {
+      "id": "research_R20261009-13-s1",
+      "outlet": "Jovem Pan",
+      "title": "Mensagens revelam atuação de advogado junto a Lula para salvar Master, diz revista",
+      "url": "https://jovempan.com.br/politica/mensagens-revelam-atuacao-de-advogado-junto-a-lula-para-salvar-master-diz-revista/",
+      "date": "2026-10-09",
+      "author": "Jovem Pan",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s2": {
+      "id": "research_R20261009-13-s2",
+      "outlet": "Jovem Pan",
+      "title": "Governo Lula acusa revista de publicar reportagem eleitoral com acusações sem provas; leia a nota",
+      "url": "https://jovempan.com.br/politica/governo-lula-acusa-revista-de-publicar-reportagem-eleitoral-com-acusacoes-sem-provas-leia-a-nota/",
+      "date": "2026-10-09",
+      "author": "Jovem Pan",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s3": {
+      "id": "research_R20261009-13-s3",
+      "outlet": "Jovem Pan",
+      "title": "PT prepara pedido de direito de resposta após matéria sobre relação de Vorcaro com grupo de Lula",
+      "url": "https://jovempan.com.br/politica/pt-prepara-pedido-de-direito-de-resposta-apos-materia-sobre-relacao-de-vorcaro-com-grupo-de-lula/",
+      "date": "2026-10-09",
+      "author": "João Vitor Revedilho",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s4": {
+      "id": "research_R20261009-13-s4",
+      "outlet": "Jovem Pan",
+      "title": "Em áudio, Edinho rebate matéria e chama depoimento de Vorcaro de criação de fato político",
+      "url": "https://jovempan.com.br/politica/em-audio-edinho-rebate-materia-e-chama-depoimento-de-vorcaro-de-criacao-de-fato-politico/",
+      "date": "2026-10-09",
+      "author": "João Vitor Revedilho",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s5": {
+      "id": "research_R20261009-13-s5",
+      "outlet": "PGR",
+      "title": "Nota de esclarecimento sobre tratativas para colaboração premiada de Daniel Vorcaro",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/nota-de-esclarecimento-sobre-tratativas-para-colaboracao-premiada-de-daniel-vorcaro",
+      "date": "2026-10-09",
+      "author": "Secretaria de Comunicação Social da PGR",
+      "kind": "nota oficial"
+    },
+    "research_R20261009-13-s6": {
+      "id": "research_R20261009-13-s6",
+      "outlet": "VEJA",
+      "title": "Mensagens mostram atuação de advogado junto ao governo Lula para tentar salvar banco de Vorcaro",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Hugo Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s7": {
+      "id": "research_R20261009-13-s7",
+      "outlet": "Poder360",
+      "title": "Ex-presidente do Instituto Lula nega conhecer Vorcaro: “Tampouco me reuni”",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/ex-presidente-do-instituto-lula-nega-conhecer-vorcaro-tampouco-me-reuni/",
+      "date": "2026-10-09",
+      "author": "Vinicius Filgueira; Julia Amoêdo",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s8": {
+      "id": "research_R20261009-13-s8",
+      "outlet": "Poder360",
+      "title": "Vorcaro financiou filme de Lula em troca de acesso a fundos, diz revista",
+      "url": "https://www.poder360.com.br/poder-justica/vorcaro-financiou-filme-de-lula-em-troca-de-acesso-a-fundos-diz-revista/",
+      "date": "2026-10-09",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s9": {
+      "id": "research_R20261009-13-s9",
+      "outlet": "Poder360",
+      "title": "PT diz que reportagem da “Veja” é “peça eleitoral irresponsável”",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/pt-diz-que-reportagem-da-veja-e-peca-eleitoral-irresponsavel/",
+      "date": "2026-10-09",
+      "author": "Vinicius Filgueira",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s10": {
+      "id": "research_R20261009-13-s10",
+      "outlet": "Folha de S.Paulo",
+      "title": "Presidente do PT contesta suposto relato de Vorcaro",
+      "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/em-audio-a-militancia-presidente-do-pt-diz-que-depoimento-de-vorcaro-sobre-filme-de-lula-tem-vies-politico.shtml",
+      "date": "2026-10-09",
+      "author": "Gabriela Echenique",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261009-13-s11": {
+      "id": "research_R20261009-13-s11",
+      "outlet": "CNN Brasil",
+      "title": "PGR nega \"depoimento oral\" de Vorcaro em processo de delação",
+      "url": "https://www.cnnbrasil.com.br/politica/pgr-nega-depoimento-oral-de-vorcaro-em-processo-de-delacao/",
+      "date": "2026-10-09",
+      "author": "Teo Cury; Renata Souza",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s12": {
+      "id": "research_R20261009-13-s12",
+      "outlet": "CNN Brasil",
+      "title": "Prerrogativas aciona PF e vê articulação de Vorcaro e Flávio contra Lula",
+      "url": "https://www.cnnbrasil.com.br/politica/prerrogativas-aciona-pf-e-ve-articulacao-de-vorcaro-e-flavio-contra-lula/",
+      "date": "2026-10-09",
+      "author": "Renata Souza",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s13": {
+      "id": "research_R20261009-13-s13",
+      "outlet": "CNN Brasil",
+      "title": "Campanha de Lula chama de \"farsa\" depoimento de Vorcaro citado por revista",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-chama-de-farsa-depoimento-de-vorcaro-citado-por-revista/",
+      "date": "2026-10-09",
+      "author": "Lucas Massei",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s14": {
+      "id": "research_R20261009-13-s14",
+      "outlet": "Metrópoles",
+      "title": "Defesas de Vorcaro e Lima contestam alegações sobre documentário de Lula",
+      "url": "https://www.metropoles.com/brasil/vorcaro-afirmou-ter-liberado-r-30-milhoes-para-filme-de-lula-em-troca-de-negocios-diz-revista",
+      "date": "2026-10-09",
+      "author": "Luana Patriolino; Carlos Estênio Brasilino",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s15": {
+      "id": "research_R20261009-13-s15",
+      "outlet": "SBT News",
+      "title": "Fux se incomoda com reunião de Moraes e chefe da PF",
+      "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-tulio/fux-se-incomoda-com-reuniao-de-moraes-e-chefe-da-pf",
+      "date": "2026-10-09",
+      "author": "Túlio Amâncio",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s16": {
+      "id": "research_R20261009-13-s16",
+      "outlet": "Times Brasil | CNBC",
+      "title": "Fux pede acesso a inquéritos após reunião de Moraes com direção da PF",
+      "url": "https://timesbrasil.com.br/brasil/crise-no-stf-suspeita-sobre-reuniao-de-moraes-com-cupula-da-pf-motivou-fux-a-pedir-acesso-ao-inquerito-das-fake-news/",
+      "date": "2026-10-09",
+      "author": "Vinicius Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s17": {
+      "id": "research_R20261009-13-s17",
+      "outlet": "Times Brasil | CNBC",
+      "title": "SUS no TRF-1: Gilmar propõe rediscutir ações com impacto estimado de R$ 24 bilhões",
+      "url": "https://timesbrasil.com.br/brasil/apos-caso-master-gilmar-mendes-alerta-para-acoes-com-impacto-de-ate-r-24-bi-no-sus-concentradas-no-trf-1/",
+      "date": "2026-10-09",
+      "author": "Talita Laurino",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s18": {
+      "id": "research_R20261009-13-s18",
+      "outlet": "Times Brasil | CNBC",
+      "title": "Mensagens de Vorcaro: negócios com a Ecoari e negociações de arte",
+      "url": "https://timesbrasil.com.br/brasil/caso-master-mensagens-de-vorcaro-revelam-negocios-com-filha-de-otto-alencar-e-aliado-de-jaques-wagner/",
+      "date": "2026-10-09",
+      "author": "Vinicius Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261009-13-s19": {
+      "id": "research_R20261009-13-s19",
+      "outlet": "Metrópoles",
+      "title": "PF: Vorcaro não falou em depoimento sobre R$ 30 milhões a filme de Lula",
+      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-vorcaro-nao-falou-em-depoimento-sobre-r-30-milhoes-a-filme-de-lula",
+      "date": "2026-10-09",
+      "author": "Giovanna Sfalsin; Letícia Guedes; Manoela Alcântara",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59206,7 +59541,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-09",
     "researchChats": 95,
-    "researchRecords": 1325,
+    "researchRecords": 1329,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -61357,7 +61692,8 @@ window.PELELEC_DATA = {
       "title": "Folha relata tratativas da Ecoari e conversas sobre arte",
       "text": "Folha relata tratativas da Ecoari e alertas da B3 ao Coaf sobre ativos incompatíveis com o porte da empresa, além de negociações de arte com Guilherme Sodré. Isadora afirma empréstimo regular; a defesa de Wagner nega relação com Vorcaro. Otto e Sodré não responderam; os documentos originais não foram conferidos.",
       "sources": [
-        "research_R20261009-07-s1"
+        "research_R20261009-07-s1",
+        "research_R20261009-13-s18"
       ]
     },
     {
@@ -61404,6 +61740,97 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-07-s15",
         "research_R20261009-07-s16"
+      ]
+    },
+    {
+      "id": "t191",
+      "date": "2026-10-09",
+      "title": "PGR esclarece tratativas e nega depoimento oral",
+      "text": "Em nota oficial, a PGR afirma que as propostas de colaboração foram apresentadas pela defesa, sem interlocução direta com Vorcaro. Diz que não houve depoimento oral, pois a proposta foi rejeitada, e preserva o sigilo dos motivos informados à defesa. Não autentica gravações ou acusações.",
+      "sources": [
+        "research_R20261009-13-s5",
+        "research_R20261009-13-s11"
+      ]
+    },
+    {
+      "id": "t192",
+      "date": "2026-10-09",
+      "title": "PF nega depoimento descrito e encaminha notícia-crime",
+      "text": "Metrópoles reproduz nota em que a PF nega depoimento ou documentos com o teor descrito pela Veja e informa que recebeu notícia-crime, encaminhada à área técnica. Os advogados pediram perícia do áudio; o texto não comprova laudo ou adulteração. São manifestações publicadas, sem conferência do expediente original ou autenticação da gravação.",
+      "sources": [
+        "research_R20261009-13-s19",
+        "research_R20261009-13-s14"
+      ]
+    },
+    {
+      "id": "t193",
+      "date": "2026-10-09",
+      "title": "Metrópoles publica contestações da defesa de Vorcaro, de Lima e do Postalis",
+      "text": "Metrópoles publica nota em que a defesa de Vorcaro repudia supostos anexos divulgados e não confirma origem, autenticidade ou integridade do material; afirma não ter havido depoimento à PF ou PGR nas tratativas e continuar disponível. A defesa de Augusto Lima rejeita os relatos, e o Postalis nega investimentos em ativos do Master. São respostas publicadas às alegações, sem autenticação do áudio ou conclusão sobre os fatos.",
+      "sources": [
+        "research_R20261009-13-s14",
+        "research_R20261009-13-s8"
+      ]
+    },
+    {
+      "id": "t194",
+      "date": "2026-10-09",
+      "title": "Okamotto nega reunião e recursos para documentário de Lula",
+      "text": "Poder360 relata nota em que Paulo Okamotto nega conhecer ou ter se reunido com Vorcaro. Afirma que ele e o Instituto Lula não participaram da produção ou captação de recursos para o documentário de Oliver Stone e não receberam recursos para o filme. São negativas do citado; os pagamentos alegados não foram comprovados.",
+      "sources": [
+        "research_R20261009-13-s7"
+      ]
+    },
+    {
+      "id": "t195",
+      "date": "2026-10-09",
+      "title": "Campanha contesta alegações e prepara resposta à Veja",
+      "text": "Jovem Pan relata que a campanha de Lula contestou as alegações divulgadas pela Veja e anunciou medidas judiciais; Edinho Silva atribuiu a divulgação a uma tentativa de interferência eleitoral. O veículo informa a preparação de pedido de direito de resposta, sem comprovação de ajuizamento ou decisão. As críticas são manifestações da campanha, sem comprovação das acusações contra terceiros.",
+      "sources": [
+        "research_R20261009-13-s2",
+        "research_R20261009-13-s3",
+        "research_R20261009-13-s4",
+        "research_R20261009-13-s9",
+        "research_R20261009-13-s10",
+        "research_R20261009-13-s13"
+      ]
+    },
+    {
+      "id": "t196",
+      "date": "2026-10-09",
+      "title": "Veja publica relatos de Warde sobre acesso ao governo",
+      "text": "Veja publica mensagens atribuídas a Warde sobre articulações pelo Master, sem comprovar novo encontro de Lula com Vorcaro. Belluzzo confirma pagamento do advogado, mas nega relação com ação judicial ou lobby. Warde não quis comentar. A íntegra das mensagens e os comprovantes não foram autenticados.",
+      "sources": [
+        "research_R20261009-13-s6",
+        "research_R20261009-13-s1"
+      ]
+    },
+    {
+      "id": "t197",
+      "date": "2026-10-09",
+      "title": "CNN relata notícia de fato apresentada por advogados do Prerrogativas",
+      "text": "CNN relata que Marco Aurélio Carvalho e Reinaldo Almeida apresentaram à PF em 08/10 notícia de fato sobre uma possível gravação e tratativas para entrevista de Vorcaro. Os advogados alegam finalidade eleitoral, mas dizem não ter acesso ao material e pedem sua verificação. O requerimento original não foi conferido; a reportagem não comprova a articulação alegada nem a identidade desse expediente com a notícia-crime recebida pela PF em 09/10. A CNN buscava os citados.",
+      "sources": [
+        "research_R20261009-13-s12"
+      ]
+    },
+    {
+      "id": "t198",
+      "date": "2026-10-09",
+      "title": "SBT e Times relatam pedido de Fux para acessar inquéritos",
+      "text": "SBT e Times relatam que Fux pediu em 08/10 acesso a autos para analisar questionamentos do PP sobre investigações conduzidas por Moraes. A relação com a reunião da direção da PF é atribuída a interlocutores; pauta e vínculo com o caso Master não foram demonstrados. A assessoria de Fux nega motivação eleitoral, e Andrei afirma cumprir atribuições legais. A íntegra judicial não foi conferida; acesso aos autos não é anulação de provas nem reconhecimento de irregularidades.",
+      "sources": [
+        "research_R20261009-13-s15",
+        "research_R20261009-13-s16"
+      ]
+    },
+    {
+      "id": "t199",
+      "date": "2026-10-09",
+      "title": "Times relata proposta de Gilmar para rediscutir litígios da tabela do SUS",
+      "text": "Times relata que Gilmar propôs nova análise pelo STF de ações sobre a tabela do SUS e relacionou a discussão a preocupações com créditos judiciais no caso Master. R$ 24 bilhões anuais são uma estimativa de impacto da União, não dívida reconhecida. Hospitais alegam remuneração insuficiente; o texto ressalva que a concentração no TRF-1 não comprova escolha artificial de jurisdição. A manifestação original não foi conferida, nem constitui decisão de reajuste; não há resposta específica dos investigados reproduzida.",
+      "sources": [
+        "research_R20261009-13-s17"
       ]
     }
   ],
