@@ -8644,6 +8644,40 @@ window.PELELEC_DATA = {
       },
       "messages": [
         {
+          "id": "r-R2026100919-m1",
+          "researchId": "R2026100919-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-08-19",
+          "dateLabel": "2025-08-19",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Metrópoles relata que Vorcaro disse a Paulo Henrique Costa ter avisado Edinho Silva sobre a votação da compra do Master pelo BRB.",
+          "sources": [
+            "research_R20261009-19-s5"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-19-s5"
+            ],
+            "checked": [
+              "R20261009-19-s5"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo de reportagem que atribui a divulgação ao Fatos On-line. Edinho nega conhecer o diálogo. Não comprova contato ou intervenção; original não conferido.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-B2-m65",
           "researchId": "B2-m65",
           "editorialType": "quote",
@@ -9679,7 +9713,8 @@ window.PELELEC_DATA = {
         "research_B2-s7",
         "research_B2-s77",
         "research_B2-s10",
-        "research_H-s46"
+        "research_H-s46",
+        "research_R20261009-19-s5"
       ],
       "originalContext": true,
       "outroLado": [
@@ -9703,6 +9738,13 @@ window.PELELEC_DATA = {
           "text": "Segundo o Times Brasil, as defesas de Costa e de Daniel Monteiro não comentaram até a publicação.",
           "sources": [
             "research_H-s46"
+          ]
+        },
+        {
+          "name": "Paulo Henrique Costa",
+          "text": "Edinho nega conhecer o diálogo em que Vorcaro o menciona e contesta o relato.",
+          "sources": [
+            "research_R20261009-19-s5"
           ]
         }
       ],
@@ -13909,7 +13951,8 @@ window.PELELEC_DATA = {
         "research_B1-s14",
         "research_B1-s67",
         "research_H-s27",
-        "research_R20261003-07-s5"
+        "research_R20261003-07-s5",
+        "research_R20261009-19-s26"
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fl%C3%A1vio_Bolsonaro.jpg",
       "photoCredit": "U.S. Consulate in Rio · Domínio público (governo dos EUA)",
@@ -13995,6 +14038,13 @@ window.PELELEC_DATA = {
           "text": "Procurado pela piauí para esta reportagem, Flávio não respondeu. A defesa de Daniel Vorcaro preferiu não se manifestar.",
           "sources": [
             "research_R20261003-07-s5"
+          ]
+        },
+        {
+          "name": "Flávio Bolsonaro",
+          "text": "Folha registra que Flávio nega irregularidades e afirma financiamento privado de Dark Horse.",
+          "sources": [
+            "research_R20261009-19-s26"
           ]
         }
       ],
@@ -26850,7 +26900,8 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_G-s17",
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_R20261009-19-s7"
       ],
       "outroLado": [
         {
@@ -26865,6 +26916,13 @@ window.PELELEC_DATA = {
           "text": "Nenhuma manifestação localizada nas fontes consultadas.",
           "sources": [
             "research_A1-s1"
+          ]
+        },
+        {
+          "name": "Angelo Antonio Ribeiro da Silva",
+          "text": "Metrópoles não reproduz manifestação específica dos citados sobre esses diálogos.",
+          "sources": [
+            "research_R20261009-19-s7"
           ]
         }
       ],
@@ -27833,6 +27891,74 @@ window.PELELEC_DATA = {
           "context": "",
           "documentRef": "IPJ-A nº 3298613/2026, p. 155 (Fig. 154)",
           "datePrecision": "minute",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100919-m3",
+          "researchId": "R2026100919-m3",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-07-23",
+          "dateLabel": "2025-07-23",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Metrópoles relata que Vorcaro contestou documento relativo à Tirreno enviado por Ângelo Silva e mencionou prejuízo de R$ 2,5 bilhões.",
+          "sources": [
+            "research_R20261009-19-s7"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-19-s7"
+            ],
+            "checked": [
+              "R20261009-19-s7"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo atribuído pela matéria a relatório da PF, não conferido no original. Sem resposta específica dos citados no corpo humano.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100919-m4",
+          "researchId": "R2026100919-m4",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-07-24",
+          "dateLabel": "2025-07-24",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Metrópoles relata orientação de Vorcaro para apresentar documentos ao Banco Central de modo que dificultasse a análise.",
+          "sources": [
+            "research_R20261009-19-s7"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-19-s7"
+            ],
+            "checked": [
+              "R20261009-19-s7"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo atribuído pela matéria a relatório da PF, não conferido no original. Sem resposta específica dos citados no corpo humano.",
+          "documentRef": "",
+          "datePrecision": "day",
           "variants": [],
           "originalLanguage": true
         }
@@ -42110,7 +42236,8 @@ window.PELELEC_DATA = {
         "research_B2-s9",
         "research_B2-s13",
         "research_B2-s14",
-        "research_B2-s78"
+        "research_B2-s78",
+        "research_R20261009-19-s8"
       ],
       "outroLado": [
         {
@@ -42127,6 +42254,13 @@ window.PELELEC_DATA = {
             "research_B2-s13",
             "research_B2-s14",
             "research_B2-s78"
+          ]
+        },
+        {
+          "name": "Ibaneis Rocha",
+          "text": "A matéria diz aguardar resposta da defesa; a negativa anterior de ingerência permanece acessível.",
+          "sources": [
+            "research_R20261009-19-s8"
           ]
         }
       ],
@@ -44048,7 +44182,8 @@ window.PELELEC_DATA = {
       "originalContext": true,
       "responseSources": [
         "research_G-s17",
-        "research_A1-s1"
+        "research_A1-s1",
+        "research_R20261009-19-s7"
       ],
       "outroLado": [
         {
@@ -44077,6 +44212,13 @@ window.PELELEC_DATA = {
           "text": "Nenhuma manifestação localizada nas fontes consultadas.",
           "sources": [
             "research_A1-s1"
+          ]
+        },
+        {
+          "name": "Angelo Antonio Ribeiro da Silva",
+          "text": "Metrópoles não reproduz manifestação específica dos citados sobre esses diálogos.",
+          "sources": [
+            "research_R20261009-19-s7"
           ]
         }
       ],
@@ -49328,6 +49470,7 @@ window.PELELEC_DATA = {
         "research_R20261002-19-s16",
         "research_R20261003-01-s1",
         "research_R20261009-13-s6",
+        "research_R20261009-19-s6",
         "research_R20261007-19-s3"
       ],
       "outroLado": [
@@ -49350,6 +49493,13 @@ window.PELELEC_DATA = {
           "text": "Segundo a Veja, Warde não quis comentar. As mensagens não comprovam encontros ou intervenção.",
           "sources": [
             "research_R20261009-13-s6"
+          ]
+        },
+        {
+          "name": "Walfrido Warde",
+          "text": "Metrópoles procurou Warde e a Secom; ambos não responderam até a publicação.",
+          "sources": [
+            "research_R20261009-19-s6"
           ]
         },
         {
@@ -49639,6 +49789,40 @@ window.PELELEC_DATA = {
           "confidence": "medium",
           "recoveredByPF": false,
           "context": "Fragmento literal da resposta de Warde na mesma conversa de 15/05/2025; expressão inicial omitida. Não há horário individual publicado.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100919-m2",
+          "researchId": "R2026100919-m2",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-06-04",
+          "dateLabel": "2025-06-04",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Metrópoles relata que Warde sugeriu a Vorcaro um encontro em Brasília, em vez de durante a viagem a Paris.",
+          "sources": [
+            "research_R20261009-19-s6"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-19-s6"
+            ],
+            "checked": [
+              "R20261009-19-s6"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo do diálogo publicado. A referência ao presidente é interpretação dos investigadores relatada pelo veículo; não confirma encontro. Warde e Secom não responderam.",
           "documentRef": "",
           "datePrecision": "day",
           "variants": [],
@@ -51050,7 +51234,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1384,
+      "totalMessagesRecovered": 1388,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 101
@@ -59529,6 +59713,249 @@ window.PELELEC_DATA = {
       "author": "Giovanna Sfalsin; Letícia Guedes; Manoela Alcântara",
       "kind": "reportagem"
     },
+    "research_R20261009-19-s1": {
+      "id": "research_R20261009-19-s1",
+      "outlet": "Agência Brasil",
+      "title": "Lula critica sócios do Master e parentes de Vorcaro em ato",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/brasil-nao-sera-governado-por-socios-do-banco-master-diz-lula-em-ato",
+      "date": "2026-10-09",
+      "author": "Paula Laboissière",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s2": {
+      "id": "research_R20261009-19-s2",
+      "outlet": "Jovem Pan",
+      "title": "Defesa contesta origem e integridade do áudio atribuído a Vorcaro",
+      "url": "https://jovempan.com.br/politica/defesa-de-vorcaro-diz-nao-reconhecer-audio-em-que-banqueiro-relata-dinheiro-para-filme-de-lula/",
+      "date": "2026-10-09",
+      "author": "Beatriz Souza; Matheus Alleoni; Fernando Keller",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s3": {
+      "id": "research_R20261009-19-s3",
+      "outlet": "Jovem Pan",
+      "title": "PF nega depoimento descrito em reportagem sobre filme de Lula",
+      "url": "https://jovempan.com.br/politica/pf-nega-que-vorcaro-tenha-citado-liberacao-de-verba-para-filme-sobre-lula-em-depoimento/",
+      "date": "2026-10-09",
+      "author": "Nícolas Robert",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s4": {
+      "id": "research_R20261009-19-s4",
+      "outlet": "CartaCapital",
+      "title": "Prerrogativas pede apuração à PF sobre material atribuído a Vorcaro",
+      "url": "https://www.cartacapital.com.br/justica/advogados-acionam-pf-para-investigar-suspeita-de-articulacao-entre-vorcaro-e-campanha-de-flavio-bolsonaro/",
+      "date": "2026-10-09",
+      "author": "CartaCapital",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s5": {
+      "id": "research_R20261009-19-s5",
+      "outlet": "Metrópoles",
+      "title": "Vorcaro disse ter acionado presidente do PT para viabilizar compra do Master pelo BRB, diz site",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site",
+      "date": "2026-10-09",
+      "author": "Gabriella Furquim",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s6": {
+      "id": "research_R20261009-19-s6",
+      "outlet": "Metrópoles",
+      "title": "Foto mostra cadeira vazia reservada a Vorcaro em evento de Lula em Paris",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/foto-mostra-cadeira-vazia-reservada-a-vorcaro-em-evento-de-lula-em-paris",
+      "date": "2026-10-09",
+      "author": "Igor Gadelha; Demétrio Vecchioli",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s7": {
+      "id": "research_R20261009-19-s7",
+      "outlet": "Metrópoles",
+      "title": "Metrópoles relata orientações de Vorcaro sobre documentos da Tirreno",
+      "url": "https://www.metropoles.com/colunas/dinheiro-e-negocios/vorcaro-sobre-documentos-de-carteira-podre-se-mandar-isso-fecha-o-banco",
+      "date": "2026-10-09",
+      "author": "Gabriella Furquim; Manoela Alcântara",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s8": {
+      "id": "research_R20261009-19-s8",
+      "outlet": "Metrópoles",
+      "title": "Master: PF aponta \"interferência direta\" de Ibaneis na condução do BRB",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb",
+      "date": "2026-10-09",
+      "author": "Manoela Alcântara; Pablo Giovanni; Isadora Teixeira",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s9": {
+      "id": "research_R20261009-19-s9",
+      "outlet": "Metrópoles",
+      "title": "\"Farsa\", diz campanha sobre dinheiro de Vorcaro para filme de Lula",
+      "url": "https://www.metropoles.com/brasil/farsa-diz-campanha-sobre-dinheiro-de-vorcaro-para-filme-de-lula",
+      "date": "2026-10-09",
+      "author": "Madu Toledo; Alice Groth",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s10": {
+      "id": "research_R20261009-19-s10",
+      "outlet": "CNN Brasil",
+      "title": "Entenda caso envolvendo áudio de Vorcaro sobre filme de Lula",
+      "url": "https://www.cnnbrasil.com.br/politica/entenda-caso-envolvendo-audio-de-vorcaro-sobre-filme-de-lula/",
+      "date": "2026-10-09",
+      "author": "Maria Paula Giacomelli",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s11": {
+      "id": "research_R20261009-19-s11",
+      "outlet": "SBT News",
+      "title": "PF entregará a Fachin pente-fino de arquivos sobre ministros",
+      "url": "https://sbtnews.sbt.com.br/colunas/coluna-da-carla/pf-entregara-a-fachin-pente-fino-de-arquivos-sobre-ministros",
+      "date": "2026-10-09",
+      "author": "Carla Araújo",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261009-19-s12": {
+      "id": "research_R20261009-19-s12",
+      "outlet": "Veja",
+      "title": "Anexo atribuído a Vorcaro sobre Padilha e fundos de pensão",
+      "url": "https://veja.abril.com.br/brasil/o-que-diz-daniel-vorcaro-sobre-pagamento-de-propina-ao-ministro-alexandre-padilha/",
+      "date": "2026-10-09",
+      "author": "Robson Bonin",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261009-19-s13": {
+      "id": "research_R20261009-19-s13",
+      "outlet": "Veja",
+      "title": "Bialski reconhece voz e ressalva circunstâncias da gravação",
+      "url": "https://veja.abril.com.br/brasil/defesa-de-daniel-vorcaro-confirma-que-audio-sobre-lula-e-do-banqueiro/",
+      "date": "2026-10-09",
+      "author": "Robson Bonin",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261009-19-s14": {
+      "id": "research_R20261009-19-s14",
+      "outlet": "Veja",
+      "title": "Veja esclarece relato sobre áudio e reproduz respostas",
+      "url": "https://veja.abril.com.br/brasil/em-audio-daniel-vorcaro-descreve-reacao-de-investigador-da-pgr-ao-ouvir-sobre-lula/",
+      "date": "2026-10-09",
+      "author": "Robson Bonin",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261009-19-s15": {
+      "id": "research_R20261009-19-s15",
+      "outlet": "Revista Oeste",
+      "title": "Defesa de Vorcaro reconhece voz e ressalva contexto",
+      "url": "https://revistaoeste.com/politica/defesa-de-vorcaro-confirma-que-voz-em-audio-e-do-banqueiro/",
+      "date": "2026-10-09",
+      "author": "Mateus Conte",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s16": {
+      "id": "research_R20261009-19-s16",
+      "outlet": "Gazeta do Povo",
+      "title": "Fachin nega acesso imediato de Fux ao inquérito das fake news",
+      "url": "https://www.gazetadopovo.com.br/republica/fachin-nega-acesso-imediato-de-fux-ao-inquerito-das-fake-news/",
+      "date": "2026-10-09",
+      "author": "Camila Abrão; Renan Ramalho",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s17": {
+      "id": "research_R20261009-19-s17",
+      "outlet": "Gazeta do Povo",
+      "title": "AGU pede resposta à Veja; Padilha solicita perícia",
+      "url": "https://www.gazetadopovo.com.br/republica/agu-cobra-direito-de-resposta-apos-reportagem-sobre-vorcaro-e-filme-de-lula/",
+      "date": "2026-10-09",
+      "author": "Camila Abrão; Renan Ramalho",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s18": {
+      "id": "research_R20261009-19-s18",
+      "outlet": "Gazeta do Povo",
+      "title": "PF pede cooperação para rastrear recursos de Dark Horse",
+      "url": "https://www.gazetadopovo.com.br/republica/pf-cooperacao-eua-rastrear-dinheiro-fundo-dark-horse/",
+      "date": "2026-10-09",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s19": {
+      "id": "research_R20261009-19-s19",
+      "outlet": "Poder360",
+      "title": "Fachin nega acesso de Fux a inquérito das fake news no STF",
+      "url": "https://www.poder360.com.br/poder-justica/fachin-nega-acesso-de-fux-a-inquerito-das-fake-news-no-stf/",
+      "date": "2026-10-09",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s20": {
+      "id": "research_R20261009-19-s20",
+      "outlet": "Poder360",
+      "title": "Alckmin defende apuração de áudio e contesta provas",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/alckmin-diz-que-nao-ha-prova-sobre-vorcaro-e-filme-de-lula/",
+      "date": "2026-10-09",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s21": {
+      "id": "research_R20261009-19-s21",
+      "outlet": "Poder360",
+      "title": "Advogados pedem perícia em áudio atribuído a Vorcaro",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/advogados-pro-lula-pedem-que-pf-apure-se-audio-de-vorcaro-foi-adulterado/",
+      "date": "2026-10-09",
+      "author": "Houldine Nascimento",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s22": {
+      "id": "research_R20261009-19-s22",
+      "outlet": "Poder360",
+      "title": "Lula menciona o Master em ato de Ceilândia",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-chama-flavio-de-socio-do-master-apos-reportagem-da-veja/",
+      "date": "2026-10-09",
+      "author": "Vinicius Filgueira; Julia Amoêdo",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s23": {
+      "id": "research_R20261009-19-s23",
+      "outlet": "Poder360",
+      "title": "Campanha anuncia medidas contra Veja e Vorcaro",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-vai-processar-revista-veja-e-daniel-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Lara Brito",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s24": {
+      "id": "research_R20261009-19-s24",
+      "outlet": "Poder360",
+      "title": "Prerrogativas relata pedido à PF apresentado em 08/10",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/prerrogativas-quer-que-pf-apure-se-ha-interferencia-eleitoral-de-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Houldine Nascimento",
+      "kind": "reportagem"
+    },
+    "research_R20261009-19-s25": {
+      "id": "research_R20261009-19-s25",
+      "outlet": "Polícia Federal",
+      "title": "Nota à imprensa",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-1",
+      "date": "2026-10-09",
+      "author": "Coordenação-Geral de Comunicação Social da Polícia Federal",
+      "kind": "nota oficial"
+    },
+    "research_R20261009-19-s26": {
+      "id": "research_R20261009-19-s26",
+      "outlet": "Folha de S.Paulo",
+      "title": "PF pede cooperação para rastrear recursos de Dark Horse",
+      "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pf-pede-cooperacao-com-os-estados-unidos-para-rastear-dinheiro-de-dark-horse.shtml",
+      "date": "2026-10-09",
+      "author": "José Marques",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261009-19-s27": {
+      "id": "research_R20261009-19-s27",
+      "outlet": "Folha de S.Paulo",
+      "title": "Jarbas e Iter negam intermediação ou aporte de Vorcaro",
+      "url": "https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/10/jarbas-soares-nega-atuacao-em-aporte-para-instituto-de-mendonca.shtml",
+      "date": "2026-10-09",
+      "author": "Frederico Vasconcelos",
+      "kind": "coluna noticiosa"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59541,7 +59968,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-09",
     "researchChats": 95,
-    "researchRecords": 1329,
+    "researchRecords": 1333,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -60949,7 +61376,8 @@ window.PELELEC_DATA = {
         "research_R20261002-19-s6",
         "research_R20261002-19-s7",
         "research_R20261003-01-s4",
-        "research_R20261003-01-s5"
+        "research_R20261003-01-s5",
+        "research_R20261009-19-s11"
       ]
     },
     {
@@ -61729,7 +62157,9 @@ window.PELELEC_DATA = {
       "title": "Veja relata alegações de Vorcaro sobre documentário de Lula e fundos públicos",
       "text": "A Veja atribui a relatos e áudio de Vorcaro alegações de pagamentos para documentário sobre Lula, ao Instituto Lula e de contrapartidas para negócios com fundos públicos. O veículo afirma que um anexo da segunda proposta de colaboração, apresentado à PGR em junho, foi descartado por falta de provas; a defesa sustentou possuir documentação. Lula nega ter pedido, recebido ou autorizado vantagens; Padilha e Noleto negam relação com Vorcaro, e os demais citados não responderam até o fechamento. O áudio e os documentos originais não foram autenticados nesta rodada; o relato não confirma pagamentos ou responsabilidade.",
       "sources": [
-        "research_R20261009-07-s14"
+        "research_R20261009-07-s14",
+        "research_R20261009-19-s12",
+        "research_R20261009-19-s14"
       ]
     },
     {
@@ -61749,7 +62179,8 @@ window.PELELEC_DATA = {
       "text": "Em nota oficial, a PGR afirma que as propostas de colaboração foram apresentadas pela defesa, sem interlocução direta com Vorcaro. Diz que não houve depoimento oral, pois a proposta foi rejeitada, e preserva o sigilo dos motivos informados à defesa. Não autentica gravações ou acusações.",
       "sources": [
         "research_R20261009-13-s5",
-        "research_R20261009-13-s11"
+        "research_R20261009-13-s11",
+        "research_R20261009-19-s10"
       ]
     },
     {
@@ -61759,7 +62190,10 @@ window.PELELEC_DATA = {
       "text": "Metrópoles reproduz nota em que a PF nega depoimento ou documentos com o teor descrito pela Veja e informa que recebeu notícia-crime, encaminhada à área técnica. Os advogados pediram perícia do áudio; o texto não comprova laudo ou adulteração. São manifestações publicadas, sem conferência do expediente original ou autenticação da gravação.",
       "sources": [
         "research_R20261009-13-s19",
-        "research_R20261009-13-s14"
+        "research_R20261009-13-s14",
+        "research_R20261009-19-s25",
+        "research_R20261009-19-s21",
+        "research_R20261009-19-s3"
       ]
     },
     {
@@ -61769,7 +62203,8 @@ window.PELELEC_DATA = {
       "text": "Metrópoles publica nota em que a defesa de Vorcaro repudia supostos anexos divulgados e não confirma origem, autenticidade ou integridade do material; afirma não ter havido depoimento à PF ou PGR nas tratativas e continuar disponível. A defesa de Augusto Lima rejeita os relatos, e o Postalis nega investimentos em ativos do Master. São respostas publicadas às alegações, sem autenticação do áudio ou conclusão sobre os fatos.",
       "sources": [
         "research_R20261009-13-s14",
-        "research_R20261009-13-s8"
+        "research_R20261009-13-s8",
+        "research_R20261009-19-s2"
       ]
     },
     {
@@ -61792,7 +62227,9 @@ window.PELELEC_DATA = {
         "research_R20261009-13-s4",
         "research_R20261009-13-s9",
         "research_R20261009-13-s10",
-        "research_R20261009-13-s13"
+        "research_R20261009-13-s13",
+        "research_R20261009-19-s9",
+        "research_R20261009-19-s23"
       ]
     },
     {
@@ -61811,7 +62248,9 @@ window.PELELEC_DATA = {
       "title": "CNN relata notícia de fato apresentada por advogados do Prerrogativas",
       "text": "CNN relata que Marco Aurélio Carvalho e Reinaldo Almeida apresentaram à PF em 08/10 notícia de fato sobre uma possível gravação e tratativas para entrevista de Vorcaro. Os advogados alegam finalidade eleitoral, mas dizem não ter acesso ao material e pedem sua verificação. O requerimento original não foi conferido; a reportagem não comprova a articulação alegada nem a identidade desse expediente com a notícia-crime recebida pela PF em 09/10. A CNN buscava os citados.",
       "sources": [
-        "research_R20261009-13-s12"
+        "research_R20261009-13-s12",
+        "research_R20261009-19-s24",
+        "research_R20261009-19-s4"
       ]
     },
     {
@@ -61831,6 +62270,109 @@ window.PELELEC_DATA = {
       "text": "Times relata que Gilmar propôs nova análise pelo STF de ações sobre a tabela do SUS e relacionou a discussão a preocupações com créditos judiciais no caso Master. R$ 24 bilhões anuais são uma estimativa de impacto da União, não dívida reconhecida. Hospitais alegam remuneração insuficiente; o texto ressalva que a concentração no TRF-1 não comprova escolha artificial de jurisdição. A manifestação original não foi conferida, nem constitui decisão de reajuste; não há resposta específica dos investigados reproduzida.",
       "sources": [
         "research_R20261009-13-s17"
+      ]
+    },
+    {
+      "id": "t200",
+      "date": "2026-10-09",
+      "title": "Metrópoles relata conversa sobre votação do Master e publica negativa de Edinho",
+      "text": "Metrópoles, repercutindo o Fatos On-line, relata mensagens de 19/08/2025 em que Vorcaro diz a Paulo Henrique Costa ter avisado Edinho sobre a votação da compra do Master pelo BRB. Edinho nega conhecer o diálogo e contesta o relato. A matéria não comprova sua intervenção; o original não foi conferido.",
+      "sources": [
+        "research_R20261009-19-s5"
+      ]
+    },
+    {
+      "id": "t201",
+      "date": "2026-10-09",
+      "title": "Metrópoles relata cadeira reservada e tratativas de Warde",
+      "text": "Metrópoles relata foto enviada por Warde em 06/06/2025 de cadeira reservada a Vorcaro num evento de Lula em Paris. Mensagens de 04/06 sugerem alternativa de encontro em Brasília, sem confirmar realização. Warde e Secom não responderam ao veículo. A imagem e a extração original não foram autenticadas.",
+      "sources": [
+        "research_R20261009-19-s6"
+      ]
+    },
+    {
+      "id": "t202",
+      "date": "2026-10-09",
+      "title": "Metrópoles relata orientações sobre documentos da Tirreno",
+      "text": "Metrópoles atribui a relatório da PF mensagens de 23–24/07/2025 em que Vorcaro discute prejuízo e a apresentação de documentos da Tirreno ao Banco Central com Ângelo Silva. A matéria não reproduz resposta específica dos citados. O relatório original não foi conferido; o relato não equivale a conclusão judicial.",
+      "sources": [
+        "research_R20261009-19-s7"
+      ]
+    },
+    {
+      "id": "t203",
+      "date": "2026-10-09",
+      "title": "Metrópoles noticia análise da PF sobre Ibaneis e BRB",
+      "text": "Metrópoles atribui a relatório da PF enviado ao STF em 28/09 análise de participação de Ibaneis em decisões do BRB e tratativas com o Master. O veículo relata retirada do sigilo em 09/10 e diz aguardar a defesa. A peça e a decisão originais não foram conferidas. A negativa anterior de ingerência, já no acervo, permanece como contraponto.",
+      "sources": [
+        "research_R20261009-19-s8"
+      ]
+    },
+    {
+      "id": "t204",
+      "date": "2026-10-09",
+      "title": "Bialski reconhece voz e ressalva circunstâncias da gravação",
+      "text": "Veja e Oeste publicam declaração de Daniel Bialski em que ele reconhece a voz de Vorcaro em um dos áudios, mas afirma desconhecer quando e em que circunstâncias foi gravado. Diz que o cliente não lhe relatou o tema e que só ele poderá confirmar os fatos narrados. São declarações do advogado; não constituem perícia da gravação ou comprovação dos pagamentos alegados.",
+      "sources": [
+        "research_R20261009-19-s13",
+        "research_R20261009-19-s15"
+      ]
+    },
+    {
+      "id": "t205",
+      "date": "2026-10-09",
+      "title": "Gazeta relata pedido de resposta da AGU e perícia solicitada por Padilha",
+      "text": "Gazeta noticia que a AGU pediu direito de resposta à Veja após solicitações da Casa Civil e de Padilha. A Casa Civil contesta as alegações de vantagens a Lula; Padilha nega relação com Vorcaro e solicita perícia do áudio. O texto não demonstra concessão de resposta, laudo concluído ou decisão judicial; os expedientes originais não foram conferidos.",
+      "sources": [
+        "research_R20261009-19-s17"
+      ]
+    },
+    {
+      "id": "t206",
+      "date": "2026-10-09",
+      "title": "Fachin recusa acesso imediato de Fux ao inquérito das fake news, segundo imprensa",
+      "text": "Gazeta e Poder360 relatam que Fachin recusou acesso imediato de Fux ao inquérito das fake news enquanto a Presidência examina 104 procedimentos vinculados. A resposta reproduzida preserva o sigilo e os atos anteriores, prevê etapas na PF e PGR antes da conclusão e permite acesso aos outros processos públicos. O ofício original não foi conferido; a notícia não representa arquivamento já realizado, anulação de provas ou julgamento do pedido do PP.",
+      "sources": [
+        "research_R20261009-19-s16",
+        "research_R20261009-19-s19"
+      ]
+    },
+    {
+      "id": "t207",
+      "date": "2026-10-09",
+      "title": "Imprensa relata pedido da PF para rastrear recursos de Dark Horse nos EUA",
+      "text": "Folha e Gazeta relatam que a PF encaminhou em 09/10 ao DRCI pedido de cooperação com os EUA para rastrear o destino de recursos do fundo Havengate ligados a Dark Horse. A Folha registra que Flávio nega irregularidades e afirma financiamento privado. O requerimento original e a resposta americana não foram conferidos; pedido de rastreamento não demonstra destino final ou responsabilidade dos investigados.",
+      "sources": [
+        "research_R20261009-19-s26",
+        "research_R20261009-19-s18"
+      ]
+    },
+    {
+      "id": "t208",
+      "date": "2026-10-09",
+      "title": "Alckmin defende apuração do áudio e contesta provas",
+      "text": "Poder360 registra entrevista de Alckmin à TMC em que ele defende investigar o áudio atribuído a Vorcaro e contesta a existência de provas sobre o financiamento do filme de Lula. É uma manifestação do vice-presidente, sem autenticação do áudio ou conclusão judicial sobre os relatos.",
+      "sources": [
+        "research_R20261009-19-s20"
+      ]
+    },
+    {
+      "id": "t209",
+      "date": "2026-10-09",
+      "title": "Folha publica negativas de Jarbas e do Iter sobre aporte atribuído a Vorcaro",
+      "text": "Folha publica negativa de Jarbas Soares de que tenha intermediado recursos de Vorcaro para o Iter. O instituto também nega aporte ou vínculo com o banqueiro e atribui o investimento a contrato com a Cedro em abril de 2024, sem participação de Jarbas na negociação; Mendonça não comentou. O contrato e registros originais não foram conferidos, e a reportagem não comprova a atribuição contestada.",
+      "sources": [
+        "research_R20261009-19-s27"
+      ]
+    },
+    {
+      "id": "t210",
+      "date": "2026-10-09",
+      "title": "Lula menciona Master em ato de campanha em Ceilândia",
+      "text": "Agência Brasil e Poder360 registram que Lula, em ato de campanha em Ceilândia em 09/10, criticou sócios do Master e parentes de Vorcaro ao falar de adversários. Poder360 recupera a versão de Flávio de financiamento privado de Dark Horse e a negativa de contrapartidas. São manifestações eleitorais; não comprovam relações societárias ou ilícitos dos mencionados.",
+      "sources": [
+        "research_R20261009-19-s1",
+        "research_R20261009-19-s22"
       ]
     }
   ],
