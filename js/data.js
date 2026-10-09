@@ -42692,8 +42692,18 @@ window.PELELEC_DATA = {
       "unreadCount": 0,
       "contextSummary": "Aproximou Vorcaro do gabinete de Wagner em 2024, segundo a PF.",
       "originalContext": true,
-      "responseSources": [],
-      "outroLado": [],
+      "responseSources": [
+        "research_R20261009-07-s1"
+      ],
+      "outroLado": [
+        {
+          "name": "Guilherme Henrique Sodré Martins",
+          "text": "Não respondeu à Folha; Wagner nega relação e atuação pelo Master.",
+          "sources": [
+            "research_R20261009-07-s1"
+          ]
+        }
+      ],
       "thirdParty": false,
       "isGroup": false,
       "members": [
@@ -42771,6 +42781,40 @@ window.PELELEC_DATA = {
           "context": "Relatado pelo Poder360 a partir da investigação da PF sobre Wagner (sigilo retirado em 30/7/2026). Na resposta, segundo o Poder360, Vorcaro propôs visita a uma galeria.",
           "documentRef": "",
           "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100907-m4",
+          "researchId": "R2026100907-m4",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-07",
+          "dateLabel": "2024-07",
+          "time": "",
+          "sender": "them",
+          "speaker": "Guilherme Henrique Sodré Martins",
+          "text": "Enviou informações sobre obras de Guignard e Portinari.",
+          "sources": [
+            "research_R20261009-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-07-s1"
+            ],
+            "checked": [
+              "R20261009-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado; dia e horário não informados.",
+          "documentRef": "",
+          "datePrecision": "month",
           "variants": [],
           "originalLanguage": true
         },
@@ -50691,6 +50735,148 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "isadora_alencar",
+      "name": "Isadora Alencar",
+      "role": "Empresária da Ecoari",
+      "category": "master",
+      "avatarInitials": "IA",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261009-07-s1"
+      ],
+      "outroLado": [
+        {
+          "name": "Isadora Alencar",
+          "text": "Afirma empréstimo regular e conversas profissionais; aquisição não concretizada.",
+          "sources": [
+            "research_R20261009-07-s1"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Isadora Alencar"
+      ],
+      "source": {
+        "outlet": "Folha de S.Paulo",
+        "date": "2026-10-09",
+        "headline": "Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner",
+        "link": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+      },
+      "messages": [
+        {
+          "id": "r-R2026100907-m1",
+          "researchId": "R2026100907-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-09",
+          "dateLabel": "2024-09",
+          "time": "",
+          "sender": "them",
+          "speaker": "Isadora Alencar",
+          "text": "Solicitou reunião sobre uma possível aquisição da Ecoari.",
+          "sources": [
+            "research_R20261009-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-07-s1"
+            ],
+            "checked": [
+              "R20261009-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado; dia e horário não informados.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100907-m2",
+          "researchId": "R2026100907-m2",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-09",
+          "dateLabel": "2024-09",
+          "time": "",
+          "sender": "them",
+          "speaker": "Isadora Alencar",
+          "text": "Relatou abertura de conta, ainda sem contrato assinado.",
+          "sources": [
+            "research_R20261009-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-07-s1"
+            ],
+            "checked": [
+              "R20261009-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado; dia e horário não informados.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026100907-m3",
+          "researchId": "R2026100907-m3",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024-09",
+          "dateLabel": "2024-09",
+          "time": "",
+          "sender": "them",
+          "speaker": "Isadora Alencar",
+          "text": "Informou assinatura de contrato e repasse pelo banco.",
+          "sources": [
+            "research_R20261009-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261009-07-s1"
+            ],
+            "checked": [
+              "R20261009-07-s1"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado; dia e horário não informados.",
+          "documentRef": "",
+          "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -50700,10 +50886,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1376,
+      "totalMessagesRecovered": 1380,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 100
+      "sensitiveContactsIdentified": 101
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -58864,6 +59050,150 @@ window.PELELEC_DATA = {
       "author": "Redação UOL; Fernanda Bassi (JSON-LD)",
       "kind": "reportagem"
     },
+    "research_R20261009-07-s1": {
+      "id": "research_R20261009-07-s1",
+      "outlet": "Folha de S.Paulo",
+      "title": "Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml",
+      "date": "2026-10-09",
+      "author": "José Marques; João Gabriel",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s2": {
+      "id": "research_R20261009-07-s2",
+      "outlet": "CNN Brasil",
+      "title": "Caso Master completa três meses sem operações em meio à crise e incertezas",
+      "url": "https://www.cnnbrasil.com.br/blogs/teo-cury/politica/caso-master-completa-tres-meses-sem-operacoes-em-meio-a-crise-e-incertezas/",
+      "date": "2026-10-09",
+      "author": "Teo Cury",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s3": {
+      "id": "research_R20261009-07-s3",
+      "outlet": "CNN Brasil",
+      "title": "Vorcaro pede a Fachin que libere pedido de liberdade para Mendonça analisar",
+      "url": "https://www.cnnbrasil.com.br/politica/vorcaro-pede-a-fachin-que-libere-pedido-de-liberdade-para-mendonca-analisar/",
+      "date": "2026-10-08",
+      "author": "Débora Bergamasco e Jonatas Martins",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s4": {
+      "id": "research_R20261009-07-s4",
+      "outlet": "CNN Brasil",
+      "title": "Senado defende sigilo de visitas de Vorcaro e Viviane Moraes",
+      "url": "https://www.cnnbrasil.com.br/politica/senado-defende-sigilo-de-visitas-de-vorcaro-e-viviane-moraes/",
+      "date": "2026-10-08",
+      "author": "Helena Prestes; supervisão de Mayara da Paz",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s5": {
+      "id": "research_R20261009-07-s5",
+      "outlet": "CNN Brasil",
+      "title": "Galípolo diz que \"esgotou palavrões\" em cobranças no BC sobre o Master",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/galipolo-diz-que-esgotou-palavroes-em-cobrancas-no-bc-sobre-o-master/",
+      "date": "2026-10-08",
+      "author": "Matheus Teixeira",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s6": {
+      "id": "research_R20261009-07-s6",
+      "outlet": "Metrópoles",
+      "title": "Liquidante liga mansões de Vorcaro nos EUA a lavagem de R$ 2 bilhões",
+      "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/liquidante-liga-mansoes-de-vorcaro-nos-eua-a-lavagem-de-r-2-bilhoes",
+      "date": "2026-10-09",
+      "author": "Demétrio Vecchioli",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s7": {
+      "id": "research_R20261009-07-s7",
+      "outlet": "Gazeta do Povo",
+      "title": "AGU pede ao STF suspensão de precatórios de usinas que podem custar R$ 255 bilhões",
+      "url": "https://www.gazetadopovo.com.br/economia/agu-pede-ao-stf-suspensao-de-precatorios-de-usinas-que-podem-custar-r-255-bilhoes/",
+      "date": "2026-10-09",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s8": {
+      "id": "research_R20261009-07-s8",
+      "outlet": "Gazeta do Povo",
+      "title": "Senado pede a Fux que barre acesso a registros de visitas de Vorcaro e mulher de Moraes",
+      "url": "https://www.gazetadopovo.com.br/republica/senado-pede-a-fux-que-barre-acesso-a-registros-de-visitas-de-vorcaro-e-mulher-de-moraes/",
+      "date": "2026-10-08",
+      "author": "Camila Abrão",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s9": {
+      "id": "research_R20261009-07-s9",
+      "outlet": "Revista Oeste",
+      "title": "Senado se recusa a revelar acessos de Vorcaro, mulher de Moraes e Lulinha",
+      "url": "https://revistaoeste.com/politica/senado-guilherme-kilter-acessos-vorcaro/",
+      "date": "2026-10-08",
+      "author": "Matheus Santos",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s10": {
+      "id": "research_R20261009-07-s10",
+      "outlet": "Revista Oeste",
+      "title": "Galípolo atribui a servidores do BC a demora na fiscalização do Master",
+      "url": "https://revistaoeste.com/politica/galipolo-atribui-aos-dois-servidores-do-bc-a-demora-na-fiscalizacao-do-master/",
+      "date": "2026-10-08",
+      "author": "Eugenio Goussinsky",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s11": {
+      "id": "research_R20261009-07-s11",
+      "outlet": "Revista Oeste",
+      "title": "Reunião entre Moraes e cúpula da PF repercute entre delegados",
+      "url": "https://revistaoeste.com/politica/reuniao-entre-moraes-e-cupula-da-pf-repercute-entre-delegados/",
+      "date": "2026-10-08",
+      "author": "Victória Batalha",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s12": {
+      "id": "research_R20261009-07-s12",
+      "outlet": "O Liberal",
+      "title": "Vorcaro teria encomendado ataque hacker para apagar dados de celular",
+      "url": "https://www.oliberal.com/politica/vorcaro-teria-encomendado-ataque-hacker-para-apagar-dados-de-celular-1.1179108",
+      "date": "2026-10-08",
+      "author": "O Liberal com informações da AE",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s13": {
+      "id": "research_R20261009-07-s13",
+      "outlet": "Diário do Centro do Mundo",
+      "title": "Vorcaro deu ordem a interlocutor de Flávio Bolsonaro para ataque hacker na PF",
+      "url": "https://www.diariodocentrodomundo.com.br/vorcaro-deu-ordem-a-interlocutor-de-flavio-bolsonaro-para-ataque-hacker-na-pf/",
+      "date": "2026-10-08",
+      "author": "Laura Jordão",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s14": {
+      "id": "research_R20261009-07-s14",
+      "outlet": "VEJA",
+      "title": "Vorcaro conta que liberou dinheiro para filme sobre Lula por negócios no governo",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo/",
+      "date": "2026-10-09",
+      "author": "Robson Bonin",
+      "kind": "reportagem"
+    },
+    "research_R20261009-07-s15": {
+      "id": "research_R20261009-07-s15",
+      "outlet": "Folha de S.Paulo",
+      "title": "Prerrogativas diz que Vorcaro deu falso depoimento contra campanha de Lula e aciona PF",
+      "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/prerrogativas-diz-que-vorcaro-deu-falso-depoimento-contra-campanha-de-lula-e-aciona-pf.shtml",
+      "date": "2026-10-08",
+      "author": "Fábio Zanini",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261009-07-s16": {
+      "id": "research_R20261009-07-s16",
+      "outlet": "ABCdoABC",
+      "title": "Prerrogativas acusa Vorcaro de falso depoimento contra Lula",
+      "url": "https://abcdoabc.com.br/prerrogativas-acusa-vorcaro-falso-depoimento/",
+      "date": "2026-10-09",
+      "author": "Thiago Antunes FolhaPress",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -58874,9 +59204,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-08",
-    "researchChats": 94,
-    "researchRecords": 1321,
+    "updated": "2026-10-09",
+    "researchChats": 95,
+    "researchRecords": 1325,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -60871,7 +61201,8 @@ window.PELELEC_DATA = {
       "text": "Metrópoles noticia que Andrei Rodrigues e outros dirigentes da PF estiveram com Moraes em 06/10, em encontro que, segundo a coluna, não constava nas agendas de Andrei e Moraes e teve pauta não divulgada. O texto menciona o caso Master como contexto, sem demonstrar que foi assunto da reunião. Recupera uma negativa anterior de Andrei sobre monitoramentos ilícitos, mas não reproduz manifestação específica dos participantes sobre o encontro.",
       "sources": [
         "research_R20261007-13-s2",
-        "research_R20261008-13-s4"
+        "research_R20261008-13-s4",
+        "research_R20261009-07-s11"
       ]
     },
     {
@@ -60971,7 +61302,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261008-19-s1",
         "research_R20261008-19-s2",
-        "research_R20261009-01-s3"
+        "research_R20261009-01-s3",
+        "research_R20261009-07-s3"
       ]
     },
     {
@@ -60982,7 +61314,10 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261008-19-s3",
         "research_R20261008-19-s5",
-        "research_R20261009-01-s2"
+        "research_R20261009-01-s2",
+        "research_R20261009-07-s4",
+        "research_R20261009-07-s8",
+        "research_R20261009-07-s9"
       ]
     },
     {
@@ -60991,7 +61326,9 @@ window.PELELEC_DATA = {
       "title": "Folhapress relata cobranças de Galípolo e contestação de Belline",
       "text": "Política Livre/Folhapress relata que Galípolo descreveu à PF, como testemunha em 06/10, dificuldades para obter análises do Master e a criação de outra equipe de supervisão. A defesa de Belline contesta a existência de indícios concretos de irregularidade em sua atuação; o texto registra que ele e Paulo Sérgio negam favorecimento ao banqueiro. A transcrição original não foi conferida e o depoimento não estabelece responsabilidade dos investigados.",
       "sources": [
-        "research_R20261008-19-s6"
+        "research_R20261008-19-s6",
+        "research_R20261009-07-s5",
+        "research_R20261009-07-s10"
       ]
     },
     {
@@ -61009,7 +61346,64 @@ window.PELELEC_DATA = {
       "title": "Jovem Pan relata pedido atribuído a Vorcaro para apagar dados do iCloud",
       "text": "Jovem Pan/Estadão Conteúdo, repercutindo a piauí, atribui a depoimento de Thiago Santos à PF um pedido de Vorcaro, intermediado por Thiago Miranda, para apagar dados do iCloud durante a prisão domiciliar, em janeiro, sem ano explícito na passagem. O texto relata tentativa de acesso interrompida por policiais; o depoimento original e os registros técnicos não foram conferidos. A reportagem informa que as defesas de Vorcaro e Miranda foram procuradas sem resposta específica e recupera uma negativa geral de ilegalidade.",
       "sources": [
-        "research_R20261009-01-s1"
+        "research_R20261009-01-s1",
+        "research_R20261009-07-s12",
+        "research_R20261009-07-s13"
+      ]
+    },
+    {
+      "id": "t185",
+      "date": "2026-10-09",
+      "title": "Folha relata tratativas da Ecoari e conversas sobre arte",
+      "text": "Folha relata tratativas da Ecoari e alertas da B3 ao Coaf sobre ativos incompatíveis com o porte da empresa, além de negociações de arte com Guilherme Sodré. Isadora afirma empréstimo regular; a defesa de Wagner nega relação com Vorcaro. Otto e Sodré não responderam; os documentos originais não foram conferidos.",
+      "sources": [
+        "research_R20261009-07-s1"
+      ]
+    },
+    {
+      "id": "t186",
+      "date": "2026-10-09",
+      "title": "CNN faz balanço de três meses desde última operação do caso Master",
+      "text": "A CNN relata que em 09/10 completavam-se três meses desde a última operação de busca e apreensão da PF no caso Master, realizada em 09/07. O blog atribui a mudança de ritmo à crise no STF e descreve incerteza sobre a relatoria, com hipóteses de fontes anônimas, sem decisão nova confirmada. A matéria não reproduz manifestação específica da PF, do STF ou da defesa sobre esse balanço.",
+      "sources": [
+        "research_R20261009-07-s2"
+      ]
+    },
+    {
+      "id": "t187",
+      "date": "2026-10-09",
+      "title": "Metrópoles relata pedido do liquidante sobre imóveis nos EUA",
+      "text": "Metrópoles atribui ao liquidante do Master um pedido apresentado em 07/10 ao Tribunal de Falências do Sul da Flórida para indisponibilizar três imóveis, relacionando aquisições a transferências de US$ 430 milhões do banco para um fundo nas Bahamas. São alegações do liquidante; a peça original e eventual decisão não foram conferidas, e o texto diz que os trechos públicos não detalham o destino de todo o valor. A defesa de Vorcaro foi procurada e não respondeu.",
+      "sources": [
+        "research_R20261009-07-s6"
+      ]
+    },
+    {
+      "id": "t188",
+      "date": "2026-10-09",
+      "title": "Gazeta relata pedido da AGU para suspender pagamentos de precatórios",
+      "text": "A Gazeta relata que a AGU pediu ao STF, em 08/10, a suspensão de ações e pagamentos de precatórios do setor sucroalcooleiro, em tema que o veículo associa a uma frente de investigação do Master. A estimativa de R$ 255,3 bilhões é atribuída ao governo; não representa perda confirmada. O texto não informa decisão sobre o pedido nem reproduz manifestação específica das empresas ou da defesa de Vorcaro. A petição original não foi conferida, e a notícia não demonstra responsabilidade individual.",
+      "sources": [
+        "research_R20261009-07-s7"
+      ]
+    },
+    {
+      "id": "t189",
+      "date": "2026-10-09",
+      "title": "Veja relata alegações de Vorcaro sobre documentário de Lula e fundos públicos",
+      "text": "A Veja atribui a relatos e áudio de Vorcaro alegações de pagamentos para documentário sobre Lula, ao Instituto Lula e de contrapartidas para negócios com fundos públicos. O veículo afirma que um anexo da segunda proposta de colaboração, apresentado à PGR em junho, foi descartado por falta de provas; a defesa sustentou possuir documentação. Lula nega ter pedido, recebido ou autorizado vantagens; Padilha e Noleto negam relação com Vorcaro, e os demais citados não responderam até o fechamento. O áudio e os documentos originais não foram autenticados nesta rodada; o relato não confirma pagamentos ou responsabilidade.",
+      "sources": [
+        "research_R20261009-07-s14"
+      ]
+    },
+    {
+      "id": "t190",
+      "date": "2026-10-08",
+      "title": "Prerrogativas anuncia intenção de pedir apuração à PF",
+      "text": "A Folha/Painel atribui a Marco Aurélio Carvalho, coordenador do Prerrogativas, o anúncio de que pedirá à PF apuração de relatos recebidos sobre uma suposta declaração de Vorcaro acerca de financiamento de documentário de Lula, com promessa de benefícios penais. Carvalho nega aporte de Vorcaro ao filme. A notícia não demonstra que o pedido tenha sido protocolado, que o depoimento ou os benefícios tenham ocorrido, e não reproduz resposta específica da PF ou da defesa. Não está demonstrado que o relato seja o mesmo anexo citado pela Veja ou uma resposta à reportagem de 09/10.",
+      "sources": [
+        "research_R20261009-07-s15",
+        "research_R20261009-07-s16"
       ]
     }
   ],
