@@ -13952,7 +13952,9 @@ window.PELELEC_DATA = {
         "research_B1-s67",
         "research_H-s27",
         "research_R20261003-07-s5",
-        "research_R20261009-19-s26"
+        "research_R20261009-19-s26",
+        "research_R20261010-01-s1",
+        "research_R20261010-01-s8"
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fl%C3%A1vio_Bolsonaro.jpg",
       "photoCredit": "U.S. Consulate in Rio · Domínio público (governo dos EUA)",
@@ -14045,6 +14047,14 @@ window.PELELEC_DATA = {
           "text": "Folha registra que Flávio nega irregularidades e afirma financiamento privado de Dark Horse.",
           "sources": [
             "research_R20261009-19-s26"
+          ]
+        },
+        {
+          "name": "Flávio Bolsonaro",
+          "text": "CNN e Poder360 procuraram a campanha ou assessoria de Flávio sobre a declaração de Padilha; aguardavam resposta. A versão anterior afirma patrocínio privado e nega irregularidades.",
+          "sources": [
+            "research_R20261010-01-s1",
+            "research_R20261010-01-s8"
           ]
         }
       ],
@@ -49471,6 +49481,7 @@ window.PELELEC_DATA = {
         "research_R20261003-01-s1",
         "research_R20261009-13-s6",
         "research_R20261009-19-s6",
+        "research_R20261010-01-s7",
         "research_R20261007-19-s3"
       ],
       "outroLado": [
@@ -49500,6 +49511,13 @@ window.PELELEC_DATA = {
           "text": "Metrópoles procurou Warde e a Secom; ambos não responderam até a publicação.",
           "sources": [
             "research_R20261009-19-s6"
+          ]
+        },
+        {
+          "name": "Walfrido Warde",
+          "text": "Warde afirma que o jantar não ocorreu e que Boulos e Vorcaro nunca se encontraram.",
+          "sources": [
+            "research_R20261010-01-s7"
           ]
         },
         {
@@ -49655,6 +49673,74 @@ window.PELELEC_DATA = {
           "context": "Fragmento literal de Vorcaro a Walfrido Warde. O UOL informa somente agosto de 2024. Roberta Rangel nega ter contratado com Vorcaro ou ter conflito de interesse e diz ter atuado em ações contra ele, seu pai e empresas. Trata-se de reclamação do remetente, não fala de Rangel ou de Toffoli.",
           "documentRef": "",
           "datePrecision": "month",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026101001-m1",
+          "researchId": "R2026101001-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024",
+          "dateLabel": "2024",
+          "time": "",
+          "sender": "them",
+          "speaker": "Walfrido Warde",
+          "text": "Solicitou reservar o dia 8 para um jantar com Boulos.",
+          "sources": [
+            "research_R20261010-01-s7"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261010-01-s7"
+            ],
+            "checked": [
+              "R20261010-01-s7"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado pelo Antagonista; mensagem de 2024, sem dia ou horário. O jantar foi previsto para 08/04, mas Warde nega sua realização. Original não conferido.",
+          "documentRef": "",
+          "datePrecision": "year",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026101001-m2",
+          "researchId": "R2026101001-m2",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2024",
+          "dateLabel": "2024",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Concordou com o jantar proposto para o dia 8.",
+          "sources": [
+            "research_R20261010-01-s7"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "conferida",
+            "found_in": [
+              "R20261010-01-s7"
+            ],
+            "checked": [
+              "R20261010-01-s7"
+            ]
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo publicado pelo Antagonista; mensagem de 2024, sem dia ou horário. O jantar foi previsto para 08/04, mas Warde nega sua realização. Original não conferido.",
+          "documentRef": "",
+          "datePrecision": "year",
           "variants": [],
           "originalLanguage": true
         },
@@ -51234,7 +51320,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1388,
+      "totalMessagesRecovered": 1390,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 101
@@ -59956,6 +60042,105 @@ window.PELELEC_DATA = {
       "author": "Frederico Vasconcelos",
       "kind": "coluna noticiosa"
     },
+    "research_R20261010-01-s1": {
+      "id": "research_R20261010-01-s1",
+      "outlet": "CNN Brasil",
+      "title": "Padilha contesta áudio e acusa estratégia eleitoral",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/padilha-diz-que-audio-de-vorcaro-sobre-lula-e-mentira-e-narrativa-absurda/",
+      "date": "2026-10-09",
+      "author": "Poliana Santos",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s2": {
+      "id": "research_R20261010-01-s2",
+      "outlet": "CNN Brasil",
+      "title": "Campanha de Lula apresenta medidas contra áudio atribuído a Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-apresenta-pacote-de-acoes-contra-suposto-audio-de-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Danilo Moliterno",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s3": {
+      "id": "research_R20261010-01-s3",
+      "outlet": "Folha de S.Paulo",
+      "title": "Equipe de Oliver Stone nega recursos de Vorcaro",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/oliver-stone-afirma-que-filme-sobre-lula-nunca-recebeu-dinheiro-de-vorcaro.shtml",
+      "date": "2026-10-09",
+      "author": "Mônica Bergamo",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s4": {
+      "id": "research_R20261010-01-s4",
+      "outlet": "CNN Brasil",
+      "title": "CNN relata divergências na defesa sobre o áudio",
+      "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/audio-de-vorcaro-sobre-lula-racha-defesa-do-ex-dono-do-master/",
+      "date": "2026-10-09",
+      "author": "Caio Junqueira",
+      "kind": "coluna noticiosa"
+    },
+    "research_R20261010-01-s5": {
+      "id": "research_R20261010-01-s5",
+      "outlet": "CNN Brasil",
+      "title": "CNN reúne alegações e negativas sobre filme de Lula",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/",
+      "date": "2026-10-09",
+      "author": "Vitor Oliveira",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s6": {
+      "id": "research_R20261010-01-s6",
+      "outlet": "Gazeta do Povo",
+      "title": "Gazeta reúne contestações sobre alegado financiamento de filme de Lula",
+      "url": "https://www.gazetadopovo.com.br/republica/denuncia-de-financiamento-de-vorcaro-a-filme-de-lula-nao-passou-pela-pf-mas-deve-ser-investigada/",
+      "date": "2026-10-09",
+      "author": "Juliet Manfrin",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s7": {
+      "id": "research_R20261010-01-s7",
+      "outlet": "O Antagonista",
+      "title": "O que Vorcaro queria com Boulos?",
+      "url": "https://oantagonista.com.br/brasil/o-que-vorcaro-queria-com-boulos/",
+      "date": "2026-10-09",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s8": {
+      "id": "research_R20261010-01-s8",
+      "outlet": "Poder360",
+      "title": "Padilha sugere interesse eleitoral de Vorcaro",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/padilha-sugere-que-vorcaro-atua-para-beneficiar-flavio-bolsonaro/",
+      "date": "2026-10-09",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s9": {
+      "id": "research_R20261010-01-s9",
+      "outlet": "O Antagonista",
+      "title": "PGR nega contato direto e depoimento oral de Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/pgr-diz-que-rejeitou-proposta-de-delacao-de-vorcaro-e-nega-contato-direto/",
+      "date": "2026-10-09",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s10": {
+      "id": "research_R20261010-01-s10",
+      "outlet": "O Antagonista",
+      "title": "Prerrogativas pede apuração de possível articulação eleitoral",
+      "url": "https://oantagonista.com.br/brasil/prerrogativas-aciona-pf-por-suposta-articulacao-de-vorcaro-com-campanha-de-flavio/",
+      "date": "2026-10-09",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "research_R20261010-01-s11": {
+      "id": "research_R20261010-01-s11",
+      "outlet": "Jovem Pan",
+      "title": "Jovem Pan repercute alegações sobre filme de Lula",
+      "url": "https://jovempan.com.br/politica/vorcaro-diz-ter-pago-r-30-mi-para-filme-sobre-lula-em-troca-de-negocios-segundo-revista/",
+      "date": "2026-10-09",
+      "author": "Jovem Pan",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -59968,7 +60153,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-09",
     "researchChats": 95,
-    "researchRecords": 1333,
+    "researchRecords": 1335,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -62159,7 +62344,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-07-s14",
         "research_R20261009-19-s12",
-        "research_R20261009-19-s14"
+        "research_R20261009-19-s14",
+        "research_R20261010-01-s11"
       ]
     },
     {
@@ -62180,7 +62366,9 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-13-s5",
         "research_R20261009-13-s11",
-        "research_R20261009-19-s10"
+        "research_R20261009-19-s10",
+        "research_R20261010-01-s5",
+        "research_R20261010-01-s9"
       ]
     },
     {
@@ -62193,7 +62381,8 @@ window.PELELEC_DATA = {
         "research_R20261009-13-s14",
         "research_R20261009-19-s25",
         "research_R20261009-19-s21",
-        "research_R20261009-19-s3"
+        "research_R20261009-19-s3",
+        "research_R20261010-01-s6"
       ]
     },
     {
@@ -62204,7 +62393,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-13-s14",
         "research_R20261009-13-s8",
-        "research_R20261009-19-s2"
+        "research_R20261009-19-s2",
+        "research_R20261010-01-s5"
       ]
     },
     {
@@ -62250,7 +62440,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-13-s12",
         "research_R20261009-19-s24",
-        "research_R20261009-19-s4"
+        "research_R20261009-19-s4",
+        "research_R20261010-01-s10"
       ]
     },
     {
@@ -62315,7 +62506,8 @@ window.PELELEC_DATA = {
       "text": "Veja e Oeste publicam declaração de Daniel Bialski em que ele reconhece a voz de Vorcaro em um dos áudios, mas afirma desconhecer quando e em que circunstâncias foi gravado. Diz que o cliente não lhe relatou o tema e que só ele poderá confirmar os fatos narrados. São declarações do advogado; não constituem perícia da gravação ou comprovação dos pagamentos alegados.",
       "sources": [
         "research_R20261009-19-s13",
-        "research_R20261009-19-s15"
+        "research_R20261009-19-s15",
+        "research_R20261010-01-s4"
       ]
     },
     {
@@ -62373,6 +62565,43 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-19-s1",
         "research_R20261009-19-s22"
+      ]
+    },
+    {
+      "id": "t211",
+      "date": "2026-10-09",
+      "title": "Padilha contesta áudio e sugere interesse eleitoral de Vorcaro",
+      "text": "CNN e Poder360 relatam vídeo em que Padilha contesta o áudio atribuído a Vorcaro e sugere interesse em favorecer Flávio. O senador não respondeu sobre a declaração até a publicação; sua versão anterior de patrocínio privado de Dark Horse e negativa de irregularidades é preservada. São manifestações eleitorais, sem comprovação da coordenação sugerida ou autenticação do áudio.",
+      "sources": [
+        "research_R20261010-01-s1",
+        "research_R20261010-01-s8"
+      ]
+    },
+    {
+      "id": "t212",
+      "date": "2026-10-09",
+      "title": "CNN noticia cinco medidas jurídicas contra áudio atribuído a Vorcaro",
+      "text": "A CNN relata que a campanha de Lula apresentou duas ações no TSE, dois pedidos à PF e uma ação indenizatória no DF, alegando falsidade e indícios de edição do áudio. São pedidos de retirada, resposta, investigação e perícia, sem decisão ou laudo demonstrados. A reportagem registra que PF, PGR e defesa não confirmaram autenticidade; os expedientes originais não foram conferidos.",
+      "sources": [
+        "research_R20261010-01-s2"
+      ]
+    },
+    {
+      "id": "t213",
+      "date": "2026-10-09",
+      "title": "Equipe de Oliver Stone volta a negar recursos de Vorcaro",
+      "text": "Folha relata que a equipe de Oliver Stone nega recursos de Vorcaro ao documentário Lula, dirigido com Rob Wilson, e afirma que o cineasta desconhecia o banqueiro e tratativas de patrocínio no Brasil. A coluna recupera negativa divulgada em maio. São declarações atribuídas à equipe, sem auditoria financeira ou conferência da nota original.",
+      "sources": [
+        "research_R20261010-01-s3"
+      ]
+    },
+    {
+      "id": "t214",
+      "date": "2026-10-09",
+      "title": "Antagonista relata jantar proposto com Boulos e negativa de Warde",
+      "text": "O Antagonista, repercutindo o site de Claudio Dantas, relata mensagens de 2024 em que Warde tenta organizar um jantar entre Vorcaro e Boulos, previsto para 08/04. Warde afirma que o jantar não ocorreu e que os dois nunca se encontraram. O original e a extração não foram conferidos.",
+      "sources": [
+        "research_R20261010-01-s7"
       ]
     }
   ],

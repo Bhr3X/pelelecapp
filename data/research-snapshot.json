@@ -1,15 +1,15 @@
 {
   "meta": {
     "updated": "2026-10-09",
-    "generated": "2026-10-09T22:56:23.344Z",
+    "generated": "2026-10-10T04:58:13.048Z",
     "counts": {
       "chats": 95,
-      "messages": 1288,
+      "messages": 1290,
       "recovered": 61,
       "low": 0,
       "contacts": 129,
-      "sources": 941,
-      "timeline": 210
+      "sources": 952,
+      "timeline": 214
     }
   },
   "owner": {
@@ -2153,6 +2153,14 @@
           "src": [
             "R20261009-19-s26"
           ]
+        },
+        {
+          "summary": "CNN e Poder360 procuraram a campanha ou assessoria de Flávio sobre a declaração de Padilha; aguardavam resposta. A versão anterior afirma patrocínio privado e nega irregularidades.",
+          "quote": null,
+          "src": [
+            "R20261010-01-s1",
+            "R20261010-01-s8"
+          ]
         }
       ],
       "src": [
@@ -2164,7 +2172,9 @@
         "B1-s13",
         "H-s27",
         "R20261003-07-s5",
-        "R20261009-19-s26"
+        "R20261009-19-s26",
+        "R20261010-01-s1",
+        "R20261010-01-s8"
       ],
       "public": true,
       "approxMessages": null,
@@ -3196,6 +3206,20 @@
           "src": [
             "R20261009-19-s17"
           ]
+        },
+        {
+          "summary": "A equipe de Oliver Stone nega recursos de Vorcaro ao filme e reitera a negativa de maio, segundo a Folha.",
+          "quote": null,
+          "src": [
+            "R20261010-01-s3"
+          ]
+        },
+        {
+          "summary": "A CNN noticia cinco pedidos jurídicos da campanha contra o áudio, sem decisão, perícia ou adulteração demonstradas.",
+          "quote": null,
+          "src": [
+            "R20261010-01-s2"
+          ]
         }
       ],
       "src": [
@@ -3210,7 +3234,9 @@
         "R20261009-13-s10",
         "R20261009-13-s13",
         "R20261009-13-s7",
-        "R20261009-19-s17"
+        "R20261009-19-s17",
+        "R20261010-01-s3",
+        "R20261010-01-s2"
       ],
       "public": true,
       "approxMessages": null,
@@ -4557,6 +4583,13 @@
           ]
         },
         {
+          "summary": "Warde afirma que o jantar não ocorreu e que Boulos e Vorcaro nunca se encontraram.",
+          "quote": null,
+          "src": [
+            "R20261010-01-s7"
+          ]
+        },
+        {
           "summary": "O Planalto afirma que Lula encontrou Vorcaro só em 04/12/2024, sem outro contato entre ambos; a nota não esclarece contatos com Warde ou Mantega. Não há resposta específica de Warde reproduzida.",
           "quote": null,
           "src": [
@@ -4568,7 +4601,8 @@
         "R20261002-19-s16",
         "R20261003-01-s1",
         "R20261009-13-s6",
-        "R20261009-19-s6"
+        "R20261009-19-s6",
+        "R20261010-01-s7"
       ],
       "public": false,
       "approxMessages": null,
@@ -34663,6 +34697,52 @@
           }
         },
         {
+          "id": "R2026101001-m1",
+          "from": "walfrido_warde",
+          "kind": "text",
+          "text": "Solicitou reservar o dia 8 para um jantar com Boulos.",
+          "verbatim": false,
+          "ctx": "Resumo publicado pelo Antagonista; mensagem de 2024, sem dia ou horário. O jantar foi previsto para 08/04, mas Warde nega sua realização. Original não conferido.",
+          "conf": "medium",
+          "src": [
+            "R20261010-01-s7"
+          ],
+          "d": "2024",
+          "p": "year",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261010-01-s7"
+            ],
+            "checked": [
+              "R20261010-01-s7"
+            ]
+          }
+        },
+        {
+          "id": "R2026101001-m2",
+          "from": "vorcaro",
+          "kind": "text",
+          "text": "Concordou com o jantar proposto para o dia 8.",
+          "verbatim": false,
+          "ctx": "Resumo publicado pelo Antagonista; mensagem de 2024, sem dia ou horário. O jantar foi previsto para 08/04, mas Warde nega sua realização. Original não conferido.",
+          "conf": "medium",
+          "src": [
+            "R20261010-01-s7"
+          ],
+          "d": "2024",
+          "p": "year",
+          "ver": {
+            "status": "conferida",
+            "found_in": [
+              "R20261010-01-s7"
+            ],
+            "checked": [
+              "R20261010-01-s7"
+            ]
+          }
+        },
+        {
           "id": "R2026100913-m2",
           "from": "walfrido_warde",
           "kind": "text",
@@ -38254,7 +38334,8 @@
       "src": [
         "R20261009-07-s14",
         "R20261009-19-s12",
-        "R20261009-19-s14"
+        "R20261009-19-s14",
+        "R20261010-01-s11"
       ]
     },
     {
@@ -38279,7 +38360,9 @@
       "src": [
         "R20261009-13-s5",
         "R20261009-13-s11",
-        "R20261009-19-s10"
+        "R20261009-19-s10",
+        "R20261010-01-s5",
+        "R20261010-01-s9"
       ]
     },
     {
@@ -38295,7 +38378,8 @@
         "R20261009-13-s14",
         "R20261009-19-s25",
         "R20261009-19-s21",
-        "R20261009-19-s3"
+        "R20261009-19-s3",
+        "R20261010-01-s6"
       ]
     },
     {
@@ -38309,7 +38393,8 @@
       "src": [
         "R20261009-13-s14",
         "R20261009-13-s8",
-        "R20261009-19-s2"
+        "R20261009-19-s2",
+        "R20261010-01-s5"
       ]
     },
     {
@@ -38369,7 +38454,8 @@
       "src": [
         "R20261009-13-s12",
         "R20261009-19-s24",
-        "R20261009-19-s4"
+        "R20261009-19-s4",
+        "R20261010-01-s10"
       ]
     },
     {
@@ -38457,7 +38543,8 @@
       "contacts": [],
       "src": [
         "R20261009-19-s13",
-        "R20261009-19-s15"
+        "R20261009-19-s15",
+        "R20261010-01-s4"
       ]
     },
     {
@@ -38534,6 +38621,56 @@
       "src": [
         "R20261009-19-s1",
         "R20261009-19-s22"
+      ]
+    },
+    {
+      "id": "t211",
+      "date": "2026-10-09",
+      "title": "Padilha contesta áudio e sugere interesse eleitoral de Vorcaro",
+      "text": "CNN e Poder360 relatam vídeo em que Padilha contesta o áudio atribuído a Vorcaro e sugere interesse em favorecer Flávio. O senador não respondeu sobre a declaração até a publicação; sua versão anterior de patrocínio privado de Dark Horse e negativa de irregularidades é preservada. São manifestações eleitorais, sem comprovação da coordenação sugerida ou autenticação do áudio.",
+      "contacts": [
+        "lula",
+        "flavio"
+      ],
+      "src": [
+        "R20261010-01-s1",
+        "R20261010-01-s8"
+      ]
+    },
+    {
+      "id": "t212",
+      "date": "2026-10-09",
+      "title": "CNN noticia cinco medidas jurídicas contra áudio atribuído a Vorcaro",
+      "text": "A CNN relata que a campanha de Lula apresentou duas ações no TSE, dois pedidos à PF e uma ação indenizatória no DF, alegando falsidade e indícios de edição do áudio. São pedidos de retirada, resposta, investigação e perícia, sem decisão ou laudo demonstrados. A reportagem registra que PF, PGR e defesa não confirmaram autenticidade; os expedientes originais não foram conferidos.",
+      "contacts": [
+        "lula"
+      ],
+      "src": [
+        "R20261010-01-s2"
+      ]
+    },
+    {
+      "id": "t213",
+      "date": "2026-10-09",
+      "title": "Equipe de Oliver Stone volta a negar recursos de Vorcaro",
+      "text": "Folha relata que a equipe de Oliver Stone nega recursos de Vorcaro ao documentário Lula, dirigido com Rob Wilson, e afirma que o cineasta desconhecia o banqueiro e tratativas de patrocínio no Brasil. A coluna recupera negativa divulgada em maio. São declarações atribuídas à equipe, sem auditoria financeira ou conferência da nota original.",
+      "contacts": [
+        "lula"
+      ],
+      "src": [
+        "R20261010-01-s3"
+      ]
+    },
+    {
+      "id": "t214",
+      "date": "2026-10-09",
+      "title": "Antagonista relata jantar proposto com Boulos e negativa de Warde",
+      "text": "O Antagonista, repercutindo o site de Claudio Dantas, relata mensagens de 2024 em que Warde tenta organizar um jantar entre Vorcaro e Boulos, previsto para 08/04. Warde afirma que o jantar não ocorreu e que os dois nunca se encontraram. O original e a extração não foram conferidos.",
+      "contacts": [
+        "walfrido_warde"
+      ],
+      "src": [
+        "R20261010-01-s7"
       ]
     }
   ],
@@ -47006,6 +47143,105 @@
       "date": "2026-10-09",
       "author": "Frederico Vasconcelos",
       "kind": "coluna noticiosa"
+    },
+    "R20261010-01-s1": {
+      "id": "R20261010-01-s1",
+      "outlet": "CNN Brasil",
+      "title": "Padilha contesta áudio e acusa estratégia eleitoral",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/padilha-diz-que-audio-de-vorcaro-sobre-lula-e-mentira-e-narrativa-absurda/",
+      "date": "2026-10-09",
+      "author": "Poliana Santos",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s2": {
+      "id": "R20261010-01-s2",
+      "outlet": "CNN Brasil",
+      "title": "Campanha de Lula apresenta medidas contra áudio atribuído a Vorcaro",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-apresenta-pacote-de-acoes-contra-suposto-audio-de-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Danilo Moliterno",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s3": {
+      "id": "R20261010-01-s3",
+      "outlet": "Folha de S.Paulo",
+      "title": "Equipe de Oliver Stone nega recursos de Vorcaro",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/oliver-stone-afirma-que-filme-sobre-lula-nunca-recebeu-dinheiro-de-vorcaro.shtml",
+      "date": "2026-10-09",
+      "author": "Mônica Bergamo",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s4": {
+      "id": "R20261010-01-s4",
+      "outlet": "CNN Brasil",
+      "title": "CNN relata divergências na defesa sobre o áudio",
+      "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/audio-de-vorcaro-sobre-lula-racha-defesa-do-ex-dono-do-master/",
+      "date": "2026-10-09",
+      "author": "Caio Junqueira",
+      "kind": "coluna noticiosa"
+    },
+    "R20261010-01-s5": {
+      "id": "R20261010-01-s5",
+      "outlet": "CNN Brasil",
+      "title": "CNN reúne alegações e negativas sobre filme de Lula",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/",
+      "date": "2026-10-09",
+      "author": "Vitor Oliveira",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s6": {
+      "id": "R20261010-01-s6",
+      "outlet": "Gazeta do Povo",
+      "title": "Gazeta reúne contestações sobre alegado financiamento de filme de Lula",
+      "url": "https://www.gazetadopovo.com.br/republica/denuncia-de-financiamento-de-vorcaro-a-filme-de-lula-nao-passou-pela-pf-mas-deve-ser-investigada/",
+      "date": "2026-10-09",
+      "author": "Juliet Manfrin",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s7": {
+      "id": "R20261010-01-s7",
+      "outlet": "O Antagonista",
+      "title": "O que Vorcaro queria com Boulos?",
+      "url": "https://oantagonista.com.br/brasil/o-que-vorcaro-queria-com-boulos/",
+      "date": "2026-10-09",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s8": {
+      "id": "R20261010-01-s8",
+      "outlet": "Poder360",
+      "title": "Padilha sugere interesse eleitoral de Vorcaro",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/padilha-sugere-que-vorcaro-atua-para-beneficiar-flavio-bolsonaro/",
+      "date": "2026-10-09",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s9": {
+      "id": "R20261010-01-s9",
+      "outlet": "O Antagonista",
+      "title": "PGR nega contato direto e depoimento oral de Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/pgr-diz-que-rejeitou-proposta-de-delacao-de-vorcaro-e-nega-contato-direto/",
+      "date": "2026-10-09",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s10": {
+      "id": "R20261010-01-s10",
+      "outlet": "O Antagonista",
+      "title": "Prerrogativas pede apuração de possível articulação eleitoral",
+      "url": "https://oantagonista.com.br/brasil/prerrogativas-aciona-pf-por-suposta-articulacao-de-vorcaro-com-campanha-de-flavio/",
+      "date": "2026-10-09",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "R20261010-01-s11": {
+      "id": "R20261010-01-s11",
+      "outlet": "Jovem Pan",
+      "title": "Jovem Pan repercute alegações sobre filme de Lula",
+      "url": "https://jovempan.com.br/politica/vorcaro-diz-ter-pago-r-30-mi-para-filme-sobre-lula-em-troca-de-negocios-segundo-revista/",
+      "date": "2026-10-09",
+      "author": "Jovem Pan",
+      "kind": "reportagem"
     }
   },
   "press": [
