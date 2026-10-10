@@ -51311,6 +51311,116 @@ window.PELELEC_DATA = {
           "originalLanguage": true
         }
       ]
+    },
+    {
+      "id": "fabio_medina_osorio",
+      "name": "Fábio Medina Osório",
+      "role": "Advogado, ex-advogado-geral da União",
+      "category": "poder",
+      "avatarInitials": "FM",
+      "avatarColor": "#455a64",
+      "statusText": "documental",
+      "lastSeen": "Acervo documental",
+      "phone": "Não exibida: sem necessidade editorial",
+      "pinned": false,
+      "unreadCount": 0,
+      "contextSummary": "",
+      "originalContext": true,
+      "responseSources": [
+        "research_R20261010-07-s1"
+      ],
+      "outroLado": [
+        {
+          "name": "Fábio Medina Osório",
+          "text": "Metrópoles informa que Medina não respondeu às perguntas até a publicação.",
+          "sources": [
+            "research_R20261010-07-s1"
+          ]
+        }
+      ],
+      "thirdParty": false,
+      "isGroup": false,
+      "members": [
+        "Fábio Medina Osório"
+      ],
+      "source": {
+        "outlet": "Metrópoles",
+        "date": "2026-10-10",
+        "headline": "Propostas de Medina relatadas pelo Metrópoles",
+        "link": "https://www.metropoles.com/colunas/demetrio-vecchioli/agu-de-temer-tentou-aproximar-vorcaro-de-gonet-mostram-dialogos"
+      },
+      "messages": [
+        {
+          "id": "r-R2026101007-m1",
+          "researchId": "R2026101007-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "them",
+          "speaker": "Fábio Medina Osório",
+          "text": "Propôs aproximar Vorcaro de Gonet.",
+          "sources": [
+            "research_R20261010-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "relato_conferido",
+            "found_in": [
+              "R20261010-07-s1"
+            ],
+            "checked": [
+              "R20261010-07-s1"
+            ],
+            "notes": "Resumo confrontado com corpo humano; não é transcrição literal, não há data/hora de envio publicada. Extração original não autenticada."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo da reportagem. Sem data inequívoca de envio; proposta não comprova encontro.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026101007-m2",
+          "researchId": "R2026101007-m2",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "Data não informada",
+          "dateLabel": "Data não informada",
+          "time": "",
+          "sender": "them",
+          "speaker": "Fábio Medina Osório",
+          "text": "Apontou questões da Aelbra e risco criminal não detalhado, oferecendo ajuda.",
+          "sources": [
+            "research_R20261010-07-s1"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "relato_conferido",
+            "found_in": [
+              "R20261010-07-s1"
+            ],
+            "checked": [
+              "R20261010-07-s1"
+            ],
+            "notes": "Resumo confrontado com corpo humano; não é transcrição literal, não há data/hora de envio publicada. Extração original não autenticada."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Resumo da reportagem. Sem data publicada de envio nem resultado demonstrado.",
+          "documentRef": "",
+          "datePrecision": "unknown",
+          "variants": [],
+          "originalLanguage": true
+        }
+      ]
     }
   ],
   "forensicReport": {
@@ -51320,10 +51430,10 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1390,
+      "totalMessagesRecovered": 1392,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
-      "sensitiveContactsIdentified": 101
+      "sensitiveContactsIdentified": 102
     },
     "forensicMethodology": [
       "Citações curtas e resumos identificados, com fonte por item.",
@@ -60141,6 +60251,87 @@ window.PELELEC_DATA = {
       "author": "Jovem Pan",
       "kind": "reportagem"
     },
+    "research_R20261010-07-s1": {
+      "id": "research_R20261010-07-s1",
+      "outlet": "Metrópoles",
+      "title": "Propostas de Medina relatadas pelo Metrópoles",
+      "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/agu-de-temer-tentou-aproximar-vorcaro-de-gonet-mostram-dialogos",
+      "date": "2026-10-10",
+      "author": "Demétrio Vecchioli; Igor Gadelha",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s2": {
+      "id": "research_R20261010-07-s2",
+      "outlet": "Brasil de Fato / ICL Notícias",
+      "title": "Pedido de apuração relatado pelo Prerrogativas",
+      "url": "https://www.brasildefato.com.br/2026/10/09/pf-e-acionada-por-suspeita-de-trama-entre-vorcaro-e-aliados-de-flavio-bolsonaro-na-eleicao/",
+      "date": "2026-10-09",
+      "author": "Cleber Lourenço",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s3": {
+      "id": "research_R20261010-07-s3",
+      "outlet": "Times Brasil | CNBC",
+      "title": "Pedido do liquidante sobre bens nos EUA",
+      "url": "https://timesbrasil.com.br/brasil/liquidante-do-banco-master-recorre-a-justica-dos-eua-para-recuperar-imoveis-de-r-843-milhoes-ligados-a-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Vinicius Marques",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s4": {
+      "id": "research_R20261010-07-s4",
+      "outlet": "Times Brasil | CNBC",
+      "title": "Mensagem jurídica",
+      "url": "https://timesbrasil.com.br/brasil/o-que-vorcaro-perguntou-ao-chatgpt-antes-de-ser-preso/",
+      "date": "2026-10-09",
+      "author": "Cauê Rigamonti",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s5": {
+      "id": "research_R20261010-07-s5",
+      "outlet": "Gazeta do Povo",
+      "title": "Gazeta registra discurso de Lula em Ceilândia",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-promete-participar-debates-ampliar-presenca-redes-sociais/",
+      "date": "2026-10-09",
+      "author": "Guilherme Grandi",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s6": {
+      "id": "research_R20261010-07-s6",
+      "outlet": "O Antagonista",
+      "title": "Antagonista repercute cadeira reservada a Vorcaro em Paris",
+      "url": "https://oantagonista.com.br/brasil/por-que-evento-de-lula-em-paris-tinha-cadeira-reservada-a-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s8": {
+      "id": "research_R20261010-07-s8",
+      "outlet": "O Antagonista",
+      "title": "Antagonista reproduz contestação da defesa ao áudio",
+      "url": "https://oantagonista.com.br/brasil/defesa-de-vorcaro-nao-reconhece-autenticidade-de-audio-sobre-filme-de-lula/",
+      "date": "2026-10-09",
+      "author": "Guilherme Resck",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s9": {
+      "id": "research_R20261010-07-s9",
+      "outlet": "O Antagonista",
+      "title": "Antagonista relata articulações de Medina Osório com Vorcaro",
+      "url": "https://oantagonista.com.br/brasil/ex-agu-tentou-reunir-vorcaro-e-gonet-indicam-mensagens/",
+      "date": "2026-10-10",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261010-07-s10": {
+      "id": "research_R20261010-07-s10",
+      "outlet": "Portal Claudio Dantas",
+      "title": "Portal Dantas publica negativa de jantar com Boulos",
+      "url": "https://claudiodantas.com.br/exclusivo-warde-vorcaro-jantar-boulos/",
+      "date": "2026-10-09",
+      "author": "Redação",
+      "kind": "reportagem"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -60151,9 +60342,9 @@ window.PELELEC_DATA = {
     }
   },
   "archiveMeta": {
-    "updated": "2026-10-09",
-    "researchChats": 95,
-    "researchRecords": 1335,
+    "updated": "2026-10-10",
+    "researchChats": 96,
+    "researchRecords": 1337,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -62324,7 +62515,8 @@ window.PELELEC_DATA = {
       "title": "Metrópoles relata pedido do liquidante sobre imóveis nos EUA",
       "text": "Metrópoles atribui ao liquidante do Master um pedido apresentado em 07/10 ao Tribunal de Falências do Sul da Flórida para indisponibilizar três imóveis, relacionando aquisições a transferências de US$ 430 milhões do banco para um fundo nas Bahamas. São alegações do liquidante; a peça original e eventual decisão não foram conferidas, e o texto diz que os trechos públicos não detalham o destino de todo o valor. A defesa de Vorcaro foi procurada e não respondeu.",
       "sources": [
-        "research_R20261009-07-s6"
+        "research_R20261009-07-s6",
+        "research_R20261010-07-s3"
       ]
     },
     {
@@ -62394,7 +62586,8 @@ window.PELELEC_DATA = {
         "research_R20261009-13-s14",
         "research_R20261009-13-s8",
         "research_R20261009-19-s2",
-        "research_R20261010-01-s5"
+        "research_R20261010-01-s5",
+        "research_R20261010-07-s8"
       ]
     },
     {
@@ -62441,7 +62634,8 @@ window.PELELEC_DATA = {
         "research_R20261009-13-s12",
         "research_R20261009-19-s24",
         "research_R20261009-19-s4",
-        "research_R20261010-01-s10"
+        "research_R20261010-01-s10",
+        "research_R20261010-07-s2"
       ]
     },
     {
@@ -62478,7 +62672,8 @@ window.PELELEC_DATA = {
       "title": "Metrópoles relata cadeira reservada e tratativas de Warde",
       "text": "Metrópoles relata foto enviada por Warde em 06/06/2025 de cadeira reservada a Vorcaro num evento de Lula em Paris. Mensagens de 04/06 sugerem alternativa de encontro em Brasília, sem confirmar realização. Warde e Secom não responderam ao veículo. A imagem e a extração original não foram autenticadas.",
       "sources": [
-        "research_R20261009-19-s6"
+        "research_R20261009-19-s6",
+        "research_R20261010-07-s6"
       ]
     },
     {
@@ -62564,7 +62759,8 @@ window.PELELEC_DATA = {
       "text": "Agência Brasil e Poder360 registram que Lula, em ato de campanha em Ceilândia em 09/10, criticou sócios do Master e parentes de Vorcaro ao falar de adversários. Poder360 recupera a versão de Flávio de financiamento privado de Dark Horse e a negativa de contrapartidas. São manifestações eleitorais; não comprovam relações societárias ou ilícitos dos mencionados.",
       "sources": [
         "research_R20261009-19-s1",
-        "research_R20261009-19-s22"
+        "research_R20261009-19-s22",
+        "research_R20261010-07-s5"
       ]
     },
     {
@@ -62601,7 +62797,27 @@ window.PELELEC_DATA = {
       "title": "Antagonista relata jantar proposto com Boulos e negativa de Warde",
       "text": "O Antagonista, repercutindo o site de Claudio Dantas, relata mensagens de 2024 em que Warde tenta organizar um jantar entre Vorcaro e Boulos, previsto para 08/04. Warde afirma que o jantar não ocorreu e que os dois nunca se encontraram. O original e a extração não foram conferidos.",
       "sources": [
-        "research_R20261010-01-s7"
+        "research_R20261010-01-s7",
+        "research_R20261010-07-s10"
+      ]
+    },
+    {
+      "id": "t215",
+      "date": "2026-10-10",
+      "title": "Metrópoles relata propostas de Medina a Vorcaro",
+      "text": "Metrópoles atribui a mensagens propostas de Fábio Medina Osório para aproximar Vorcaro de Gonet e outras autoridades e tratar de questões da Aelbra e risco criminal não especificado. Medina não respondeu ao veículo até a publicação; não há resposta específica de Gonet a esses diálogos no corpo. A extração original não foi autenticada; propostas não comprovam encontros ou atuação dos citados.",
+      "sources": [
+        "research_R20261010-07-s1",
+        "research_R20261010-07-s9"
+      ]
+    },
+    {
+      "id": "t216",
+      "date": "2026-10-09",
+      "title": "Times relata preocupação de Vorcaro em grupo com advogados",
+      "text": "Times Brasil, citando piauí, relata mensagem de Vorcaro em 15/11/2025, num grupo com Marcel Mascarenhas e Walfrido Warde, dizendo perceber comportamentos estranhos quando se aproximava uma solução. O corpo não traz resposta específica dos citados; o original e a extração não foram conferidos.",
+      "sources": [
+        "research_R20261010-07-s4"
       ]
     }
   ],
