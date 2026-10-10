@@ -1,15 +1,15 @@
 {
   "meta": {
     "updated": "2026-10-10",
-    "generated": "2026-10-10T11:08:07.126Z",
+    "generated": "2026-10-10T17:16:27.975Z",
     "counts": {
       "chats": 96,
-      "messages": 1292,
+      "messages": 1294,
       "recovered": 61,
       "low": 0,
       "contacts": 130,
-      "sources": 961,
-      "timeline": 216
+      "sources": 976,
+      "timeline": 220
     }
   },
   "owner": {
@@ -3029,6 +3029,13 @@
           "src": [
             "R20261009-19-s8"
           ]
+        },
+        {
+          "summary": "A defesa de Ibaneis nega ingerência, afirma autonomia de Costa e contatos institucionais. Diz que Ibaneis não foi interlocutor direto de Vorcaro e que quatro menções não demonstram responsabilidade.",
+          "quote": null,
+          "src": [
+            "R20261010-13-s7"
+          ]
         }
       ],
       "src": [
@@ -3036,7 +3043,8 @@
         "B2-s13",
         "B2-s9",
         "B2-s69",
-        "R20261009-19-s8"
+        "R20261009-19-s8",
+        "R20261010-13-s7"
       ],
       "public": true,
       "approxMessages": null,
@@ -27898,6 +27906,57 @@
       "note": null,
       "messages": [
         {
+          "id": "R2026101013-m1",
+          "from": "phc",
+          "kind": "text",
+          "text": "Relata a Vorcaro que Ibaneis pediu o agendamento de reunião.",
+          "verbatim": false,
+          "ctx": "Paráfrase da Jovem Pan; relatório original não conferido. A defesa de Ibaneis nega ingerência; o relato não comprova reunião.",
+          "conf": "medium",
+          "src": [
+            "R20261010-13-s7"
+          ],
+          "mentions": [
+            "ibaneis"
+          ],
+          "d": "2025-01-20",
+          "p": "day",
+          "ver": {
+            "status": "relato_conferido",
+            "found_in": [
+              "R20261010-13-s7"
+            ],
+            "checked": [
+              "R20261010-13-s7"
+            ],
+            "notes": "Resumo conferido no corpo humano. Envio informado por dia, sem horário; negativa de Ibaneis preservada."
+          }
+        },
+        {
+          "id": "R2026101013-m2",
+          "from": "vorcaro",
+          "kind": "text",
+          "text": "Encaminha questionamentos sobre a negociação, atribuídos por Vorcaro a Lauro Jardim.",
+          "verbatim": false,
+          "ctx": "Paráfrase da Jovem Pan; autoria e data do texto original não confirmadas.",
+          "conf": "medium",
+          "src": [
+            "R20261010-13-s7"
+          ],
+          "d": "2025-01-26",
+          "p": "day",
+          "ver": {
+            "status": "relato_conferido",
+            "found_in": [
+              "R20261010-13-s7"
+            ],
+            "checked": [
+              "R20261010-13-s7"
+            ],
+            "notes": "Resumo conferido no corpo humano. Encaminhamento informado por dia, sem horário; origem e data original não confirmadas."
+          }
+        },
+        {
           "id": "R2026100919-m1",
           "from": "vorcaro",
           "kind": "text",
@@ -38377,7 +38436,8 @@
       ],
       "src": [
         "R20261009-07-s1",
-        "R20261009-13-s18"
+        "R20261009-13-s18",
+        "R20261010-13-s10"
       ]
     },
     {
@@ -38398,7 +38458,8 @@
       "contacts": [],
       "src": [
         "R20261009-07-s6",
-        "R20261010-07-s3"
+        "R20261010-07-s3",
+        "R20261010-13-s14"
       ]
     },
     {
@@ -38467,7 +38528,8 @@
         "R20261009-19-s25",
         "R20261009-19-s21",
         "R20261009-19-s3",
-        "R20261010-01-s6"
+        "R20261010-01-s6",
+        "R20261010-13-s11"
       ]
     },
     {
@@ -38584,7 +38646,8 @@
         "phc"
       ],
       "src": [
-        "R20261009-19-s5"
+        "R20261009-19-s5",
+        "R20261010-13-s2"
       ]
     },
     {
@@ -38623,7 +38686,9 @@
         "phc"
       ],
       "src": [
-        "R20261009-19-s8"
+        "R20261009-19-s8",
+        "R20261010-13-s6",
+        "R20261010-13-s7"
       ]
     },
     {
@@ -38635,7 +38700,8 @@
       "src": [
         "R20261009-19-s13",
         "R20261009-19-s15",
-        "R20261010-01-s4"
+        "R20261010-01-s4",
+        "R20261010-13-s15"
       ]
     },
     {
@@ -38660,7 +38726,8 @@
       ],
       "src": [
         "R20261009-19-s16",
-        "R20261009-19-s19"
+        "R20261009-19-s19",
+        "R20261010-13-s13"
       ]
     },
     {
@@ -38712,7 +38779,8 @@
       "src": [
         "R20261009-19-s1",
         "R20261009-19-s22",
-        "R20261010-07-s5"
+        "R20261010-07-s5",
+        "R20261010-13-s12"
       ]
     },
     {
@@ -38738,7 +38806,8 @@
         "lula"
       ],
       "src": [
-        "R20261010-01-s2"
+        "R20261010-01-s2",
+        "R20261010-13-s3"
       ]
     },
     {
@@ -38777,7 +38846,8 @@
       ],
       "src": [
         "R20261010-07-s1",
-        "R20261010-07-s9"
+        "R20261010-07-s9",
+        "R20261010-13-s1"
       ]
     },
     {
@@ -38790,6 +38860,51 @@
       ],
       "src": [
         "R20261010-07-s4"
+      ]
+    },
+    {
+      "id": "t217",
+      "date": "2026-10-09",
+      "title": "ICL relata telefonema de Flávio após soltura de Vorcaro",
+      "text": "ICL, em coluna de Juliana Dal Piva, relata telefonema de Flávio a Vorcaro após a soltura de 29/11/2025; Impacto repercute o relato em 10/10. A assessoria do senador não respondeu ao ICL até a publicação. O conteúdo da chamada e seu registro original não foram conferidos; não há transcrição, duração ou horário demonstrados. Trata-se de relato jornalístico, sem criar evento de chamada no mensageiro.",
+      "contacts": [
+        "flavio"
+      ],
+      "src": [
+        "R20261010-13-s5",
+        "R20261010-13-s4"
+      ]
+    },
+    {
+      "id": "t218",
+      "date": "2026-10-10",
+      "title": "Poder360 relata cobrança de Tarcísio após áudio sobre documentário",
+      "text": "Poder360 noticia vídeo publicado por Tarcísio no X em 09/10 cobrando explicações de Lula após áudio atribuído a Vorcaro sobre um documentário. A matéria registra que Lula nega vantagens e autorização de recebimentos, e que sua campanha contesta as acusações. Também reúne ressalvas e negativas da defesa, PF, PGR, Instituto Lula e equipe de Oliver Stone. É reação pública eleitoral; reconhecimento de voz não confirma pagamento, e a gravação não foi autenticada nesta pesquisa.",
+      "contacts": [
+        "lula"
+      ],
+      "src": [
+        "R20261010-13-s8"
+      ]
+    },
+    {
+      "id": "t219",
+      "date": "2026-10-10",
+      "title": "Poder360 recupera conversas sobre planejamento de vídeos de Prioli",
+      "text": "Poder360 recupera conversas que atribui a Vorcaro e a representante não identificada do marketing do Master em 05 e 18/04/2025. Elas descrevem contrato por agência e planejamento de vídeos de Prioli sobre o banco e CDBs. O veículo registra negativa de Prioli de contrato direto com o Master. São relatos e transcrições de imprensa; identidade da interlocutora, contrato e extração original não foram conferidos. Não foi demonstrada relação direta de Prioli com Vorcaro.",
+      "contacts": [],
+      "src": [
+        "R20261010-13-s9"
+      ]
+    },
+    {
+      "id": "t220",
+      "date": "2026-10-10",
+      "title": "DCM relata divergência na defesa sobre origem do áudio",
+      "text": "O DCM relata divergência na defesa de Vorcaro sobre a origem do áudio divulgado pela Veja. Segundo o portal, a equipe de Sergio Leonardo suspeita de gravação não autorizada e pretendia ouvir o cliente antes de decidir sobre sua atuação. Bialsky nega ter produzido ou vazado o arquivo e diz desconhecer data e circunstâncias da gravação. Uma nota assinada por Leonardo e Engels Muniz não reconhece origem, autenticidade ou integridade do material. A reportagem não comprova gravação clandestina, reunião realizada, retirada de advogado ou veracidade dos pagamentos alegados.",
+      "contacts": [],
+      "src": [
+        "R20261010-13-s15"
       ]
     }
   ],
@@ -47442,6 +47557,141 @@
       "date": "2026-10-09",
       "author": "Redação",
       "kind": "reportagem"
+    },
+    "R20261010-13-s1": {
+      "id": "R20261010-13-s1",
+      "outlet": "ContraFatos",
+      "title": "ContraFatos repercute propostas profissionais de Medina",
+      "url": "https://www.contrafatos.com.br/ex-agu-tentou-aproximar-vorcaro-de-gonet-apontam-mensagens-da-pf/",
+      "date": "2026-10-10",
+      "author": "ContraFatos",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s2": {
+      "id": "R20261010-13-s2",
+      "outlet": "Blog do BG",
+      "title": "BG repercute conversa sobre votação do Master e negativa de Edinho",
+      "url": "https://www.blogdobg.com.br/mensagens-revelam-que-vorcaro-acionou-edinho-silva-para-evitar-obstrucao-do-pt-em-votacao-de-compra-do-banco-master/",
+      "date": "2026-10-10",
+      "author": "Rafael Araújo",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s3": {
+      "id": "R20261010-13-s3",
+      "outlet": "Fatos de Brasília",
+      "title": "Fatos de Brasília relata medidas jurídicas da campanha de Lula",
+      "url": "https://www.fatosdebrasilia.com.br/juridico/lula-aciona-tse-pf-e-justica-apos-reportagem-da-veja-sobre-vorcaro/136828",
+      "date": "2026-10-10",
+      "author": "João Victor/Fatos de Brasília",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s4": {
+      "id": "R20261010-13-s4",
+      "outlet": "Jornal Impacto",
+      "title": "Impacto repercute relato de telefonema após soltura",
+      "url": "https://jornalimpacto.com.br/flavio-bolsonaro-ligou-para-vorcaro-logo-apos-banqueiro-deixar-a-prisao/",
+      "date": "2026-10-10",
+      "author": "Redação Jornal Impacto",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s5": {
+      "id": "R20261010-13-s5",
+      "outlet": "ICL Notícias",
+      "title": "ICL relata telefonema de Flávio após soltura de Vorcaro",
+      "url": "https://iclnoticias.com.br/solto-vorcaro-flavio-bolsonaro-ligacao/",
+      "date": "2026-10-09",
+      "author": "Juliana Dal Piva",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s6": {
+      "id": "R20261010-13-s6",
+      "outlet": "O Antagonista",
+      "title": "Antagonista repercute análise da PF sobre BRB e Ibaneis",
+      "url": "https://oantagonista.com.br/brasil/ibaneis-pediu-reuniao-na-suica-para-tratar-da-compra-do-master-diz-pf/",
+      "date": "2026-10-10",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s7": {
+      "id": "R20261010-13-s7",
+      "outlet": "Jovem Pan",
+      "title": "Jovem Pan publica relatório sobre BRB e negativa de Ibaneis",
+      "url": "https://jovempan.com.br/politica/ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf/",
+      "date": "2026-10-10",
+      "author": "Jovem Pan",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s8": {
+      "id": "R20261010-13-s8",
+      "outlet": "Poder360",
+      "title": "Poder360 relata reação pública de Tarcísio ao áudio atribuído a Vorcaro",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-questiona-lula-apos-audio-de-vorcaro-sobre-filme/",
+      "date": "2026-10-10",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s9": {
+      "id": "R20261010-13-s9",
+      "outlet": "Poder360",
+      "title": "Poder360 recupera conversas sobre vídeos de Prioli e registra negativa",
+      "url": "https://www.poder360.com.br/poder-economia/depois-de-defender-master-gabriela-prioli-sugere-voto-em-lula/",
+      "date": "2026-10-10",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s10": {
+      "id": "R20261010-13-s10",
+      "outlet": "Revista Oeste",
+      "title": "Oeste repercute tratativas da Ecoari e negociações de arte",
+      "url": "https://revistaoeste.com/politica/mensagens-de-vorcaro-revelam-negocios-com-pessoas-ligadas-a-otto-alencar-e-jaques-wagner/",
+      "date": "2026-10-09",
+      "author": "Rachel Díaz",
+      "kind": "reportagem"
+    },
+    "R20261010-13-s11": {
+      "id": "R20261010-13-s11",
+      "outlet": "ICL Notícias",
+      "title": "Advogados solicitam verificação técnica de gravação atribuída a Vorcaro",
+      "url": "https://iclnoticias.com.br/pf-e-acionada-para-periciar-audio-de-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Cleber Lourenço",
+      "kind": "notícia"
+    },
+    "R20261010-13-s12": {
+      "id": "R20261010-13-s12",
+      "outlet": "ICL Notícias / Folhapress",
+      "title": "Discurso eleitoral de Lula em Ceilândia menciona o Master",
+      "url": "https://iclnoticias.com.br/em-primeiro-ato-do-2o-turno-lula-cita-fascismo/",
+      "date": "2026-10-09",
+      "author": "Caio Spechoto e Anna Júlia Lopes",
+      "kind": "notícia"
+    },
+    "R20261010-13-s13": {
+      "id": "R20261010-13-s13",
+      "outlet": "Folha de S.Paulo",
+      "title": "Fachin informa etapas pendentes no inquérito e responde a Fux",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/fachin-nega-acesso-imediato-a-fux-e-indica-arquivamento-definitivo-do-inquerito-das-fake-news.shtml",
+      "date": "2026-10-09",
+      "author": "Isadora Albernaz",
+      "kind": "notícia"
+    },
+    "R20261010-13-s14": {
+      "id": "R20261010-13-s14",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "Liquidante requer medida sobre imóveis atribuídos a recursos do Master",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/liquidante-do-master-pede-a-justica-dos-eua-apreensao-de-imoveis-de-r-843-milhoes-ligados-a-vorcaro.shtml",
+      "date": "2026-10-08",
+      "author": "Diego Felix",
+      "kind": "notícia"
+    },
+    "R20261010-13-s15": {
+      "id": "R20261010-13-s15",
+      "outlet": "Diário do Centro do Mundo",
+      "title": "DCM relata divergência entre defensores sobre a origem da gravação",
+      "url": "https://www.diariodocentrodomundo.com.br/?p=1733427",
+      "date": "2026-10-10",
+      "author": "Diario do Centro do Mundo",
+      "kind": "notícia"
     }
   },
   "press": [

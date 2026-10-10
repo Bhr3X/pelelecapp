@@ -8644,6 +8644,76 @@ window.PELELEC_DATA = {
       },
       "messages": [
         {
+          "id": "r-R2026101013-m1",
+          "researchId": "R2026101013-m1",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-01-20",
+          "dateLabel": "2025-01-20",
+          "time": "",
+          "sender": "them",
+          "speaker": "Paulo Henrique Costa",
+          "text": "Relata a Vorcaro que Ibaneis pediu o agendamento de reunião.",
+          "sources": [
+            "research_R20261010-13-s7"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "relato_conferido",
+            "found_in": [
+              "R20261010-13-s7"
+            ],
+            "checked": [
+              "R20261010-13-s7"
+            ],
+            "notes": "Resumo conferido no corpo humano. Envio informado por dia, sem horário; negativa de Ibaneis preservada."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Paráfrase da Jovem Pan; relatório original não conferido. A defesa de Ibaneis nega ingerência; o relato não comprova reunião.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
+          "id": "r-R2026101013-m2",
+          "researchId": "R2026101013-m2",
+          "editorialType": "summary",
+          "type": "research",
+          "kind": "text",
+          "date": "2025-01-26",
+          "dateLabel": "2025-01-26",
+          "time": "",
+          "sender": "me",
+          "speaker": "Daniel Vorcaro",
+          "text": "Encaminha questionamentos sobre a negociação, atribuídos por Vorcaro a Lauro Jardim.",
+          "sources": [
+            "research_R20261010-13-s7"
+          ],
+          "researchRefs": [],
+          "title": "",
+          "verification": {
+            "status": "relato_conferido",
+            "found_in": [
+              "R20261010-13-s7"
+            ],
+            "checked": [
+              "R20261010-13-s7"
+            ],
+            "notes": "Resumo conferido no corpo humano. Encaminhamento informado por dia, sem horário; origem e data original não confirmadas."
+          },
+          "confidence": "medium",
+          "recoveredByPF": false,
+          "context": "Paráfrase da Jovem Pan; autoria e data do texto original não confirmadas.",
+          "documentRef": "",
+          "datePrecision": "day",
+          "variants": [],
+          "originalLanguage": true
+        },
+        {
           "id": "r-R2026100919-m1",
           "researchId": "R2026100919-m1",
           "editorialType": "summary",
@@ -42247,7 +42317,8 @@ window.PELELEC_DATA = {
         "research_B2-s13",
         "research_B2-s14",
         "research_B2-s78",
-        "research_R20261009-19-s8"
+        "research_R20261009-19-s8",
+        "research_R20261010-13-s7"
       ],
       "outroLado": [
         {
@@ -42271,6 +42342,13 @@ window.PELELEC_DATA = {
           "text": "A matéria diz aguardar resposta da defesa; a negativa anterior de ingerência permanece acessível.",
           "sources": [
             "research_R20261009-19-s8"
+          ]
+        },
+        {
+          "name": "Ibaneis Rocha",
+          "text": "A defesa de Ibaneis nega ingerência, afirma autonomia de Costa e contatos institucionais. Diz que Ibaneis não foi interlocutor direto de Vorcaro e que quatro menções não demonstram responsabilidade.",
+          "sources": [
+            "research_R20261010-13-s7"
           ]
         }
       ],
@@ -51430,7 +51508,7 @@ window.PELELEC_DATA = {
     "hardware": "Sem acesso ao aparelho",
     "storage": "Sem extração de dados",
     "statistics": {
-      "totalMessagesRecovered": 1392,
+      "totalMessagesRecovered": 1394,
       "deletedMessagesRestored": 0,
       "viewOnceImagesRecovered": 0,
       "sensitiveContactsIdentified": 102
@@ -60332,6 +60410,141 @@ window.PELELEC_DATA = {
       "author": "Redação",
       "kind": "reportagem"
     },
+    "research_R20261010-13-s1": {
+      "id": "research_R20261010-13-s1",
+      "outlet": "ContraFatos",
+      "title": "ContraFatos repercute propostas profissionais de Medina",
+      "url": "https://www.contrafatos.com.br/ex-agu-tentou-aproximar-vorcaro-de-gonet-apontam-mensagens-da-pf/",
+      "date": "2026-10-10",
+      "author": "ContraFatos",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s2": {
+      "id": "research_R20261010-13-s2",
+      "outlet": "Blog do BG",
+      "title": "BG repercute conversa sobre votação do Master e negativa de Edinho",
+      "url": "https://www.blogdobg.com.br/mensagens-revelam-que-vorcaro-acionou-edinho-silva-para-evitar-obstrucao-do-pt-em-votacao-de-compra-do-banco-master/",
+      "date": "2026-10-10",
+      "author": "Rafael Araújo",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s3": {
+      "id": "research_R20261010-13-s3",
+      "outlet": "Fatos de Brasília",
+      "title": "Fatos de Brasília relata medidas jurídicas da campanha de Lula",
+      "url": "https://www.fatosdebrasilia.com.br/juridico/lula-aciona-tse-pf-e-justica-apos-reportagem-da-veja-sobre-vorcaro/136828",
+      "date": "2026-10-10",
+      "author": "João Victor/Fatos de Brasília",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s4": {
+      "id": "research_R20261010-13-s4",
+      "outlet": "Jornal Impacto",
+      "title": "Impacto repercute relato de telefonema após soltura",
+      "url": "https://jornalimpacto.com.br/flavio-bolsonaro-ligou-para-vorcaro-logo-apos-banqueiro-deixar-a-prisao/",
+      "date": "2026-10-10",
+      "author": "Redação Jornal Impacto",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s5": {
+      "id": "research_R20261010-13-s5",
+      "outlet": "ICL Notícias",
+      "title": "ICL relata telefonema de Flávio após soltura de Vorcaro",
+      "url": "https://iclnoticias.com.br/solto-vorcaro-flavio-bolsonaro-ligacao/",
+      "date": "2026-10-09",
+      "author": "Juliana Dal Piva",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s6": {
+      "id": "research_R20261010-13-s6",
+      "outlet": "O Antagonista",
+      "title": "Antagonista repercute análise da PF sobre BRB e Ibaneis",
+      "url": "https://oantagonista.com.br/brasil/ibaneis-pediu-reuniao-na-suica-para-tratar-da-compra-do-master-diz-pf/",
+      "date": "2026-10-10",
+      "author": "Redação O Antagonista",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s7": {
+      "id": "research_R20261010-13-s7",
+      "outlet": "Jovem Pan",
+      "title": "Jovem Pan publica relatório sobre BRB e negativa de Ibaneis",
+      "url": "https://jovempan.com.br/politica/ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf/",
+      "date": "2026-10-10",
+      "author": "Jovem Pan",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s8": {
+      "id": "research_R20261010-13-s8",
+      "outlet": "Poder360",
+      "title": "Poder360 relata reação pública de Tarcísio ao áudio atribuído a Vorcaro",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-questiona-lula-apos-audio-de-vorcaro-sobre-filme/",
+      "date": "2026-10-10",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s9": {
+      "id": "research_R20261010-13-s9",
+      "outlet": "Poder360",
+      "title": "Poder360 recupera conversas sobre vídeos de Prioli e registra negativa",
+      "url": "https://www.poder360.com.br/poder-economia/depois-de-defender-master-gabriela-prioli-sugere-voto-em-lula/",
+      "date": "2026-10-10",
+      "author": "PODER360",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s10": {
+      "id": "research_R20261010-13-s10",
+      "outlet": "Revista Oeste",
+      "title": "Oeste repercute tratativas da Ecoari e negociações de arte",
+      "url": "https://revistaoeste.com/politica/mensagens-de-vorcaro-revelam-negocios-com-pessoas-ligadas-a-otto-alencar-e-jaques-wagner/",
+      "date": "2026-10-09",
+      "author": "Rachel Díaz",
+      "kind": "reportagem"
+    },
+    "research_R20261010-13-s11": {
+      "id": "research_R20261010-13-s11",
+      "outlet": "ICL Notícias",
+      "title": "Advogados solicitam verificação técnica de gravação atribuída a Vorcaro",
+      "url": "https://iclnoticias.com.br/pf-e-acionada-para-periciar-audio-de-vorcaro/",
+      "date": "2026-10-09",
+      "author": "Cleber Lourenço",
+      "kind": "notícia"
+    },
+    "research_R20261010-13-s12": {
+      "id": "research_R20261010-13-s12",
+      "outlet": "ICL Notícias / Folhapress",
+      "title": "Discurso eleitoral de Lula em Ceilândia menciona o Master",
+      "url": "https://iclnoticias.com.br/em-primeiro-ato-do-2o-turno-lula-cita-fascismo/",
+      "date": "2026-10-09",
+      "author": "Caio Spechoto e Anna Júlia Lopes",
+      "kind": "notícia"
+    },
+    "research_R20261010-13-s13": {
+      "id": "research_R20261010-13-s13",
+      "outlet": "Folha de S.Paulo",
+      "title": "Fachin informa etapas pendentes no inquérito e responde a Fux",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/fachin-nega-acesso-imediato-a-fux-e-indica-arquivamento-definitivo-do-inquerito-das-fake-news.shtml",
+      "date": "2026-10-09",
+      "author": "Isadora Albernaz",
+      "kind": "notícia"
+    },
+    "research_R20261010-13-s14": {
+      "id": "research_R20261010-13-s14",
+      "outlet": "Folha de S.Paulo / C-Level",
+      "title": "Liquidante requer medida sobre imóveis atribuídos a recursos do Master",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/liquidante-do-master-pede-a-justica-dos-eua-apreensao-de-imoveis-de-r-843-milhoes-ligados-a-vorcaro.shtml",
+      "date": "2026-10-08",
+      "author": "Diego Felix",
+      "kind": "notícia"
+    },
+    "research_R20261010-13-s15": {
+      "id": "research_R20261010-13-s15",
+      "outlet": "Diário do Centro do Mundo",
+      "title": "DCM relata divergência entre defensores sobre a origem da gravação",
+      "url": "https://www.diariodocentrodomundo.com.br/?p=1733427",
+      "date": "2026-10-10",
+      "author": "Diario do Centro do Mundo",
+      "kind": "notícia"
+    },
     "research_MW-pdf": {
       "id": "research_MW-pdf",
       "outlet": "Polícia Federal · documento publicado / espelho MasterZap",
@@ -60344,7 +60557,7 @@ window.PELELEC_DATA = {
   "archiveMeta": {
     "updated": "2026-10-10",
     "researchChats": 96,
-    "researchRecords": 1337,
+    "researchRecords": 1339,
     "events": 3,
     "excludedLowConfidence": 32,
     "sourceSnapshot": "data/research-snapshot.json",
@@ -62497,7 +62710,8 @@ window.PELELEC_DATA = {
       "text": "Folha relata tratativas da Ecoari e alertas da B3 ao Coaf sobre ativos incompatíveis com o porte da empresa, além de negociações de arte com Guilherme Sodré. Isadora afirma empréstimo regular; a defesa de Wagner nega relação com Vorcaro. Otto e Sodré não responderam; os documentos originais não foram conferidos.",
       "sources": [
         "research_R20261009-07-s1",
-        "research_R20261009-13-s18"
+        "research_R20261009-13-s18",
+        "research_R20261010-13-s10"
       ]
     },
     {
@@ -62516,7 +62730,8 @@ window.PELELEC_DATA = {
       "text": "Metrópoles atribui ao liquidante do Master um pedido apresentado em 07/10 ao Tribunal de Falências do Sul da Flórida para indisponibilizar três imóveis, relacionando aquisições a transferências de US$ 430 milhões do banco para um fundo nas Bahamas. São alegações do liquidante; a peça original e eventual decisão não foram conferidas, e o texto diz que os trechos públicos não detalham o destino de todo o valor. A defesa de Vorcaro foi procurada e não respondeu.",
       "sources": [
         "research_R20261009-07-s6",
-        "research_R20261010-07-s3"
+        "research_R20261010-07-s3",
+        "research_R20261010-13-s14"
       ]
     },
     {
@@ -62574,7 +62789,8 @@ window.PELELEC_DATA = {
         "research_R20261009-19-s25",
         "research_R20261009-19-s21",
         "research_R20261009-19-s3",
-        "research_R20261010-01-s6"
+        "research_R20261010-01-s6",
+        "research_R20261010-13-s11"
       ]
     },
     {
@@ -62663,7 +62879,8 @@ window.PELELEC_DATA = {
       "title": "Metrópoles relata conversa sobre votação do Master e publica negativa de Edinho",
       "text": "Metrópoles, repercutindo o Fatos On-line, relata mensagens de 19/08/2025 em que Vorcaro diz a Paulo Henrique Costa ter avisado Edinho sobre a votação da compra do Master pelo BRB. Edinho nega conhecer o diálogo e contesta o relato. A matéria não comprova sua intervenção; o original não foi conferido.",
       "sources": [
-        "research_R20261009-19-s5"
+        "research_R20261009-19-s5",
+        "research_R20261010-13-s2"
       ]
     },
     {
@@ -62691,7 +62908,9 @@ window.PELELEC_DATA = {
       "title": "Metrópoles noticia análise da PF sobre Ibaneis e BRB",
       "text": "Metrópoles atribui a relatório da PF enviado ao STF em 28/09 análise de participação de Ibaneis em decisões do BRB e tratativas com o Master. O veículo relata retirada do sigilo em 09/10 e diz aguardar a defesa. A peça e a decisão originais não foram conferidas. A negativa anterior de ingerência, já no acervo, permanece como contraponto.",
       "sources": [
-        "research_R20261009-19-s8"
+        "research_R20261009-19-s8",
+        "research_R20261010-13-s6",
+        "research_R20261010-13-s7"
       ]
     },
     {
@@ -62702,7 +62921,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-19-s13",
         "research_R20261009-19-s15",
-        "research_R20261010-01-s4"
+        "research_R20261010-01-s4",
+        "research_R20261010-13-s15"
       ]
     },
     {
@@ -62721,7 +62941,8 @@ window.PELELEC_DATA = {
       "text": "Gazeta e Poder360 relatam que Fachin recusou acesso imediato de Fux ao inquérito das fake news enquanto a Presidência examina 104 procedimentos vinculados. A resposta reproduzida preserva o sigilo e os atos anteriores, prevê etapas na PF e PGR antes da conclusão e permite acesso aos outros processos públicos. O ofício original não foi conferido; a notícia não representa arquivamento já realizado, anulação de provas ou julgamento do pedido do PP.",
       "sources": [
         "research_R20261009-19-s16",
-        "research_R20261009-19-s19"
+        "research_R20261009-19-s19",
+        "research_R20261010-13-s13"
       ]
     },
     {
@@ -62760,7 +62981,8 @@ window.PELELEC_DATA = {
       "sources": [
         "research_R20261009-19-s1",
         "research_R20261009-19-s22",
-        "research_R20261010-07-s5"
+        "research_R20261010-07-s5",
+        "research_R20261010-13-s12"
       ]
     },
     {
@@ -62779,7 +63001,8 @@ window.PELELEC_DATA = {
       "title": "CNN noticia cinco medidas jurídicas contra áudio atribuído a Vorcaro",
       "text": "A CNN relata que a campanha de Lula apresentou duas ações no TSE, dois pedidos à PF e uma ação indenizatória no DF, alegando falsidade e indícios de edição do áudio. São pedidos de retirada, resposta, investigação e perícia, sem decisão ou laudo demonstrados. A reportagem registra que PF, PGR e defesa não confirmaram autenticidade; os expedientes originais não foram conferidos.",
       "sources": [
-        "research_R20261010-01-s2"
+        "research_R20261010-01-s2",
+        "research_R20261010-13-s3"
       ]
     },
     {
@@ -62808,7 +63031,8 @@ window.PELELEC_DATA = {
       "text": "Metrópoles atribui a mensagens propostas de Fábio Medina Osório para aproximar Vorcaro de Gonet e outras autoridades e tratar de questões da Aelbra e risco criminal não especificado. Medina não respondeu ao veículo até a publicação; não há resposta específica de Gonet a esses diálogos no corpo. A extração original não foi autenticada; propostas não comprovam encontros ou atuação dos citados.",
       "sources": [
         "research_R20261010-07-s1",
-        "research_R20261010-07-s9"
+        "research_R20261010-07-s9",
+        "research_R20261010-13-s1"
       ]
     },
     {
@@ -62818,6 +63042,43 @@ window.PELELEC_DATA = {
       "text": "Times Brasil, citando piauí, relata mensagem de Vorcaro em 15/11/2025, num grupo com Marcel Mascarenhas e Walfrido Warde, dizendo perceber comportamentos estranhos quando se aproximava uma solução. O corpo não traz resposta específica dos citados; o original e a extração não foram conferidos.",
       "sources": [
         "research_R20261010-07-s4"
+      ]
+    },
+    {
+      "id": "t217",
+      "date": "2026-10-09",
+      "title": "ICL relata telefonema de Flávio após soltura de Vorcaro",
+      "text": "ICL, em coluna de Juliana Dal Piva, relata telefonema de Flávio a Vorcaro após a soltura de 29/11/2025; Impacto repercute o relato em 10/10. A assessoria do senador não respondeu ao ICL até a publicação. O conteúdo da chamada e seu registro original não foram conferidos; não há transcrição, duração ou horário demonstrados. Trata-se de relato jornalístico, sem criar evento de chamada no mensageiro.",
+      "sources": [
+        "research_R20261010-13-s5",
+        "research_R20261010-13-s4"
+      ]
+    },
+    {
+      "id": "t218",
+      "date": "2026-10-10",
+      "title": "Poder360 relata cobrança de Tarcísio após áudio sobre documentário",
+      "text": "Poder360 noticia vídeo publicado por Tarcísio no X em 09/10 cobrando explicações de Lula após áudio atribuído a Vorcaro sobre um documentário. A matéria registra que Lula nega vantagens e autorização de recebimentos, e que sua campanha contesta as acusações. Também reúne ressalvas e negativas da defesa, PF, PGR, Instituto Lula e equipe de Oliver Stone. É reação pública eleitoral; reconhecimento de voz não confirma pagamento, e a gravação não foi autenticada nesta pesquisa.",
+      "sources": [
+        "research_R20261010-13-s8"
+      ]
+    },
+    {
+      "id": "t219",
+      "date": "2026-10-10",
+      "title": "Poder360 recupera conversas sobre planejamento de vídeos de Prioli",
+      "text": "Poder360 recupera conversas que atribui a Vorcaro e a representante não identificada do marketing do Master em 05 e 18/04/2025. Elas descrevem contrato por agência e planejamento de vídeos de Prioli sobre o banco e CDBs. O veículo registra negativa de Prioli de contrato direto com o Master. São relatos e transcrições de imprensa; identidade da interlocutora, contrato e extração original não foram conferidos. Não foi demonstrada relação direta de Prioli com Vorcaro.",
+      "sources": [
+        "research_R20261010-13-s9"
+      ]
+    },
+    {
+      "id": "t220",
+      "date": "2026-10-10",
+      "title": "DCM relata divergência na defesa sobre origem do áudio",
+      "text": "O DCM relata divergência na defesa de Vorcaro sobre a origem do áudio divulgado pela Veja. Segundo o portal, a equipe de Sergio Leonardo suspeita de gravação não autorizada e pretendia ouvir o cliente antes de decidir sobre sua atuação. Bialsky nega ter produzido ou vazado o arquivo e diz desconhecer data e circunstâncias da gravação. Uma nota assinada por Leonardo e Engels Muniz não reconhece origem, autenticidade ou integridade do material. A reportagem não comprova gravação clandestina, reunião realizada, retirada de advogado ou veracidade dos pagamentos alegados.",
+      "sources": [
+        "research_R20261010-13-s15"
       ]
     }
   ],
